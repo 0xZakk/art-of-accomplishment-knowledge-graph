@@ -1,0 +1,29 @@
+---
+title: "Emotional numbness can be a survival gift, not a deficit"
+source: "[[reference-notes/i-cant-feel-anything|I Can't Feel Anything (Coaching Session With Master Coach)]]"
+related:
+  - "[[literature-notes/joy-wont-come-where-children-unwelcome|Joy won't come into a house where her children aren't welcome]]"
+  - "[[literature-notes/not-feeling-may-be-repression|Thinking you can't feel may actually be repression]]"
+  - "[[literature-notes/go-deeper-into-the-defense|Going deeper into a defense pattern can unlock what's beneath it]]"
+tags:
+  - numbness
+  - survival
+  - grief
+  - reframing
+---
+
+Joe tells the coaching client: "It sounds like you very wisely compartmentalized your emotions so that you could survive a world without a mother." The word *wisely* reframes everything. The numbness isn't pathology—it's intelligence. A five-year-old with no parents and no answers did the only thing available: disappear inside.
+
+The person describes their blank space not as painful but as "quiet." When Joe guides them deeper into it, they find something "almost holy"—a surrender, a stillness. Joe honors this rather than trying to fix it.
+
+The healing path isn't to destroy the blank space but to expand around it. Joe introduces body awareness (belly, heart, throat) while keeping the person anchored in their quiet place. The blank doesn't have to leave for emotions to arrive. Both can coexist.
+
+## Related Concepts
+
+- [[literature-notes/joy-wont-come-where-children-unwelcome|Joy won't come into a house where her children aren't welcome]]
+- [[literature-notes/not-feeling-may-be-repression|Thinking you can't feel may actually be repression]]
+- [[literature-notes/go-deeper-into-the-defense|Going deeper into a defense pattern can unlock what's beneath it]]
+
+## Source
+
+- [[reference-notes/i-cant-feel-anything|I Can't Feel Anything (Coaching Session With Master Coach)]]

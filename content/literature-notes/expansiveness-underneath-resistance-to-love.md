@@ -1,0 +1,33 @@
+---
+title: "The expansiveness underneath resistance to love is overwhelming and amazing"
+source: "[[reference-notes/cant-accept-compliments|If You Can't Accept Compliments, Watch This]]"
+related:
+  - "[[literature-notes/receiving-compliments-dissolves-unworthiness|Receiving compliments dissolves unworthiness]]"
+  - "[[literature-notes/sensitivity-locked-down-for-safety|Sensitivity locked down for safety]]"
+  - "[[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]]"
+  - "[[literature-notes/we-deflect-what-we-crave|We deflect what we crave]]"
+tags:
+  - expansiveness
+  - love
+  - vulnerability
+  - receiving
+---
+
+When a woman in a coaching session finally lets in the reality that her husband has been showing up for her for 22 years, she begins to feel an expansiveness that is both overwhelming and amazing. Joe tells her: "The scary thing is that expansiveness that you're feeling — that's only like 2% of what's coming your way."
+
+The resistance to receiving love, compliments, and connection is not protecting us from pain — it's protecting us from the overwhelming intensity of our own capacity to feel. The expansiveness underneath the resistance is the sensitivity that was our birthright before childhood conditioning taught us to shut it down. When we locked down that sensitivity for safety, we also locked away the ability to fully receive love.
+
+> "It also means he sees something in you that you don't see in yourself."
+
+This is why compliments feel threatening — they point to a vastness in us that we've been avoiding. Letting them in doesn't just feel good; it opens a floodgate of feeling that the protective ego has been carefully managing. The woman's system describes it perfectly: "It's not bad. Oh, it's amazing, but it's overwhelming." Both are true simultaneously. The expansiveness is the reward for dropping the resistance, and it's also what makes the resistance feel necessary.
+
+## Related Concepts
+
+- [[literature-notes/receiving-compliments-dissolves-unworthiness|Receiving compliments dissolves unworthiness]] - The mechanism of letting compliments in
+- [[literature-notes/sensitivity-locked-down-for-safety|Sensitivity locked down for safety]] - Why we shut down in the first place
+- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]] - The expansive quality of opening the heart
+- [[literature-notes/we-deflect-what-we-crave|We deflect what we crave]] - The paradox of pushing away what we want most
+
+## Source
+
+- [[reference-notes/cant-accept-compliments|If You Can't Accept Compliments, Watch This]]

@@ -1,0 +1,31 @@
+---
+title: "Accomplishment is an undoing, not a doing"
+source: "[[reference-notes/art-of-accomplishment|The Art of Accomplishment]]"
+related:
+  - "[[literature-notes/evolution-doesnt-require-striving|Evolution doesn't require striving]]"
+  - "[[literature-notes/discovery-not-improvement|Discovery, not improvement]]"
+  - "[[literature-notes/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]"
+tags:
+  - accomplishment
+  - undoing
+  - self-awareness
+  - ease
+---
+
+Joe describes three steps to the art of accomplishment: hold intention without attachment, treat everything as iteration, and recognize the whole process is an undoing rather than a doing. The third is the most counterintuitive.
+
+He offers a physical exercise: press your palms together and *try* as hard as you can to pull them apart (without actually doing it). Feel the tension of trying. Then feel the exact opposite — the release, the ease. That release is what undoing feels like. The "trying" — the planning, tensing, efforting — mirrors how most people approach their to-do lists and their lives.
+
+What's being undone is a lifetime of conditioning: the belief that you must earn your goodness, that effort equals worth, that you're not enough as you are. The Taoist image of water captures it: water requires no effort to reach the ocean. It simply follows the path of least resistance — and is more powerful than any sword.
+
+The martial arts version: your whole body stays relaxed until the moment of impact. Walking around tense all the time doesn't make you more effective — it drains your energy and narrows your vision so you can't see the bigger picture.
+
+## Related Concepts
+
+- [[literature-notes/evolution-doesnt-require-striving|Evolution doesn't require striving]] - Growth as natural unfolding
+- [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - Finding what you are vs. fixing what you're not
+- [[literature-notes/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]] - The cost of forced effort
+
+## Source
+
+- [[reference-notes/art-of-accomplishment|The Art of Accomplishment]]

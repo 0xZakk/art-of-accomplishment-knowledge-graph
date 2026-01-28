@@ -1,0 +1,46 @@
+---
+title: "How Do I Love The \"No\"?"
+source: https://www.youtube.com/watch?v=ycgwrlkmNys
+videoId: "ycgwrlkmNys"
+type: coaching-session
+duration: "8:40"
+topics:
+  - jealousy
+  - open-heartedness
+  - capitalism
+  - leadership
+  - resistance
+date: 2026-01-27
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ycgwrlkmNys" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Summary
+
+In this coaching session, a CEO brings a question about somatic jealousy toward his wife's best friend, which he acknowledges has led to emotionally abusive behavior — pressuring his wife to choose between him and her friend. He describes the friend as an "anti-capitalist" whose influence he sees as blocking his business ambitions.
+
+Joe guides him to see that his hardened stance against anti-capitalism reveals a part of himself that actually agrees capitalism is imperfect. When Joe asks him to open his heart to this truth rather than defend against it, the man experiences a release of hypervigilance. Joe then connects this pattern to his leadership style — the same rejection of "no" that fuels his jealousy also shows up when team members disagree or go in different directions.
+
+The core teaching is that every "no" — whether from a partner's friend, a team member, or an inner voice — contains valuable information. Rejecting the "no" creates rigidity and control; opening your heart to it creates better products, stronger teams, and more honest relationships.
+
+## Key Concepts
+
+- [[literature-notes/opening-heart-to-the-no-creates-better-outcomes|Opening your heart to the "no" creates better outcomes]]
+- [[literature-notes/jealousy-masks-rejected-parts-of-self|Jealousy masks rejected parts of self]]
+- [[literature-notes/relationship-control-mirrors-leadership-control|Relationship control mirrors leadership control]]
+
+## Key Quotes
+
+> "What stops you from loving the shit out of the anti-capitalist in you, your wife, and this woman?"
+
+> "Your heart had to harden to be able to say that, which means there's something in you that believes that capitalism is wrong."
+
+> "Every no is a better solution to your product. Every no is a refinement of a process that can make you more efficient. And you're trying to stop them instead of invite them."
+
+> "When you open your heart to the no, you don't accept it as 'I'm bad, it's a bad solution, it's a bad company.' You're just like, 'Ah, right, there's truth to that too.'"
+
+> "Having non-automated vigilance will help you make a better company. You think control is going to make a better company but that's not how it works."
+
+## Transcript
+
+what stops you from loving the shit out of the anti-capitalist in you your wife and this woman because you just said capital and money is the sun I think it's stupid if you do good shit for the world you should get paid for it and not hide behind cowardice yeah right and I notice all the defense in that wait what so um what did you just cross your arms mulling over which question I want to ask because they're both important to me okay what how does crossing your arms help you mold that over it creates tension in my body and it actually doesn't help it's actually a when I'm feeling awkward and that is something I do ah great so it's a form of kind of protection of feeling awkward is what I'm meaning you say yeah yeah absolutely let's just how about let's just be awkward great what's your question what's your question um so there's there's a stuck Point um I've been somatically jealous of my wife's best friend and after a year of therapy and a bunch of shit anytime her name comes up I can't get over it ah wow cool how how much of this turns into abuse of your wife emotional abuse of wife oh it's it's not good yeah it's pretty bad I uh through a giant tantrum of a psychological meltdown all through last year making her choose between her and me yeah only to realize it's my own issue obviously hence the question yeah yeah yeah great Okay cool so you realize the jealousy you realize there's an abusive quality to it what are you trying to control for in the jealousy if you could make something happen that would go oh I have that now I don't really care about this relationship with her best friend what's the thing you're trying to create uh a public company no no with the relationship with your wife yeah like I view this I view this person to be a Blocker in my life to the my hopes and dreams okay so if this person was like like 100% supportive of you and was like let me help you with the company then that would be fine or do you actually have to create the company oh no the company's created but it's like she's like a rowing in the other direction you know what I mean it's like an anti-capitalist type mindset that's influencing my life oh I get it okay okay okay okay got it cool lovely um what stops you from loving the shit out of the anti-capitalist in you your wife and this what like that your heart had to harden to be able to say that which means there's something in you that believes that that believes that capitalism is wrong and capitalism is wrong I can give you 30 reasons why it's wrong it does not create equal opportunity is just one of them okay I don't care about equal results it just doesn't create equal opportunity go to where your grandparents came from and you can see it right there so there capitalism is wrong just simply I want to believe that too so yeah exactly so what if you don't defend against that well let me actually get deeper my no no no no no no just first what if you don't defend against that right now just allow and and like actually have an open heart to the fact that capitalism is not not a perfect system money is not in any way a perfect system you're thinking about it but I'm asking you to open your heart to it you have kids you have a daughter I want you to open your heart I want you to open your heart to the idea that capitalism is not perfect the same way you open your heart to your daughter there you go anything get destroyed yeah like a hyper vigilance yeah yeah that's going to help you build a better company seeing capital for what it is allows you to make a better company having non automated vigilance will help you make a better company you think control is going to make a better company but that's not how works here's a guess that I have are you're the CEO of a company how many CEO how many people is um uh just a handful of us okay so and have you managed a team before like a sizeable team yeah okay so yeah my guess is I may be wrong but my guess is that one of the things that um has happened in your career is you think that you have alignment from the team and then people kind of do different things and stray and you get very frustrated because you're like wait I thought we all agreed on this yeah yeah so it's the same issue that you're dealing with with your wife and best friend or and her best friend is that you are rejecting the no instead of excited about the no yeah you got it yeah every know is a better solution to your product every know is a refinement of a process that can make you more efficient and you're trying to stop them instead of invite them every no provides Clarity maybe just a little bit of clarity but some clarity yeah yeah I completely actually agree with you right and the solution is the same as the one that you just got to experience would what is it when you open your heart to the no you don't accept it as I'm bad it's a bad solution it's a bad company you're just like ah right there's truth to that too thank you so much Joe pleasure and the perfect time my chair moves sign from the universe rock and roll

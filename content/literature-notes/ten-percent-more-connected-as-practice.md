@@ -1,0 +1,29 @@
+---
+title: "Ten percent more connected as a practice"
+source: "[[reference-notes/connection-can-change-your-life|How Connection Can Change Your Life (Joe Hudson & Ali Abdaal)]]"
+related:
+  - "[[literature-notes/connection-as-career-compass|Connection as a career compass]]"
+  - "[[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]]"
+  - "[[literature-notes/presence-is-pleasure|Presence is pleasure]]"
+tags:
+  - connection
+  - practice
+  - body-awareness
+  - productivity
+---
+
+Joe Hudson proposed a deceptively simple practice to Ali Abdaal: be 10% more connected in everything you already do. Not a new meditation practice, not a retreat, not a career change—just 10% more connection in the same activities. When Ali tried it in real time during their conversation, he immediately noticed his performance anxiety ("I hope this episode is good enough") disappeared. He was just having a chat.
+
+The practice requires nothing external. It's simply keeping some percentage of attention in the body—noticing your feet on the floor, your hands on the table—while doing whatever you're already doing. Joe noted it took *less* energy, not more. Ali's entire demeanor shifted: less performance, more presence.
+
+When Ali applied this 10% lens to his most dreaded task (filming sponsorship segments), it immediately sparked creative ideas he'd been suppressing. The practice works because connection and creativity are not separate resources competing for bandwidth—connection *is* the source of creativity.
+
+## Related Concepts
+
+- [[literature-notes/connection-as-career-compass|Connection as a career compass]] - The broader principle this practice serves
+- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]] - The simplicity of the somatic component
+- [[literature-notes/presence-is-pleasure|Presence is pleasure]] - Why this practice feels good rather than effortful
+
+## Source
+
+- [[reference-notes/connection-can-change-your-life|How Connection Can Change Your Life (Joe Hudson & Ali Abdaal)]]

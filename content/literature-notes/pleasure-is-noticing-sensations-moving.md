@@ -1,0 +1,33 @@
+---
+title: "Pleasure is simply noticing sensations moving in your body"
+source: "[[reference-notes/why-youre-exhausted-even-after-resting|Why You're Exhausted (Even After Resting)]]"
+related:
+  - "[[literature-notes/presence-is-pleasure|Presence is pleasure]]"
+  - "[[literature-notes/pleasure-as-emotional-fluidity-practice|Pleasure as emotional fluidity practice]]"
+  - "[[literature-notes/pleasure-signals-safety|Pleasure signals safety]]"
+  - "[[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]]"
+tags:
+  - pleasure
+  - embodiment
+  - sensation
+  - downtime
+---
+
+Joe offers what he calls one of the greatest definitions of pleasure: the noticing of sensations moving in your body. That's it. No special circumstance required, no external input. Just attention to what's already happening — the tingle in the soles of your feet, the air filling your lungs, the warmth in your hands.
+
+The guided pleasure exercise builds from stillness (noticing feet sensations) to breath (finding the most pleasurable depth, speed, and sound of breathing) to movement (stretching and wiggling in whatever way feels best). At each stage, even resistance to pleasure becomes something to take pleasure in — breathing into it like a deep tissue massage.
+
+> "You hear people say, 'I want to feel good.' Well, here you are feeling good. How good do you want to feel? How long do you want to feel this good?"
+
+This reframes pleasure from something you chase to something you notice. It's always available, always present, requiring nothing more than attention. Joe's challenge: "Is this going to be an exercise or is this going to be a lifestyle?"
+
+## Related Concepts
+
+- [[literature-notes/presence-is-pleasure|Presence is pleasure]] - The equivalence of attention and pleasure
+- [[literature-notes/pleasure-as-emotional-fluidity-practice|Pleasure as emotional fluidity practice]] - Pleasure as a tool for emotional development
+- [[literature-notes/pleasure-signals-safety|Pleasure signals safety]] - Why pleasure activates the parasympathetic nervous system
+- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]] - The simplicity of embodied awareness
+
+## Source
+
+- [[reference-notes/why-youre-exhausted-even-after-resting|Why You're Exhausted (Even After Resting)]]

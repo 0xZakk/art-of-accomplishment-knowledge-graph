@@ -1,0 +1,31 @@
+---
+title: "Create like a three-year-old playing, then edit like an expert"
+source: "[[reference-notes/i-dont-procrastinate-anymore|I Don't Procrastinate Anymore]]"
+related:
+  - "[[literature-notes/iterative-mindset-dissolves-procrastination|An iterative mindset dissolves procrastination]]"
+  - "[[literature-notes/iteration-beats-perfection|Iteration beats perfection]]"
+  - "[[literature-notes/importance-kills-enjoyment|Importance kills enjoyment]]"
+tags:
+  - creativity
+  - iteration
+  - play
+  - perfectionism
+---
+
+Joe Hudson describes his method for being "so creative so consistently so fast": do your first pass as if you're a three-year-old playing — no judgment, no filter, just let whatever comes come. Then become an exacting editor on every subsequent pass. Take as many passes as needed until you think, "Wow, that thing is amazing."
+
+This separates the creative and critical functions that, when combined, create paralysis. The inner critic kills creativity when applied during generation. But the same critical eye that blocks creation is invaluable during refinement. The key is sequencing: play first, then edit.
+
+> "You learn how to just get out of your head, get out of judgment, just let whatever is going to come come and then take as many passes as you need until you think, 'Wow, that thing is amazing.'"
+
+Joe and Brett applied this to the podcast itself — they recorded tons of episodes knowing most wouldn't be released, until they found the ones that felt great. The willingness to create freely, without attachment to the first draft, is what makes consistent high-quality output possible.
+
+## Related Concepts
+
+- [[literature-notes/iterative-mindset-dissolves-procrastination|An iterative mindset dissolves procrastination]] - The broader framework
+- [[literature-notes/iteration-beats-perfection|Iteration beats perfection]] - Why multiple passes work
+- [[literature-notes/importance-kills-enjoyment|Importance kills enjoyment]] - What happens when you make it precious
+
+## Source
+
+- [[reference-notes/i-dont-procrastinate-anymore|I Don't Procrastinate Anymore]]

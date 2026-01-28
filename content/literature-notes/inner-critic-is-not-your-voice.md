@@ -1,0 +1,33 @@
+---
+title: "The inner critic is not your voice — it's inherited"
+source: "[[reference-notes/end-negative-thoughts|How To End 60,000 Negative Thoughts a Day]]"
+related:
+  - "[[literature-notes/inner-voice-mirrors-parenting|Inner voice mirrors parenting]]"
+  - "[[literature-notes/inner-critic-as-guide|The inner critic can be related to in multiple ways]]"
+  - "[[literature-notes/welcome-the-inner-critic|Welcome the inner critic]]"
+  - "[[literature-notes/self-criticism-intensifies-with-intelligence|Self-criticism intensifies with intelligence]]"
+tags:
+  - inner-critic
+  - self-awareness
+  - parenting
+  - identity
+---
+
+One of the most powerful realizations Joe offers about the inner critic is that the critical voice in your head isn't yours. It sounds like somebody — a parent, grandparent, teacher, authority figure from your past. Once you recognize this, the entire relationship shifts: "Oh, this isn't mine. This is talking to me. I don't have to believe it."
+
+Joe compares uncritical acceptance of the inner voice to being an acolyte of a politician — agreeing with everything it says without questioning. Recognizing the voice as inherited opens a whole new set of responses: you can challenge it ("that's a pretty crappy way to manage me"), welcome it with compassion ("I see you're really scared and I'm going to be right here with you"), or simply not believe it.
+
+> "The voice in your head that's critical sounds a lot like somebody — your mom or your dad or your grandmother or a teacher in fifth grade."
+
+He offers a practical exercise: narrate your thoughts aloud for five minutes, then write down where each critical thought was learned from. This traces the critic back to its source and breaks the automatic identification with it.
+
+## Related Concepts
+
+- [[literature-notes/inner-voice-mirrors-parenting|Inner voice mirrors parenting]] - The origin of the inner critic
+- [[literature-notes/inner-critic-as-guide|The inner critic can be related to in multiple ways]] - Different response options
+- [[literature-notes/welcome-the-inner-critic|Welcome the inner critic]] - The welcoming approach
+- [[literature-notes/self-criticism-intensifies-with-intelligence|Self-criticism intensifies with intelligence]] - Why smart people suffer more from this
+
+## Source
+
+- [[reference-notes/end-negative-thoughts|How To End 60,000 Negative Thoughts a Day]]

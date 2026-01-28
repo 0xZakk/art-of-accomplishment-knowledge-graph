@@ -1,0 +1,31 @@
+---
+title: "Our stories and identities cannot survive death"
+source: "[[reference-notes/how-death-brings-life-closer|How Death Brings Life Closer]]"
+related:
+  - "[[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]"
+  - "[[literature-notes/grief-is-identity-dissolution|Grief is identity dissolution]]"
+  - "[[literature-notes/growth-means-shedding-identities|Growth means shedding identities]]"
+tags:
+  - death
+  - identity
+  - ego
+  - stories
+---
+
+When we truly face death, the ego's stories lose their power. What does it mean that you didn't build a billion-dollar business when you're dead? One person built it and is dead; another didn't and is dead — what's the difference? Even being remembered is hollow: "I'm dead but I'm remembered — like, who?"
+
+Brett experienced this directly when his brother was diagnosed with brain cancer. For years he'd carried an unconscious story that he had "left his brother behind" by pursuing adventure while his brother stayed in Ohio with a family. The moment death entered the picture, that story dissolved instantly — replaced by the recognition that his brother had dove fully into family life, which was its own profound adventure. The only thing that could exist was the present moment.
+
+> "What does it mean that you didn't make enough spiritual progress, you didn't develop enough, you didn't build a billion-dollar business? There's two people — one guy built a billion-dollar business and he's dead, and somebody didn't and she's dead. Like what the f*** — doesn't make a difference."
+
+This applies in every moment, not just at physical death. Parts of us die all the time. The identity from five years ago no longer exists. To not take life personally — to see that we are not our thoughts (we can't control them) and not our emotions (they come and go) — creates an amazing feeling of freedom.
+
+## Related Concepts
+
+- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - The identities death dissolves were already limiting us
+- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]] - Growth naturally involves letting identities die
+- [[literature-notes/humility-is-not-taking-life-personally|Humility is not taking life personally]] - Death reveals that life was never personal
+
+## Source
+
+- [[reference-notes/how-death-brings-life-closer|How Death Brings Life Closer]]

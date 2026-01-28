@@ -1,0 +1,31 @@
+---
+title: "Relationship health is measured by how you fight, not how often"
+source: "[[reference-notes/why-fighting-is-important|Why Fighting Is Important]]"
+related:
+  - "[[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer]]"
+  - "[[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]]"
+  - "[[literature-notes/fights-can-heal-or-retraumatize|Fights can heal or retraumatize]]"
+  - "[[literature-notes/safe-agreements-make-conflict-transformative|Safe agreements make conflict transformative]]"
+tags:
+  - relationships
+  - conflict
+  - fighting
+  - metrics
+---
+
+Joe and his wife used to track their relationship health by how *few* fights they had—a metric he now calls "ludicrous." The real measure is the quality of the fight: Are you fighting with love? With an open heart? With respect? Or have you lost yourself entirely?
+
+He describes a recent fight that lasted three or four minutes in front of colleagues, ending with "it's really hard to fight with you and I'm glad we resolved that, I love you." The witnesses didn't even recognize it as a fight. This illustrates what healthy fighting looks like—brief, honest, connected, and resolved without losing the relationship.
+
+The shift from "don't fight" to "fight well" transforms conflict from a sign of failure into a vehicle for intimacy and growth.
+
+## Related Concepts
+
+- [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer]] - Fights as opportunities for deepening
+- [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]] - Avoiding fights kills the relationship
+- [[literature-notes/fights-can-heal-or-retraumatize|Fights can heal or retraumatize]] - How you fight determines the outcome
+- [[literature-notes/safe-agreements-make-conflict-transformative|Safe agreements make conflict transformative]] - Structure for fighting well
+
+## Source
+
+- [[reference-notes/why-fighting-is-important|Why Fighting Is Important]]

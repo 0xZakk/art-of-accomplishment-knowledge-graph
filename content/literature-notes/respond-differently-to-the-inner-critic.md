@@ -1,0 +1,31 @@
+---
+title: "Respond differently to the inner critic as a practice"
+source: "[[reference-notes/charisma-isnt-learned|Charisma isn't learned (Dr. K, Charisma on Command & Joe)]]"
+related:
+  - "[[literature-notes/welcome-the-inner-critic|Welcome the inner critic]]"
+  - "[[literature-notes/curiosity-transforms-relationship-to-emotions|Curiosity transforms relationship to emotions]]"
+  - "[[literature-notes/experiments-make-knowledge-embodied|Experimentation over dogma]]"
+tags:
+  - inner-critic
+  - practice
+  - self-talk
+  - experimentation
+---
+
+Joe offers a powerful practice for working with negative self-talk: every day or every three days, pick a way to respond to the critical voice that you've never responded with before. Normally we either agree with it ("yeah yeah, you're right") or agree but resist ("you're right, but I'm eating the cake anyway"). But there are infinite other responses available.
+
+You could throw a surprise party for it. You could say, "Wow, I could really use you to be a better boss." You could say, "No." You could say, "I see how scared you are and I'm right here with you." The key is experimentation — you're not trying to get rid of the voice. You're in wonder about it.
+
+Dr. K offers an on-ramp for people who find this hard: brush your teeth with your non-dominant hand. This builds the basic neuroplasticity skill of responding to things in new ways. Do that for a few days, then try Joe's practice.
+
+The critical points: you're not trying to eliminate the voice (that would be managing/controlling, which reinforces it). You're learning about it. The experimentation itself unfolds the inner relationship very quickly — often faster than early-stage meditation, according to Joe.
+
+## Related Concepts
+
+- [[literature-notes/welcome-the-inner-critic|Welcome the inner critic]] - The broader principle this practice embodies
+- [[literature-notes/curiosity-transforms-relationship-to-emotions|Curiosity transforms relationship to emotions]] - The stance of wonder that makes it work
+- [[literature-notes/experiments-make-knowledge-embodied|Experimentation over dogma]] - The experimental approach applied to inner work
+
+## Source
+
+- [[reference-notes/charisma-isnt-learned|Charisma isn't learned (Dr. K, Charisma on Command & Joe)]]

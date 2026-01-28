@@ -1,0 +1,33 @@
+---
+title: "Joy dissolves identity and that's what makes it scary"
+source: "[[reference-notes/joy|Joy]]"
+related:
+  - "[[literature-notes/grief-is-identity-dissolution|Grief is identity dissolution]]"
+  - "[[literature-notes/foreboding-joy-blocks-gratitude|Foreboding joy blocks gratitude]]"
+  - "[[literature-notes/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]]"
+  - "[[literature-notes/fear-constricts-excitement-expands|Fear constricts, excitement expands]]"
+tags:
+  - joy
+  - identity
+  - fear
+  - transformation
+---
+
+Joe observes that fully allowing joy is actually more challenging for most people than feeling anger, sadness, or fear. The reason: joy is so expansive that it begins to dissolve the felt sense of self. After five or ten minutes of genuinely allowing joy—even just the joy of breathing—the sense of self becomes "more and more universal and less and less contained."
+
+This dissolution is terrifying because it means losing the ability to predict your own behavior. "If I fully allow my joy I lose the sense of who I am which means I can't predict my behavior and their reactions." People often try to manage their transformation—wanting to dissolve the old ego but only into a pre-defined, safe new shape.
+
+Two things make joy scary somatically: First, the expansiveness dissolves the contained sense of self. Second, when you feel safe and pleasurable, all the unprocessed emotions surface—just like children having temper tantrums when they finally feel safe at home. Both dynamics drive people to push joy away through conditional thinking: "Once I quit smoking, once I make this much money, once I date this kind of person—then I'll allow joy."
+
+> "If you really feel the joy of breathing for five or ten minutes you'll notice that the sense of self becomes more and more universal and less and less contained as like this thing that's against this thing."
+
+## Related Concepts
+
+- [[literature-notes/grief-is-identity-dissolution|Grief is identity dissolution]] - Identity dissolves through grief as well as joy
+- [[literature-notes/foreboding-joy-blocks-gratitude|Foreboding joy blocks gratitude]] - One mechanism for pushing joy away
+- [[literature-notes/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]] - The process of identity expansion
+- [[literature-notes/conditional-happiness-is-a-limiting-belief|Conditional happiness is a limiting belief]] - The "once I achieve X" trap
+
+## Source
+
+- [[reference-notes/joy|Joy]]

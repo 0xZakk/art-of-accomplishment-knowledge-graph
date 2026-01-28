@@ -1,0 +1,31 @@
+---
+title: "Authenticity is a path of discovery, not a fixed destination"
+source: "[[reference-notes/authenticity-over-improvement|Authenticity Over Improvement]]"
+related:
+  - "[[literature-notes/discovery-not-improvement|Discovery, not improvement]]"
+  - "[[literature-notes/growth-means-shedding-identities|Growth means shedding identities]]"
+  - "[[literature-notes/the-expansiveness-of-I-Am|The expansiveness of I Am]]"
+tags:
+  - authenticity
+  - self-discovery
+  - identity
+  - core-teaching
+---
+
+Authenticity is not a solid, fixed "authentic self" to be found and defended. It's an endless spiral — as we discover ourselves, there's always more to discover, and as we discover, we transform. Like a river that runs a certain way this year and differently next year, authenticity is constantly changing while maintaining a natural flow.
+
+> "We're not building ourselves, we're discovering ourselves."
+
+The way to identify you're on the path of authenticity: it's always about the process, never about the reward. It's never a means to an end. Daoism calls it "the Way." The path of authenticity is ultimately a path of self-realization — and somehow, the more we discover who we are, the more we evolve into being gentle, loving, confident, capable, and strong.
+
+Joe illustrates this with the parable of the musk deer who searches its whole life for an intoxicating scent, only to discover at the moment of death that the scent emanated from itself. Self-improvement is the deer's search. Self-realization is recognizing the scent was always yours.
+
+## Related Concepts
+
+- [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - The core distinction between these two orientations
+- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]] - What happens as authenticity evolves
+- [[literature-notes/the-expansiveness-of-I-Am|The expansiveness of I Am]] - Where the path ultimately leads
+
+## Source
+
+- [[reference-notes/authenticity-over-improvement|Authenticity Over Improvement]]
