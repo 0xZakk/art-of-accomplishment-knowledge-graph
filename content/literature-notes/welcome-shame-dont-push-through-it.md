@@ -29,6 +29,10 @@ Other practices: feel the want underneath the shame; notice where your mind spin
 - [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]] - The outcome
 - [[literature-notes/love-the-resistance|Love the resistance]] - Applied broadly
 - [[literature-notes/resisting-emotion-invites-it-back|Resisting an emotion is exactly what invites it back]] - The paradox of resistance
+- [[literature-notes/shame-is-a-signal-of-disconnection|Shame is a signal of disconnection, not a problem to solve]]
+- [[literature-notes/being-loved-in-the-shame-dissolves-it|Being loved within the shame dissolves it]]
+- [[literature-notes/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
+- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]]
 
 ## Source
 

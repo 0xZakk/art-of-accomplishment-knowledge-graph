@@ -23,6 +23,7 @@ Heather acknowledges this openly—"full disclosure, it came from a place of dis
 - [[literature-notes/dissociation-removes-your-signals|Dissociation removes your signals]]
 - [[literature-notes/numbness-as-survival-gift|Numbness as survival gift]]
 - [[literature-notes/survival-mechanisms-deserve-honor|Survival mechanisms deserve honor]]
+- [[literature-notes/control-works-until-it-doesnt|Control works until it doesn't]]
 
 ## Source
 

@@ -25,6 +25,8 @@ The meta-lesson: a leader openly struggling and finding their way through gives 
 - [[literature-notes/leaders-vulnerability-cascades-through-the-team|A leader's vulnerability cascades through the entire team]] - The cascade effect
 - [[literature-notes/vulnerability-transforms-business-performance|Vulnerability transforms business performance]] - The business impact
 - [[literature-notes/being-seen-transforms-behavior|Being seen transforms behavior]] - The broader principle
+- [[literature-notes/everyone-can-see-what-you-think-youre-hiding|Everyone can see what you think you're hiding]]
+- [[literature-notes/transformation-is-experiments-not-epiphany|Transformation comes through experiments, not epiphany]]
 
 ## Source
 

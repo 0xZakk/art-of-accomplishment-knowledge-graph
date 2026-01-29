@@ -26,6 +26,11 @@ The real question isn't who's right — it's what emotions you'd have to feel if
 - [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer together]] - The framework where perspectives matter more than positions
 - [[literature-notes/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]] - How curiosity replaces judgment
 - [[literature-notes/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]] - The equal matching Joe describes
+- [[literature-notes/logical-vs-emotional-partner-dynamic|The logical vs emotional partner dynamic is a trap]]
+- [[literature-notes/seeing-their-truth-not-finding-the-truth|Seeing their truth is different from finding 'the' truth]]
+- [[literature-notes/partners-teach-what-you-need-to-learn|Partners are attracted because they teach what you need to learn]]
+- [[literature-notes/depersonalize-the-problem|Depersonalize the problem — it's a patient on the table]]
+- [[literature-notes/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
 
 ## Source
 

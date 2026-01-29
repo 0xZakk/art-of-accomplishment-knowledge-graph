@@ -25,6 +25,10 @@ This reframe changes the entire relationship to anger. Instead of an emotion to 
 - [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]] - The productive face of unblocked anger
 - [[literature-notes/boundaries-and-openness-are-the-same-thing|Boundaries and openness are the same thing]] - Anger as boundary-setting from love
 - [[literature-notes/repressed-anger-kinks-into-symptoms|Repressed anger kinks into depression, self-criticism, and rage]] - What happens when it's blocked
+- [[literature-notes/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]]
+- [[literature-notes/anger-at-without-permission-is-manipulation|Expressing anger at someone without permission is a bid for control]]
+- [[literature-notes/resentment-signals-a-boundary-needed|Resentment signals a boundary that needs to be drawn]]
+- [[literature-notes/childhood-origins-of-anger-repression|Anger repression gets installed through three childhood pathways]]
 
 ## Source
 

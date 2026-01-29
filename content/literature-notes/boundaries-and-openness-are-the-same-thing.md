@@ -25,6 +25,7 @@ The false dichotomy is "is it my problem or their problem?" It's always about yo
 - [[literature-notes/boundaries-open-your-heart|Boundaries open your heart]] - Boundaries serve love
 - [[literature-notes/boundaries-are-for-you-not-them|Boundaries are for you, not them]] - The internal nature of boundaries
 - [[literature-notes/boundaries-increase-capacity-to-love|Boundaries increase capacity to love]] - How limits expand love
+- [[literature-notes/closing-heart-from-confused-love|Confused love tells us when to close our hearts]]
 
 ## Source
 

@@ -27,6 +27,8 @@ The alternative: either you're capable in this moment or you're not, and both ar
 - [[literature-notes/being-together-in-emotions-not-caretaking|Being together in emotions rather than caretaking]] - The alternative to obligated presence
 - [[literature-notes/holding-it-together-blocks-support|Holding it together blocks support]] - The cost of forced strength
 - [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming not just accepting emotions]] - Genuine presence versus obligation
+- [[literature-notes/allowing-the-victim-creates-empowerment|Fully allowing the victim experience naturally creates empowerment]]
+- [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 
 ## Source
 

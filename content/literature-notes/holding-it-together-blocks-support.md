@@ -23,6 +23,10 @@ Joe works with CEOs who feel alone despite having thousands of people whose main
 - [[literature-notes/subtle-superiority-as-protection|Subtle superiority is a protection pattern that creates isolation]]
 - [[literature-notes/we-push-away-support-we-dont-trust|We push away support we don't trust]]
 - [[literature-notes/overachieving-is-survival-mode|Overachieving is survival mode]]
+- [[literature-notes/helplessness-is-the-emotion-being-avoided|The feeling being avoided underneath 'I've got this' is helplessness]]
+- [[literature-notes/helplessness-dissolves-false-self-reliance|Helplessness dissolves false self-reliance]]
+- [[literature-notes/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
+- [[literature-notes/being-together-in-emotions-not-caretaking|Being together in emotions is different from caretaking them]]
 
 ## Source
 

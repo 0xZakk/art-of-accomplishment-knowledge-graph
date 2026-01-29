@@ -25,6 +25,9 @@ This reframes marriage from a relationship to maintain into a practice to engage
 - [[literature-notes/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]] - Why your partner is the perfect teacher
 - [[literature-notes/relationship-reflects-self-relationship|Relationship reflects self-relationship]] - The mirror principle
 - [[literature-notes/parenting-as-self-development-practice|Parenting as self-development practice]] - Another domain of the same principle
+- [[literature-notes/life-changes-trigger-marriage-growth-cycles|Life changes trigger marriage growth cycles]]
+- [[literature-notes/self-love-sets-the-capacity-limit-for-loving-others|Self-love sets the capacity limit for loving a partner]]
+- [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 
 ## Source
 

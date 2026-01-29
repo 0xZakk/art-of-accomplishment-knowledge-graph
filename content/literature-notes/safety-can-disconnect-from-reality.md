@@ -25,6 +25,9 @@ The base jumping community sees this in identity formation: "I'm a safe jumper" 
 - [[literature-notes/dissociation-as-double-edged-sword|Dissociation as double-edged sword]] - How protective mechanisms can harm
 - [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]] - What we avoid, we attract
 - [[literature-notes/optimism-and-pessimism-both-avoid-reality|Optimism and pessimism both avoid reality]] - Both are comfort strategies
+- [[literature-notes/safety-is-an-illusion-of-comfort|Safety is an illusion—it means feeling comfortable, not being objectively safe]]
+- [[literature-notes/unsafety-as-belief-anchor|The belief 'I'll be unsafe' anchors other limiting beliefs]]
+- [[literature-notes/see-through-consequences-to-feel-free|Seeing through worst-case consequences creates freedom to act]]
 
 ## Source
 

@@ -28,6 +28,11 @@ Joe suggests a three-step process: see the projection (often provides immediate 
 - [[literature-notes/own-the-trigger-as-yours|Own the trigger as yours]] - Taking responsibility for your triggers
 - [[literature-notes/four-types-of-projection|Four types of projection]] - Different ways projection manifests
 - [[literature-notes/drawing-boundaries-dissolves-triggers|Drawing boundaries dissolves triggers]] - Boundaries address behavior; self-acceptance addresses triggers
+- [[literature-notes/seeing-your-projection-creates-immediate-relief|Seeing your own projection creates immediate relief]]
+- [[literature-notes/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
+- [[literature-notes/dont-do-emotions-at-people|Don't do emotions at people]]
+- [[literature-notes/triggers-reveal-disowned-parts-of-self|Triggers and admiration both reveal disowned parts of yourself]]
+- [[literature-notes/boundaries-open-your-heart|Boundaries must open your heart, not close it]]
 
 ## Source
 

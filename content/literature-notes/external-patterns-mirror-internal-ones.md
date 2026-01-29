@@ -39,6 +39,11 @@ Can't set external boundaries while allowing internal abuse. The inside has to s
 - [[literature-notes/we-attract-what-we-learned-as-love|We're attracted to what we learned as love]]
 - [[literature-notes/triggers-reveal-self-judgment|Triggers reveal what we judge in ourselves]]
 - [[literature-notes/self-judgment-defends-against-emotions|Self-judgment is a defense against feeling emotions]]
+- [[literature-notes/communication-techniques-get-weaponized|Communication techniques get weaponized without the right state]]
+- [[literature-notes/you-get-the-love-you-can-accept|You only get the love you can let in]]
+- [[literature-notes/parent-self-relationship-shapes-child-relationship|Your relationship with yourself shapes your relationship with your children]]
+- [[literature-notes/positive-self-talk-can-be-passive-aggression|Positive self-talk can be a form of self-directed passive aggression]]
+- [[literature-notes/inner-critic-mirrors-relationship-patterns|The inner critic mirrors your relationship patterns]]
 
 ## Source
 

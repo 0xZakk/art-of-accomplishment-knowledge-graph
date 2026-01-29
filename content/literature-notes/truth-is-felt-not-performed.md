@@ -27,6 +27,7 @@ This reframes the entire project of "being authentic." It's not about what you s
 - [[literature-notes/authenticity-is-receiving-not-performing|Authenticity is receiving, not performing]] - Authenticity comes from receiving your experience, not curating it
 - [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - You can't be truly seen through a performance
 - [[literature-notes/vulnerability-is-truth-plus-fear|Vulnerability is truth plus fear]] - Real vulnerability is speaking what's true even when afraid
+- [[literature-notes/speaking-from-discomfort-not-past-it|Speaking from discomfort rather than past it]]
 
 ## Source
 

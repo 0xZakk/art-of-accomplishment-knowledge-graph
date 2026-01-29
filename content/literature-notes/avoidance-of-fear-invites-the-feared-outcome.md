@@ -27,6 +27,11 @@ The antidote is welcoming the feared emotion directly. If you can take or leave 
 - [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - The broader principle
 - [[literature-notes/neediness-repels-what-you-want|Neediness repels what you want]] - Behavioral mechanism
 - [[literature-notes/self-possessed-presence-transforms-relationships|Self-possessed presence transforms relationships]] - The result of welcoming fear
+- [[literature-notes/resisting-emotion-invites-it-back|Resisting an emotion is exactly what invites it back]]
+- [[literature-notes/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
+- [[literature-notes/fully-feeling-stops-the-pattern|Fully falling in love with the avoided feeling is the quickest way to stop a negative pattern]]
+- [[literature-notes/guilt-is-inherited-fear-in-disguise|Guilt is inherited fear in disguise]]
+- [[literature-notes/resisting-fear-leaks-it-sideways|Resisting fear doesn't eliminate it — it leaks out sideways]]
 
 ## Source
 

@@ -24,6 +24,7 @@ The most dangerous aspect is that failure doesn't need to be real to be devastat
 - [[literature-notes/iterative-mindset-prevents-failure|An iterative mindset makes failure impossible]] - The antidote to the failure idea
 - [[literature-notes/false-failure-destroys-lives|A false story of failure can destroy entire lives]] - When the idea becomes biography
 - [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]] - Another idea that guarantees failure
+- [[literature-notes/habenula-and-learned-helplessness|The habenula enforces learned helplessness after perceived failure]]
 
 ## Source
 

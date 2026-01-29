@@ -25,6 +25,10 @@ The mechanism is that shame blocks emotional fluidity, and emotions are what all
 - [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck]] - The broader pattern
 - [[literature-notes/believing-youre-broken-sustains-addiction|Believing you're broken sustains addiction]] - Identity reinforcing the loop
 - [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - The self-reinforcing cycle
+- [[literature-notes/embracing-intensity-curbs-addiction|Embracing intensity removes the need for addictive escape]]
+- [[literature-notes/shame-stagnates-emotional-fluidity|Shame stagnates emotional fluidity]]
+- [[literature-notes/shame-blocks-feeling-how-good-life-is|Shame blocks you from feeling how good life actually is]]
+- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]]
 
 ## Source
 

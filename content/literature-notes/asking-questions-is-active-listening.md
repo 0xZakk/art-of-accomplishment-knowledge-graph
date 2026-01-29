@@ -25,6 +25,8 @@ This applies on stage too. Joe often doesn't know what he's going to say when sp
 - [[literature-notes/active-listening-is-asking-questions|Active listening is asking questions]] - The existing note on this concept
 - [[literature-notes/unconditional-listening-transforms-relationships|Listening with unconditional acceptance transforms relationships]] - The passive complement
 - [[literature-notes/being-interested-not-interesting|Being interested, not interesting]] - The broader orientation
+- [[literature-notes/listening-as-business-accelerator|Listening is one of the most profound business accelerators]]
+- [[literature-notes/hearing-objections-before-deciding|Hearing objections before deciding — even if you decide the same thing — changes everything]]
 
 ## Source
 

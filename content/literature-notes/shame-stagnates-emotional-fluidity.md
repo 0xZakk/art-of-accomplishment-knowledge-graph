@@ -25,6 +25,10 @@ Joe once wrote a list of everything that hadn't changed in his life over ten yea
 - [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]] - The behavioral consequence
 - [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]] - What shame blocks
 - [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - The broader pattern
+- [[literature-notes/shame-addiction-creates-empty-fulfillment|Shame becomes addictive and creates empty fulfillment]]
+- [[literature-notes/shame-locks-in-bad-habits|Shame locks in the very habits it punishes]]
+- [[literature-notes/shame-about-grief-shuts-down-all-emotions|Shame about grief shuts down all emotions]]
+- [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]]
 
 ## Source
 

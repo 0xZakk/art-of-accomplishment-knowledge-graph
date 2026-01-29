@@ -25,6 +25,7 @@ Enjoyment also comes not just from *what* you do but *how* you do it. You don't 
 - [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]] - What you enjoy doesn't get procrastinated
 - [[literature-notes/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]] - Pushing through drains; enjoyment sustains
 - [[literature-notes/energy-management-over-time-management|Energy management over time management]] - Energy is the real resource
+- [[literature-notes/how-you-do-it-determines-if-you-do-it|How you do something determines if you do it]]
 
 ## Source
 

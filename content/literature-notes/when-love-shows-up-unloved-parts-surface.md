@@ -38,6 +38,10 @@ When we stop resisting, we find that even our "negative" emotions contain what w
 
 - [[literature-notes/grief-of-self-abandonment|Grief of self-abandonment]]
 - [[literature-notes/self-judgment-defends-against-emotions|Self-judgment is a defense against feeling emotions]]
+- [[literature-notes/loving-to-manage-stops-working|Loving something to make it go away stops working]]
+- [[literature-notes/moving-emotions-dissolves-depression|Moving the emotion dissolves depression]]
+- [[literature-notes/foreboding-joy-blocks-gratitude|Foreboding joy—fear of the other shoe dropping—blocks gratitude]]
+- [[literature-notes/self-blame-holds-onto-what-you-lost|Self-blame is a way of holding onto what you've lost]]
 
 ## Source
 

@@ -23,6 +23,8 @@ Joe notes that CEOs who were rebels often struggle to provide structure because 
 
 - [[literature-notes/we-push-away-approval-we-seek|We push away approval we seek]] - The paradox of approval dynamics
 - [[literature-notes/war-with-your-wants-creates-self-sabotage|War with your wants creates self-sabotage]] - Not owning your wants creates internal authority conflict
+- [[literature-notes/authority-issues-are-not-seeing-humans|Authority issues mean not treating authorities as human beings]]
+- [[literature-notes/approval-seeking-pushes-people-away|Seeking approval pushes away the very connection you want]]
 
 ## Source
 

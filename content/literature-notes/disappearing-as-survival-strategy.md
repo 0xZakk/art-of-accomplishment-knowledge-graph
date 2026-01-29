@@ -23,6 +23,9 @@ The person is high-achieving, doesn't appear depressed, doesn't let anyone see t
 
 - [[literature-notes/not-feeling-may-be-repression|Not feeling may be active repression, not absence of sensation]]
 - [[literature-notes/tools-can-keep-you-stuck|Your healing tools can become tools for staying stuck]]
+- [[literature-notes/numbness-as-survival-gift|Emotional numbness can be a survival gift, not a deficit]]
+- [[literature-notes/high-achieving-can-mask-emotional-numbness|High achievement can completely mask emotional numbness]]
+- [[literature-notes/childhood-freeze-becomes-adult-trap|The childhood freeze response becomes the adult trap]]
 
 ## Source
 

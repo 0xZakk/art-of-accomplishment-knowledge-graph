@@ -23,6 +23,8 @@ The feedback loop is immediate and honest. Kids don't care about your spiritual 
 - [[literature-notes/parenting-as-ego-dissolution|Parenting as ego dissolution]] - The broader principle
 - [[literature-notes/parenting-as-self-development-practice|Parenting as self-development practice]] - Parenting as the work itself
 - [[literature-notes/connection-is-the-core-of-parenting|Connection is the core of parenting]] - What matters most
+- [[literature-notes/teach-children-self-referencing|Teaching children to reference themselves builds their internal compass]]
+- [[literature-notes/dont-shame-kids-love-yourself|To not harm your children, love yourself]]
 
 ## Source
 

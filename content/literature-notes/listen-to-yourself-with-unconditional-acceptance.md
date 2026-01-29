@@ -22,6 +22,9 @@ One of Joe's clients transformed their relationship and their business simply by
 
 - [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]]
 - [[literature-notes/love-yourself-how-you-wanted-to-be-loved|Love yourself how you wanted to be loved]]
+- [[literature-notes/unconditional-listening-transforms-relationships|Listening with unconditional acceptance transforms relationships]]
+- [[literature-notes/listen-as-if-the-other-person-is-right|Listen as if the other person is right]]
+- [[literature-notes/deep-listening-requires-self-listening|Deep listening requires listening to yourself simultaneously]]
 
 ## Source
 

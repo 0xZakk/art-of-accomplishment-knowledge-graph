@@ -27,6 +27,8 @@ The iterative mindset compounds over time. Every company Joe knows that disrupte
 - [[literature-notes/reframe-failure-as-experimentation|Reframe failure as experimentation by writing 50 experiments]] - The practical method
 - [[literature-notes/we-are-always-running-experiments|We are always running experiments]] - The deeper truth underneath
 - [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]] - Iteration is enjoyable, which sustains it
+- [[literature-notes/iterative-mindset-dissolves-procrastination|An iterative mindset dissolves procrastination by removing the possibility of failure]]
+- [[literature-notes/reward-failure-in-culture|Reward failure to create innovative culture]]
 
 ## Source
 

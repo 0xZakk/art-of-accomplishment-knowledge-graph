@@ -28,6 +28,7 @@ Critically, this isn't masochism. It's about freedom — "a place where I get to
 - [[literature-notes/letting-judgment-break-your-heart-open|Letting judgment break your heart open]] - The emotional dimension
 - [[literature-notes/triggers-as-freedom-opportunities|Triggers as freedom opportunities]] - Triggers as doorways
 - [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]] - What's behind the judgment
+- [[literature-notes/intuition-sees-what-logic-cannot|Intuition sees what the logical mind cannot]]
 
 ## Source
 

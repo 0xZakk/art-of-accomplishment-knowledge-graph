@@ -27,6 +27,7 @@ The key distinction Joe draws is between enduring pain and transforming pain. En
 - [[literature-notes/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms, unresisted stress enlivens]] - Endurance is a form of resistance to experience
 - [[literature-notes/managing-trauma-versus-resolving-it|Managing trauma versus resolving it]] - Enduring is managing; transformation is resolving
 - [[literature-notes/obligation-kills-love|Obligation kills love]] - Relationships viewed as endurance become obligations
+- [[literature-notes/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
 
 ## Source
 

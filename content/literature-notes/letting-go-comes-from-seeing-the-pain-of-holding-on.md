@@ -25,6 +25,9 @@ The way we hold on tighter is through doing: "How do I fix it? What's wrong with
 - [[literature-notes/letting-go-is-non-management|Letting go is non-management]] - The same principle stated differently
 - [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - Why holding on backfires
 - [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming not just accepting emotions]] - The quality of attention that allows release
+- [[literature-notes/softening-not-solving-breaks-the-loop|Softening, not solving, breaks self-imposed loops]]
+- [[literature-notes/allowing-the-victim-creates-empowerment|Fully allowing the victim experience naturally creates empowerment]]
+- [[literature-notes/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
 
 ## Source
 

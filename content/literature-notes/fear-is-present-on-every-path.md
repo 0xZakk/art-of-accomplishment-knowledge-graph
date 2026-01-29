@@ -25,6 +25,11 @@ Once the participant faces the fear and allows the heartbreak, clarity instantly
 - [[literature-notes/fear-as-road-map-not-enemy|Fear as road map not enemy]] - Using fear as information
 - [[literature-notes/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]] - The alternative to fighting fear
 - [[literature-notes/everyone-is-pretending-not-to-be-afraid|Everyone is pretending not to be afraid]] - The universal nature of fear
+- [[literature-notes/clarity-comes-after-feeling-not-before|Clarity comes after feeling the emotion not before]]
+- [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[literature-notes/stuckness-is-resistance-to-the-abyss|Stuckness is resistance to the abyss, not the abyss itself]]
+- [[literature-notes/the-abyss-you-avoid-is-your-freedom|The abyss you avoid is your freedom]]
+- [[literature-notes/heartbreak-opens-when-fear-is-felt|Heartbreak opens when fear is finally felt]]
 
 ## Source
 

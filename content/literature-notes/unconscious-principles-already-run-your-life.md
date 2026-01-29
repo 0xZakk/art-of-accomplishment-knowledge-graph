@@ -24,6 +24,10 @@ This connects to Joe's broader teaching that awareness itself is transformative.
 - [[literature-notes/principles-automate-decision-making|Principles automate decision-making]] - The intentional version
 - [[literature-notes/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]] - Seeing is the first step
 - [[literature-notes/identity-you-cant-see-controls-you-most|Identity you can't see controls you most]] - The hidden driver
+- [[literature-notes/changing-behavior-changes-consciousness|Changing behavior is the most efficient way to change consciousness]]
+- [[literature-notes/you-have-already-changed-thousands-of-beliefs|You have already changed thousands of beliefs without noticing]]
+- [[literature-notes/attention-alone-reduces-stress|Paying attention to stress without trying to change it reduces it]]
+- [[literature-notes/feeling-your-essential-nature-dissolves-avoidance|Feeling your essential nature dissolves avoidance behaviors]]
 
 ## Source
 

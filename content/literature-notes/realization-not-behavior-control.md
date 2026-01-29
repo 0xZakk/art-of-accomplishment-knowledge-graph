@@ -22,6 +22,10 @@ The brain is the first to stop believing and the first to forget. The body and e
 - [[literature-notes/insight-requires-embodied-integration|Insight requires embodied integration]]
 - [[literature-notes/three-brains-of-transformation|Three brains of transformation]]
 - [[literature-notes/experiments-make-knowledge-embodied|Experiments make knowledge embodied]]
+- [[literature-notes/you-have-already-changed-thousands-of-beliefs|You have already changed thousands of beliefs without noticing]]
+- [[literature-notes/changing-behavior-changes-consciousness|Changing behavior is the most efficient way to change consciousness]]
+- [[literature-notes/three-categories-of-limiting-beliefs|Limiting beliefs come in three forms: false thoughts, misinterpreted experience, and incomplete story]]
+- [[literature-notes/test-teachings-through-experiments|Test teachings through experiments rather than believing them]]
 
 ## Source
 

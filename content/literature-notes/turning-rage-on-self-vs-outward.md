@@ -35,6 +35,7 @@ This redirection often requires first accessing the rage fully (not suppressing 
 
 - [[literature-notes/rage-as-gateway-to-healing|Rage as gateway to healing]] - How to access rage healthily
 - [[literature-notes/self-sabotage-patterns|Self-sabotage patterns]] - What happens when rage turns inward
+- [[literature-notes/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]
 
 ## Source
 

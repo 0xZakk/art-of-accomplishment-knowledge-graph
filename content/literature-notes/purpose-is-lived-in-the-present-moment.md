@@ -34,6 +34,9 @@ As Joe demonstrates, when you ask this question genuinely, "there it is. Boom. E
 - [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]] - The search itself is the avoidance mechanism
 - [[literature-notes/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]] - Why mental approaches fail
 - [[literature-notes/the-expansiveness-of-I-Am|The expansiveness of I Am]] - What we're avoiding by searching
+- [[literature-notes/purpose-is-in-the-how-not-the-what|Purpose is in the how, not the what]]
+- [[literature-notes/searching-for-purpose-assumes-you-lack-it|Searching for purpose assumes you don't already have it]]
+- [[literature-notes/say-yes-then-filter-for-joy|Say yes to what intrigues you, then filter for joy]]
 
 ## Source
 

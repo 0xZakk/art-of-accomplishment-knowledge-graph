@@ -21,6 +21,7 @@ This is a recurring pattern in Joe's coaching: rather than opposing resistance, 
 - [[literature-notes/numbness-as-survival-gift|Emotional numbness can be a survival gift, not a deficit]]
 - [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
 - [[literature-notes/emotional-fluidity-is-already-there|You already have emotional fluidity—you just need to stop blocking it]]
+- [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 
 ## Source
 

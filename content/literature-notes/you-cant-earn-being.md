@@ -25,6 +25,8 @@ In the present moment, stripped of past and future narratives, there is nothing 
 - [[literature-notes/discovery-not-improvement|Discovery, not improvement]]
 - [[literature-notes/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic, not just intellectual]]
 - [[literature-notes/performing-for-connection-blocks-authentic-earning|Performing for connection blocks authentic earning]]
+- [[literature-notes/intrinsic-value-needs-no-earning|Intrinsic value needs no earning]]
+- [[literature-notes/every-epiphany-becomes-a-task|Every epiphany becomes a task to earn love]]
 
 ## Source
 

@@ -26,6 +26,11 @@ The resentment that builds from self-abandonment eventually becomes aggression o
 - [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]] - Self-abandonment in relationships
 - [[literature-notes/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]] - One pattern this creates
 - [[literature-notes/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]] - The downstream effect
+- [[literature-notes/false-love-erodes-power-in-relationships|Maintaining false love erodes power and attraction in relationships]]
+- [[literature-notes/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
+- [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
+- [[literature-notes/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
+- [[literature-notes/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
 
 ## Source
 

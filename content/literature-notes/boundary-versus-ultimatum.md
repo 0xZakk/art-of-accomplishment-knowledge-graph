@@ -27,6 +27,10 @@ The paradox: when you truly feel empowered and trust yourself to hold a boundary
 - [[literature-notes/boundaries-increase-capacity-to-love|Effective boundaries increase your capacity to love]] - The love test
 - [[literature-notes/weaponized-boundaries-are-control-in-disguise|Weaponized boundaries are control in disguise]] - When boundaries become tools of power
 - [[literature-notes/fear-as-road-map-not-enemy|Fear as road map, not enemy]] - Working with fear rather than from it
+- [[literature-notes/boundaries-say-what-you-will-do-not-what-they-must|Boundaries say what you will do, not what they must do]]
+- [[literature-notes/boundaries-open-your-heart|Boundaries must open your heart, not close it]]
+- [[literature-notes/boundary-firmness-eliminates-fear-of-attack|Boundary firmness eliminates fear of attack]]
+- [[literature-notes/boundaries-are-for-you-not-them|Boundaries are primarily for you, not the other person]]
 
 ## Source
 

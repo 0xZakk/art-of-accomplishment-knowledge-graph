@@ -23,6 +23,8 @@ Spiritual teachers leverage this dance: they sit telling stories, but stories th
 - [[literature-notes/emotions-are-glue-holding-beliefs|Emotions are glue holding beliefs]] - The binding mechanism
 - [[literature-notes/three-brains-of-transformation|Three brains of transformation]] - Multiple intelligence centers
 - [[literature-notes/crack-the-intellectual-trap-first|Crack the intellectual trap first]] - Starting from the head
+- [[literature-notes/emotions-are-the-glue-holding-beliefs-in-place|Emotions are the glue holding beliefs in place]]
+- [[literature-notes/moving-emotions-dissolves-stories|Moving emotions dissolves stories and creates clarity]]
 
 ## Source
 

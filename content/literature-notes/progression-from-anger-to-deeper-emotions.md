@@ -29,6 +29,8 @@ The fights themselves became healing opportunities. What started as conflict res
 - [[literature-notes/anger-backlog-must-clear|There is often a backlog of anger that must clear]] - The initial phase
 - [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer]] - The potential of conflict
 - [[literature-notes/fights-as-healing-opportunities-in-relationship|Fights as healing opportunities in relationship]] - The larger vision
+- [[literature-notes/moving-emotions-dissolves-stories|Moving emotions dissolves stories and creates clarity]]
+- [[literature-notes/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
 
 ## Source
 

@@ -25,6 +25,10 @@ The solution isn't managing the pattern or understanding it intellectually — i
 - [[literature-notes/we-recreate-pain-to-finally-welcome-it|We recreate pain to finally welcome it]] - The deeper purpose of patterns
 - [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]] - The self-fulfilling prophecy
 - [[literature-notes/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]] - The alternative approach
+- [[literature-notes/engineering-heartbreak-to-avoid-heartbreak|We engineer heartbreak to avoid the heartbreak we haven't felt]]
+- [[literature-notes/resisting-emotion-invites-it-back|Resisting an emotion is exactly what invites it back]]
+- [[literature-notes/avoidance-creates-the-pattern-it-fears|Emotional avoidance creates the very pattern it fears]]
+- [[literature-notes/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
 
 ## Source
 

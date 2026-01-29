@@ -28,6 +28,7 @@ One powerful reframe: seeing that the mission is beyond you. A woman who procras
 - [[literature-notes/enjoyment-dissolves-procrastination|Making enjoyment the priority dissolves procrastination]] - The antidote to identity-loaded work
 - [[literature-notes/perfectionism-is-the-critical-parents-voice|Perfectionism is the critical parent's voice internalized]] - Where the pattern often originates
 - [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning your wants]] - Why doing for others is easy but doing for yourself is hard
+- [[literature-notes/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
 
 ## Source
 

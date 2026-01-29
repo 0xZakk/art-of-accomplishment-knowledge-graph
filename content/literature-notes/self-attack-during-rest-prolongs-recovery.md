@@ -23,6 +23,8 @@ Joe reframes rest as an accomplishment — asking clients to measure how well th
 
 - [[literature-notes/resisting-inner-critic-strengthens-it|Resisting the inner critic strengthens it]] - Fighting self-attack perpetuates the cycle
 - [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - Self-punishment during rest creates the stagnation it condemns
+- [[literature-notes/rest-from-the-inner-critic|What you really need is rest from your inner critic]]
+- [[literature-notes/punishing-the-remembering-slows-growth|Punishing yourself for remembering slows growth]]
 
 ## Source
 

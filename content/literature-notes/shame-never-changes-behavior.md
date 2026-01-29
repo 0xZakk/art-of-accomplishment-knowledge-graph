@@ -24,6 +24,8 @@ The alternative—connection-based parenting—is framed not as the expensive or
 - [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - The deeper mechanism
 - [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]] - The same principle in adult contexts
 - [[literature-notes/repair-is-as-important-as-getting-it-right|Repair is as important as getting it right]] - What to do instead
+- [[literature-notes/shame-locks-in-bad-habits|Shame locks in the very habits it punishes]]
+- [[literature-notes/dont-shame-kids-love-yourself|To not harm your children, love yourself]]
 
 ## Source
 

@@ -24,6 +24,8 @@ Joe also connects emotional fluidity to the body: allowing emotions increases ca
 - [[literature-notes/emotional-fluidity-defined|Emotional fluidity is feeling all emotions without resistance]] - The broader framework
 - [[literature-notes/pleasure-signals-safety|Pleasure signals safety]] - The connection between pleasure and safety
 - [[literature-notes/presence-is-pleasure|Presence is pleasure]] - Presence as the gateway to pleasure
+- [[literature-notes/pleasure-is-available-in-every-emotion|Pleasure is available in every emotion when fully felt]]
+- [[literature-notes/emotional-development-stages|Emotional development follows predictable stages]]
 
 ## Source
 

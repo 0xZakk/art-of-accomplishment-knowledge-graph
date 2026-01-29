@@ -27,6 +27,8 @@ For older kids (10+), Joe recommends making it collaborative: "This is what I've
 - [[literature-notes/connection-is-the-core-of-parenting|Connection is the core of parenting]] - The foundation all parenting approaches rest on
 - [[literature-notes/children-bid-for-connection-not-defiance|Children bid for connection, not defiance]] - Understanding what's behind children's behavior
 - [[literature-notes/give-teenagers-something-harmless-to-rebel-against|Give teenagers something harmless to rebel against]] - Working with adolescent resistance
+- [[literature-notes/boundaries-with-children-require-closeness-and-respect|Boundaries with children require closeness, gentleness, and mutual respect]]
+- [[literature-notes/dont-shame-kids-love-yourself|To not harm your children, love yourself]]
 
 ## Source
 

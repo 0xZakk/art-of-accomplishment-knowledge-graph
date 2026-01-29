@@ -25,6 +25,7 @@ Going directly into the feeling of unsafety—not thinking about it, not avoidin
 - [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]] - The mechanism behind money-as-safety
 - [[literature-notes/money-beliefs-create-money-reality|Money beliefs create money reality]] - How safety beliefs shape financial behavior
 - [[literature-notes/money-wounds-trace-to-parent-wounds|Money wounds trace to parent wounds]] - The deeper origin of safety wounds
+- [[literature-notes/money-blocks-mask-deeper-fears|Money blocks usually mask a deeper relationship with safety]]
 
 ## Source
 

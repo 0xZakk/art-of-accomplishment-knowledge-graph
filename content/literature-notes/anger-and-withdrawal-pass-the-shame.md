@@ -26,6 +26,8 @@ Proving someone wrong provides a surrogate of relief — "like the kind of relie
 - [[literature-notes/shame-hot-potato|Shame gets passed back and forth in fights]] - The broader dynamic
 - [[literature-notes/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]] - The structural pattern
 - [[literature-notes/defense-feels-like-attack|Defense feels like attack]] - Why defenses escalate
+- [[literature-notes/only-one-person-needs-to-drop-the-hot-potato|Only one person needs to drop the shame hot potato]]
+- [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]]
 
 ## Source
 

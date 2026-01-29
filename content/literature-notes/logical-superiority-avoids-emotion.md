@@ -27,6 +27,9 @@ The practical move: when you notice yourself feeling "better than" during a figh
 - [[literature-notes/judgment-blocks-the-emotion-underneath|Judgment blocks the emotion underneath]] - The general principle behind this dynamic
 - [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]] - What superiority hides
 - [[literature-notes/putting-yourself-above-others-is-protection|Putting yourself above others is protection]] - The protective function of superiority
+- [[literature-notes/superiority-in-relationships-is-a-shame-defense|Superiority in relationships is a shame defense]]
+- [[literature-notes/logical-vs-emotional-partner-dynamic|The logical vs emotional partner dynamic is a trap]]
+- [[literature-notes/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
 
 ## Source
 

@@ -23,6 +23,9 @@ The modeling is automatic and bidirectional. The way you treat yourself teaches 
 
 - [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - The fractal nature of internal/external
 - [[literature-notes/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]] - Same dynamic in romantic relationships
+- [[literature-notes/teach-children-self-referencing|Teaching children to reference themselves builds their internal compass]]
+- [[literature-notes/dont-shame-kids-love-yourself|To not harm your children, love yourself]]
+- [[literature-notes/repair-is-as-important-as-getting-it-right|Repair after mistakes is as important as getting it right]]
 
 ## Source
 

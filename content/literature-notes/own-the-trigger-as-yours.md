@@ -25,6 +25,10 @@ Joe points out a useful heuristic: if saying what you need to say feels natural 
 - [[literature-notes/relationship-triggers-are-yours|Relationship triggers are yours]] - The deeper principle of trigger ownership
 - [[literature-notes/asking-for-what-you-want-dissolves-resentment|Asking for what you want dissolves resentment]] - Clean communication from ownership
 - [[literature-notes/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]] - Shifting from defense to curiosity
+- [[literature-notes/speaking-from-discomfort-not-past-it|Speaking from discomfort rather than past it]]
+- [[literature-notes/triggers-are-projections-of-your-own-patterns|Every trigger in your partner is a projection of your own pattern]]
+- [[literature-notes/dont-do-emotions-at-people|Don't do emotions at people]]
+- [[literature-notes/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
 
 ## Source
 

@@ -24,6 +24,9 @@ The prototype is a baby crying in a crib: the moment the baby stops crying and g
 - [[literature-notes/helplessness-is-the-emotion-being-avoided|Helplessness is the emotion being avoided]] - The core emotion underneath self-reliance
 - [[literature-notes/independence-as-armor-against-abandonment|Independence as armor against abandonment]] - The defensive structure
 - [[literature-notes/helplessness-dissolves-false-self-reliance|Helplessness dissolves false self-reliance]] - Feeling what was avoided breaks the pattern
+- [[literature-notes/self-reliance-as-intimacy-avoidance|Self-reliance can be a form of intimacy avoidance]]
+- [[literature-notes/self-reliance-blocks-receiving-support|Self-reliance blocks the ability to receive support]]
+- [[literature-notes/vulnerability-invites-support|Vulnerability invites the support self-reliance blocks]]
 
 ## Source
 

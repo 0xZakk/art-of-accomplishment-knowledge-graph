@@ -25,6 +25,10 @@ The person who doesn't need to defend can see clearly: "Here I am, and I actuall
 - [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]]
 - [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]]
 - [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
+- [[literature-notes/defense-feels-like-attack|Your defense feels like an attack to the other person]]
+- [[literature-notes/defensiveness-is-a-breadcrumb-to-shame|Defensiveness is a breadcrumb back to shame]]
+- [[literature-notes/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]]
+- [[literature-notes/when-love-shows-up-unloved-parts-surface|When love shows up, unloved parts surface to be loved]]
 
 ## Source
 

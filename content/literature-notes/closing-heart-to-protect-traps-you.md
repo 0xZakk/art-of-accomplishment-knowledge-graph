@@ -25,6 +25,11 @@ The closing of the heart creates the very problem it's trying to prevent. The ma
 - [[literature-notes/what-we-do-for-love-erodes-power|What we do to maintain love erodes our power]] - The broader pattern of self-abandonment
 - [[literature-notes/fear-limits-optionality|Fear limits optionality]] - How fear narrows what feels possible
 - [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion, not breaking]] - The alternative to closing down
+- [[literature-notes/closing-heart-from-confused-love|Confused love tells us when to close our hearts]]
+- [[literature-notes/drawing-boundaries-dissolves-triggers|Drawing boundaries dissolves triggers]]
+- [[literature-notes/self-reliance-as-intimacy-avoidance|Self-reliance can be a form of intimacy avoidance]]
+- [[literature-notes/open-heart-with-strong-boundaries|Loving parents requires both open heart and strong boundaries]]
+- [[literature-notes/connection-cannot-be-broken-without-your-consent|No one can break your connection without your agreement]]
 
 ## Source
 

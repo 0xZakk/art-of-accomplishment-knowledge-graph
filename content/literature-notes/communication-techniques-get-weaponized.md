@@ -40,6 +40,11 @@ Joe created the Connection Course because he saw this pattern everywhere. The fo
 - [[literature-notes/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]]
 - [[literature-notes/view-framework-for-listening|The VIEW framework for deep listening]]
 - [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what people share]]
+- [[literature-notes/external-patterns-mirror-internal-ones|External relationship patterns mirror internal ones]]
+- [[literature-notes/express-anger-without-directing-it|You can express anger without directing it at anyone]]
+- [[literature-notes/compassion-is-truth-with-an-open-heart|True compassion is speaking truth with an open heart, not being nice]]
+- [[literature-notes/moving-emotions-dissolves-depression|Moving the emotion dissolves depression]]
+- [[literature-notes/hearing-objections-before-deciding|Hearing objections before deciding — even if you decide the same thing — changes everything]]
 
 ## Source
 

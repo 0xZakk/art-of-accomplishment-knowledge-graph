@@ -26,6 +26,10 @@ The relationship itself becomes a spiritual path — every conflict is an opport
 - [[literature-notes/fights-can-heal-or-retraumatize|Fights can heal or retraumatize]] - The distinction between productive and destructive conflict
 - [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]] - What happens when couples don't fight at all
 - [[literature-notes/communication-techniques-get-weaponized|Communication techniques get weaponized]] - The trap of using tools to control
+- [[literature-notes/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
+- [[literature-notes/measure-how-you-fight-not-how-often|Relationship health is measured by how you fight, not how often]]
+- [[literature-notes/safe-agreements-make-conflict-transformative|Safe agreements make conflict transformative]]
+- [[literature-notes/relationship-agreements-create-safe-conflict|Relationship agreements create a safe playing field for conflict]]
 
 ## Source
 

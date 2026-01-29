@@ -25,6 +25,8 @@ The reframe — from "something is wrong with me" to "I'm perceiving something t
 - [[literature-notes/authenticity-is-a-path-not-destination|Authenticity is a path, not a destination]] - The ongoing process of becoming real
 - [[literature-notes/welcome-the-inner-critic|Welcome the inner critic]] - A parallel approach to difficult inner voices
 - [[literature-notes/attunement-to-self-produces-intuition|Attunement to self produces intuition]] - The faculty being activated
+- [[literature-notes/voice-in-head-talks-to-itself|The voice in the head talks to itself more than to you]]
+- [[literature-notes/authenticity-is-receiving-not-performing|Authenticity is receiving yourself not performing yourself]]
 
 ## Source
 

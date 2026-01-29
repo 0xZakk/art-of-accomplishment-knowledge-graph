@@ -25,6 +25,10 @@ The key insight is seeing the other person's needs not as threats but as pointer
 - [[literature-notes/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]] - The cost of self-suppression
 - [[literature-notes/resentment-signals-a-boundary-needed|Resentment signals a boundary needed]] - How resentment points to unmet needs
 - [[literature-notes/owning-your-needs-is-not-selfish|Owning your needs is not selfish]] - Permission to want
+- [[literature-notes/never-compromise-find-solutions-for-both|Never compromise — find solutions that work for both]]
+- [[literature-notes/heartbreak-is-the-mechanism-of-boundaries|Heartbreak is the mechanism of healthy boundaries]]
+- [[literature-notes/not-sharing-hard-truths-prevents-real-love|Not sharing hard truths prevents real love]]
+- [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 
 ## Source
 

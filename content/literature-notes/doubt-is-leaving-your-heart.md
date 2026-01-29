@@ -45,6 +45,10 @@ When you notice doubt arising, you can recognize it as a signal that you've just
 
 - [[literature-notes/the-expansiveness-of-I-Am|The expansiveness of I Am]] - What doubt is protecting us from
 - [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]] - What we return to when we stop doubting
+- [[literature-notes/doubt-protects-from-unwanted-emotions|Doubt protects you from emotions you don't want to feel]]
+- [[literature-notes/doubt-as-emotional-protection|Doubt as emotional protection]]
+- [[literature-notes/welcome-doubt-instead-of-running|Welcoming doubt instead of running from it opens the heart]]
+- [[literature-notes/doubt-is-self-focused-service-dissolves-it|Doubt is self-focused; openhearted service dissolves it]]
 
 ## Source
 

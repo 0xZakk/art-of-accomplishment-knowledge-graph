@@ -25,6 +25,7 @@ The solution is to recognize the somatic feeling of "looking for a fight" and re
 - [[literature-notes/fights-are-always-about-being-seen-and-safe|Fights are always about being seen and safe]] - The deeper truth about what fights are seeking
 - [[literature-notes/express-anger-without-directing-it|Express anger without directing it]] - The practical alternative to fighting
 - [[literature-notes/anger-backlog-must-clear|Anger backlog must clear]] - Why the emotion needs somewhere to go
+- [[literature-notes/safe-relationships-attract-displaced-emotions|Safe relationships attract displaced emotions]]
 
 ## Source
 

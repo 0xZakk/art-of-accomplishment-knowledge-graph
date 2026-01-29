@@ -27,6 +27,7 @@ Aaron's teammate Roman Fort illustrated this through faith as a football metapho
 - [[literature-notes/loss-can-deepen-freedom|Loss can deepen freedom]] - How losing opens new possibility
 - [[literature-notes/chaos-is-necessary-for-growth|Chaos is necessary for growth]] - Disorder as precursor to new order
 - [[literature-notes/depression-as-gift-you-wouldnt-trade|Depression as gift you wouldn't trade]] - Difficulty as retroactive gift
+- [[literature-notes/gold-lies-beyond-what-you-fear|The gold in life lies just beyond what you're afraid to face]]
 
 ## Source
 

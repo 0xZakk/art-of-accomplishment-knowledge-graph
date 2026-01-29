@@ -26,6 +26,10 @@ This is a trap for people doing emotional work: the project of "learning to feel
 - [[literature-notes/emotional-fluidity-is-already-there|You already have emotional fluidity—you just need to stop blocking it]]
 - [[literature-notes/tools-can-keep-you-stuck|Tools can keep you stuck]]
 - [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
+- [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[literature-notes/trying-to-feel-joy-pushes-it-away|Trying to feel joy is the resistance that pushes it away]]
+- [[literature-notes/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[literature-notes/you-cant-make-yourself-cry|You can't make yourself feel emotions by trying]]
 
 ## Source
 

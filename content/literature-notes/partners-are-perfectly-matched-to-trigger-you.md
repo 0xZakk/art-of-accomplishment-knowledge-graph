@@ -40,6 +40,9 @@ Even the frustrating match is the perfect match for what you need to learn.
 - [[literature-notes/you-get-the-love-you-can-accept|You only get the love you can let in]]
 - [[literature-notes/relationship-triggers-are-yours|Your relationship triggers are about you, not them]]
 - [[literature-notes/triggers-reveal-self-judgment|Triggers reveal what we judge in ourselves]]
+- [[literature-notes/marriage-as-dojo-for-self-development|Marriage as a dojo for self-development]]
+- [[literature-notes/parent-self-relationship-shapes-child-relationship|Your relationship with yourself shapes your relationship with your children]]
+- [[literature-notes/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
 
 ## Source
 

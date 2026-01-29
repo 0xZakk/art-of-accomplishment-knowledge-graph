@@ -43,6 +43,8 @@ The most freedom comes from holding self lightly, not from better definitions of
 - [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]]
 - [[literature-notes/ego-resists-change-in-either-direction|Ego resists change in either direction]]
 - [[literature-notes/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]]
+- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity—the more you identify, the more limited you become]]
+- [[literature-notes/smart-identity-prevents-trying|The 'smart' identity prevents you from trying—failure would disprove who you are]]
 
 ## Source
 

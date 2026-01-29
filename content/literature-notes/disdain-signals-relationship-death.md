@@ -23,6 +23,7 @@ The most common avoidant trajectory is: don't fight, don't fight, don't fight, d
 
 - [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]] - The cost of never fighting
 - [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer together]] - Why fighting is a sign of health
+- [[literature-notes/measure-how-you-fight-not-how-often|Relationship health is measured by how you fight, not how often]]
 
 ## Source
 

@@ -25,6 +25,9 @@ This is counter-intuitive because shame feels like accountability. It feels like
 - [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior rather than changing it]] - The broader principle
 - [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck]] - Shame as addictive cycle
 - [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]] - The resistance mechanism
+- [[literature-notes/shame-locks-in-bad-habits|Shame locks in the very habits it punishes]]
+- [[literature-notes/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]]
+- [[literature-notes/procrastination-is-not-who-you-are|Procrastination is not who you are — and knowing that is the real pain]]
 
 ## Source
 

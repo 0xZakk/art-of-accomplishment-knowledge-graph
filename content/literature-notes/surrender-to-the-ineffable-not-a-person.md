@@ -24,6 +24,8 @@ This parallels the broader teaching about internal versus external authority. Th
 - [[literature-notes/helplessness-is-gateway-to-surrender|Helplessness is gateway to surrender]] - The emotional pathway to healthy surrender
 - [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]] - Surrender as dissolution
 - [[literature-notes/be-your-own-light|Be your own light]] - The alternative to external gurus
+- [[literature-notes/surrender-outcomes-to-decide-clearly|Surrender outcomes to decide clearly]]
+- [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 
 ## Source
 

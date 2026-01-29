@@ -23,6 +23,8 @@ This is the practical application of gratitude-based thinking: instead of catalo
 
 - [[literature-notes/gratitude-reveals-solutions-criticism-hides|Gratitude reveals solutions that criticism hides]] - The mindset that enables this approach
 - [[literature-notes/iteration-beats-perfection|Iteration beats perfection]] - Both build on what works rather than perfecting from scratch
+- [[literature-notes/find-what-already-works-and-amplify-it|Find what already works and amplify it rather than importing external solutions]]
+- [[literature-notes/gratitude-solves-problems-by-seeing-whats-right|Gratitude solves problems by seeing what's right and growing it]]
 
 ## Source
 

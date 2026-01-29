@@ -23,6 +23,7 @@ This principle applies broadly. The person who discovers meditation doesn't need
 - [[literature-notes/every-epiphany-becomes-the-next-rut|Every epiphany becomes the next rut]] - The cycle of transcendence
 - [[literature-notes/contrarian-thinking-is-still-controlled-by-the-system|Contrarian thinking is still controlled by the system]] - Rejection as its own trap
 - [[literature-notes/survival-mechanisms-deserve-honor|Survival mechanisms deserve honor]] - Including what came before
+- [[literature-notes/internal-reward-over-external-star-chart|Internal locus of control over external star charts]]
 
 ## Source
 

@@ -27,6 +27,10 @@ This means the path to better decisions isn't more analysis or better frameworks
 - [[literature-notes/all-decisions-are-emotional|All decisions are emotional]] - The emotional basis of all decision-making
 - [[literature-notes/indecision-means-unfelt-emotions|Indecision means unfelt emotions]] - Another angle on the same insight
 - [[literature-notes/fear-creates-binary-thinking-and-false-ends|Fear creates binary thinking and false ends]] - How fear distorts the decision landscape
+- [[literature-notes/decisions-reveal-emotional-avoidance|Every decision is an attempt to avoid an emotion]]
+- [[literature-notes/do-the-next-most-obvious-thing|Do the next most obvious thing instead of deciding]]
+- [[literature-notes/confirmation-bias-from-emotional-avoidance|Confirmation bias protects us from emotions we won't feel]]
+- [[literature-notes/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]
 
 ## Source
 

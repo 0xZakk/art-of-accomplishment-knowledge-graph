@@ -25,6 +25,8 @@ Deflecting a compliment or a promotion with "oh no, it was nothing" isn't humili
 - [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]] - What happens when you avoid instead of engaging
 - [[literature-notes/disappearing-as-survival-strategy|Disappearing as a survival strategy]] - Making yourself small as protection
 - [[literature-notes/empowerment-and-unconditional-love-are-the-same|Empowerment and unconditional love are the same feeling]] - Why true humility feels empowering
+- [[literature-notes/humility-requires-self-care|Humility can require self-care]]
+- [[literature-notes/follow-your-calling-even-when-uncomfortable|Following your calling requires humility even when it's uncomfortable]]
 
 ## Source
 

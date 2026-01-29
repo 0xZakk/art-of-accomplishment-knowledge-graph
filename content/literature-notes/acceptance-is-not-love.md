@@ -25,6 +25,9 @@ The distinction matters because acceptance without love perpetuates the same dyn
 - [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming not just accepting emotions]] - The qualitative leap beyond acceptance
 - [[literature-notes/love-the-resistance|Love the resistance]] - Opening the heart to what resists
 - [[literature-notes/obligation-kills-love|Taking responsibility from obligation kills love]] - The core mechanism
+- [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
+- [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[literature-notes/inner-critic-mirrors-relationship-patterns|The inner critic mirrors your relationship patterns]]
 
 ## Source
 

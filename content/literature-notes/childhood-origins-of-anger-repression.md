@@ -23,6 +23,10 @@ Each pathway creates a different pattern. The first creates freeze/flight respon
 - [[literature-notes/three-forms-of-repressed-anger|Three forms of repressed anger]] - The manifestations of these childhood patterns
 - [[literature-notes/passive-aggression-develops-when-anger-is-forbidden|Passive aggression develops when anger is forbidden]] - Pattern two in detail
 - [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]] - Pattern one in relationships
+- [[literature-notes/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuckness]]
+- [[literature-notes/anger-is-love-with-a-boundary|Unresisted anger is love expressing a clear boundary]]
+- [[literature-notes/repressed-anger-kinks-into-symptoms|Repressed anger kinks into depression, self-criticism, and rage]]
+- [[literature-notes/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]]
 
 ## Source
 

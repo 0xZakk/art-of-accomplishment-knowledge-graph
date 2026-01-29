@@ -25,6 +25,7 @@ The ego manifests not as arrogance necessarily, but as a quiet certainty: "I hav
 - [[literature-notes/every-epiphany-is-a-rut-waiting-to-happen|Every epiphany is a rut waiting to happen]] - "I made it" is the ultimate epiphany-turned-rut
 - [[literature-notes/awakening-is-not-an-endpoint|Awakening is not an endpoint]] - Same principle in spiritual context
 - [[literature-notes/ego-resists-change-in-either-direction|Ego resists change in either direction]] - The ego's role in maintaining the "made it" identity
+- [[literature-notes/identity-collapse-follows-peak-achievement|Identity collapse follows peak achievement]]
 
 ## Source
 

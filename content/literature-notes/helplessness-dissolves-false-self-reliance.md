@@ -25,6 +25,11 @@ The irony is stark: CEOs with 10,000 employees whose main concern is "are you ha
 - [[literature-notes/independence-as-armor-against-abandonment|Independence as armor against abandonment]] - The deeper root of self-reliance as protection
 - [[literature-notes/receiving-requires-vulnerability|Receiving requires vulnerability]] - Why support can't land without openness
 - [[literature-notes/disappearing-as-survival-strategy|Disappearing as survival strategy]] - Another way we avoid being seen
+- [[literature-notes/helplessness-is-the-emotion-being-avoided|The feeling being avoided underneath 'I've got this' is helplessness]]
+- [[literature-notes/holding-it-together-blocks-support|Holding it together shields you from the support trying to reach you]]
+- [[literature-notes/subtle-superiority-as-protection|Subtle superiority is a protection pattern that creates isolation]]
+- [[literature-notes/putting-yourself-above-others-is-protection|Putting yourself above others is a subtle form of protection]]
+- [[literature-notes/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
 
 ## Source
 

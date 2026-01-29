@@ -24,6 +24,7 @@ This is why Joe distinguishes epiphany from transformation: epiphany is intellec
 - [[literature-notes/every-epiphany-is-a-rut-waiting-to-happen|Every epiphany is a rut waiting to happen]] - Another articulation of this pattern
 - [[literature-notes/peak-experience-becomes-goal-trap|Peak experience becomes goal trap]] - How extraordinary states become things we chase
 - [[literature-notes/being-in-the-question-beats-finding-the-answer|Being in the question beats finding the answer]] - The alternative to grasping at epiphanies
+- [[literature-notes/naming-emotions-can-replace-feeling|Naming an emotion can become a way to avoid feeling it]]
 
 ## Source
 

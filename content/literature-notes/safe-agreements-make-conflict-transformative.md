@@ -25,6 +25,10 @@ Without the agreements, every escalation risks nervous-system damage that takes 
 - [[literature-notes/fights-can-heal-or-retraumatize|Fights can heal or retraumatize]] - Why the agreements matter
 - [[literature-notes/safety-comes-from-working-through-conflict|Safety comes from working through conflict]] - What the agreements enable
 - [[literature-notes/both-partners-must-want-better|Both partners must want better]] - The prerequisite for making agreements
+- [[literature-notes/relationship-agreements-create-safe-conflict|Relationship agreements create a safe playing field for conflict]]
+- [[literature-notes/safety-enables-productive-conflict|Safety enables productive conflict rather than preventing it]]
+- [[literature-notes/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
+- [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer together]]
 
 ## Source
 

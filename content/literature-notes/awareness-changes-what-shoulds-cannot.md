@@ -24,6 +24,10 @@ This doesn't mean that awareness is passive. Writing down uncomfortable truths a
 - [[literature-notes/should-is-a-mechanism-of-shame|Should is a mechanism of shame that locks bad habits in place]] - Why should prevents the change awareness enables
 - [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - The frame that enables natural change
 - [[literature-notes/knowing-patterns-doesnt-free-you|Knowing patterns doesn't free you]] - Intellectual knowing differs from the awareness that transforms
+- [[literature-notes/changing-behavior-changes-consciousness|Changing behavior is the most efficient way to change consciousness]]
+- [[literature-notes/you-have-already-changed-thousands-of-beliefs|You have already changed thousands of beliefs without noticing]]
+- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]]
+- [[literature-notes/shame-locks-in-bad-habits|Shame locks in the very habits it punishes]]
 
 ## Source
 

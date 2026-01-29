@@ -27,6 +27,9 @@ His wife's discomfort may not even be his pain — it may be watching him try to
 - [[literature-notes/unfelt-emotions-create-physical-stress|Unfelt emotions create physical stress]] - The mind-body connection of suppression
 - [[literature-notes/muscles-constrict-to-block-feeling|Muscles constrict to block feeling]] - Physical mechanism of emotional blocking
 - [[literature-notes/body-work-opens-what-mental-process-cannot|Body work opens what mental process cannot]] - Somatic approaches to what the mind can't solve
+- [[literature-notes/pulling-the-brakes-blocks-flow|Pulling the brakes on self-expression blocks flow and worsens suffering]]
+- [[literature-notes/allowing-the-victim-creates-empowerment|Fully allowing the victim experience naturally creates empowerment]]
+- [[literature-notes/shame-about-grief-shuts-down-all-emotions|Shame about grief shuts down all emotions]]
 
 ## Source
 

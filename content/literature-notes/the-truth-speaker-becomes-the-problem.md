@@ -22,6 +22,7 @@ The same dynamic plays out in business. Nobody wanted to tell the struggling roc
 
 - [[literature-notes/shame-hot-potato|Shame gets passed back and forth in fights]] - The shame underlying the elephant gets redirected to the speaker
 - [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]] - The group shame around the elephant prevents healing
+- [[literature-notes/own-your-internal-elephant-first|Own your internal elephant before addressing the external one]]
 
 ## Source
 

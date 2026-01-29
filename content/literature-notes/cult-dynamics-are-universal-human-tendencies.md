@@ -24,6 +24,8 @@ What distinguishes destructive cults from healthy groups isn't the absence of th
 - [[literature-notes/narcissism-is-a-spectrum-we-are-all-on|Narcissism is a spectrum we are all on]] - Similar reframe from binary label to universal spectrum
 - [[literature-notes/us-versus-them-signals-fear-based-control|Us versus them signals fear-based control]] - The in-group/out-group dynamic that drives cult formation
 - [[literature-notes/inner-critic-uses-same-cult-dynamics|Inner critic uses same cult dynamics]] - Internal cult parallels
+- [[literature-notes/we-are-each-a-cult-of-one|Each person is a 'cult of one' with internal belief structures they can't fully see]]
+- [[literature-notes/seeding-authority-feels-like-belonging|Ceding authority to a group feels like belonging and safety]]
 
 ## Source
 

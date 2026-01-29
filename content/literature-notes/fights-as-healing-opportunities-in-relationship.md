@@ -27,6 +27,9 @@ This reframes what a relationship is for. It's not about avoiding conflict but a
 - [[literature-notes/fights-can-heal-or-retraumatize|Fights can heal or retraumatize]] - The two possible outcomes
 - [[literature-notes/safe-agreements-make-conflict-transformative|Safe agreements make conflict transformative]] - The agreements that enable this
 - [[literature-notes/relationship-fights-destroy-narcissism|Relationship fights destroy narcissism]] - Another gift of relational conflict
+- [[literature-notes/name-your-trauma-in-the-fight|Naming 'I'm in my trauma' transforms conflict]]
+- [[literature-notes/progression-from-anger-to-deeper-emotions|The progression from anger reveals grief and fear underneath]]
+- [[literature-notes/fights-are-trauma-responses-not-personality-flaws|Losing control in a fight is a trauma response, not a personality flaw]]
 
 ## Source
 

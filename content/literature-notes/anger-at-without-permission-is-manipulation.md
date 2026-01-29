@@ -27,6 +27,9 @@ Joe also makes an important exception: people who have been self-abusive—beati
 - [[literature-notes/dont-do-emotions-at-people|Don't do emotions at people]] - Broader principle of not weaponizing emotions
 - [[literature-notes/anger-is-love-with-a-boundary|Anger is love with a boundary]] - What anger actually signals
 - [[literature-notes/passive-aggression-is-unowned-aggression|Passive aggression is unowned aggression]] - What happens when anger is suppressed
+- [[literature-notes/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]]
+- [[literature-notes/emotional-abuse-is-using-emotions-to-control|Emotional abuse is using emotions to control someone]]
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming emotions is fundamentally different from accepting them]]
 
 ## Source
 

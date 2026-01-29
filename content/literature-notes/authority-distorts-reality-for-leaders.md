@@ -24,6 +24,7 @@ The antidote: leaders need to actively humanize themselves—make fun of themsel
 ## Related Concepts
 
 - [[literature-notes/leaders-must-say-what-they-want-cleanly|Leaders must say what they want cleanly]] - Clarity from leadership prevents distortion
+- [[literature-notes/complimenting-makes-you-the-authority|Complimenting others' work makes you the authority in the room]]
 
 ## Source
 

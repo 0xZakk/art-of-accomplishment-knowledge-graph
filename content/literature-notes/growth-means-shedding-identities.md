@@ -25,6 +25,7 @@ You can't fully eliminate identity—without any identity you might not be psych
 - [[literature-notes/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]] - The space between identities
 - [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - Shedding identity is discovery
 - [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]] - Why shedding is necessary
+- [[literature-notes/every-epiphany-becomes-the-next-rut|Every epiphany about identity becomes the next identity rut]]
 
 ## Source
 

@@ -22,6 +22,7 @@ The deeper pattern: she avoided anger with sadness, and avoided sadness with som
 
 - [[literature-notes/knowing-patterns-doesnt-free-you|Knowing your patterns doesn't free you from them]]
 - [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
+- [[literature-notes/somatic-bypass-domesticates-instead-of-liberates|Somatic practices can domesticate rather than liberate]]
 
 ## Source
 

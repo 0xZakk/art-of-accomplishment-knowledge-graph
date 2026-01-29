@@ -27,6 +27,9 @@ The alternative isn't indifference — it's allowing. Be kind, be compassionate,
 - [[literature-notes/dont-do-emotions-at-people|Don't do emotions at people]] - The flip side: using your emotions to manage others
 - [[literature-notes/relationship-triggers-are-yours|Relationship triggers are yours]] - What you can't sit with in them reflects what you can't sit with in yourself
 - [[literature-notes/managing-others-avoids-own-feelings|We manage others' emotions to avoid our own]] - The deeper motivation behind fixing
+- [[literature-notes/taking-responsibility-for-partners-emotions-breeds-resentment|Taking responsibility for your partner's emotions breeds resentment]]
+- [[literature-notes/what-we-do-for-love-erodes-power|What we do to maintain love erodes our power]]
+- [[literature-notes/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
 
 ## Source
 

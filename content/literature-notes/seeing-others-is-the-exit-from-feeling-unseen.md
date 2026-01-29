@@ -29,6 +29,8 @@ The first step, before seeing anyone else, is to see yourself: "Of course I just
 - [[literature-notes/every-fight-is-about-feeling-unseen|Every fight is about feeling unseen]] - The root of most conflicts
 - [[literature-notes/view-framework-for-listening|VIEW framework for listening]] - The tool for seeing others
 - [[literature-notes/active-listening-is-asking-questions|Active listening is asking questions]] - Curiosity as presence
+- [[literature-notes/listening-before-being-seen|Letting go of being seen allows you to be seen]]
+- [[literature-notes/not-feeling-seen-means-not-seeing|When you don't feel seen, you're also not seeing]]
 
 ## Source
 

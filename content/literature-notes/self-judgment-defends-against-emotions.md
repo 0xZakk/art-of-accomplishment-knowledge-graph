@@ -41,6 +41,10 @@ Instead of judging the feeling (or judging ourselves for having it), we can simp
 - [[literature-notes/moving-emotions-dissolves-depression|Moving the emotion dissolves depression]]
 - [[literature-notes/doubt-is-leaving-your-heart|Doubt is leaving your heart]]
 - [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
+- [[literature-notes/judgment-blocks-the-emotion-underneath|Judgment blocks the emotion underneath]]
+- [[literature-notes/doubt-protects-from-unwanted-emotions|Doubt protects you from emotions you don't want to feel]]
+- [[literature-notes/not-defending-reveals-inherent-goodness|Not defending yourself reveals your inherent goodness]]
+- [[literature-notes/chronic-stuckness-leads-to-depression|Chronic stuckness leads to depression through self-oppression]]
 
 ## Source
 

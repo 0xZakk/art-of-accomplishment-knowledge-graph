@@ -25,6 +25,7 @@ When Joe was in his self-reliant phase, the people around him were accustomed to
 - [[literature-notes/caretaking-as-strategy-to-feel-love|Caretaking as strategy to feel love]] - Giving as a way to feel connection without vulnerability
 - [[literature-notes/giving-without-exchange-is-destructive|Giving without exchange is destructive]] - Why one-directional giving harms both parties
 - [[literature-notes/three-dangerous-motivations-for-coaching|Three dangerous motivations for coaching]] - How self-reliance shows up in the coaching profession
+- [[literature-notes/self-reliance-blocks-receiving-support|Self-reliance blocks the ability to receive support]]
 
 ## Source
 

@@ -24,6 +24,7 @@ The beauty of seeing this clearly is that every trigger becomes a mirror: "every
 - [[literature-notes/triggers-are-projections-of-your-own-patterns|Triggers are projections of your own patterns]] - The general principle
 - [[literature-notes/model-repair-not-perfection-for-children|Model repair, not perfection for children]] - What to do with this awareness
 - [[literature-notes/transformation-is-generational|Transformation is generational]] - Breaking the chain
+- [[literature-notes/dont-shame-kids-love-yourself|To not harm your children, love yourself]]
 
 ## Source
 

@@ -25,6 +25,10 @@ The implication is profound: your life is nothing but a series of choices and de
 - [[literature-notes/principles-automate-decision-making|Principles automate decision-making]] - The vehicle for behavior change
 - [[literature-notes/experiments-make-knowledge-embodied|Experimentation makes knowledge embodied]] - Testing new behaviors
 - [[literature-notes/realization-not-behavior-control|Realization not behavior control]] - The complementary perspective
+- [[literature-notes/unconscious-principles-already-run-your-life|Unconscious principles already run your life]]
+- [[literature-notes/you-have-already-changed-thousands-of-beliefs|You have already changed thousands of beliefs without noticing]]
+- [[literature-notes/awareness-not-action-plans-transforms|Awareness transforms behavior where action plans fail]]
+- [[literature-notes/transformation-requires-experience-not-information|Transformation requires experience, not information]]
 
 ## Source
 

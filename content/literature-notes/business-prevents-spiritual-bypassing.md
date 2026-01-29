@@ -25,6 +25,8 @@ This makes business a uniquely honest mirror for self-development.
 
 - [[literature-notes/insight-is-not-wisdom-until-embodied|Insight is not wisdom until embodied]] - Business forces embodiment of insight
 - [[literature-notes/experiments-make-knowledge-embodied|Experiments make knowledge embodied]] - Business as continuous experiment
+- [[literature-notes/business-alignment-is-spiritual-alignment|Business alignment and spiritual alignment are the same thing]]
+- [[literature-notes/business-as-self-awareness-practice|Business is a self-awareness practice, not separate from life]]
 
 ## Source
 

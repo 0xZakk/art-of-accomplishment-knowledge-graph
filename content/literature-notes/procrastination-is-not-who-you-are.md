@@ -25,6 +25,10 @@ When the man is guided to simply say "procrastination is not what I am" without 
 - [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]] - How fixed identities constrain
 - [[literature-notes/the-story-of-brokenness-is-the-problem|The story of brokenness is the problem]] - The narrative overlay that creates suffering
 - [[literature-notes/shame-never-changes-behavior|Shame never changes behavior]] - Why shame-based approaches fail
+- [[literature-notes/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
+- [[literature-notes/avoidance-chain-from-essence-to-addiction|The avoidance chain runs from essential self through thinking to addiction]]
+- [[literature-notes/feeling-your-essential-nature-dissolves-avoidance|Feeling your essential nature dissolves avoidance behaviors]]
+- [[literature-notes/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
 
 ## Source
 

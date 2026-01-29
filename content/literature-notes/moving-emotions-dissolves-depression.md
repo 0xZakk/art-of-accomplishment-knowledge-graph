@@ -40,6 +40,10 @@ The judgment was the cap on the emotion. Remove the cap, let the emotion flow, a
 
 - [[literature-notes/self-judgment-defends-against-emotions|Self-judgment is a defense against feeling emotions]]
 - [[literature-notes/grief-of-self-abandonment|Grief of self-abandonment]]
+- [[literature-notes/rage-as-gateway-to-healing|Rage can be the gateway to healing]]
+- [[literature-notes/positive-self-talk-can-be-passive-aggression|Positive self-talk can be a form of self-directed passive aggression]]
+- [[literature-notes/chronic-stuckness-leads-to-depression|Chronic stuckness leads to depression through self-oppression]]
+- [[literature-notes/when-love-shows-up-unloved-parts-surface|When love shows up, unloved parts surface to be loved]]
 
 ## Source
 

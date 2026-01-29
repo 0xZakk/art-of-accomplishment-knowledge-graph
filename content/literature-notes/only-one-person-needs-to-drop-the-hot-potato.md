@@ -25,6 +25,7 @@ Second, you have to give yourself the same grace you're extending. It's very har
 - [[literature-notes/shame-hot-potato|Shame gets passed back and forth in fights]] - The dynamic being broken
 - [[literature-notes/feel-whats-underneath-the-shame|Feel what's underneath the shame to break stagnation]] - The emotional process
 - [[literature-notes/fighting-without-shame-transforms-conflict|Fighting without shame transforms conflict]] - The result
+- [[literature-notes/anger-and-withdrawal-pass-the-shame|Anger and withdrawal of love are how shame gets passed]]
 
 ## Source
 

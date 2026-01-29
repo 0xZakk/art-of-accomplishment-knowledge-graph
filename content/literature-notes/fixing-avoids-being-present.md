@@ -27,6 +27,9 @@ When she finally arrives in the present moment, she names it herself: "I'm avoid
 - [[literature-notes/fixing-mindset-perpetuates-stuckness|Fixing mindset perpetuates stuckness]] - The loop of trying to fix the fixing
 - [[literature-notes/stop-fixing-others-to-help-them-change|Stop fixing others to help them change]] - Why people reject being fixed
 - [[literature-notes/accomplishment-is-undoing-not-doing|Accomplishment is undoing, not doing]] - Being with as undoing
+- [[literature-notes/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
+- [[literature-notes/feeling-of-failure-drives-fixing|The feeling that everything I touch fails drives compulsive fixing]]
+- [[literature-notes/judgment-protects-from-vastness|Judgment protects from a vastness that triggers anxiety]]
 
 ## Source
 

@@ -25,6 +25,7 @@ This is not a reason to distrust the body, but rather to avoid elevating any sin
 - [[literature-notes/body-awareness-is-just-attention|Body awareness is just placing attention in the body]] - The foundation of embodiment
 - [[literature-notes/no-right-or-wrong-only-perspectives|No right or wrong, only perspectives]] - Truth as partial and perspectival
 - [[literature-notes/confusing-state-with-insight|Confusing state with insight]] - The trap of equating feeling with truth
+- [[literature-notes/cultivating-all-intelligences-creates-clarity|Cultivating all intelligences creates clarity]]
 
 ## Source
 

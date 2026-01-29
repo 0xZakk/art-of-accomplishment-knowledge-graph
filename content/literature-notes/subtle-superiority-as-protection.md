@@ -25,6 +25,9 @@ The dissolution came not through insight but through helplessness — a situatio
 - [[literature-notes/holding-it-together-blocks-support|Holding it together shields you from the support trying to reach you]]
 - [[literature-notes/helplessness-is-the-emotion-being-avoided|The feeling being avoided underneath 'I've got this' is helplessness]]
 - [[literature-notes/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]]
+- [[literature-notes/putting-yourself-above-others-is-protection|Putting yourself above others is a subtle form of protection]]
+- [[literature-notes/helplessness-dissolves-false-self-reliance|Helplessness dissolves false self-reliance]]
+- [[literature-notes/gentle-narcissism-in-the-call-to-coach|Gentle narcissism hides in the call to coach]]
 
 ## Source
 

@@ -25,6 +25,9 @@ These two stances together — reverence and wonder — transform the quality of
 - [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]] - The principle underlying this practice
 - [[literature-notes/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]] - Wonder as the second pillar of deep listening
 - [[literature-notes/mirroring-reveals-how-much-we-misunderstand|Mirroring reveals how much we misunderstand each other]] - The practice that teaches this
+- [[literature-notes/depersonalize-the-problem|Depersonalize the problem — it's a patient on the table]]
+- [[literature-notes/listen-to-yourself-with-unconditional-acceptance|Listening to yourself with unconditional acceptance is the fastest path to listening well]]
+- [[literature-notes/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
 
 ## Source
 

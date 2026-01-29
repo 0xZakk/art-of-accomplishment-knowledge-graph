@@ -25,6 +25,10 @@ This is a core principle in Joe's work: what you do to others, you do to yoursel
 - [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - The foundational principle behind this
 - [[literature-notes/internal-alignment-mirrors-organizational-alignment|Internal alignment mirrors organizational alignment]] - The organizational expression
 - [[literature-notes/jealousy-is-control-disguised-as-love|Jealousy is control disguised as love]] - The relationship expression of the same control pattern
+- [[literature-notes/relationship-control-mirrors-leadership-control|Relationship control mirrors leadership control]]
+- [[literature-notes/jealousy-masks-rejected-parts-of-self|Jealousy masks rejected parts of self]]
+- [[literature-notes/wanting-to-be-seen-prevents-seeing-others|Wanting to be seen prevents you from seeing others]]
+- [[literature-notes/inner-critic-mirrors-relationship-patterns|The inner critic mirrors your relationship patterns]]
 
 ## Source
 

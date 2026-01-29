@@ -26,6 +26,8 @@ The resentment wasn't about the friend or the situation—it was about Joe's dau
 - [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]] - Self-permission to want
 - [[literature-notes/wanting-matters-more-than-what-you-want|Wanting matters more than what you want]] - The primacy of wanting itself
 - [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]] - When suppressed wants create dysfunction
+- [[literature-notes/self-reliance-as-intimacy-avoidance|Self-reliance can be a form of intimacy avoidance]]
+- [[literature-notes/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]]
 
 ## Source
 

@@ -27,6 +27,8 @@ Key distinctions: emotional fluidity is NOT detached observation ("The Watcher")
 - [[literature-notes/emotional-fluidity-is-already-there|Emotional fluidity is already there]] - It's our natural state, not something to build
 - [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]] - Joy won't come where her children aren't welcome
 - [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - You can't selectively numb
+- [[literature-notes/emotions-move-fastest-without-story|Emotions move fastest without story]]
+- [[literature-notes/emotions-move-through-a-rainbow-not-discrete-categories|Emotions move through a rainbow rather than discrete categories]]
 
 ## Source
 

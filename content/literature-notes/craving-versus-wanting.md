@@ -43,6 +43,9 @@ The world champion golfer doesn't just love winning—he loves practicing. That'
 
 - [[literature-notes/wanting-is-aliveness|Wanting is aliveness]]
 - [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning your wants means being okay with having them]]
+- [[literature-notes/obligation-oppresses-every-domain|Obligation oppresses every domain it touches — money, work, relationships]]
+- [[literature-notes/seeking-power-is-an-expression-of-fear|Seeking power is always an expression of fear]]
+- [[literature-notes/war-with-your-wants-creates-self-sabotage|Being at war with your wants creates self-sabotage]]
 
 ## Source
 

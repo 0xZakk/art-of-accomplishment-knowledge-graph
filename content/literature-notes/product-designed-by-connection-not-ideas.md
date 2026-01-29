@@ -21,6 +21,7 @@ This inverts the typical product development process. Instead of having an idea 
 
 - [[literature-notes/active-listening-is-asking-questions|Active listening means asking questions, not just receiving]]
 - [[literature-notes/being-interested-not-interesting|Being interested rather than interesting creates connection]]
+- [[literature-notes/sales-is-connecting-not-convincing|Sales is connecting, not convincing]]
 
 ## Source
 

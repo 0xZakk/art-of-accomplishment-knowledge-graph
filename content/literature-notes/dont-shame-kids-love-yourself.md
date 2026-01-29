@@ -24,6 +24,11 @@ Through Hand in Hand Parenting, Joe and Tara learned to stop shaming and punishi
 - [[literature-notes/self-love-sets-the-capacity-limit-for-loving-others|Self-love sets the capacity limit for loving others]] - The root principle
 - [[literature-notes/shame-never-changes-behavior|Shame never changes behavior]] - Why shaming doesn't work
 - [[literature-notes/inner-voice-mirrors-parenting|Inner voice mirrors parenting]] - The transmission mechanism
+- [[literature-notes/teach-children-self-referencing|Teaching children to reference themselves builds their internal compass]]
+- [[literature-notes/parenting-as-self-development-practice|Parenting is a profound self-development practice]]
+- [[literature-notes/not-responsible-for-others-emotions|Declaring 'I'm not responsible for how you feel' restores full expression]]
+- [[literature-notes/parenting-is-the-deepest-ego-work|Parenting is the deepest ego work you can do]]
+- [[literature-notes/parenting-as-ego-dissolution|Parenting is one of the deepest ego dissolution practices available]]
 
 ## Source
 

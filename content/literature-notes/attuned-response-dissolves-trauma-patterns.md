@@ -30,6 +30,9 @@ The key insight is that trauma attunement is different from regular attunement. 
 - [[literature-notes/attunement-regulates-both-nervous-systems|Attunement regulates both nervous systems]] - The physiological mechanism
 - [[literature-notes/fights-are-trauma-responses-not-personality-flaws|Fights are trauma responses, not personality flaws]] - Why attunement to trauma matters
 - [[literature-notes/name-your-trauma-in-the-fight|Name your trauma in the fight]] - Recognizing you're in trauma as the first step
+- [[literature-notes/stone-face-teaches-stone-face|The stone-faced baby experiment shows how suppression is transmitted]]
+- [[literature-notes/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
+- [[literature-notes/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
 
 ## Source
 

@@ -28,6 +28,7 @@ This reveals why self-help strategies often fail: telling yourself to love yours
 - [[literature-notes/chasing-love-is-also-pushing-it-away|Chasing love is also pushing it away]] - The pursuit blocks reception
 - [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness, not the feeling]] - Running is the real obstacle
 - [[literature-notes/caretaking-as-strategy-to-feel-love|Caretaking as strategy to feel love]] - Giving love outward to avoid receiving it
+- [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 
 ## Source
 

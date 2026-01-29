@@ -25,6 +25,7 @@ The principle "I'm already free" captures this — it's a recognition, not an as
 - [[literature-notes/enjoyment-is-the-true-measure-of-efficiency|Enjoyment is the true measure of efficiency]] - Joy as a productivity signal
 - [[literature-notes/energy-management-over-time-management|Energy management over time management]] - Where real capacity comes from
 - [[literature-notes/busyness-is-not-productivity|Busyness is not productivity]] - The trap of efforting
+- [[literature-notes/enjoyment-is-more-efficient-than-pushing-through|Finding enjoyment in work is more efficient than pushing through]]
 
 ## Source
 

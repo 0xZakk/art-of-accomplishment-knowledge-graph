@@ -27,6 +27,7 @@ Joe coaches CEOs differently based on their background: athletes get body metaph
 - [[literature-notes/logical-vs-emotional-partner-dynamic|Logical vs emotional partner dynamic]] - How imbalance plays out in relationships
 - [[literature-notes/body-awareness-is-just-attention|Body awareness is just placing attention in the body]] - The starting practice
 - [[literature-notes/all-decisions-are-emotional|All decisions are emotional]] - Why intellect alone can't decide
+- [[literature-notes/body-lies-as-much-as-mind|The body lies just as much as the mind]]
 
 ## Source
 

@@ -24,6 +24,7 @@ Joe also notes that generosity comes in many forms beyond money: Tiago Forte's g
 - [[literature-notes/generosity-dissolves-ego|Generosity dissolves ego]] - The mechanism of transformation
 - [[literature-notes/seeing-is-the-core-of-generosity|Seeing is the core of generosity]] - What unites all forms
 - [[literature-notes/obligation-kills-love|Taking responsibility from obligation kills love]] - The opposite of true generosity
+- [[literature-notes/giving-without-exchange-is-destructive|Giving without exchange is destructive]]
 
 ## Source
 

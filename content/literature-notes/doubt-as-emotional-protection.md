@@ -28,6 +28,9 @@ The key insight is recognizing that doubt is not providing useful information ab
 
 - [[literature-notes/doubt-is-sin-of-heart|Doubt is the sin of the heart]] - How closed hearts create doubt
 - [[literature-notes/fear-of-success-vs-failure|Fear of success vs. fear of failure]] - The emotions doubt protects against
+- [[literature-notes/doubt-protects-from-unwanted-emotions|Doubt protects you from emotions you don't want to feel]]
+- [[literature-notes/doubt-is-leaving-your-heart|Doubt is leaving your heart]]
+- [[literature-notes/welcome-doubt-instead-of-running|Welcoming doubt instead of running from it opens the heart]]
 
 ## Source
 

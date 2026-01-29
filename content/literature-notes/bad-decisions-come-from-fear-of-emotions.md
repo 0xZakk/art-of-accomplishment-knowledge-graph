@@ -24,6 +24,11 @@ The flip side is equally clear: when we stop being afraid of our emotions, we be
 
 - [[literature-notes/fear-limits-optionality|Fear limits optionality]] - Fear of emotions narrows available choices
 - [[literature-notes/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]] - Doubt is a mechanism to avoid emotional risk
+- [[literature-notes/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]
+- [[literature-notes/indecision-means-unfelt-emotions|Indecision signals unfelt emotions about consequences]]
+- [[literature-notes/decisions-reveal-emotional-avoidance|Every decision is an attempt to avoid an emotion]]
+- [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots in life]]
+- [[literature-notes/fear-of-consequences-is-fear-of-emotional-states|Fear of consequences is really fear of emotional states]]
 
 ## Source
 

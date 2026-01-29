@@ -25,6 +25,7 @@ What makes this insight powerful is that it cuts both ways. We can use the feeli
 - [[literature-notes/fear-is-excitement-without-the-breath|Fear is excitement without the breath]] - The somatic relationship between fear and excitement
 - [[literature-notes/financial-safety-is-not-about-money|Financial safety is not about money]] - Safety as an internal state, not external condition
 - [[literature-notes/knowing-yourself-is-the-only-safety|Knowing yourself is the only safety]] - True security is internal
+- [[literature-notes/safety-can-disconnect-from-reality|The pursuit of safety can disconnect you from reality]]
 
 ## Source
 

@@ -27,6 +27,7 @@ Even altruism has selfishness in it — helping others feels genuinely good. The
 - [[literature-notes/wanting-matters-more-than-what-you-want|Wanting matters more than what you want]] - The importance of the capacity to want
 - [[literature-notes/wanting-is-aliveness|Wanting is aliveness]] - Wants as evolutionary fuel
 - [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - Exploration over fixing
+- [[literature-notes/wants-are-evolutionary-strategies|Wants are strategies for essential human needs]]
 
 ## Source
 

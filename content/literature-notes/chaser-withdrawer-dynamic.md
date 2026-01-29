@@ -25,6 +25,7 @@ The way out isn't for either person to stop being who they are, but to leave fig
 - [[literature-notes/agitator-avoider-dynamic|Agitator-avoider dynamic]] - A related polarity in conflict styles
 - [[literature-notes/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]] - The shared need underneath the different strategies
 - [[literature-notes/fights-are-always-about-being-seen-and-safe|Fights are always about being seen and safe]] - What's really at stake
+- [[literature-notes/chasing-love-is-also-pushing-it-away|Chasing love is also pushing it away]]
 
 ## Source
 

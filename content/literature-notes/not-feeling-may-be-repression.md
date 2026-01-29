@@ -22,6 +22,8 @@ This distinction matters because the remedy is different. If you truly can't fee
 - [[literature-notes/attention-is-feeling|Attention directed at the body is already feeling]]
 - [[literature-notes/numbness-as-survival-gift|Emotional numbness can be a survival gift, not a deficit]]
 - [[literature-notes/dissociation-removes-your-signals|Dissociation removes your signals]]
+- [[literature-notes/body-awareness-is-just-attention|Body awareness is simply directing attention to sensation]]
+- [[literature-notes/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
 
 ## Source
 

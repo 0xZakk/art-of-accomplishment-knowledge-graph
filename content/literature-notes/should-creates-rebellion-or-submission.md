@@ -23,6 +23,10 @@ Joe uses the roommate metaphor: if you had a roommate who spoke to you the way y
 
 - [[literature-notes/rebellion-and-approval-seeking-are-same-coin|Rebellion and approval seeking are the same coin]] - Both are responses to external authority
 - [[literature-notes/inner-voice-mirrors-parenting|Inner voice mirrors parenting]] - The should-voice often sounds like an internalized parent
+- [[literature-notes/internal-authority-mirrors-external|How you treat your internal authority mirrors how you treat external ones]]
+- [[literature-notes/bullying-yourself-creates-resistance|Bullying yourself into action creates resistance]]
+- [[literature-notes/rebellion-empowers-the-authority|Rebellion empowers the authority figure just as compliance does]]
+- [[literature-notes/inner-critic-uses-same-cult-dynamics|The inner critic uses the same dynamics as cults and political manipulation]]
 
 ## Source
 

@@ -27,6 +27,10 @@ This connects to why gratitude practices meet resistance in teams. The skeptic w
 - [[literature-notes/gratitude-reveals-solutions-in-problems|Gratitude directed at a problem reveals solutions within it]]
 - [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]]
 - [[literature-notes/fear-limits-optionality|Fear limits optionality]]
+- [[literature-notes/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant—gratitude resistance comes from fear of being unprepared]]
+- [[literature-notes/when-love-shows-up-unloved-parts-surface|When love shows up, unloved parts surface to be loved]]
+- [[literature-notes/positive-self-talk-can-be-passive-aggression|Positive self-talk can be a form of self-directed passive aggression]]
+- [[literature-notes/feel-fear-to-see-opportunity|Feel the fear fully to see the opportunities in chaos]]
 
 ## Source
 

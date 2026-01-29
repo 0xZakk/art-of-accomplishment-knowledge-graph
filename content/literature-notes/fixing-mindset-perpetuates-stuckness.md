@@ -25,6 +25,11 @@ The pattern: your consciousness got you into the problem, so the same consciousn
 - [[literature-notes/self-improvement-is-self-annihilation|Self-improvement as currently conceived is self-annihilation]] - The deeper pattern behind the fixing mindset
 - [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]] - "I should fix this" is another should
 - [[literature-notes/shame-stagnates-behavior|Shame stagnates rather than motivates behavior]] - Recognizing patterns with shame entrenches them
+- [[literature-notes/the-story-of-brokenness-is-the-problem|The story about how you're broken is the problem, not the brokenness]]
+- [[literature-notes/fixing-avoids-being-present|Compulsive fixing avoids being present]]
+- [[literature-notes/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
+- [[literature-notes/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
+- [[literature-notes/seeing-a-pattern-means-youre-halfway-through|Seeing a pattern means you're already halfway through it]]
 
 ## Source
 

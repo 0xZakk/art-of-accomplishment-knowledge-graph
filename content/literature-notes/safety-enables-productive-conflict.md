@@ -25,6 +25,9 @@ This reframes the purpose of safety in relationships — it's not about avoiding
 - [[literature-notes/safety-comes-from-working-through-conflict|Safety comes from working through conflict]] - The reciprocal truth: conflict also builds safety
 - [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer]] - When safety is present, fights become growth
 - [[literature-notes/safe-agreements-make-conflict-transformative|Safe agreements make conflict transformative]] - Structural ways to create this safety
+- [[literature-notes/relationship-agreements-create-safe-conflict|Relationship agreements create a safe playing field for conflict]]
+- [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger—your own and others'—drives conflict avoidance]]
+- [[literature-notes/measure-how-you-fight-not-how-often|Relationship health is measured by how you fight, not how often]]
 
 ## Source
 

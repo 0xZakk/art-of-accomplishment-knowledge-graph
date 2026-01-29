@@ -34,6 +34,7 @@ The freedom isn't in proving people wrong—it's in no longer needing to.
 - [[literature-notes/triggers-rhyme-with-negative-self-talk|We get triggered when something rhymes with our negative self-talk]]
 - [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others is something you don't like in yourself]]
 - [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
+- [[literature-notes/triggers-as-freedom-opportunities|Triggers reveal where freedom is available]]
 
 ## Source
 

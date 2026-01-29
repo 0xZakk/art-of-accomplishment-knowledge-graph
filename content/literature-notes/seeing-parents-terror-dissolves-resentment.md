@@ -27,6 +27,10 @@ The mother who guilt-tripped, the father who was absent and aggressive — under
 - [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]] - Allowing the heart to break increases capacity to love
 - [[literature-notes/heartbreak-opens-when-fear-is-felt|Heartbreak opens when fear is felt]] - Fear as gateway to heartbreak
 - [[literature-notes/compassion-is-truth-with-an-open-heart|Compassion is truth with an open heart]] - Seeing reality clearly with love
+- [[literature-notes/welcoming-childhood-hurt-expands-love|Welcoming childhood hurt expands capacity to love]]
+- [[literature-notes/heartbreak-is-where-love-for-a-parent-lives|Heartbreak over the relationship you never had is where love for a parent lives]]
+- [[literature-notes/open-heart-with-strong-boundaries|Loving parents requires both open heart and strong boundaries]]
+- [[literature-notes/guilt-is-inherited-fear-in-disguise|Guilt is inherited fear in disguise]]
 
 ## Source
 

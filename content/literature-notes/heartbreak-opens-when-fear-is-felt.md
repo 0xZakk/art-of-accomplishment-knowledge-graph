@@ -25,6 +25,10 @@ Joe reframes "you can't do it" not as discouragement but as truth in a different
 - [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]] - The transformative nature of heartbreak
 - [[literature-notes/emotions-respond-to-how-you-relate-to-them|Emotions respond to how you relate to them]] - How resistance versus allowing changes everything
 - [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]] - The mechanics of emotional transformation
+- [[literature-notes/clarity-comes-after-feeling-not-before|Clarity comes after feeling the emotion not before]]
+- [[literature-notes/seeing-parents-terror-dissolves-resentment|Seeing parents' terror dissolves resentment]]
+- [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[literature-notes/fear-is-present-on-every-path|Fear is present on every path so face it directly]]
 
 ## Source
 

@@ -24,6 +24,9 @@ The way through is somatic, not cognitive. Feeling the stuck place, rather than 
 - [[literature-notes/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]]
 - [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
 - [[literature-notes/discovery-not-improvement|Discovery, not improvement]]
+- [[literature-notes/seeing-a-pattern-means-youre-halfway-through|Seeing a pattern means you're already halfway through it]]
+- [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|The avoidance of the feeling is the stuckness, not the feeling itself]]
+- [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 
 ## Source
 

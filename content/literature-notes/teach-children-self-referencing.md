@@ -27,6 +27,11 @@ This same principle shows up in Joe's coaching: he perpetually deconstructs clie
 - [[literature-notes/chase-your-own-approval|Chase your own approval]] - The adult version of self-referencing
 - [[literature-notes/speaking-truth-dissolves-approval-seeking|Speaking your truth dissolves the need for approval]] - How self-referencing works in practice
 - [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - The outcome of deep self-referencing
+- [[literature-notes/dont-shame-kids-love-yourself|To not harm your children, love yourself]]
+- [[literature-notes/connection-is-the-core-of-parenting|Connection is the core need in parenting, not obedience]]
+- [[literature-notes/parenting-is-the-deepest-ego-work|Parenting is the deepest ego work you can do]]
+- [[literature-notes/parent-self-relationship-shapes-child-relationship|Your relationship with yourself shapes your relationship with your children]]
+- [[literature-notes/childhood-criticism-creates-self-distrust|Childhood criticism teaches you not to trust yourself]]
 
 ## Source
 

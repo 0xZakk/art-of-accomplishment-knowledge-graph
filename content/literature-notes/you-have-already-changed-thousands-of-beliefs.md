@@ -22,6 +22,9 @@ This insight directly undermines the belief that "it's hard" to change limiting 
 - [[literature-notes/trust-awareness-to-dissolve-beliefs|Trusting awareness dissolves limiting beliefs without effort]] - Why seeing is enough
 - [[literature-notes/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]] - Change is the natural state
 - [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - The coherent self that hides belief changes
+- [[literature-notes/realization-not-behavior-control|Seeing through limiting beliefs is realization, not behavior control]]
+- [[literature-notes/changing-behavior-changes-consciousness|Changing behavior is the most efficient way to change consciousness]]
+- [[literature-notes/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]]
 
 ## Source
 

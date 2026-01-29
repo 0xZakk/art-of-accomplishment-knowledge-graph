@@ -40,6 +40,7 @@ Not trying to change anything. Just noticing that sensations exist and move. And
 - [[literature-notes/pleasure-signals-safety|Pleasure signals safety to the nervous system]]
 - [[literature-notes/wanting-is-aliveness|Wanting is aliveness]]
 - [[literature-notes/how-you-do-it-determines-if-you-do-it|How you do something determines if you do it]]
+- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
 
 ## Source
 

@@ -25,6 +25,10 @@ The trap creates a feeling of being stuck: if you can't leave and be loving, all
 - [[literature-notes/false-love-erodes-power-in-relationships|Maintaining false love erodes power and attraction]] - What happens when we follow these false rules
 - [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]] - Another form of closing the heart
 - [[literature-notes/fear-limits-optionality|Fear limits optionality]] - How the trapped feeling narrows choices
+- [[literature-notes/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]]
+- [[literature-notes/contrary-action-breaks-love-patterns|Contrary action breaks conditioned love patterns]]
+- [[literature-notes/boundaries-and-openness-are-the-same-thing|Drawing boundaries and opening your heart are the same thing]]
+- [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 
 ## Source
 

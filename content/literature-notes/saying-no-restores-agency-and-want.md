@@ -27,6 +27,7 @@ There's something scary about this empowerment too — taking full responsibilit
 - [[literature-notes/boundaries-open-your-heart|Boundaries open your heart]] - Boundaries create openness rather than closure
 - [[literature-notes/boundaries-increase-capacity-to-love|Boundaries increase capacity to love]] - Saying no expands love
 - [[literature-notes/owning-your-wants-dissolves-passive-aggression|Owning your wants dissolves passive aggression]] - Clarity of want prevents resentment
+- [[literature-notes/boundaries-declare-your-action-not-theirs|Boundaries declare your action, not theirs]]
 
 ## Source
 

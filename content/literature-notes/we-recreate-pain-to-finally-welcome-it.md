@@ -27,6 +27,11 @@ This reframe transforms a frustrating pattern into an intelligent healing mechan
 - [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - The broader principle
 - [[literature-notes/ego-arises-to-protect-from-unacceptable-emotions|Ego arises to protect from unacceptable emotions]] - Why the avoidance exists
 - [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - How this manifests in life
+- [[literature-notes/fully-feeling-stops-the-pattern|Fully falling in love with the avoided feeling is the quickest way to stop a negative pattern]]
+- [[literature-notes/resisting-emotion-invites-it-back|Resisting an emotion is exactly what invites it back]]
+- [[literature-notes/engineering-heartbreak-to-avoid-heartbreak|We engineer heartbreak to avoid the heartbreak we haven't felt]]
+- [[literature-notes/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 
 ## Source
 

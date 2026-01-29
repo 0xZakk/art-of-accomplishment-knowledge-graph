@@ -48,6 +48,7 @@ When change comes from wanting rather than shoulding, it actually sticks.
 - [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]]
 - [[literature-notes/wanting-is-aliveness|Wanting is aliveness]]
 - [[literature-notes/discovery-not-improvement|Discovery, not improvement]]
+- [[literature-notes/should-is-a-mechanism-of-shame|Should is a mechanism of shame that locks bad habits in place]]
 
 ## Source
 

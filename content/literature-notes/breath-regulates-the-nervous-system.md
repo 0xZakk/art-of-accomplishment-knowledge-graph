@@ -20,6 +20,7 @@ Joe notes this is universal — yoga, Navy SEALs, same principle. But he warns t
 
 - [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]]
 - [[literature-notes/pleasure-signals-safety|Pleasure capacity signals nervous system safety]]
+- [[literature-notes/downregulation-is-not-resolution|Downregulation is useful but not resolution]]
 
 ## Source
 

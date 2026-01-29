@@ -25,6 +25,10 @@ This is why the quality of a parent's response to a child's emotions matters so 
 - [[literature-notes/children-bid-for-connection-not-defiance|Children's misbehavior is a bid for connection]] - Why children develop these patterns
 - [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]] - The adult manifestation
 - [[literature-notes/inner-voice-mirrors-parenting|Inner voice mirrors parenting]] - How parental words become self-talk
+- [[literature-notes/stone-face-teaches-stone-face|The stone-faced baby experiment shows how suppression is transmitted]]
+- [[literature-notes/attuned-response-dissolves-trauma-patterns|Finding your partner's attuned response dissolves trauma patterns]]
+- [[literature-notes/childhood-criticism-creates-self-distrust|Childhood criticism teaches you not to trust yourself]]
+- [[literature-notes/containing-emotions-to-connect-disconnects-you|Containing emotions to connect actually disconnects you]]
 
 ## Source
 

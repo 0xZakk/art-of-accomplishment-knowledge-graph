@@ -27,6 +27,10 @@ What makes this different from positive self-talk or affirmations is that nothin
 - [[literature-notes/welcome-the-inner-critic|Welcome the inner critic]] - The critic gets welcomed too
 - [[literature-notes/love-the-resistance|Love the resistance]] - Resistance itself is part of what gets loved
 - [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - Self-love is discovery, not self-improvement
+- [[literature-notes/love-the-resistance-to-the-thing|If you can't love the thing, love the resistance to the thing]]
+- [[literature-notes/self-love-is-somatic-welcoming-not-affirmation|Self-love is somatic welcoming, not affirmation]]
+- [[literature-notes/everyone-already-knows-the-way-home|Everyone already knows the way home]]
+- [[literature-notes/false-humility-as-defense|False humility is a defense against being seen]]
 
 ## Source
 

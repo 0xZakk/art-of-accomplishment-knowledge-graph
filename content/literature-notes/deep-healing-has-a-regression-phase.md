@@ -23,6 +23,7 @@ This regression phase represents the deepest protective parts surfacing last, at
 - [[literature-notes/loving-the-protective-part-before-asking-it-to-change|Love the protective part before asking it to change]] - How to work with the regression
 - [[literature-notes/comfort-can-prevent-transformation|Comfort can prevent transformation]] - Why the phase is necessary
 - [[literature-notes/grief-is-necessary-for-transformation|Grief is necessary for transformation]] - What happens during regression
+- [[literature-notes/grief-sustained-transforms-everything|Sustained grief transforms everything it touches]]
 
 ## Source
 

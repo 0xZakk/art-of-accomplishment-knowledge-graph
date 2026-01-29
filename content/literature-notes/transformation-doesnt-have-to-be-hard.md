@@ -22,6 +22,10 @@ The relationship to the work matters more than the work itself.
 
 - [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]]
 - [[literature-notes/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]]
+- [[literature-notes/you-have-already-changed-thousands-of-beliefs|You have already changed thousands of beliefs without noticing]]
+- [[literature-notes/changing-behavior-changes-consciousness|Changing behavior is the most efficient way to change consciousness]]
+- [[literature-notes/resistance-in-course-mirrors-resistance-in-life|The resistance that blocks you in a course is the same resistance blocking your life]]
+- [[literature-notes/wanting-someone-to-change-reflects-self-rejection|Wanting someone to change reflects a part of yourself you can't love]]
 
 ## Source
 

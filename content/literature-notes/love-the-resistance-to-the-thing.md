@@ -27,6 +27,9 @@ This principle dissolves the paradox of "I should love myself but I can't" by re
 - [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts creates more of them]] - Why fighting resistance amplifies it
 - [[literature-notes/hug-the-demon-dont-slay-it|Hug the demon, don't slay it]] - A related metaphor
 - [[literature-notes/welcome-the-inner-critic|Welcome the inner critic]] - Applying this to self-criticism
+- [[literature-notes/welcoming-is-self-love|Welcoming whatever arises is self-love]]
+- [[literature-notes/self-love-is-somatic-welcoming-not-affirmation|Self-love is somatic welcoming, not affirmation]]
+- [[literature-notes/everyone-already-knows-the-way-home|Everyone already knows the way home]]
 
 ## Source
 

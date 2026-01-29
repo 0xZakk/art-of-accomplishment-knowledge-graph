@@ -25,6 +25,7 @@ Identity doesn't just limit what you do—it limits what you can perceive. When 
 - [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]] - The broader principle
 - [[literature-notes/ego-resists-change-in-either-direction|The ego resists change in either direction]] - Why identity creates resistance
 - [[literature-notes/the-expansiveness-of-I-Am|The expansiveness of I Am]] - What opens up when identity loosens
+- [[literature-notes/smart-identity-prevents-trying|The 'smart' identity prevents you from trying—failure would disprove who you are]]
 
 ## Source
 

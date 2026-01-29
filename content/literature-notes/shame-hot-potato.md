@@ -41,6 +41,11 @@ It doesn't work.
 - [[literature-notes/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]]
 - [[literature-notes/triggers-reveal-self-judgment|Triggers reveal what we judge in ourselves]]
 - [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
+- [[literature-notes/only-one-person-needs-to-drop-the-hot-potato|Only one person needs to drop the shame hot potato]]
+- [[literature-notes/anger-and-withdrawal-pass-the-shame|Anger and withdrawal of love are how shame gets passed]]
+- [[literature-notes/fighting-without-shame-transforms-conflict|Fighting without shame transforms conflict]]
+- [[literature-notes/defensiveness-is-a-breadcrumb-to-shame|Defensiveness is a breadcrumb back to shame]]
+- [[literature-notes/defense-feels-like-attack|Your defense feels like an attack to the other person]]
 
 ## Source
 

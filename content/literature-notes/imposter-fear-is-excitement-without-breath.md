@@ -25,6 +25,7 @@ Joe distinguishes two types of fear: existential fear (threat to life) and expan
 - [[literature-notes/we-are-all-imposters-and-thats-fine|We are all imposters and that's fine]] - The cognitive complement to this somatic insight
 - [[literature-notes/breath-regulates-the-nervous-system|Breath regulates the nervous system]] - The mechanism behind the transformation
 - [[literature-notes/fear-as-road-map-not-enemy|Fear is a road map, not an enemy to conquer]] - The broader reframe of fear as information
+- [[literature-notes/same-experience-different-interpretation|The same experience can be terror or exhilaration depending on interpretation]]
 
 ## Source
 

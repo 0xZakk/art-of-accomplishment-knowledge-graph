@@ -24,6 +24,8 @@ The only exit is one person choosing to stop defending. Not because they're wron
 - [[literature-notes/shame-hot-potato|Shame gets passed back and forth in fights]]
 - [[literature-notes/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]]
 - [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]]
+- [[literature-notes/power-dynamics-are-two-scared-people|All power dynamics are two scared people defending themselves]]
+- [[literature-notes/not-defending-reveals-inherent-goodness|Not defending yourself reveals your inherent goodness]]
 
 ## Source
 

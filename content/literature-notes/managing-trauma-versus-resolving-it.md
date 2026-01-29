@@ -23,6 +23,7 @@ In a very large number of cases, trauma can actually be resolved — not just ma
 - [[literature-notes/downregulation-is-not-resolution|Downregulation is not resolution]] - The same distinction
 - [[literature-notes/feeling-the-held-back-emotion-ends-trauma-repetition|Feeling the held-back emotion ends trauma repetition]] - How resolution happens
 - [[literature-notes/insight-requires-embodied-integration|Insight requires embodied integration]] - Why intellectual understanding isn't enough
+- [[literature-notes/self-compassion-is-the-real-outcome|Self-compassion is the real outcome of healing]]
 
 ## Source
 

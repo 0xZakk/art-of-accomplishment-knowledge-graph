@@ -26,6 +26,7 @@ The implication is profound: most of what we take to be "reality" — about love
 - [[literature-notes/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic, not just intellectual]] - These patterns live in the body, not just the mind
 - [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]] - We recreate what was programmed as "love"
 - [[literature-notes/knowing-patterns-doesnt-free-you|Knowing patterns doesn't free you]] - Intellectual understanding alone can't undo theta-level programming
+- [[literature-notes/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood emotional patterns]]
 
 ## Source
 

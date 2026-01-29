@@ -25,6 +25,8 @@ You can't manufacture this state. What you can do is create the conditions: go i
 - [[literature-notes/being-held-requires-dropping-the-performance|Being held requires dropping the performance]] - You can't perform care and have it land
 - [[literature-notes/dissociation-removes-your-signals|Dissociation removes your signals]] - What happens when presence isn't embodied
 - [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer together]] - The larger context of fighting well
+- [[literature-notes/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
+- [[literature-notes/you-must-know-you-can-leave-to-love|You must know you can leave to truly love]]
 
 ## Source
 

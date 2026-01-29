@@ -25,6 +25,11 @@ Healing requires three things working together: on the nervous system level, gen
 - [[literature-notes/triggers-are-past-living-through-present|Triggers are past living through present]] - How trauma collapses time
 - [[literature-notes/attunement-patterns-become-adult-cycles|Attunement patterns become adult cycles]] - Childhood relational patterns persisting
 - [[literature-notes/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]] - Recreating the original dynamic
+- [[literature-notes/resistance-deepens-the-freeze|Resisting the freeze only deepens it]]
+- [[literature-notes/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuckness]]
+- [[literature-notes/you-are-already-doing-what-you-fear|You are already doing to yourself what you fear others will do]]
+- [[literature-notes/allowing-the-victim-creates-empowerment|Fully allowing the victim experience naturally creates empowerment]]
+- [[literature-notes/disappearing-as-survival-strategy|Disappearing is a sophisticated survival strategy]]
 
 ## Source
 

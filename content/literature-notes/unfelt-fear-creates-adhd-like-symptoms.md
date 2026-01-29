@@ -26,6 +26,7 @@ The tell is reliable: if you find yourself compulsively distracted, the question
 - [[literature-notes/anxiety-is-detrimental-to-productivity|Anxiety is detrimental to productivity]] - The broader productivity impact
 - [[literature-notes/dissociation-as-double-edged-sword|Dissociation as double-edged sword]] - How the numbing mechanism works
 - [[literature-notes/unfelt-emotions-create-physical-stress|Unfelt emotions create physical stress]] - The somatic cost
+- [[literature-notes/procrastination-is-emotional-avoidance|Procrastination is the avoidance of an emotional state]]
 
 ## Source
 

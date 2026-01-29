@@ -26,6 +26,8 @@ Joe emphasizes three concrete steps: adjust your expectations of them, prioritiz
 - [[literature-notes/boundaries-are-for-you-not-them|Boundaries are for you, not them]] - The fundamental purpose of boundaries
 - [[literature-notes/caretaking-prevents-hitting-bottom|Caretaking prevents hitting bottom]] - Over-helping can harm
 - [[literature-notes/high-eq-without-boundaries-leads-to-depletion|High EQ without boundaries leads to depletion]] - Sensitivity without self-protection
+- [[literature-notes/boundary-firmness-eliminates-fear-of-attack|Boundary firmness eliminates fear of attack]]
+- [[literature-notes/boundaries-not-view-for-narcissists|Boundaries, not VIEW, are the tool for narcissists]]
 
 ## Source
 

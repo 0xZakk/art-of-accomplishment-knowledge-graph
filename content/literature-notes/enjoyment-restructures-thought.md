@@ -27,6 +27,7 @@ The "awkward energy" that makes people uncomfortable isn't the need itself — i
 - [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]] - Enjoyment as antidote to stuckness
 - [[literature-notes/enjoyment-is-the-true-measure-of-efficiency|Enjoyment is the true measure of efficiency]] - Enjoyment as performance metric
 - [[literature-notes/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist]] - Positive states that restructure experience
+- [[literature-notes/enjoyment-dissolves-group-anxiety|Focus on enjoyment to dissolve group conversation anxiety]]
 
 ## Source
 

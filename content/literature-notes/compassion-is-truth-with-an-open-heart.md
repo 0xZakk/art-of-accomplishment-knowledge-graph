@@ -27,6 +27,7 @@ The key distinction: it's not *what* you say but the heart from which you say it
 - [[literature-notes/truth-over-comfort-in-relationships|Truth over comfort in relationships]]
 - [[literature-notes/being-seen-transforms-behavior|Being seen transforms behavior]]
 - [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
+- [[literature-notes/communication-techniques-get-weaponized|Communication techniques get weaponized without the right state]]
 
 ## Source
 

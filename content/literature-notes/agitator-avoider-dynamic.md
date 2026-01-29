@@ -35,6 +35,9 @@ Both are failing to hold boundaries. Both are failing to speak their truth. The 
 
 - [[literature-notes/shame-hot-potato|Shame gets passed back and forth in fights]]
 - [[literature-notes/communication-techniques-get-weaponized|Communication techniques get weaponized without the right state]]
+- [[literature-notes/resentment-is-stored-conflict|Resentment is stored conflict—the longer you avoid it, the bigger the explosion]]
+- [[literature-notes/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
+- [[literature-notes/not-sharing-hard-truths-prevents-real-love|Not sharing hard truths prevents real love]]
 
 ## Source
 

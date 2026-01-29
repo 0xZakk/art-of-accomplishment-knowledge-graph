@@ -23,6 +23,8 @@ The interesting moment comes when the client tries to feel his belly and his fac
 
 - [[literature-notes/dissociation-removes-your-signals|Dissociation removes your signals]] - "Can't feel" may be active dissociation
 - [[literature-notes/flow-state-is-embodiment-applied-to-life|Flow state in sports is the same skill as embodiment in life]] - Attention to body is the foundation of flow
+- [[literature-notes/not-feeling-may-be-repression|Thinking you can't feel may actually be repression]]
+- [[literature-notes/play-tennis-in-life|Apply your embodied skill from one domain to all of life]]
 
 ## Source
 

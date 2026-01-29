@@ -25,6 +25,9 @@ The reframe: instead of "How do I find my purpose?" ask "Am I living it in this 
 - [[literature-notes/purpose-is-in-the-how-not-the-what|Purpose is in the how, not the what]] - Where purpose actually lives
 - [[literature-notes/purpose-is-recognition-not-decision|Purpose is recognition, not decision]] - The shift from seeking to acknowledging
 - [[literature-notes/wrong-question-keeps-you-stuck|The wrong question keeps you stuck]] - How framing determines outcome
+- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
+- [[literature-notes/say-yes-then-filter-for-joy|Say yes to what intrigues you, then filter for joy]]
+- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
 
 ## Source
 

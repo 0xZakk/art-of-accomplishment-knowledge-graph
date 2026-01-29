@@ -25,6 +25,11 @@ The pattern is self-reinforcing: life constantly shows counter-evidence to the s
 - [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]] - "I'm a procrastinator" is an identity that perpetuates the behavior
 - [[literature-notes/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]] - The story creates the experience of stuckness
 - [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]] - The shame in the story prevents change
+- [[literature-notes/procrastination-is-not-who-you-are|Procrastination is not who you are — and knowing that is the real pain]]
+- [[literature-notes/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
+- [[literature-notes/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
+- [[literature-notes/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
+- [[literature-notes/fixing-avoids-being-present|Compulsive fixing avoids being present]]
 
 ## Source
 

@@ -25,6 +25,7 @@ This applies in every moment, not just at physical death. Parts of us die all th
 - [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - The identities death dissolves were already limiting us
 - [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]] - Growth naturally involves letting identities die
 - [[literature-notes/humility-is-not-taking-life-personally|Humility is not taking life personally]] - Death reveals that life was never personal
+- [[literature-notes/grief-of-self-abandonment|Grief of self-abandonment]]
 
 ## Source
 

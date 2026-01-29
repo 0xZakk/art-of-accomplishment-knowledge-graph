@@ -27,6 +27,7 @@ The fastest way to build this skill isn't practicing with others — it's listen
 - [[literature-notes/listen-to-yourself-with-unconditional-acceptance|Listen to yourself with unconditional acceptance]] - The foundational practice
 - [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]] - The broader principle
 - [[literature-notes/view-framework-for-listening|VIEW framework for listening]] - A structured approach to transformative listening
+- [[literature-notes/deep-listening-requires-self-listening|Deep listening requires listening to yourself simultaneously]]
 
 ## Source
 

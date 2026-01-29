@@ -41,6 +41,7 @@ If you have a war with your wanting, it makes it much harder to achieve—or kee
 - [[literature-notes/wanting-is-aliveness|Wanting is aliveness]]
 - [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning your wants means being okay with having them]]
 - [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
+- [[literature-notes/craving-versus-wanting|The difference between craving and wanting]]
 
 ## Source
 

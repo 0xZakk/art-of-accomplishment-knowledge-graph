@@ -24,6 +24,7 @@ This echoes the tennis coach session—the capacity is already present, just blo
 - [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses them all]]
 - [[literature-notes/go-deeper-into-the-defense|Going deeper into a defense pattern can unlock what's beneath it]]
 - [[literature-notes/flow-state-is-embodiment|Flow state in sport is the same skill as embodiment in life]]
+- [[literature-notes/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
 
 ## Source
 

@@ -27,6 +27,10 @@ This is why compliments feel threatening — they point to a vastness in us that
 - [[literature-notes/sensitivity-locked-down-for-safety|Sensitivity locked down for safety]] - Why we shut down in the first place
 - [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]] - The expansive quality of opening the heart
 - [[literature-notes/we-deflect-what-we-crave|We deflect what we crave]] - The paradox of pushing away what we want most
+- [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[literature-notes/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
+- [[literature-notes/pleasure-dissolves-the-boundary-of-self|Deep pleasure dissolves the boundary of self]]
+- [[literature-notes/receiving-requires-vulnerability|Receiving compliments requires the vulnerability we've been avoiding]]
 
 ## Source
 

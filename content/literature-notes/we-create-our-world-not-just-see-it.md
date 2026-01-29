@@ -24,6 +24,8 @@ Brett adds a powerful metaphor: target fixation. Like a motorcyclist looking at 
 - [[literature-notes/avoidance-creates-the-pattern-it-fears|Avoidance creates the pattern it fears]] - The self-fulfilling nature of projection
 - [[literature-notes/we-recreate-pain-to-finally-welcome-it|We recreate pain to finally welcome it]] - The emotional purpose of pattern recreation
 - [[literature-notes/confirmation-bias-from-emotional-avoidance|Confirmation bias from emotional avoidance]] - The perceptual filter
+- [[literature-notes/four-types-of-projection|There are four distinct types of projection]]
+- [[literature-notes/fully-feeling-stops-the-pattern|Fully falling in love with the avoided feeling is the quickest way to stop a negative pattern]]
 
 ## Source
 

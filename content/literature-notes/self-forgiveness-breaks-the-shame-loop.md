@@ -25,6 +25,8 @@ This points to a broader principle: compulsive behaviors often dissolve not thro
 - [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]] - The same principle applied to shame directly
 - [[literature-notes/love-is-the-antidote-to-shame|Love is the antidote to shame]] - The deeper mechanism
 - [[literature-notes/shame-drives-compulsive-avoidance|Shame drives compulsive avoidance behaviors]] - What self-forgiveness interrupts
+- [[literature-notes/avoidance-chain-from-essence-to-addiction|The avoidance chain runs from essential self through thinking to addiction]]
+- [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck in the patterns you regret]]
 
 ## Source
 

@@ -25,6 +25,10 @@ What you defend against externally reveals what you're defending against interna
 - [[literature-notes/holding-opposing-viewpoints-creates-freedom|Holding opposing viewpoints simultaneously creates freedom]] - The broader principle this enables
 - [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]] - Opening the heart is welcoming, not intellectual acceptance
 - [[literature-notes/closing-heart-to-protect-traps-you|Closing your heart to protect traps you]] - What happens when you don't open
+- [[literature-notes/jealousy-masks-rejected-parts-of-self|Jealousy masks rejected parts of self]]
+- [[literature-notes/opening-heart-to-the-no-creates-better-outcomes|Opening your heart to the 'no' creates better outcomes]]
+- [[literature-notes/openness-to-judgment-beats-defense|Openness to judgment is more comfortable than defense]]
+- [[literature-notes/open-heart-with-strong-boundaries|Loving parents requires both open heart and strong boundaries]]
 
 ## Source
 

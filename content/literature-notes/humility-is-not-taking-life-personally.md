@@ -26,6 +26,7 @@ Humility also means you can see your own darkness — the parts of you that coul
 - [[literature-notes/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]] - What happens as identity loosens
 - [[literature-notes/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]] - The curious stance that replaces defended identity
 - [[literature-notes/shame-never-changes-behavior|Shame never changes behavior]] - Shame locks identity in place rather than dissolving it
+- [[literature-notes/humility-requires-self-care|Humility can require self-care]]
 
 ## Source
 

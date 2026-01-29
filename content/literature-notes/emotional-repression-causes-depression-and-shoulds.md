@@ -26,6 +26,10 @@ The summary is devastating in its simplicity: "You are not feeling the emotion u
 - [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - The mechanism of total suppression
 - [[literature-notes/moving-emotions-dissolves-depression|Moving emotions dissolves depression]] - The cure
 - [[literature-notes/composure-is-self-imprisonment|Composure is self-imprisonment]] - Holding it together as a trap
+- [[literature-notes/chronic-stuckness-leads-to-depression|Chronic stuckness leads to depression through self-oppression]]
+- [[literature-notes/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[literature-notes/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]
+- [[literature-notes/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
 
 ## Source
 

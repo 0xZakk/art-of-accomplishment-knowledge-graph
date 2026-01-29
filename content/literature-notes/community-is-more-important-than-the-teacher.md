@@ -27,6 +27,7 @@ The best teacher-student relationship is one where the teacher "doesn't see them
 - [[literature-notes/community-amplifies-transformation|Community amplifies transformation]] - Core teaching on community's role
 - [[literature-notes/teachers-and-students-co-create-dysfunction|Teachers and students co-create dysfunction]] - The shadow side
 - [[literature-notes/charismatic-figures-validate-unmet-needs|Charismatic figures validate unmet needs]] - Why we project onto teachers
+- [[literature-notes/the-best-teacher-just-went-through-it|The best teacher just went through it]]
 
 ## Source
 

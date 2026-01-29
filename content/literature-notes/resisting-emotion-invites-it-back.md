@@ -25,6 +25,10 @@ This is the fundamental paradox of emotional resistance: the energy spent avoidi
 - [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - The general principle at work
 - [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting, emotions]] - The practice of genuine welcome
 - [[literature-notes/welcome-shame-dont-push-through-it|Welcome shame rather than pushing through it]] - Applied to shame specifically
+- [[literature-notes/fully-feeling-stops-the-pattern|Fully falling in love with the avoided feeling is the quickest way to stop a negative pattern]]
+- [[literature-notes/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
+- [[literature-notes/discomfort-is-the-resistance-not-the-emotion|The discomfort of emotions is the resistance to them, not the emotions themselves]]
+- [[literature-notes/depression-as-gift-you-wouldnt-trade|Depression can be a gift you wouldn't trade]]
 
 ## Source
 

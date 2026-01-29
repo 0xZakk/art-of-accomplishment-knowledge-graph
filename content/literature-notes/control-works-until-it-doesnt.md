@@ -23,6 +23,7 @@ The paradox is that the same dissociation and control that created the PTSD beca
 - [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
 - [[literature-notes/burnout-is-sustained-adrenaline-depletion|Burnout is sustained adrenaline depletion]]
 - [[literature-notes/overachieving-is-survival-mode|Overachieving is survival mode]]
+- [[literature-notes/dissociation-as-double-edged-sword|Dissociation is a double-edged sword]]
 
 ## Source
 

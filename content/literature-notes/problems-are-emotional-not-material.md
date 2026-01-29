@@ -24,6 +24,7 @@ This reframe is powerful because it shifts the locus of change from the external
 - [[literature-notes/avoidance-creates-the-pattern-it-fears|Avoidance creates the pattern it fears]] - The mechanism by which emotional avoidance generates material problems
 - [[literature-notes/bad-decisions-come-from-fear-of-emotions|Bad decisions come from fear of emotions]] - How emotional avoidance distorts decision-making
 - [[literature-notes/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]] - The feeling of being stuck is itself an emotional state, not a material fact
+- [[literature-notes/fear-of-consequences-is-fear-of-emotional-states|Fear of consequences is really fear of emotional states]]
 
 ## Source
 

@@ -26,6 +26,9 @@ This must be framed as experimentation, not improvement. The moment it becomes a
 - [[literature-notes/inner-critic-is-not-your-voice|The inner critic is not your voice]]
 - [[literature-notes/resisting-inner-critic-strengthens-it|Resisting the inner critic strengthens it]]
 - [[literature-notes/experiments-separate-identity-from-behavior|Experiments separate identity from behavior]]
+- [[literature-notes/respond-differently-to-the-inner-critic|Respond differently to the inner critic as a practice]]
+- [[literature-notes/play-with-your-inner-critic-dont-fight-it|Play with the inner critic rather than fighting it]]
+- [[literature-notes/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
 
 ## Source
 

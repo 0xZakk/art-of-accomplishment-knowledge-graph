@@ -25,6 +25,7 @@ This maps directly to Joe's broader framework of transformation requiring all th
 - [[literature-notes/three-brains-of-transformation|Three brains of transformation]] - The broader framework of head, heart, and body
 - [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]] - What happens when all three align
 - [[literature-notes/procrastination-has-wisdom|Procrastination contains wisdom worth listening to]] - Misalignment is the signal procrastination carries
+- [[literature-notes/intuition-sees-what-logic-cannot|Intuition sees what the logical mind cannot]]
 
 ## Source
 

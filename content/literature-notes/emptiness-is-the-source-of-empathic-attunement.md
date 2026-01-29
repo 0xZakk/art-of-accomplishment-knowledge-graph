@@ -25,6 +25,11 @@ The recommendation for developing this capacity is not to chase empathic skills 
 
 - [[literature-notes/attunement-is-listening-without-leaving-yourself|Attunement is listening without leaving yourself]] - The mechanics of deep listening
 - [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]] - How presence affects reception
+- [[literature-notes/numbness-as-survival-gift|Emotional numbness can be a survival gift, not a deficit]]
+- [[literature-notes/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]
+- [[literature-notes/empathy-is-being-with-not-in|Empathy is being with someone, not in someone]]
+- [[literature-notes/subtle-superiority-as-protection|Subtle superiority is a protection pattern that creates isolation]]
+- [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 
 ## Source
 

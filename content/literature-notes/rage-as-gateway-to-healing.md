@@ -39,6 +39,9 @@ When the woman lets herself shake, lets the rage express, something shifts. 50 y
 - [[literature-notes/moving-emotions-dissolves-depression|Moving the emotion dissolves depression]]
 - [[literature-notes/self-judgment-defends-against-emotions|Self-judgment is a defense against feeling emotions]]
 - [[literature-notes/when-love-shows-up-unloved-parts-surface|When love shows up, unloved parts surface to be loved]]
+- [[literature-notes/express-anger-without-directing-it|You can express anger without directing it at anyone]]
+- [[literature-notes/dominate-dont-convince|Dominate, don't convince]]
+- [[literature-notes/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuckness]]
 
 ## Source
 

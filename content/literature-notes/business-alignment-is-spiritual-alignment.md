@@ -25,6 +25,9 @@ This isn't about adding spiritual practices on top of business — it's recogniz
 - [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]] - The same principle applied to individual productivity
 - [[literature-notes/money-as-expression-of-alignment|Money as expression of alignment]] - Revenue follows alignment
 - [[literature-notes/authenticity-transforms-business|Authenticity transforms business]] - Being yourself as a business strategy
+- [[literature-notes/embrace-intensity-in-business|Embracing intensity in business reveals what you're avoiding]]
+- [[literature-notes/business-as-self-awareness-practice|Business is a self-awareness practice, not separate from life]]
+- [[literature-notes/business-prevents-spiritual-bypassing|Business prevents spiritual bypassing because reality keeps showing up]]
 
 ## Source
 

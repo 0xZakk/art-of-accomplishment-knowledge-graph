@@ -23,6 +23,10 @@ The healing path isn't to destroy the blank space but to expand around it. Joe i
 - [[literature-notes/joy-wont-come-where-children-unwelcome|Joy won't come into a house where her children aren't welcome]]
 - [[literature-notes/not-feeling-may-be-repression|Thinking you can't feel may actually be repression]]
 - [[literature-notes/go-deeper-into-the-defense|Going deeper into a defense pattern can unlock what's beneath it]]
+- [[literature-notes/tears-dont-disturb-the-quiet|Tears don't disturb the inner quiet—they help the body]]
+- [[literature-notes/joy-wont-enter-where-emotions-unwelcome|Joy won't come into a house where her children aren't welcome]]
+- [[literature-notes/disappearing-as-survival-strategy|Disappearing is a sophisticated survival strategy]]
+- [[literature-notes/parenting-as-ego-dissolution|Parenting is one of the deepest ego dissolution practices available]]
 
 ## Source
 

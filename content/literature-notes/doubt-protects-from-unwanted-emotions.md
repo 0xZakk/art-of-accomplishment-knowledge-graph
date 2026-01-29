@@ -36,6 +36,9 @@ Successful people have doubt too. But they recognize it as a signal about emotio
 - [[literature-notes/doubt-is-leaving-your-heart|Doubt is leaving your heart]]
 - [[literature-notes/self-judgment-defends-against-emotions|Self-judgment is a defense against feeling emotions]]
 - [[literature-notes/fear-of-success-creates-doubt-too|Fear of success creates doubt just like fear of failure]]
+- [[literature-notes/doubt-as-emotional-protection|Doubt as emotional protection]]
+- [[literature-notes/moving-emotions-dissolves-depression|Moving the emotion dissolves depression]]
+- [[literature-notes/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]]
 
 ## Source
 

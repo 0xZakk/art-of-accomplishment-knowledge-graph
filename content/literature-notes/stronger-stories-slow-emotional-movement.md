@@ -25,6 +25,10 @@ A client crying without knowing why after a silent retreat illustrates the ideal
 - [[literature-notes/emotions-are-glue-holding-beliefs|Emotions are glue holding beliefs]] - How stories trap emotions
 - [[literature-notes/grief-is-identity-dissolution|Grief is identity dissolution]] - Grief as the story dissolving
 - [[literature-notes/naming-emotions-can-replace-feeling|Naming emotions can replace feeling]] - When labeling becomes avoidance
+- [[literature-notes/moving-emotions-dissolves-stories|Moving emotions dissolves stories and creates clarity]]
+- [[literature-notes/grief-sustained-transforms-everything|Sustained grief transforms everything it touches]]
+- [[literature-notes/story-dissolution-is-progress-not-a-problem|Story dissolution is progress, not a problem]]
+- [[literature-notes/progression-from-anger-to-deeper-emotions|The progression from anger reveals grief and fear underneath]]
 
 ## Source
 

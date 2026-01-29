@@ -25,6 +25,7 @@ Any identity that depends on outcomes (smart, successful, talented) creates frag
 - [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - The broader principle
 - [[literature-notes/fear-of-success-creates-doubt-too|Fear of success creates doubt too]] - Another way identity blocks performance
 - [[literature-notes/fear-limits-optionality|Fear limits optionality]] - Identity fear as optionality limiter
+- [[literature-notes/any-self-definition-limits-you|Any way you define yourself limits you]]
 
 ## Source
 

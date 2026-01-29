@@ -26,6 +26,8 @@ The resistance doesn't just slow the emotion down — it fundamentally alters wh
 - [[literature-notes/anger-unresisted-is-determination|Anger unresisted becomes determination and clarity]] - The flagship example
 - [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming emotions is different from accepting them]] - The stance that enables non-resistance
 - [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - The broader cost of resistance
+- [[literature-notes/resistance-creates-the-feared-outcome|Resisting an emotion creates the very outcome you fear]]
+- [[literature-notes/discomfort-is-the-resistance-not-the-emotion|The discomfort of emotions is the resistance to them, not the emotions themselves]]
 
 ## Source
 

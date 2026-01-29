@@ -22,6 +22,11 @@ The voice in the head often operates from deep fear. Telling fear "don't be scar
 - [[literature-notes/resisting-inner-critic-strengthens-it|Resisting the inner critic only strengthens it]] - Why the opposite approach fails
 - [[literature-notes/joy-wont-enter-where-emotions-unwelcome|Joy won't enter where her children aren't welcome]] - The broader welcoming principle
 - [[literature-notes/inner-critic-speaks-from-care|Everything the inner critic says is an act of care]] - Understanding what's behind the harsh voice
+- [[literature-notes/love-the-resistance-to-the-thing|If you can't love the thing, love the resistance to the thing]]
+- [[literature-notes/welcoming-is-self-love|Welcoming whatever arises is self-love]]
+- [[literature-notes/inner-critic-is-not-your-voice|The inner critic is not your voice — it's inherited]]
+- [[literature-notes/love-the-resistance|Loving resistance is the path through it]]
+- [[literature-notes/resistance-gives-the-inner-critic-its-power|Resistance gives the inner critic its power]]
 
 ## Source
 

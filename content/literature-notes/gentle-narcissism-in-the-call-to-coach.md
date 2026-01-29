@@ -25,6 +25,11 @@ Joe's litmus tests: If you want the moniker of "coach" more than the being of se
 - [[literature-notes/false-humility-as-defense|False humility as defense]] - Another form of the same pattern
 - [[literature-notes/hollowing-out-is-a-perpetual-process|The hollowing out process never ends]] - The ongoing work of seeing your shadows
 - [[literature-notes/facilitating-from-your-own-edge|Facilitating from your own edge]] - Doing the work while doing the work
+- [[literature-notes/three-dangerous-motivations-for-coaching|Three dangerous motivations draw people to coaching]]
+- [[literature-notes/you-are-a-terrible-boss-to-yourself|You are a terrible boss to yourself and that's why you're stuck]]
+- [[literature-notes/if-you-think-you-have-a-choice-dont-do-it|If you think you have a choice about your calling, don't do it]]
+- [[literature-notes/subtle-superiority-as-protection|Subtle superiority is a protection pattern that creates isolation]]
+- [[literature-notes/putting-yourself-above-others-is-protection|Putting yourself above others is a subtle form of protection]]
 
 ## Source
 

@@ -25,6 +25,8 @@ This applies everywhere — in business, the no from a customer reveals what the
 - [[literature-notes/holding-opposing-viewpoints-creates-freedom|Holding opposing viewpoints simultaneously creates freedom]] - The no only threatens you if you can't hold both perspectives
 - [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]] - Suppressing the no prevents growth
 - [[literature-notes/opening-heart-to-what-you-resist|Opening your heart to what you resist dissolves rigidity]] - How to actually receive the no
+- [[literature-notes/opening-heart-to-the-no-creates-better-outcomes|Opening your heart to the 'no' creates better outcomes]]
+- [[literature-notes/relationship-control-mirrors-leadership-control|Relationship control mirrors leadership control]]
 
 ## Source
 

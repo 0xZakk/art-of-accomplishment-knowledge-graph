@@ -25,6 +25,8 @@ The practice isn't to successfully pin down the shame and love it perfectly. It'
 - [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]] - Feeling shame directly transforms it
 - [[literature-notes/being-loved-in-the-shame-dissolves-it|Being loved in the shame dissolves it]] - Love meets shame and it releases
 - [[literature-notes/love-is-the-antidote-to-shame|Love is the antidote to shame]] - The fundamental relationship between love and shame
+- [[literature-notes/love-the-resistance|Loving resistance is the path through it]]
+- [[literature-notes/welcome-shame-dont-push-through-it|Welcome shame rather than pushing through it]]
 
 ## Source
 

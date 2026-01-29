@@ -25,6 +25,7 @@ The management stage is seductive because it looks like progress — you appear 
 - [[literature-notes/resistance-changes-the-emotion|It's not the emotion that hurts but the resistance]] - The mechanics of why management hurts
 - [[literature-notes/emotional-development-stages|Emotional development follows a spiral]] - Where management fits in the arc
 - [[literature-notes/bullying-yourself-creates-resistance|Bullying yourself creates resistance]] - The self-defeating cycle
+- [[literature-notes/managing-emotions-prolongs-suffering|Managing emotions prolongs suffering]]
 
 ## Source
 

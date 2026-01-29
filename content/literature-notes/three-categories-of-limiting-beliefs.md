@@ -22,6 +22,11 @@ The distinction between the first two matters: false thoughts are cognitive ("he
 - [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]]
 - [[literature-notes/the-story-you-carry-may-not-be-the-full-truth|The story you carry may not be the full truth]]
 - [[literature-notes/emotions-are-the-glue-holding-beliefs-in-place|Emotions are the glue holding beliefs in place]]
+- [[literature-notes/physical-constriction-signals-limiting-beliefs|Physical constriction and tension signal where limiting beliefs live]]
+- [[literature-notes/constriction-not-truth-identifies-limiting-beliefs|Constriction, not truth, identifies limiting beliefs]]
+- [[literature-notes/realization-not-behavior-control|Seeing through limiting beliefs is realization, not behavior control]]
+- [[literature-notes/look-for-what-you-absolutely-believe-true|Your limiting beliefs hide in what you absolutely believe to be true]]
+- [[literature-notes/you-have-already-changed-thousands-of-beliefs|You have already changed thousands of beliefs without noticing]]
 
 ## Source
 

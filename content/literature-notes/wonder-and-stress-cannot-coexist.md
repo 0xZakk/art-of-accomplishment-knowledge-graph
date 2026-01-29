@@ -27,6 +27,8 @@ The practical application: when stressed, write down 15 things you don't know ab
 - [[literature-notes/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]] - Wonder's power extends beyond stress into interpersonal conflict
 - [[literature-notes/fear-limits-optionality|Fear limits optionality]] - Stress narrows perception; wonder opens it
 - [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]] - Fear creates black-and-white thinking that wonder dissolves
+- [[literature-notes/wonder-as-antidote-to-fear|Wonder is the antidote to fear in uncertainty]]
+- [[literature-notes/list-what-you-dont-know-to-dissolve-stress|Listing what you don't know dissolves stress and reveals action]]
 
 ## Source
 

@@ -41,6 +41,8 @@ Not by avoiding attraction (impossible) but by changing the internal pattern tha
 
 - [[literature-notes/external-patterns-mirror-internal-ones|External relationship patterns mirror internal ones]]
 - [[literature-notes/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger your wounds]]
+- [[literature-notes/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic, not just intellectual]]
+- [[literature-notes/what-we-do-for-love-erodes-power|What we do to maintain love erodes our power]]
 
 ## Source
 

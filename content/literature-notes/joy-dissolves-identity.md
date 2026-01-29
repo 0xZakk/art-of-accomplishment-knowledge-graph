@@ -27,6 +27,11 @@ Two things make joy scary somatically: First, the expansiveness dissolves the co
 - [[literature-notes/foreboding-joy-blocks-gratitude|Foreboding joy blocks gratitude]] - One mechanism for pushing joy away
 - [[literature-notes/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]] - The process of identity expansion
 - [[literature-notes/conditional-happiness-is-a-limiting-belief|Conditional happiness is a limiting belief]] - The "once I achieve X" trap
+- [[literature-notes/pleasure-dissolves-the-boundary-of-self|Deep pleasure dissolves the boundary of self]]
+- [[literature-notes/pleasure-is-available-in-every-emotion|Pleasure is available in every emotion when fully felt]]
+- [[literature-notes/discomfort-is-the-resistance-not-the-emotion|The discomfort of emotions is the resistance to them, not the emotions themselves]]
+- [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]]
+- [[literature-notes/unfelt-joy-as-source-of-anxiety|Unfelt joy is a hidden source of anxiety]]
 
 ## Source
 

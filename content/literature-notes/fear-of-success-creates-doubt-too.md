@@ -39,6 +39,7 @@ If you keep sabotaging success you're capable of achieving, the issue might not 
 - [[literature-notes/doubt-protects-from-unwanted-emotions|Doubt protects you from emotions you don't want to feel]]
 - [[literature-notes/ego-resists-change-in-either-direction|Ego resists change in either direction]]
 - [[literature-notes/war-with-your-wants-creates-self-sabotage|Being at war with your wants creates self-sabotage]]
+- [[literature-notes/fear-of-success-is-fear-of-failure|Fear of success is ultimately fear of failure]]
 
 ## Source
 

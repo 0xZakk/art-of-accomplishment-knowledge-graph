@@ -24,6 +24,9 @@ Being willing to feel everything also increases sensitivity to one's own emotion
 - [[literature-notes/all-decisions-are-emotional|All decisions are emotional]] - The neuroscience foundation
 - [[literature-notes/bad-decisions-come-from-fear-of-emotions|Bad decisions come from fear of emotions]] - The mechanism of distortion
 - [[literature-notes/suppressing-emotions-impairs-decision-making|Suppressing emotions impairs decision-making]] - The cost of suppression
+- [[literature-notes/decisions-reveal-emotional-avoidance|Every decision is an attempt to avoid an emotion]]
+- [[literature-notes/thinking-youre-deciding-means-youre-in-fear|If you think you're making a decision, you're in fear]]
+- [[literature-notes/confirmation-bias-from-emotional-avoidance|Confirmation bias protects us from emotions we won't feel]]
 
 ## Source
 

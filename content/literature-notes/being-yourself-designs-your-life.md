@@ -45,6 +45,7 @@ The world that fits you already exists. You just have to be yourself to find it.
 - [[literature-notes/regret-comes-from-not-being-yourself|Regret comes from not being yourself]]
 - [[literature-notes/wanting-is-aliveness|Wanting is aliveness]]
 - [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning your wants means being okay with having them]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]]
 
 ## Source
 

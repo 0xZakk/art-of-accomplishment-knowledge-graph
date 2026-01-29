@@ -26,6 +26,7 @@ The time scarcity is manufactured. Jeff Bezos spends three hours every morning "
 - [[literature-notes/overwhelm-is-unfelt-emotions|Overwhelm is unfelt emotions]] - The emotional root of feeling overwhelmed
 - [[literature-notes/catastrophizing-is-helplessness-stuck-in-the-head|Catastrophizing is helplessness stuck in the head]] - How the mind amplifies threats
 - [[literature-notes/anxiety-is-detrimental-to-productivity|Anxiety is detrimental to productivity]] - The cost of anxiety on action
+- [[literature-notes/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]
 
 ## Source
 

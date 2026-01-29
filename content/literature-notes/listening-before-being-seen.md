@@ -25,6 +25,9 @@ This is not self-sacrifice or doormatting. It's strategic emotional intelligence
 - [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]]
 - [[literature-notes/view-framework-for-listening|The VIEW framework for listening]]
 - [[literature-notes/we-push-away-approval-we-seek|We push away the approval we seek]]
+- [[literature-notes/seeing-others-is-the-exit-from-feeling-unseen|Seeing others is the counterintuitive exit from feeling unseen]]
+- [[literature-notes/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
+- [[literature-notes/shame-creates-the-see-me-dont-see-me-double-bind|Shame creates the see-me-don't-see-me double bind]]
 
 ## Source
 

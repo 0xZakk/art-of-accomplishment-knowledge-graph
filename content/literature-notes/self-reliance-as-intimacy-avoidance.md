@@ -26,6 +26,10 @@ This pattern often originates from early experiences where depending on others l
 - [[literature-notes/helplessness-dissolves-false-self-reliance|Helplessness dissolves false self-reliance]] - The antidote to protective self-reliance
 - [[literature-notes/compulsive-giving-avoids-receiving|Compulsive giving avoids receiving]] - Another way self-sufficiency blocks intimacy
 - [[literature-notes/beckoning-and-pushing-love-simultaneously|We beckon love and push it away at the same time]] - Self-reliance as one push-pull mechanism
+- [[literature-notes/self-reliance-is-a-defense-against-helplessness|Self-reliance is a defense against helplessness]]
+- [[literature-notes/self-reliance-blocks-receiving-support|Self-reliance blocks the ability to receive support]]
+- [[literature-notes/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]]
+- [[literature-notes/asking-for-what-you-want-dissolves-resentment|Asking for what you want dissolves resentment]]
 
 ## Source
 

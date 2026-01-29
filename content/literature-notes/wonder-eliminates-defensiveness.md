@@ -25,6 +25,7 @@ Being defensive is also a sign that something has been triggered—that what was
 - [[literature-notes/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist neurologically]] - The neurological basis for why wonder and defense can't coexist
 - [[literature-notes/triggers-reveal-self-judgment|Triggers reveal what we judge in ourselves]] - What we defend against reveals our own self-judgment
 - [[literature-notes/defense-feels-like-attack|Defense feels like attack to the other person]] - Why the alternative to defensiveness matters
+- [[literature-notes/not-defending-reveals-inherent-goodness|Not defending yourself reveals your inherent goodness]]
 
 ## Source
 

@@ -25,6 +25,7 @@ Joe illustrates this with the story of driving by a house that once triggered a 
 - [[literature-notes/enjoyment-as-the-only-metric|Enjoyment as the only metric]] - The broader principle
 - [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]] - Practical application
 - [[literature-notes/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]] - Orientation shapes outcome
+- [[literature-notes/enjoyment-as-compass-for-surrender|Enjoyment is the compass for surrender to your deeper call]]
 
 ## Source
 

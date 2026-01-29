@@ -25,6 +25,7 @@ The hopeful implication: you can work on either end. Work on the shame of "I'm n
 - [[literature-notes/subtle-superiority-as-protection|Subtle superiority as protection]] - The mechanism explored further
 - [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - The recursive nature of shame
 - [[literature-notes/putting-yourself-above-others-is-protection|Putting yourself above others is protection]] - Protection through elevation
+- [[literature-notes/superiority-in-relationships-is-a-shame-defense|Superiority in relationships is a shame defense]]
 
 ## Source
 

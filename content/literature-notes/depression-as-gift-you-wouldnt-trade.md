@@ -25,6 +25,8 @@ The deeper teaching is that our most painful experiences often carry the seeds o
 - [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]] - Pain as a doorway to growth
 - [[literature-notes/numbness-as-survival-gift|Numbness as a survival gift]] - Honoring difficult experiences for what they gave
 - [[literature-notes/self-loathing-as-accidental-doorway|Self-loathing as an accidental doorway]] - Dark experiences leading to transformation
+- [[literature-notes/resisting-emotion-invites-it-back|Resisting an emotion is exactly what invites it back]]
+- [[literature-notes/chronic-stuckness-leads-to-depression|Chronic stuckness leads to depression through self-oppression]]
 
 ## Source
 

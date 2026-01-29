@@ -26,6 +26,8 @@ The technique works because it introduces a compassionate witness to the self-ab
 - [[literature-notes/rest-from-the-inner-critic|What you really need is rest from your inner critic]] - Why this matters
 - [[literature-notes/self-attack-during-rest-prolongs-recovery|Self-attack during rest prolongs recovery]] - The problem this solves
 - [[literature-notes/attention-alone-reduces-stress|Attention alone reduces stress]] - How awareness itself heals
+- [[literature-notes/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
+- [[literature-notes/respond-differently-to-the-inner-critic|Respond differently to the inner critic as a practice]]
 
 ## Source
 

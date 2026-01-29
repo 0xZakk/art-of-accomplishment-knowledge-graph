@@ -27,6 +27,8 @@ This is consistent with the broader principle that any emotion, when met with co
 - [[literature-notes/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]] - The principle behind this technique
 - [[literature-notes/fear-is-excitement-without-the-breath|Fear is excitement without the breath]] - Fear transforms when met rather than resisted
 - [[literature-notes/loving-anxiety-versus-being-with-it|Loving anxiety versus being with it]] - Loving the fear is the active form of welcoming
+- [[literature-notes/connection-dissolves-self-consciousness|Connection dissolves self-consciousness]]
+- [[literature-notes/suppressing-authentic-expression-increases-self-consciousness|Suppressing authentic expression increases self-consciousness]]
 
 ## Source
 

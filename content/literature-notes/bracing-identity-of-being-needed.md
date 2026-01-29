@@ -26,6 +26,7 @@ This is why bracing persists even when someone intellectually knows it's counter
 - [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - The broader pattern
 - [[literature-notes/ego-arises-to-protect-from-unacceptable-emotions|Ego arises to protect from unacceptable emotions]] - Why identity clings
 - [[literature-notes/overachieving-is-survival-mode|Overachieving is survival mode]] - A related pattern
+- [[literature-notes/bracing-removes-presence-not-chaos|Bracing removes presence, it doesn't prevent chaos]]
 
 ## Source
 

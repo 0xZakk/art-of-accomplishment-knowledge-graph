@@ -25,6 +25,10 @@ If heartbreak is the standard from the beginning — rather than something you a
 - [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]] - The broader principle
 - [[literature-notes/boundaries-open-your-heart|Boundaries open your heart]] - Boundaries and love are not opposites
 - [[literature-notes/boundaries-are-for-you-not-them|Boundaries are for you, not them]] - Who boundaries actually serve
+- [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
+- [[literature-notes/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
+- [[literature-notes/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
+- [[literature-notes/full-openness-is-the-real-protection|Full openness is the real protection from narcissists]]
 
 ## Source
 

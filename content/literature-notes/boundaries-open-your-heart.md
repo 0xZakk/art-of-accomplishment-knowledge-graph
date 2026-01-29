@@ -25,6 +25,11 @@ The fear of the other person's response is inevitable, especially for new bounda
 - [[literature-notes/boundaries-not-view-for-narcissists|Boundaries, not VIEW, for narcissists]] - When to use boundaries versus other approaches
 - [[literature-notes/drawing-boundaries-dissolves-triggers|Drawing boundaries dissolves triggers]] - The transformative effect of boundary practice
 - [[literature-notes/resentment-signals-a-boundary-needed|Resentment signals a boundary needed]] - How to know when a boundary is needed
+- [[literature-notes/boundaries-are-for-you-not-them|Boundaries are primarily for you, not the other person]]
+- [[literature-notes/boundaries-increase-capacity-to-love|Effective boundaries increase your capacity to love]]
+- [[literature-notes/boundary-firmness-eliminates-fear-of-attack|Boundary firmness eliminates fear of attack]]
+- [[literature-notes/boundaries-and-openness-are-the-same-thing|Drawing boundaries and opening your heart are the same thing]]
+- [[literature-notes/boundary-versus-ultimatum|The difference between a boundary and an ultimatum is fear]]
 
 ## Source
 

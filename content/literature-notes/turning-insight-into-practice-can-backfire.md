@@ -25,6 +25,10 @@ This doesn't mean practices are bad. It means the relationship to the practice m
 - [[literature-notes/todo-lists-can-be-inner-critic|To-do lists can be inner critic]] - How practices become tools of self-abuse
 - [[literature-notes/fear-of-losing-insight-blocks-integration|Fear of losing insight blocks integration]] - The same gripping pattern
 - [[literature-notes/tools-can-keep-you-stuck|Tools can keep you stuck]] - The broader principle
+- [[literature-notes/appreciation-dissolves-unsafety|Appreciation and connection dissolve unsafety]]
+- [[literature-notes/coaching-is-self-discovery-not-skill-acquisition|Coaching is self-discovery, not skill acquisition]]
+- [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[literature-notes/facing-fear-builds-empowerment|Facing the feeling you're avoiding is how empowerment comes]]
 
 ## Source
 

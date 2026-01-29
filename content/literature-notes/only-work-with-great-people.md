@@ -17,6 +17,7 @@ When someone isn't performing well, they don't enjoy it either. The question isn
 ## Related Concepts
 
 - [[literature-notes/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]] - The quality of how we work determines whether we keep doing it
+- [[literature-notes/functional-teams-are-measured-by-wanting-to-be-there|Functional teams are measured by people wanting to be there]]
 
 ## Source
 

@@ -29,6 +29,7 @@ Joe suggests there's at least one more stage beyond "as me" — "as long as ther
 - [[literature-notes/every-epiphany-is-a-rut-waiting-to-happen|Every epiphany is a rut waiting to happen]] - Why each stage eventually becomes a constraint
 - [[literature-notes/emotional-development-stages|Emotional development stages]] - Joe's parallel model for emotional growth
 - [[literature-notes/awakening-is-not-an-endpoint|Awakening is not an endpoint]] - The ongoing nature of this process
+- [[literature-notes/hollowing-out-is-a-perpetual-process|The hollowing out process never ends]]
 
 ## Source
 

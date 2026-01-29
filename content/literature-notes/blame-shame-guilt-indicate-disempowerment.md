@@ -26,6 +26,7 @@ People living by principles never worry about someone's power over them — they
 - [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]] - The relationship between shame and anger
 - [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - Shame's self-reinforcing nature
 - [[literature-notes/blame-is-an-unowned-want|Blame is an unowned want]] - What blame conceals
+- [[literature-notes/apology-as-transformation-tool|An empowered apology is one of the most powerful tools for self-transformation]]
 
 ## Source
 

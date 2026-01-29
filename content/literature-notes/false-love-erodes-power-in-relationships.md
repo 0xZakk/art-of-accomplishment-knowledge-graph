@@ -25,6 +25,10 @@ The fights that emerge come from the resentment of self-abandonment. Someone who
 - [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]] - The initial attraction patterns that set up these dynamics
 - [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]] - The mechanism of losing yourself for love
 - [[literature-notes/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]] - A common pattern that emerges from this power erosion
+- [[literature-notes/what-we-do-for-love-erodes-power|What we do to maintain love erodes our power]]
+- [[literature-notes/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
+- [[literature-notes/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
+- [[literature-notes/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
 
 ## Source
 

@@ -26,6 +26,8 @@ This reframe transforms the entire orientation to self-development. Instead of a
 - [[literature-notes/gentleness-accelerates-growth|Gentleness accelerates growth]] - The broader principle that softness works faster than force
 - [[literature-notes/bullying-yourself-creates-resistance|Bullying yourself creates resistance]] - What happens when self-punishment becomes the default
 - [[literature-notes/self-improvement-guarantees-failure|Self-improvement guarantees failure]] - Why the improvement frame itself is the problem
+- [[literature-notes/falling-in-love-with-practice|Falling in love with practice beats forcing yourself to practice]]
+- [[literature-notes/self-attack-during-rest-prolongs-recovery|Self-attack during rest prolongs recovery from months to years]]
 
 ## Source
 

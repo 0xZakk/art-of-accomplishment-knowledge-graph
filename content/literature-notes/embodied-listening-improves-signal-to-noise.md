@@ -31,6 +31,9 @@ This is why retreats ask people not to take notes — trying to remember intelle
 - [[literature-notes/body-awareness-prevents-empathic-merging|Body awareness prevents empathic merging]] - Staying in your body while listening to others
 - [[literature-notes/interoception-makes-emotional-work-easier|Interoception makes emotional work easier]] - Body awareness as foundation
 - [[literature-notes/attunement-to-self-produces-intuition|Attunement to self produces intuition]] - Self-attunement yields this same signal clarity
+- [[literature-notes/deep-listening-requires-self-listening|Deep listening requires listening to yourself simultaneously]]
+- [[literature-notes/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]
+- [[literature-notes/gratitude-embodies-epiphanies|Gratitude embodies epiphanies — it lets realizations settle into the body]]
 
 ## Source
 

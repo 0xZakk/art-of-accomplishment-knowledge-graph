@@ -37,6 +37,10 @@ Shame and resistance create internal friction. That friction doesn't motivate ch
 - [[literature-notes/triggers-reveal-self-judgment|Triggers reveal what we judge in ourselves]]
 - [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others is something you don't like in yourself]]
 - [[literature-notes/grief-of-self-abandonment|Grief of self-abandonment]]
+- [[literature-notes/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]
+- [[literature-notes/teach-children-self-referencing|Teaching children to reference themselves builds their internal compass]]
+- [[literature-notes/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 
 ## Source
 

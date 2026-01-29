@@ -25,6 +25,8 @@ Joe argues passive aggression is harder to fix than direct aggression in relatio
 
 - [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]] - Fear of direct anger is what makes aggression go passive
 - [[literature-notes/resentment-is-stored-conflict|Resentment is stored conflict]] - Passive aggression builds resentment over time
+- [[literature-notes/dont-try-to-change-passive-aggression-in-others|Trying to change someone's passive aggression enters the same dynamic]]
+- [[literature-notes/passive-aggression-develops-when-anger-is-forbidden|Passive aggression develops when direct anger is forbidden]]
 
 ## Source
 

@@ -21,6 +21,8 @@ The insight: sometimes doing the right thing for imperfect reasons shows you tha
 
 - [[literature-notes/guilt-replaces-genuine-compassion|Guilt replaces genuine compassion]] - How guilt can divert from real change
 - [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - Why self-loathing isn't sustainable fuel
+- [[literature-notes/survival-mechanisms-deserve-honor|Survival mechanisms deserve honor, not shame]]
+- [[literature-notes/manufactured-rage-masks-fear|Manufactured rage masks fear and creates destruction]]
 
 ## Source
 

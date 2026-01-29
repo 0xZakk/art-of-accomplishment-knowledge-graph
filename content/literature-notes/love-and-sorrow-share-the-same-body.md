@@ -23,6 +23,8 @@ Joe emphasized that breath and emotion are not separate phenomena. "Any emotion 
 - [[literature-notes/grief-and-gratitude-coexist|Grief and gratitude coexist]] - The specific pairing of these two
 - [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - Why blocking sorrow also blocks love
 - [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]] - The necessity of full emotional range
+- [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[literature-notes/chin-position-controls-emotional-access|Chin position controls emotional access]]
 
 ## Source
 

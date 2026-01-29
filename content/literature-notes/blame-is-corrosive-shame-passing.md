@@ -30,6 +30,7 @@ The alternative is simple but radical: stop adjudicating who's wrong and start a
 - [[literature-notes/shame-hot-potato|Shame hot potato]] - The mechanism of shame-passing in fights
 - [[literature-notes/blame-is-an-unowned-want|Blame is an unowned want]] - What blame masks
 - [[literature-notes/blame-blocks-leadership|Blame blocks leadership]] - Same dynamic in organizational context
+- [[literature-notes/self-blame-holds-onto-what-you-lost|Self-blame is a way of holding onto what you've lost]]
 
 ## Source
 

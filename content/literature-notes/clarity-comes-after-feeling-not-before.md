@@ -25,6 +25,11 @@ Even guaranteed success wouldn't provide direction — Joe demonstrates this by 
 - [[literature-notes/all-decisions-are-emotional|All decisions are emotional]] - The emotional basis of choice
 - [[literature-notes/indecision-means-unfelt-emotions|Indecision means unfelt emotions]] - Why we get stuck
 - [[literature-notes/feel-then-act|Feel then act]] - The sequence that produces clear action
+- [[literature-notes/fear-is-present-on-every-path|Fear is present on every path so face it directly]]
+- [[literature-notes/exploration-not-achievement-is-the-real-urge|Exploration not achievement is the real urge underneath potential anxiety]]
+- [[literature-notes/heartbreak-opens-when-fear-is-felt|Heartbreak opens when fear is finally felt]]
+- [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[literature-notes/stuckness-is-resistance-to-the-abyss|Stuckness is resistance to the abyss, not the abyss itself]]
 
 ## Source
 

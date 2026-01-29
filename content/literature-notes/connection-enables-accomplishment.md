@@ -20,6 +20,7 @@ This reframes accomplishment. It's not about discipline, strategy, or willpower.
 
 - [[literature-notes/presence-is-pleasure|Presence is pleasure]]
 - [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]]
+- [[literature-notes/connection-as-career-compass|Connection as a career compass]]
 
 ## Source
 

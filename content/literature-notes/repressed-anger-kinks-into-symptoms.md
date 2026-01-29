@@ -26,6 +26,9 @@ The kink forms in childhood through various pathways: a parent who raged (so you
 - [[literature-notes/anger-is-love-with-a-boundary|Unresisted anger is love expressing a clear boundary]] - What anger looks like without the kink
 - [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]] - One specific kink direction
 - [[literature-notes/chronic-stuckness-leads-to-depression|Chronic stuckness leads to depression]] - Stuckness as repressed anger symptom
+- [[literature-notes/three-forms-of-repressed-anger|Repressed anger manifests in three forms: self-abuse, passive aggression, and explosive anger]]
+- [[literature-notes/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuckness]]
+- [[literature-notes/childhood-origins-of-anger-repression|Anger repression gets installed through three childhood pathways]]
 
 ## Source
 

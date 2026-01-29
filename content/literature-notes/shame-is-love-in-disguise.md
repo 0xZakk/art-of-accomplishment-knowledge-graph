@@ -25,6 +25,11 @@ This reframe changes your relationship to shame entirely. Instead of shame being
 - [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]] - Another perspective on shame's nature
 - [[literature-notes/inner-critic-speaks-from-care|The inner critic speaks from care]] - A parallel reframe
 - [[literature-notes/hug-the-demon-dont-slay-it|Hug the demon, don't slay it]] - The approach of embracing what seems negative
+- [[literature-notes/inherent-goodness-reframes-shameful-wants|Seeing yourself as inherently good reframes shameful wants]]
+- [[literature-notes/shame-is-a-signal-of-disconnection|Shame is a signal of disconnection, not a problem to solve]]
+- [[literature-notes/being-loved-in-the-shame-dissolves-it|Being loved within the shame dissolves it]]
+- [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]]
+- [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
 
 ## Source
 

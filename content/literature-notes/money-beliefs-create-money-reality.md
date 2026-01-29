@@ -22,6 +22,11 @@ When he saw and felt the belief, it fell away, and his material world changed ra
 
 - [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
 - [[literature-notes/craving-versus-wanting|Craving versus wanting]]
+- [[literature-notes/money-wounds-trace-to-parent-wounds|Money wounds trace back to parent wounds]]
+- [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]]
+- [[literature-notes/poverty-mentality-is-about-love-not-money|Poverty mentality is about love, not money]]
+- [[literature-notes/money-shame-creates-disconnection|Money shame creates disconnection]]
+- [[literature-notes/money-resistance-mirrors-childhood-wounds|Money resistance often mirrors childhood wounds around love and worth]]
 
 ## Source
 

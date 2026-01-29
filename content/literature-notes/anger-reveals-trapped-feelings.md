@@ -25,6 +25,8 @@ When we recognize the trappedness as historical rather than current, the anger b
 - [[literature-notes/childhood-origins-of-anger-repression|Childhood origins of anger repression]] - The trap often originates in childhood dynamics
 - [[literature-notes/triggers-are-past-living-through-present|Triggers are past living through present]] - Feeling trapped now often means reliving an old circumstance
 - [[literature-notes/fear-creates-binary-thinking-and-false-ends|Fear creates binary thinking and false ends]] - The trap narrows options to a false binary
+- [[literature-notes/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuckness]]
+- [[literature-notes/childhood-freeze-becomes-adult-trap|The childhood freeze response becomes the adult trap]]
 
 ## Source
 

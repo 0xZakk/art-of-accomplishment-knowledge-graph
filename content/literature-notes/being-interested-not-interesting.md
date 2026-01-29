@@ -35,6 +35,7 @@ But it only works if the interest is genuine. We can feel manipulation immediate
 
 - [[literature-notes/view-framework-for-listening|The VIEW framework for deep listening]]
 - [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what people share]]
+- [[literature-notes/asking-questions-is-active-listening|Asking questions is the most powerful form of active listening]]
 
 ## Source
 

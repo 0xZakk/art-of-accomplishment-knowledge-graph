@@ -24,6 +24,9 @@ This distinction is especially important in conflict. Fighting is about figuring
 - [[literature-notes/attunement-is-listening-without-leaving-yourself|Attunement is listening without leaving yourself]] - The same principle of staying connected to yourself while connecting with others
 - [[literature-notes/holding-space-requires-staying-in-yourself|Holding space requires staying in yourself]] - You can't hold space if you've merged with the other person
 - [[literature-notes/every-fight-is-about-feeling-unseen|Every fight is about feeling unseen]] - Being "in" someone paradoxically prevents truly seeing them
+- [[literature-notes/is-this-mine-question|Asking 'Is this mine?' clarifies emotional boundaries]]
+- [[literature-notes/being-together-in-emotions-not-caretaking|Being together in emotions is different from caretaking them]]
+- [[literature-notes/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
 
 ## Source
 

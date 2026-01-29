@@ -25,6 +25,7 @@ There's also the trap of feeling *responsible for* others, which is actually dis
 - [[literature-notes/leadership-is-universal-not-assigned|Leadership is a universal quality, not an assigned role]] - What blame prevents
 - [[literature-notes/blame-is-an-unowned-want|Blame is an unowned want]] - The deeper mechanism
 - [[literature-notes/feeling-helplessness-creates-agency|Feeling helplessness creates agency]] - The emotional work beneath blame
+- [[literature-notes/blame-is-corrosive-shame-passing|Blame is corrosive shame-passing that never resolves anything]]
 
 ## Source
 

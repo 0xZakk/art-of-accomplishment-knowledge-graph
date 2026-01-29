@@ -25,6 +25,7 @@ The person who most clearly sees their pattern at the edge of the cliff can then
 - [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - Fear patterns are identity patterns
 - [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - What shows up at the cliff edge shows up everywhere
 - [[literature-notes/fear-hot-potato|Fear you refuse to feel gets handed to others]] - How these patterns play out in groups
+- [[literature-notes/fear-reveals-where-identity-is-threatened|Fear reveals where our identity feels threatened]]
 
 ## Source
 

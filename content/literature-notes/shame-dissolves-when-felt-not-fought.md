@@ -27,6 +27,11 @@ Even "I've worked through so much shame" is part of the shame pattern — it ass
 - [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - Why fighting shame perpetuates it
 - [[literature-notes/the-story-of-brokenness-is-the-problem|The story of brokenness is the problem]] - The thought-level shame vs. the felt truth
 - [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]] - The quality of attention that dissolves
+- [[literature-notes/being-loved-in-the-shame-dissolves-it|Being loved within the shame dissolves it]]
+- [[literature-notes/welcome-shame-dont-push-through-it|Welcome shame rather than pushing through it]]
+- [[literature-notes/shame-is-a-signal-of-disconnection|Shame is a signal of disconnection, not a problem to solve]]
+- [[literature-notes/shame-is-love-in-disguise|Shame is love in disguise—it shows you care]]
+- [[literature-notes/social-anxiety-is-hiding-from-phantom-shame|Social anxiety is hiding from a shame that has no actual content]]
 
 ## Source
 

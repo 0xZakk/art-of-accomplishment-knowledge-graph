@@ -46,6 +46,7 @@ That's the fear: if I let this rage out, I'll be destroyed. But what gets destro
 
 - [[literature-notes/rage-as-gateway-to-healing|Rage can be the gateway to healing]]
 - [[literature-notes/moving-emotions-dissolves-depression|Moving the emotion dissolves depression]]
+- [[literature-notes/express-anger-without-directing-it|You can express anger without directing it at anyone]]
 
 ## Source
 

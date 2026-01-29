@@ -26,6 +26,10 @@ Blame creates shame, and shame locks bad habits in place. When you blame, you fe
 - [[literature-notes/resentment-points-to-unexpressed-wants|Resentment points to unexpressed wants]] - The deeper pattern
 - [[literature-notes/asking-for-what-you-want-dissolves-resentment|Asking for what you want dissolves resentment]] - The practice
 - [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]] - Why blame doesn't work
+- [[literature-notes/self-blame-holds-onto-what-you-lost|Self-blame is a way of holding onto what you've lost]]
+- [[literature-notes/blame-is-corrosive-shame-passing|Blame is corrosive shame-passing that never resolves anything]]
+- [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]]
+- [[literature-notes/blame-blocks-leadership|Blame prevents stepping into leadership]]
 
 ## Source
 

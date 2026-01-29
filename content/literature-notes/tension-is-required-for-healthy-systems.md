@@ -23,6 +23,7 @@ Relationships work the same way. The more transformation happening in a couple's
 - [[literature-notes/chaos-is-necessary-for-growth|Chaos is necessary for growth]] - Growth requires disruption of the current order
 - [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]] - Suppressing conflict prevents growth
 - [[literature-notes/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms, unresisted stress enlivens]] - The key is how you relate to the tension
+- [[literature-notes/suppressing-transitions-makes-them-worse|Suppressing transitions creates bigger eventual disruptions]]
 
 ## Source
 

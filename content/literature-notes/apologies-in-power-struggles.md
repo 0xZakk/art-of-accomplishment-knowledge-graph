@@ -23,6 +23,7 @@ The way out is to look for an empowered apology you can make mid-fight: "I'm sor
 
 - [[literature-notes/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]] - The underlying need behind the power struggle
 - [[literature-notes/apology-as-transformation-tool|An empowered apology is one of the most powerful tools for self-transformation]] - The empowered alternative
+- [[literature-notes/habitual-apologies-increase-conflict|Habitual apologies increase rather than prevent conflict]]
 
 ## Source
 

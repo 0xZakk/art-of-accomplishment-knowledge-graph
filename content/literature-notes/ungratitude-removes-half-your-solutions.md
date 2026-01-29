@@ -23,6 +23,7 @@ Gratitude also serves as an antidote to isolation. When you feel grateful, you'r
 - [[literature-notes/gratitude-reveals-solutions-criticism-hides|Gratitude reveals solutions criticism hides]] - Same principle from another angle
 - [[literature-notes/find-what-already-works-and-amplify-it|Find what already works and amplify it]] - Amplifying what works vs. fixing what's broken
 - [[literature-notes/fixing-mindset-perpetuates-stuckness|Fixing mindset perpetuates stuckness]] - The trap of only seeing problems
+- [[literature-notes/gratitude-solves-problems-by-seeing-whats-right|Gratitude solves problems by seeing what's right and growing it]]
 
 ## Source
 

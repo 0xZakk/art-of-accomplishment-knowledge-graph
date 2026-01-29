@@ -27,6 +27,10 @@ What's encouraging: you don't need to find and process helplessness in every sit
 - [[literature-notes/helplessness-is-the-cayenne-pepper-of-fear|Helplessness is the most potent ingredient of fear]] - What you're finding underneath the control
 - [[literature-notes/micromanaging-comes-from-feeling-out-of-control|Micromanaging comes from feeling out of control]] - A specific expression of this pattern
 - [[literature-notes/fear-patterns-reveal-identity|Fear patterns reveal identity]] - The broader principle of patterns as maps
+- [[literature-notes/welcoming-helplessness-not-managing-it|The freedom is in wanting to feel helpless again]]
+- [[literature-notes/feeling-helplessness-creates-empowerment|Going through helplessness is what creates empowerment]]
+- [[literature-notes/feeling-helplessness-creates-agency|Feeling helplessness creates agency, not control]]
+- [[literature-notes/helplessness-is-the-emotion-being-avoided|The feeling being avoided underneath 'I've got this' is helplessness]]
 
 ## Source
 

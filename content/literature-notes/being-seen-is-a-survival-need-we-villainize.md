@@ -25,6 +25,7 @@ As adults, the need shifts from survival to thriving. Being seen by a CEO drives
 - [[literature-notes/wanting-to-be-seen-prevents-seeing-others|Wanting to be seen prevents seeing others]] - The hungry ghost of wanting to be seen blocks our capacity to see
 - [[literature-notes/not-feeling-seen-means-not-seeing|Not feeling seen means not seeing]] - When we don't feel seen, we often aren't seeing either
 - [[literature-notes/children-bid-for-connection-not-defiance|Children bid for connection, not defiance]] - Children's behaviors are bids for connection
+- [[literature-notes/shame-creates-the-see-me-dont-see-me-double-bind|Shame creates the see-me-don't-see-me double bind]]
 
 ## Source
 

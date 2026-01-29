@@ -22,6 +22,8 @@ This mirrors a broader pattern in Joe's teaching: the things we strive to achiev
 
 - [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]] - Presence as the container for purpose
 - [[literature-notes/purpose-is-in-the-how-not-the-what|Purpose is in the how, not the what]] - Noticing how you're being right now
+- [[literature-notes/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
+- [[literature-notes/feeling-your-essential-nature-dissolves-avoidance|Feeling your essential nature dissolves avoidance behaviors]]
 
 ## Source
 

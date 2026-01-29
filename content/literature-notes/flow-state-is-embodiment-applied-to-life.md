@@ -25,6 +25,8 @@ The client even demonstrated it mid-session without realizing — dropping into 
 
 - [[literature-notes/body-awareness-is-just-attention|Body awareness is simply directing attention to sensation]] - Flow is sustained body attention
 - [[literature-notes/presence-is-pleasure|Presence is pleasure]] - Being in the body produces both flow and pleasure
+- [[literature-notes/play-tennis-in-life|Apply your embodied skill from one domain to all of life]]
+- [[literature-notes/questioning-feeling-destroys-feeling|Questioning whether you're feeling destroys the feeling]]
 
 ## Source
 

@@ -25,6 +25,7 @@ The maturation arc of purpose moves through stages: first discovery and resistan
 - [[literature-notes/searching-for-purpose-assumes-you-lack-it|Searching for purpose assumes you don't already have it]] - The flawed starting question
 - [[literature-notes/purpose-seeking-often-masks-approval-seeking|Purpose-seeking often masks approval-seeking]] - What the search is really about
 - [[literature-notes/freedom-is-recognized-not-achieved|Freedom is recognized, not achieved]] - The same pattern in another domain
+- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
 
 ## Source
 

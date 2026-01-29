@@ -40,6 +40,9 @@ If you're being yourself, some people won't like it. But the ones who do will ac
 - [[literature-notes/being-yourself-designs-your-life|Being yourself designs a life that fits you]]
 - [[literature-notes/regret-comes-from-not-being-yourself|Regret comes from not being yourself]]
 - [[literature-notes/we-push-away-approval-we-seek|We push away the approval we seek]]
+- [[literature-notes/approval-seeking-pushes-people-away|Seeking approval pushes away the very connection you want]]
+- [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning your wants means being okay with having them]]
+- [[literature-notes/moving-emotions-dissolves-depression|Moving the emotion dissolves depression]]
 
 ## Source
 

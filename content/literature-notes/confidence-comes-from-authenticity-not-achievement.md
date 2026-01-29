@@ -27,6 +27,7 @@ Joe Hudson connects this to the athletes he coaches who discover they can access
 - [[literature-notes/competence-does-not-lead-to-confidence|Competence does not lead to confidence]] - Why skill mastery doesn't resolve self-doubt
 - [[literature-notes/imposter-syndrome-means-not-being-yourself|Imposter syndrome means not being yourself]] - The fraud feeling as signal of inauthenticity
 - [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Performing prevents genuine recognition
+- [[literature-notes/focus-on-how-you-want-to-feel-not-what-you-fear|Focus on how you want to feel not what you fear]]
 
 ## Source
 

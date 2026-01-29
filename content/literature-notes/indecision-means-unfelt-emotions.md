@@ -24,6 +24,11 @@ Joe shares the story of a woman who couldn't decide about divorce for three year
 - [[literature-notes/fear-limits-optionality|Fear limits optionality]] - Unfelt fear narrows what we can choose
 - [[literature-notes/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]] - Doubt keeps us from having to feel
 - [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - Authentic choices emerge when we're willing to feel
+- [[literature-notes/bad-decisions-come-from-fear-of-emotions|Bad decisions come from fear of emotional consequences]]
+- [[literature-notes/decisions-reveal-emotional-avoidance|Every decision is an attempt to avoid an emotion]]
+- [[literature-notes/thinking-youre-deciding-means-youre-in-fear|If you think you're making a decision, you're in fear]]
+- [[literature-notes/all-decisions-are-emotional|All decisions are emotional, never purely rational]]
+- [[literature-notes/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]
 
 ## Source
 

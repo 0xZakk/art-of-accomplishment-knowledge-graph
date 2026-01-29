@@ -28,6 +28,10 @@ The reason this works is that feeling seen is the actual need underneath the arg
 - [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer]] - Fights as opportunities for deeper seeing
 - [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]] - The same dynamic in organizations
 - [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]] - Why shame-throwing keeps fights going
+- [[literature-notes/seeing-others-is-the-exit-from-feeling-unseen|Seeing others is the counterintuitive exit from feeling unseen]]
+- [[literature-notes/fighting-without-shame-transforms-conflict|Fighting without shame transforms conflict]]
+- [[literature-notes/dropping-shame-is-prerequisite-for-seeing-your-partner|Dropping shame is the prerequisite for seeing your partner]]
+- [[literature-notes/listening-before-being-seen|Letting go of being seen allows you to be seen]]
 
 ## Source
 

@@ -24,6 +24,11 @@ The trying to be comfortable creates a dissociative, out-of-body experience. Sit
 - [[literature-notes/discomfort-is-the-resistance-not-the-emotion|Discomfort is the resistance, not the emotion]] - The discomfort we feel is usually the resistance to what's there, not the emotion itself
 - [[literature-notes/being-with-emotions-beats-fixing-them|Being with emotions beats fixing them]] - Presence with what is beats trying to change it
 - [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness, not the feeling]] - What keeps us stuck is the avoidance, not the thing being avoided
+- [[literature-notes/own-the-trigger-as-yours|Owning the trigger as yours dissolves the fight]]
+- [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[literature-notes/truth-is-felt-not-performed|Truth is a felt experience, not a performance]]
+- [[literature-notes/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
+- [[literature-notes/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
 
 ## Source
 

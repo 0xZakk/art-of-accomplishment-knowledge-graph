@@ -28,6 +28,9 @@ The caretaking pattern caged precisely the qualities her husband wanted from her
 - [[literature-notes/caretaking-creates-resentment-in-the-receiver|Caretaking creates resentment in the receiver]] - The resentment produced in the person being managed
 - [[literature-notes/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others to avoid your feelings]] - Caretaking as avoidance strategy
 - [[literature-notes/resentment-is-the-indicator-of-caretaking|Resentment is the indicator of caretaking]] - Resentment as diagnostic
+- [[literature-notes/taking-responsibility-for-partners-emotions-breeds-resentment|Taking responsibility for your partner's emotions breeds resentment]]
+- [[literature-notes/what-we-do-for-love-erodes-power|What we do to maintain love erodes our power]]
+- [[literature-notes/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
 
 ## Source
 

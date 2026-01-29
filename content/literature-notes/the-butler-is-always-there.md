@@ -25,6 +25,8 @@ The butler isn't personal — it shows up for everyone. In group settings, Joe n
 - [[literature-notes/faith-as-a-verb|Faith as active trusting not passive belief]] - Trusting the butler will appear
 - [[literature-notes/listening-is-the-neglected-half|Listening and receiving are the neglected half of communication]] - The pause that reveals the butler
 - [[literature-notes/intuition-sees-what-logic-cannot|Intuition sees what logic cannot]] - Subconscious knowing
+- [[literature-notes/confidence-comes-from-reps-not-reading|Confidence comes from embodied reps not intellectual understanding]]
+- [[literature-notes/transformation-is-archaeology-not-invention|Transformation work is unearthing what already exists, not inventing something new]]
 
 ## Source
 

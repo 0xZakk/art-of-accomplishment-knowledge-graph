@@ -29,6 +29,7 @@ Joe warns against making listening into a rule or morality: "It almost feels lik
 - [[literature-notes/attunement-is-listening-without-leaving-yourself|Attunement is listening without leaving yourself]] - Listening naturally produces attunement
 - [[literature-notes/pleasure-requires-receiving-not-effort|Pleasure requires receiving, not effort]] - The same receiving quality applies to pleasure
 - [[literature-notes/authenticity-is-receiving-not-performing|Authenticity is receiving, not performing]] - Authenticity shares this receptive quality
+- [[literature-notes/deep-listening-requires-self-listening|Deep listening requires listening to yourself simultaneously]]
 
 ## Source
 

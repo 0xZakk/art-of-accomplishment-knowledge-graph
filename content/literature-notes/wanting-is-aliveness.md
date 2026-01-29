@@ -36,6 +36,9 @@ The feeling of wanting, when fully allowed, is quite lovely. It's only when we c
 - [[literature-notes/craving-versus-wanting|The difference between craving and wanting]]
 - [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning your wants means being okay with having them]]
 - [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
+- [[literature-notes/wants-are-evolutionary-strategies|Wants are strategies for essential human needs]]
+- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
+- [[literature-notes/you-get-the-love-you-can-accept|You only get the love you can let in]]
 
 ## Source
 

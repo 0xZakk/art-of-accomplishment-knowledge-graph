@@ -20,6 +20,9 @@ When Joe asks him to speak from his body rather than his head, he naturally slip
 
 - [[literature-notes/flow-state-is-body-awareness|The flow state you know in sports is the same body awareness needed for emotional life]]
 - [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]]
+- [[literature-notes/flow-state-is-embodiment-applied-to-life|Flow state in sports is the same skill as embodiment in life]]
+- [[literature-notes/questioning-feeling-destroys-feeling|Questioning whether you're feeling destroys the feeling]]
+- [[literature-notes/body-awareness-is-just-attention|Body awareness is simply directing attention to sensation]]
 
 ## Source
 

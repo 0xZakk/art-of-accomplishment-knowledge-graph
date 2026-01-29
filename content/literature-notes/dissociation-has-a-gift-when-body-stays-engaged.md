@@ -25,6 +25,7 @@ This reframing honors the survival mechanism rather than pathologizing it. The c
 - [[literature-notes/dissociation-as-double-edged-sword|Dissociation as double-edged sword]] - The dual nature of dissociation
 - [[literature-notes/numbness-as-survival-gift|Numbness as survival gift]] - How shutdown patterns served a purpose
 - [[literature-notes/survival-mechanisms-deserve-honor|Survival mechanisms deserve honor]] - Respecting what kept us alive
+- [[literature-notes/non-personal-awareness-vs-dissociation|Non-personal awareness is dissociation without leaving the body]]
 
 ## Source
 

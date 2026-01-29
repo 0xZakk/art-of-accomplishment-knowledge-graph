@@ -23,6 +23,10 @@ Clarity doesn't come from being more logical — it comes from being okay with w
 - [[literature-notes/emotions-are-glue-holding-beliefs|Emotions are the glue holding beliefs in place]] - Thoughts are the tip of the emotional iceberg
 - [[literature-notes/indecision-means-unfelt-emotions|Indecision means there are unfelt emotions]] - Can't decide = unfelt emotion blocking clarity
 - [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]] - Either/or thinking reveals unfelt fear
+- [[literature-notes/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]
+- [[literature-notes/decisions-reveal-emotional-avoidance|Every decision is an attempt to avoid an emotion]]
+- [[literature-notes/decisions-are-made-in-the-emotional-brain|Decisions are made in the emotional center of the brain, not through analysis]]
+- [[literature-notes/thinking-youre-deciding-means-youre-in-fear|If you think you're making a decision, you're in fear]]
 
 ## Source
 

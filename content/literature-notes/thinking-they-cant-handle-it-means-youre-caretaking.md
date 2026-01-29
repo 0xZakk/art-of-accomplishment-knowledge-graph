@@ -25,6 +25,8 @@ The subtlety compounds: listen carefully to every sentence you speak to someone 
 - [[literature-notes/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others' emotions to avoid your own]] - The core dynamic
 - [[literature-notes/hedging-your-truth-is-subtle-caretaking|Hedging your truth is subtle caretaking]] - The everyday version
 - [[literature-notes/not-sharing-hard-truths-prevents-real-love|Not sharing hard truths prevents real love]] - What's lost
+- [[literature-notes/weaponizing-non-caretaking-is-still-defense|Weaponizing non-caretaking is just another defense]]
+- [[literature-notes/resentment-is-the-indicator-of-caretaking|Resentment is the indicator of caretaking]]
 
 ## Source
 

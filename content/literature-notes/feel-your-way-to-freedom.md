@@ -25,6 +25,9 @@ The phrase points to a paradox at the heart of transformation: the path to freed
 - [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness not the feeling]] - The core insight that avoidance creates suffering
 - [[literature-notes/being-with-emotions-beats-fixing-them|Being with emotions beats fixing them]] - Presence with feelings over management
 - [[literature-notes/fear-is-excitement-without-the-breath|Fear is excitement without the breath]] - The physical dimension of feeling through fear
+- [[literature-notes/gold-lies-beyond-what-you-fear|The gold in life lies just beyond what you're afraid to face]]
+- [[literature-notes/allowing-replaces-striving-on-the-back-nine|Allowing replaces striving on the back nine of life]]
+- [[literature-notes/focus-on-how-you-want-to-feel-not-what-you-fear|Focus on how you want to feel not what you fear]]
 
 ## Source
 

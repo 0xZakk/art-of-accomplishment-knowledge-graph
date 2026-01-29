@@ -40,6 +40,7 @@ How you feel while working affects what you produce.
 
 - [[literature-notes/todo-lists-can-be-inner-critic|To-do lists can be your inner critic on paper]]
 - [[literature-notes/wanting-is-aliveness|Wanting is aliveness]]
+- [[literature-notes/enjoyment-is-the-true-measure-of-efficiency|Enjoyment is the true measure of efficiency]]
 
 ## Source
 

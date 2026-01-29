@@ -23,6 +23,11 @@ The practical piece: if you need to leave during a fight to take care of yoursel
 
 - [[literature-notes/both-partners-must-want-better|Both partners must want better]] - The willingness that makes love possible
 - [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer together]] - The context where empowerment matters
+- [[literature-notes/clean-exits-during-conflict|Clean exits during conflict prevent abandonment wounds]]
+- [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
+- [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
+- [[literature-notes/loving-presence-must-be-embodied|Loving presence must be embodied, not performed]]
+- [[literature-notes/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
 
 ## Source
 

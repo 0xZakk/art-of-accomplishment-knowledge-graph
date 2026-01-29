@@ -22,6 +22,11 @@ Emotions don't have individual off switches. The mechanism that suppresses "nega
 - [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]]
 - [[literature-notes/joy-wont-come-where-children-unwelcome|Joy won't come into a house where her children aren't welcome]]
 - [[literature-notes/emotional-fluidity-is-already-there|You already have emotional fluidity—you just need to stop blocking it]]
+- [[literature-notes/joy-wont-enter-where-emotions-unwelcome|Joy won't come into a house where her children aren't welcome]]
+- [[literature-notes/numbness-as-survival-gift|Emotional numbness can be a survival gift, not a deficit]]
+- [[literature-notes/joy-is-the-sign-of-emotional-health|Joy is the sign that emotional fluidity is working]]
+- [[literature-notes/not-responsible-for-others-emotions|Declaring 'I'm not responsible for how you feel' restores full expression]]
+- [[literature-notes/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
 
 ## Source
 

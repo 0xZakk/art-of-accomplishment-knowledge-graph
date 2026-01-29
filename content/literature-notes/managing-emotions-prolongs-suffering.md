@@ -27,6 +27,10 @@ Non-management of emotions doesn't mean acting them out — throwing temper tant
 - [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]] - Resisting an emotion distorts it
 - [[literature-notes/being-with-emotions-beats-fixing-them|Being with emotions beats fixing them]] - Presence with emotion is more effective than fixing
 - [[literature-notes/management-communicates-distrust|Management communicates distrust]] - Self-management assumes you can't handle your own emotions
+- [[literature-notes/management-is-war-with-yourself|Emotional management is an internal war with yourself]]
+- [[literature-notes/resistance-creates-the-feared-outcome|Resisting an emotion creates the very outcome you fear]]
+- [[literature-notes/resisting-emotion-invites-it-back|Resisting an emotion is exactly what invites it back]]
+- [[literature-notes/unfelt-emotions-create-physical-stress|Unfelt emotions create physical stress through muscle tension]]
 
 ## Source
 

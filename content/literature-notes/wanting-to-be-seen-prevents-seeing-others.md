@@ -23,6 +23,8 @@ The pattern is self-reinforcing. The more desperately you want to be seen, the l
 - [[literature-notes/judging-others-for-what-you-do|We judge others for exactly what we're doing ourselves]] - The projection at the root
 - [[literature-notes/being-interested-not-interesting|Being interested not interesting]] - The relational version of this principle
 - [[literature-notes/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]] - The symmetry in conflict
+- [[literature-notes/rebellion-empowers-the-authority|Rebellion empowers the authority figure just as compliance does]]
+- [[literature-notes/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
 
 ## Source
 

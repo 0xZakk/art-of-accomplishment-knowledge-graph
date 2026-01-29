@@ -27,6 +27,10 @@ The session demonstrates this in real time: Christopher asks Joe to hold space f
 - [[literature-notes/feeling-helplessness-creates-agency|Feeling helplessness creates agency]] - The parallel principle with helplessness
 - [[literature-notes/welcoming-helplessness-not-managing-it|Welcoming helplessness, not managing it]] - Allowing rather than controlling vulnerable states
 - [[literature-notes/helplessness-dissolves-false-self-reliance|Helplessness dissolves false self-reliance]] - Vulnerability as path to authentic strength
+- [[literature-notes/facing-fear-builds-empowerment|Facing the feeling you're avoiding is how empowerment comes]]
+- [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[literature-notes/feeling-helplessness-creates-empowerment|Going through helplessness is what creates empowerment]]
+- [[literature-notes/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
 
 ## Source
 

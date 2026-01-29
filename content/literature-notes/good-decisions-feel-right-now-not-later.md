@@ -27,6 +27,7 @@ Brett draws a powerful parallel: making decisions to please your imagined future
 - [[literature-notes/decisions-as-portfolio-not-single-bet|Decisions as portfolio not single bet]] - Evaluating decisions over many iterations
 - [[literature-notes/all-decisions-are-emotional|All decisions are emotional]] - The foundation of this insight
 - [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]] - Presence over future-orientation
+- [[literature-notes/surrender-outcomes-to-decide-clearly|Surrender outcomes to decide clearly]]
 
 ## Source
 

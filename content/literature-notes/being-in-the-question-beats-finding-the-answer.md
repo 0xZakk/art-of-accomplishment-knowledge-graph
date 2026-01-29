@@ -25,6 +25,8 @@ Joe can hold certainty about his next step while remaining in wonder about wheth
 - [[literature-notes/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]] - The nature of wonder
 - [[literature-notes/knowing-is-the-opposite-of-wonder|Knowing is the opposite of wonder]] - What happens when you stop living in the question
 - [[literature-notes/discovery-not-improvement|Discovery not improvement]] - The orientation toward exploration
+- [[literature-notes/integration-means-more-mystery-not-more-answers|Healthy integration means more mystery, not more answers]]
+- [[literature-notes/questioning-assumptions-destabilizes-before-it-clarifies|Questioning assumptions destabilizes before it clarifies]]
 
 ## Source
 

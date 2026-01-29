@@ -25,6 +25,11 @@ The avoidance of an emotion ironically creates more of that emotion. Not looking
 - [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]] - The broader principle of moving toward what's difficult
 - [[literature-notes/fear-limits-optionality|Fear limits optionality]] - What unfelt fear costs
 - [[literature-notes/joy-wont-enter-where-emotions-unwelcome|Joy won't enter where her children aren't welcome]] - Why welcoming all feelings matters
+- [[literature-notes/feeling-helplessness-creates-empowerment|Going through helplessness is what creates empowerment]]
+- [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[literature-notes/appreciation-dissolves-unsafety|Appreciation and connection dissolve unsafety]]
+- [[literature-notes/allowing-the-victim-creates-empowerment|Fully allowing the victim experience naturally creates empowerment]]
+- [[literature-notes/helplessness-is-the-emotion-being-avoided|The feeling being avoided underneath 'I've got this' is helplessness]]
 
 ## Source
 

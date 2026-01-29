@@ -24,6 +24,9 @@ Parenthood opens you to "unlimited heartbreak whether you lose the kid or not," 
 - [[literature-notes/parenting-is-the-deepest-ego-work|Parenting is the deepest ego work]] - Core teaching
 - [[literature-notes/parenting-as-self-development-practice|Parenting as self-development practice]] - The practice orientation
 - [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]] - How breaking open increases capacity
+- [[literature-notes/numbness-as-survival-gift|Emotional numbness can be a survival gift, not a deficit]]
+- [[literature-notes/dont-shame-kids-love-yourself|To not harm your children, love yourself]]
+- [[literature-notes/teach-children-self-referencing|Teaching children to reference themselves builds their internal compass]]
 
 ## Source
 

@@ -27,6 +27,10 @@ This means that trying to stop the surface behavior (the addiction or procrastin
 - [[literature-notes/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]] - The self-reinforcing shame cycle
 - [[literature-notes/shame-drives-compulsive-avoidance|Shame drives compulsive avoidance]] - How shame creates the compulsion to numb
 - [[literature-notes/crack-the-intellectual-trap-first|Crack the intellectual trap first]] - Thinking as the first line of defense
+- [[literature-notes/procrastination-is-not-who-you-are|Procrastination is not who you are — and knowing that is the real pain]]
+- [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck in the patterns you regret]]
+- [[literature-notes/embracing-intensity-curbs-addiction|Embracing intensity removes the need for addictive escape]]
+- [[literature-notes/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
 
 ## Source
 

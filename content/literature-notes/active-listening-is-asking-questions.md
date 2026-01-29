@@ -22,6 +22,7 @@ Asking questions signals genuine interest and creates the conditions for relatio
 
 - [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]]
 - [[literature-notes/being-interested-not-interesting|Being interested rather than interesting creates connection]]
+- [[literature-notes/asking-questions-is-active-listening|Asking questions is the most powerful form of active listening]]
 
 ## Source
 

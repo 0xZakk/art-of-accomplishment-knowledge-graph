@@ -25,6 +25,10 @@ The coaching technique itself is worth noting: rather than arguing against the b
 
 - [[literature-notes/you-cannot-judge-the-value-of-your-own-input|You cannot judge the value of your own input]] - The impossible evaluation project
 - [[literature-notes/micromanaging-comes-from-feeling-out-of-control|Micromanaging comes from feeling out of control]] - Control as a response to insecurity
+- [[literature-notes/judging-others-for-what-you-do|We judge others for exactly what we're doing ourselves]]
+- [[literature-notes/teach-children-self-referencing|Teaching children to reference themselves builds their internal compass]]
+- [[literature-notes/coaching-expression-must-be-yours-not-your-teachers|Your coaching expression must be yours, not your teacher's]]
+- [[literature-notes/feeling-your-essential-nature-dissolves-avoidance|Feeling your essential nature dissolves avoidance behaviors]]
 
 ## Source
 

@@ -30,6 +30,10 @@ She was so committed to proving she didn't have anger that she found a neuroscie
 - [[literature-notes/exhaustion-is-unexpressed-anger|Exhaustion from caretaking is unexpressed anger]] - Another form of anger suppression
 - [[literature-notes/victim-anger-and-dominant-anger-both-matter|Both victim anger and dominant anger need expression]] - The forms anger expression can take
 - [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]] - The broader pattern
+- [[literature-notes/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuckness]]
+- [[literature-notes/resistance-creates-the-feared-outcome|Resisting an emotion creates the very outcome you fear]]
+- [[literature-notes/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[literature-notes/anger-release-ends-in-clarity-and-determination|Clean anger release ends in clarity and determination about yourself, not others]]
 
 ## Source
 

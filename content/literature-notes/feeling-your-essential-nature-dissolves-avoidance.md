@@ -28,6 +28,11 @@ This points to a fundamental reframe of addiction and procrastination: these are
 - [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - Authenticity as the organizing principle
 - [[literature-notes/the-expansiveness-of-I-Am|The expansiveness of I Am]] - The felt sense of essential nature
 - [[literature-notes/trying-is-resistance-to-experience|Trying is resistance to experience]] - How effort blocks presence
+- [[literature-notes/procrastination-is-not-who-you-are|Procrastination is not who you are — and knowing that is the real pain]]
+- [[literature-notes/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
+- [[literature-notes/you-cant-stop-being-present|You can't stop being present]]
+- [[literature-notes/wanting-to-control-perception-is-absurd|Wanting to control others' perception of you is absurd]]
+- [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 
 ## Source
 

@@ -29,6 +29,9 @@ This connects to Joe's broader teaching that feeling any avoided emotion all the
 - [[literature-notes/helplessness-is-the-emotion-being-avoided|Helplessness is the emotion being avoided]] - Helplessness as the core avoided emotion
 - [[literature-notes/welcoming-helplessness-not-managing-it|Welcoming helplessness, not managing it]] - The approach to helplessness
 - [[literature-notes/helplessness-is-gateway-to-surrender|Helplessness is the gateway to surrender]] - Helplessness as doorway
+- [[literature-notes/seeking-power-is-an-expression-of-fear|Seeking power is always an expression of fear]]
+- [[literature-notes/facing-fear-builds-empowerment|Facing the feeling you're avoiding is how empowerment comes]]
+- [[literature-notes/allowing-the-victim-creates-empowerment|Fully allowing the victim experience naturally creates empowerment]]
 
 ## Source
 

@@ -28,6 +28,9 @@ Wisdom is also asymptotic—it deepens over time and may resurface at new levels
 - [[literature-notes/emotions-are-glue-holding-beliefs|Emotions are the glue holding old beliefs in place]] - Why mental understanding alone isn't enough
 - [[literature-notes/flow-state-is-embodiment|Flow state is embodiment]] - The broader principle of body-based knowing
 - [[literature-notes/every-epiphany-becomes-the-next-rut|Every epiphany becomes the next rut]] - The spiral nature of growth
+- [[literature-notes/wisdom-is-when-you-dont-need-to-remember|Wisdom is when you don't need to remember the insight]]
+- [[literature-notes/insight-is-not-wisdom-until-embodied|Insight is not wisdom until it is embodied]]
+- [[literature-notes/confusing-state-with-insight|Confusing the ecstatic state with the insight itself sabotages integration]]
 
 ## Source
 

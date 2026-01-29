@@ -24,6 +24,11 @@ The key insight is that you cannot fight your way out of a war. Every layer of f
 - [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]] - Running toward intensity rather than away
 - [[literature-notes/hug-the-demon-dont-slay-it|Hug the demon, don't slay it]] - The same principle applied to inner demons
 - [[literature-notes/resistance-is-a-natural-step-in-transformation|Resistance is a natural step in transformation]] - Why resistance appears in the first place
+- [[literature-notes/love-the-resistance-to-the-thing|If you can't love the thing, love the resistance to the thing]]
+- [[literature-notes/heartbreak-opens-when-fear-is-felt|Heartbreak opens when fear is finally felt]]
+- [[literature-notes/welcome-the-inner-critic|Welcoming the inner critic dissolves its power]]
+- [[literature-notes/shame-hides-under-loving-attention|Shame hides from loving attention like a child under the couch]]
+- [[literature-notes/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
 
 ## Source
 

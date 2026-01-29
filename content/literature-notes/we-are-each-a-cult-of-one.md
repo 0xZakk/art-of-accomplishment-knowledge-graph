@@ -26,6 +26,9 @@ The statement "I'm a cult of one and that's okay" produces both joy and nervousn
 - [[literature-notes/voice-in-head-talks-to-itself|Voice in head talks to itself]] - The "guru" of the internal cult
 - [[literature-notes/identity-you-cant-see-controls-you-most|Identity you can't see controls you most]] - Why the internal cult is so powerful
 - [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - The projection principle
+- [[literature-notes/cult-dynamics-are-universal-human-tendencies|Cult dynamics exist on a spectrum present in all human groups]]
+- [[literature-notes/seeding-authority-feels-like-belonging|Ceding authority to a group feels like belonging and safety]]
+- [[literature-notes/dismissing-deep-connection-as-cult-diminishes-life|Dismissing deep community as 'cult behavior' diminishes the possibility of authentic living]]
 
 ## Source
 

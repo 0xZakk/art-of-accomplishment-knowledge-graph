@@ -25,6 +25,9 @@ The etymology of "shame" itself contains "hide" — shame is inherently about wh
 - [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]] - Shame needs to be felt rather than managed
 - [[literature-notes/presenting-yourself-prevents-being-loved|Presenting yourself prevents being loved]] - The false front blocks real love
 - [[literature-notes/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]] - Curating yourself for love guarantees you won't receive it
+- [[literature-notes/being-seen-is-a-survival-need-we-villainize|Being seen is a survival need we villainize]]
+- [[literature-notes/compliments-pushed-away-reveal-disallowed-goodness|Pushing away compliments reveals disallowed goodness]]
+- [[literature-notes/listening-before-being-seen|Letting go of being seen allows you to be seen]]
 
 ## Source
 

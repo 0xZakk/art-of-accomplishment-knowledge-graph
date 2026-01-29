@@ -26,6 +26,10 @@ The other common trap is trying to skip directly to love without moving through 
 - [[literature-notes/wonder-to-love-progression|The progression from separation to wonder to love]] - The full progression that this trap interrupts
 - [[literature-notes/tools-can-keep-you-stuck|Tools and techniques can keep you stuck]] - Using love as a tool is another form of this pattern
 - [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]] - "I should love this" is just another should
+- [[literature-notes/when-love-shows-up-unloved-parts-surface|When love shows up, unloved parts surface to be loved]]
+- [[literature-notes/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
+- [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[literature-notes/what-we-do-for-love-erodes-power|What we do to maintain love erodes our power]]
 
 ## Source
 

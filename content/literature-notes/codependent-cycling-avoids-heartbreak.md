@@ -28,6 +28,7 @@ The real work is simpler and harder: be with the partner's pain when you can. Le
 - [[literature-notes/indecision-means-unfelt-emotions|Indecision means unfelt emotions]] - Why the cycling produces paralysis
 - [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]] - What's on the other side of the avoided feeling
 - [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]] - The mechanism connecting shame and anger in the cycle
+- [[literature-notes/framing-problems-around-others-reveals-codependence|Framing problems around others reveals codependence]]
 
 ## Source
 

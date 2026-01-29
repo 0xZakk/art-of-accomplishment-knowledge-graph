@@ -27,6 +27,10 @@ The inverse is also true: if you don't feel helplessness, you're constantly chas
 - [[literature-notes/helplessness-is-gateway-to-surrender|Helplessness is the gateway to surrender]] - The mechanism through which agency emerges
 - [[literature-notes/helplessness-dissolves-false-self-reliance|Helplessness dissolves false self-reliance]] - For high-capacity people especially
 - [[literature-notes/facing-fear-builds-empowerment|Facing fear builds empowerment]] - The broader pattern
+- [[literature-notes/feeling-helplessness-creates-empowerment|Going through helplessness is what creates empowerment]]
+- [[literature-notes/welcoming-helplessness-not-managing-it|The freedom is in wanting to feel helpless again]]
+- [[literature-notes/allowing-the-victim-creates-empowerment|Fully allowing the victim experience naturally creates empowerment]]
+- [[literature-notes/helplessness-is-the-emotion-being-avoided|The feeling being avoided underneath 'I've got this' is helplessness]]
 
 ## Source
 

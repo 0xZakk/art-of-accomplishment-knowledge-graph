@@ -24,6 +24,9 @@ Caring for someone, by contrast, doesn't generate resentment because there's no 
 - [[literature-notes/caretaking-creates-resentment-in-the-receiver|Caretaking creates resentment in the receiver]] - The receiver's experience
 - [[literature-notes/resentment-signals-a-boundary-needed|Resentment signals a boundary needed]] - Resentment as guide
 - [[literature-notes/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]] - The deeper mechanism
+- [[literature-notes/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
+- [[literature-notes/weaponizing-non-caretaking-is-still-defense|Weaponizing non-caretaking is just another defense]]
+- [[literature-notes/caring-softens-you-caretaking-makes-you-neurotic|Caring softens you over time; caretaking makes you neurotic]]
 
 ## Source
 

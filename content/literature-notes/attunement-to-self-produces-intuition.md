@@ -23,6 +23,7 @@ This has practical consequences for goal-setting: attuning to yourself might rev
 - [[literature-notes/intuition-sees-what-logic-cannot|Intuition sees what logic cannot]] - The faculty that attunement activates
 - [[literature-notes/attunement-reduces-mental-chatter|Attunement reduces mental chatter and reveals quiet wants]] - The mechanism by which intuition becomes audible
 - [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]] - The simplicity of the practice
+- [[literature-notes/attunement-is-listening-without-leaving-yourself|Attunement is listening without leaving yourself]]
 
 ## Source
 

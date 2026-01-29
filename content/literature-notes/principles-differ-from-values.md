@@ -25,6 +25,7 @@ The difference can also be framed as: values are about what not to do (morality)
 - [[literature-notes/principles-automate-decision-making|Principles automate decision-making]] - The practical result
 - [[literature-notes/operating-principles-automate-eighty-percent-of-decisions|Operating principles automate eighty percent of decisions]] - Scale of impact
 - [[literature-notes/unconscious-principles-already-run-your-life|Unconscious principles already run your life]] - The hidden default
+- [[literature-notes/principles-make-decisions-for-you|Principles make decisions for you]]
 
 ## Source
 

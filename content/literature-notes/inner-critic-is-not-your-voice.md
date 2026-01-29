@@ -27,6 +27,9 @@ He offers a practical exercise: narrate your thoughts aloud for five minutes, th
 - [[literature-notes/inner-critic-as-guide|The inner critic can be related to in multiple ways]] - Different response options
 - [[literature-notes/welcome-the-inner-critic|Welcome the inner critic]] - The welcoming approach
 - [[literature-notes/self-criticism-intensifies-with-intelligence|Self-criticism intensifies with intelligence]] - Why smart people suffer more from this
+- [[literature-notes/voice-in-head-talks-to-itself|The voice in the head talks to itself more than to you]]
+- [[literature-notes/respond-differently-to-the-inner-critic|Respond differently to the inner critic as a practice]]
+- [[literature-notes/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
 
 ## Source
 

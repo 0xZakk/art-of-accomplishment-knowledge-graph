@@ -25,6 +25,11 @@ The key distinction is between victim anger ("I'm so tired of being stuck") and 
 - [[literature-notes/rage-as-gateway-to-healing|Rage as a gateway to healing]]
 - [[literature-notes/moving-emotions-dissolves-depression|Moving emotions dissolves depression]]
 - [[literature-notes/wanting-is-aliveness|Wanting is aliveness]]
+- [[literature-notes/resistance-changes-the-emotion|Resisting an emotion changes its expression entirely]]
+- [[literature-notes/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuckness]]
+- [[literature-notes/anger-release-ends-in-clarity-and-determination|Clean anger release ends in clarity and determination about yourself, not others]]
+- [[literature-notes/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
+- [[literature-notes/suppressing-anger-kills-your-fire|Suppressing anger kills your fire, determination, and clarity]]
 
 ## Source
 

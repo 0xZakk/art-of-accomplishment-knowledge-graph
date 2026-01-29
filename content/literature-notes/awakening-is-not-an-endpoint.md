@@ -26,6 +26,7 @@ Over time, even Joe's relationship to awakening dissolved from something profoun
 - [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]] - "Awakened" is just another limiting identity
 - [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - The path is exploration, not arrival
 - [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]] - Trying to reach a final state is another form of self-war
+- [[literature-notes/every-epiphany-is-a-rut-waiting-to-happen|Every epiphany is a rut waiting to happen]]
 
 ## Source
 

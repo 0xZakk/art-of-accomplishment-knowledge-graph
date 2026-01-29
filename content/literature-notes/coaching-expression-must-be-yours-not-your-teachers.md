@@ -25,6 +25,9 @@ The impulse to watch someone coach and think "I want to be able to do that" dese
 - [[literature-notes/your-gifts-are-your-nature-not-a-framework|Your gifts are your nature, not a framework]] - Gifts emerge from who you are, not what you learn
 - [[literature-notes/contorting-into-frameworks-blocks-authenticity|Contorting into frameworks blocks authenticity]] - Adopting others' frameworks blocks your own expression
 - [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - Authenticity as the organizing principle
+- [[literature-notes/coaching-is-self-discovery-not-skill-acquisition|Coaching is self-discovery, not skill acquisition]]
+- [[literature-notes/wanting-to-control-perception-is-absurd|Wanting to control others' perception of you is absurd]]
+- [[literature-notes/everyone-already-knows-the-way-home|Everyone already knows the way home]]
 
 ## Source
 

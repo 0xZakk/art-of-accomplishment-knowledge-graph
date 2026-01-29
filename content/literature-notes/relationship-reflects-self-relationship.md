@@ -23,6 +23,8 @@ This mirrors the broader VIEW teaching that external reality reflects internal r
 - [[literature-notes/self-love-is-the-capacity-limit-for-loving-others|Self-love is the capacity limit for loving others]] - The capacity constraint
 - [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - The mirror principle
 - [[literature-notes/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]] - Same dynamic in business
+- [[literature-notes/self-relationship-is-the-core-issue|The relationship with yourself is always the core issue]]
+- [[literature-notes/self-love-sets-the-capacity-limit-for-loving-others|Self-love sets the capacity limit for loving a partner]]
 
 ## Source
 

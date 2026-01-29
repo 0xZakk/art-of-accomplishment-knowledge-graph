@@ -24,6 +24,9 @@ For some people the entry point is "what am I scared of feeling?" For others it'
 - [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
 - [[literature-notes/overwhelm-is-leaving-flow-to-manage-reality|Overwhelm begins when you leave flow to manage reality]]
 - [[literature-notes/false-ends-keep-you-stuck|False ends keep you stuck]]
+- [[literature-notes/unfelt-emotions-create-physical-stress|Unfelt emotions create physical stress through muscle tension]]
+- [[literature-notes/feel-the-false-end-to-dissolve-overwhelm|Feel through the feared outcome to dissolve overwhelm]]
+- [[literature-notes/emotional-release-resolves-work-overwhelm|Emotional release resolves work overwhelm]]
 
 ## Source
 

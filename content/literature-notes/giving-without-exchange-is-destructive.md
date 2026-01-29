@@ -23,6 +23,9 @@ This applies to coaching, charity, parenting, and any form of support. Help offe
 
 - [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]] - How philanthropy can be projection
 - [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]] - One-way giving as a relational pattern
+- [[literature-notes/energetic-exchange-requires-felt-cost|Energetic exchange requires a felt cost to be transformative]]
+- [[literature-notes/money-wounds-trace-to-parent-wounds|Money wounds trace back to parent wounds]]
+- [[literature-notes/generosity-is-being-not-giving|True generosity is a way of being, not an act of giving]]
 
 ## Source
 

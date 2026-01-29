@@ -23,6 +23,8 @@ The paradox is revealing: this person always has enough money and always figures
 - [[literature-notes/money-beliefs-create-money-reality|Money beliefs create money reality]] - How beliefs shape financial outcomes
 - [[literature-notes/address-root-blockers-not-symptoms|Address root blockers, not symptoms]] - The principle of going deeper
 - [[literature-notes/identity-of-lack-perpetuates-lack|Identity of lack perpetuates lack]] - The self-reinforcing nature of lack stories
+- [[literature-notes/money-blocks-are-safety-blocks|Money blocks are often safety blocks]]
+- [[literature-notes/money-resistance-mirrors-childhood-wounds|Money resistance often mirrors childhood wounds around love and worth]]
 
 ## Source
 

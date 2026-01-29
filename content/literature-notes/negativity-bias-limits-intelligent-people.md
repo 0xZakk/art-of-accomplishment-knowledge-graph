@@ -24,6 +24,7 @@ The fix isn't to become less analytical. It's to apply the same analytical rigor
 - [[literature-notes/gratitude-reveals-solutions-in-problems|Gratitude directed at a problem reveals solutions within it]]
 - [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]]
 - [[literature-notes/perfectionism-is-the-critical-parents-voice|Perfectionism is the critical parent's voice]]
+- [[literature-notes/gratitude-reveals-solutions-criticism-hides|Gratitude reveals solutions that criticism hides]]
 
 ## Source
 

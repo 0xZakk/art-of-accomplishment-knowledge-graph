@@ -25,6 +25,8 @@ The solution is surprisingly simple: every time you think about the problem, env
 - [[literature-notes/procrastination-requires-self-abuse|Procrastination requires self-abuse]] - Self-abuse as necessary ingredient
 - [[literature-notes/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]] - The same loop in addiction
 - [[literature-notes/bullying-yourself-creates-resistance|Bullying yourself creates resistance]] - Why self-punishment backfires
+- [[literature-notes/avoidance-chain-from-essence-to-addiction|The avoidance chain runs from essential self through thinking to addiction]]
+- [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck in the patterns you regret]]
 
 ## Source
 

@@ -34,6 +34,7 @@ You're judging yourself for something universally human. And that judgment creat
 - [[literature-notes/triggers-reveal-self-judgment|Triggers reveal what we judge in ourselves]]
 - [[literature-notes/triggers-rhyme-with-negative-self-talk|We get triggered when something rhymes with our negative self-talk]]
 - [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
+- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shaming a behavior is the best way to guarantee it repeats]]
 
 ## Source
 

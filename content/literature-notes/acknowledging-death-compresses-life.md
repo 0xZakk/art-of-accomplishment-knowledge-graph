@@ -25,6 +25,9 @@ The compression happens because acknowledging death dissolves the stories and id
 - [[literature-notes/grief-is-identity-dissolution|Grief is identity dissolution]] - Death forces the dissolution of identity constructs
 - [[literature-notes/mortality-as-psychedelic|Mortality as psychedelic]] - Confronting mortality shifts perception like a psychedelic experience
 - [[literature-notes/enjoyment-is-available-now-not-later|Enjoyment is available now, not later]] - Death awareness reveals that conditions for enjoyment are already present
+- [[literature-notes/near-death-reveals-peace-already-present|Near-death experiences reveal peace that was already there]]
+- [[literature-notes/say-goodbye-like-its-the-last-time|Always say goodbye like it's the last time]]
+- [[literature-notes/the-abyss-is-where-you-dont-exist|The abyss we fear is the place where we don't exist]]
 
 ## Source
 

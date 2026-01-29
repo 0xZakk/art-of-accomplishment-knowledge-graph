@@ -27,6 +27,7 @@ The implication is both humbling and liberating. You can't hack communication th
 - [[literature-notes/chasing-understanding-creates-control|Chasing understanding feels like control to others]] - What happens when the state is wrong
 - [[literature-notes/communication-techniques-get-weaponized|Communication techniques get weaponized]] - Why technique-based approaches fail
 - [[literature-notes/listening-to-yourself-transforms-communication|Listening to yourself transforms communication]] - The practical path
+- [[literature-notes/view-is-a-state-of-mind-not-a-technique|VIEW is a state of mind not a technique]]
 
 ## Source
 

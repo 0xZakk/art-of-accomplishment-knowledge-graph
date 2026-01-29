@@ -24,6 +24,8 @@ Taking contrary action leads to heartbreak (you bump against the fear of losing 
 - [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]] - The pattern being broken
 - [[literature-notes/what-we-do-for-love-erodes-power|What we do to maintain love erodes our power]] - What happens without contrary action
 - [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion, not breaking]] - What contrary action opens you to
+- [[literature-notes/closing-heart-from-confused-love|Confused love tells us when to close our hearts]]
+- [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 
 ## Source
 

@@ -27,6 +27,10 @@ The practice is simple but counterintuitive: when the head spin of doubt begins,
 - [[literature-notes/opening-heart-to-what-you-resist|Opening heart to what you resist]] - The broader pattern of embracing what we push away
 - [[literature-notes/doubt-is-leaving-your-heart|Doubt is leaving your heart]] - How doubt functions as disconnection from self
 - [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness not the feeling]] - The mechanism underneath
+- [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[literature-notes/doubt-as-emotional-protection|Doubt as emotional protection]]
+- [[literature-notes/craving-is-the-pushing-away|Craving is the pushing away]]
+- [[literature-notes/clarity-comes-after-feeling-not-before|Clarity comes after feeling the emotion not before]]
 
 ## Source
 

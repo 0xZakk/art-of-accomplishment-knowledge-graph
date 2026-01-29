@@ -23,6 +23,7 @@ The very first part of Joe's real journey was "sitting quietly, watching the voi
 - [[literature-notes/self-relationship-is-the-core-issue|Self-relationship is the core issue]] - The centrality of how you relate to yourself
 - [[literature-notes/inner-critic-is-not-your-voice|The inner critic is not your voice]] - Recognizing the critic as separate
 - [[literature-notes/respond-differently-to-the-inner-critic|Respond differently to the inner critic]] - Practical approach to the inner voice
+- [[literature-notes/everyone-already-knows-the-way-home|Everyone already knows the way home]]
 
 ## Source
 

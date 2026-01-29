@@ -25,6 +25,7 @@ This is why the welcoming of fear is not just personal development—it's a lead
 - [[literature-notes/shame-hot-potato|Shame hot potato]] - The same dynamic with shame instead of fear
 - [[literature-notes/ceo-as-everyones-caretaker-is-unsustainable|CEO as everyone's caretaker is unsustainable]] - What happens when fear drives leadership patterns
 - [[literature-notes/welcoming-fear-over-conquering-it|Welcoming fear is safer than conquering it]] - The practice that prevents the hot potato
+- [[literature-notes/teams-consolidate-helplessness-in-one-person|Teams consolidate unfelt helplessness in one person]]
 
 ## Source
 

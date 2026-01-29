@@ -24,6 +24,7 @@ This reframing matters because it collapses what seems like a paradox ("I'm afra
 - [[literature-notes/fear-of-stagnation-creates-stagnation|Fear of stagnation creates stagnation]] - Another fear that produces its own object
 - [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - The general pattern of fear manifesting what it resists
 - [[literature-notes/importance-kills-enjoyment|Importance kills enjoyment]] - How this fear operates through pressure
+- [[literature-notes/fear-of-success-creates-doubt-too|Fear of success creates doubt just like fear of failure]]
 
 ## Source
 

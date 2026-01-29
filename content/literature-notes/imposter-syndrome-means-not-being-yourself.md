@@ -24,6 +24,7 @@ The only place you're not an imposter is when you're being yourself. Everything 
 - [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Inauthenticity prevents genuine connection
 - [[literature-notes/regret-comes-from-not-being-yourself|Regret comes from not being yourself]] - The cost of pretending
 - [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - Authenticity as the path forward
+- [[literature-notes/confidence-is-connection-to-yourself|Confidence is how connected you are to yourself, not a skill you build]]
 
 ## Source
 

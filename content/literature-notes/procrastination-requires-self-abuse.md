@@ -27,6 +27,10 @@ This reframes the entire problem. Instead of asking "How do I stop procrastinati
 - [[literature-notes/self-criticism-intensifies-with-intelligence|Self-criticism intensifies with intelligence]] - Why smart people procrastinate more
 - [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]] - The antidote
 - [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]] - The defensive function of self-judgment
+- [[literature-notes/procrastination-is-not-who-you-are|Procrastination is not who you are — and knowing that is the real pain]]
+- [[literature-notes/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
+- [[literature-notes/avoidance-chain-from-essence-to-addiction|The avoidance chain runs from essential self through thinking to addiction]]
+- [[literature-notes/procrastination-as-wisdom-signal|Procrastination can be a signal that your priorities are misaligned]]
 
 ## Source
 

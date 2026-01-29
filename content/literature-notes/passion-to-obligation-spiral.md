@@ -23,6 +23,7 @@ The passion itself isn't the problem. The problem is that pursuing passion activ
 - [[literature-notes/obligation-kills-love|Obligation kills love]] - The mechanism by which obligation replaces genuine engagement
 - [[literature-notes/obligation-cuts-off-love|Obligation cuts off the experience of love in the moment]] - Obligation constricts the emotional experience
 - [[literature-notes/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]] - The self-reinforcing cycle of shame
+- [[literature-notes/shame-addiction-creates-empty-fulfillment|Shame becomes addictive and creates empty fulfillment]]
 
 ## Source
 

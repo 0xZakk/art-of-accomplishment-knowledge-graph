@@ -24,6 +24,7 @@ This approach works because if the elephant is rooted in false shame, and everyo
 - [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - The external elephant reflects an internal one
 - [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]] - Speaking from wants is disarming
 - [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]] - Not owning your wants keeps you in the elephant dynamic
+- [[literature-notes/the-truth-speaker-becomes-the-problem|The person who speaks the elephant becomes 'the problem']]
 
 ## Source
 

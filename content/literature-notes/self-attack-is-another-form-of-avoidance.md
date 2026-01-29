@@ -24,6 +24,10 @@ This creates a particular trap for people in depression or shame spirals. They m
 - [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - Self-attack through shame perpetuates the very behaviors being criticized
 - [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck]] - Indulging in shame can feel safer than allowing transformation
 - [[literature-notes/inner-critic-is-not-your-voice|Inner critic is not your voice]] - The attacking voice is a defense mechanism, not truth
+- [[literature-notes/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
+- [[literature-notes/feel-whats-underneath-the-shame|Feel what's underneath the shame to break stagnation]]
+- [[literature-notes/embracing-intensity-curbs-addiction|Embracing intensity removes the need for addictive escape]]
+- [[literature-notes/shame-about-grief-shuts-down-all-emotions|Shame about grief shuts down all emotions]]
 
 ## Source
 

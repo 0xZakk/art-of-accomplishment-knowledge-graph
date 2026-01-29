@@ -23,6 +23,11 @@ The system naturally titrates. You face what you can, when you can. The key is t
 
 - [[literature-notes/ownership-of-the-adventure|Taking ownership of the adventure transforms crisis]] - Making grief an adventure rather than an oppression
 - [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]] - How self-judgment blocks the titration
+- [[literature-notes/shame-about-grief-shuts-down-all-emotions|Shame about grief shuts down all emotions]]
+- [[literature-notes/grief-sustained-transforms-everything|Sustained grief transforms everything it touches]]
+- [[literature-notes/being-undefended-erodes-narcissism|Being undefended erodes narcissism]]
+- [[literature-notes/grief-is-necessary-for-transformation|Grief is necessary for transformation]]
+- [[literature-notes/face-reality-feel-emotions-find-certainty|Face reality, feel emotions, find certainty — three steps through crisis]]
 
 ## Source
 

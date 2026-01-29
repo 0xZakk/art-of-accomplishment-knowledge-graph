@@ -25,6 +25,7 @@ This makes decision-making refinement one of the highest leverage points availab
 - [[literature-notes/principles-differ-from-values|Principles drive action; values describe morality]] - The tool for better decisions
 - [[literature-notes/company-is-relationships-and-decisions|Company is relationships and decisions]] - The organizational version
 - [[literature-notes/willingness-to-feel-improves-decisions|Willingness to feel improves decisions]] - Emotional prerequisite for good decisions
+- [[literature-notes/principles-make-decisions-for-you|Principles make decisions for you]]
 
 ## Source
 

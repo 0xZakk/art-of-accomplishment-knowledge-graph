@@ -25,6 +25,11 @@ Additionally, emotional avoidance creates identity traps. When you can't move an
 - [[literature-notes/emotional-fluidity-defined|Emotional fluidity is feeling all emotions without resistance]] - The antidote
 - [[literature-notes/fear-limits-optionality|Fear limits optionality]] - How fear narrows choices
 - [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - How unfelt emotions become identity
+- [[literature-notes/bad-decisions-come-from-fear-of-emotions|Bad decisions come from fear of emotional consequences]]
+- [[literature-notes/resistance-creates-the-feared-outcome|Resisting an emotion creates the very outcome you fear]]
+- [[literature-notes/facing-fear-builds-empowerment|Facing the feeling you're avoiding is how empowerment comes]]
+- [[literature-notes/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]
+- [[literature-notes/fear-of-consequences-is-fear-of-emotional-states|Fear of consequences is really fear of emotional states]]
 
 ## Source
 

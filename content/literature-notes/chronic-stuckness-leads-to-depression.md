@@ -23,6 +23,10 @@ Brett frames it precisely: "Maybe depression is some form of self-oppression. Li
 - [[literature-notes/moving-emotions-dissolves-depression|Moving emotions dissolves depression]] - The practical antidote
 - [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - Why selective suppression cascades
 - [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - The alternative to self-oppression
+- [[literature-notes/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[literature-notes/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]
+- [[literature-notes/emotional-repression-causes-depression-and-shoulds|Emotional repression is the root cause of depression and shoulds]]
+- [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 
 ## Source
 

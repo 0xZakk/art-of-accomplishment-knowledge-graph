@@ -27,6 +27,7 @@ This mirrors Joe's framing of success as "a criteria of accomplishment" — not 
 - [[literature-notes/not-trying-gets-more-done|Not trying gets more done]] - Effort versus flow
 - [[literature-notes/evolution-doesnt-require-striving|Evolution doesn't require striving]] - Growth without force
 - [[literature-notes/purpose-matures-into-choicelessness|Purpose matures into choicelessness]] - How purpose evolves beyond seeking
+- [[literature-notes/feel-your-way-to-freedom|Feel your way to freedom]]
 
 ## Source
 

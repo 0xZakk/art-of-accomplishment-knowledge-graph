@@ -23,6 +23,11 @@ The practice: feel your emotions alone or with a trusted friend first, so they d
 
 - [[literature-notes/holding-space-requires-staying-in-yourself|Holding space requires staying in yourself]] - Being with another's emotions without absorbing them
 - [[literature-notes/fights-can-heal-or-retraumatize|Fights can heal or retraumatize]] - How emotions in relationship can go either way
+- [[literature-notes/emotional-abuse-is-using-emotions-to-control|Emotional abuse is using emotions to control someone]]
+- [[literature-notes/anger-at-without-permission-is-manipulation|Expressing anger at someone without permission is a bid for control]]
+- [[literature-notes/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
+- [[literature-notes/express-anger-without-directing-it|You can express anger without directing it at anyone]]
+- [[literature-notes/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]]
 
 ## Source
 

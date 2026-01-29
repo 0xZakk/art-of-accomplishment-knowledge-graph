@@ -25,6 +25,7 @@ Joe validates the self-doubt: "It's good that you don't think you can do it, bec
 - [[literature-notes/you-are-a-terrible-boss-to-yourself|You are a terrible boss to yourself]] - The boss demanding first-attempt perfection
 - [[literature-notes/experiments-make-knowledge-embodied|Experimentation over dogma in self-development]] - The iterative alternative
 - [[literature-notes/bad-decisions-come-from-fear-of-emotions|Bad decisions come from fear of emotions]] - Fear driving the paralysis
+- [[literature-notes/clarity-comes-after-feeling-not-before|Clarity comes after feeling the emotion not before]]
 
 ## Source
 

@@ -25,6 +25,7 @@ Brett frames this as an intelligence in us that draws us toward what we won't al
 - [[literature-notes/craving-pushes-away-what-you-want|Craving pushes away what you want]] - The grasping itself creates the distance
 - [[literature-notes/avoidance-chain-from-essence-to-addiction|Avoidance chain from essence to addiction]] - Suppressed pleasure is a key link in this chain
 - [[literature-notes/repressed-anger-kinks-into-symptoms|Repressed anger kinks into symptoms]] - Same principle applied to anger
+- [[literature-notes/shame-addiction-creates-empty-fulfillment|Shame becomes addictive and creates empty fulfillment]]
 
 ## Source
 

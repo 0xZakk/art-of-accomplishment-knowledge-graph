@@ -42,6 +42,7 @@ Joe demonstrates that when we simply ask "How do I live my purpose right now?"â€
 - [[literature-notes/doubt-is-leaving-your-heart|Doubt is leaving your heart]] - The mechanism of fleeing "I am"
 - [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]] - Where "I am" actually lives
 - [[literature-notes/grief-of-self-abandonment|Grief of self-abandonment]] - The cost of avoiding "I am"
+- [[literature-notes/aloneness-without-loneliness|Aloneness without loneliness is a sign of authentic self-discovery]]
 
 ## Source
 

@@ -25,6 +25,7 @@ If they're willing to explore, you support each other in healing. If they're unw
 - [[literature-notes/owning-your-needs-is-not-selfish|Owning your needs is not selfish]] - The permission to want
 - [[literature-notes/wanting-matters-more-than-what-you-want|Wanting matters more than what you want]] - The importance of being in touch with desire
 - [[literature-notes/both-partners-must-want-better|Both partners must want better]] - What happens when only one partner wants to grow
+- [[literature-notes/compromise-builds-resentment|Compromise means neglecting yourself and it always builds resentment]]
 
 ## Source
 

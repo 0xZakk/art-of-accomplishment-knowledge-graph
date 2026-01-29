@@ -20,6 +20,7 @@ This also reveals why authority figures crave feedback so desperately—and why 
 ## Related Concepts
 
 - [[literature-notes/being-interested-not-interesting|Being interested, not interesting]] - Attending to others shifts the power dynamic
+- [[literature-notes/authority-distorts-reality-for-leaders|Being in authority distorts your reality]]
 
 ## Source
 

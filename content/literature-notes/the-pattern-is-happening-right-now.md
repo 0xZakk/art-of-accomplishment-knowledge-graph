@@ -23,6 +23,7 @@ This illustrates a principle: you don't need someone's backstory to see their pa
 
 - [[literature-notes/go-deeper-into-the-defense|Go deeper into the defense]]
 - [[literature-notes/holding-it-together-blocks-support|Holding it together shields you from the support trying to reach you]]
+- [[literature-notes/being-held-requires-dropping-the-performance|Being held requires dropping the performance]]
 
 ## Source
 

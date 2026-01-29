@@ -27,6 +27,7 @@ The choice becomes clear: be yourself, heal your shame, give others the opportun
 - [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]] - The cost of avoiding conflict
 - [[literature-notes/safety-comes-from-working-through-conflict|Safety comes from working through conflict]] - How conflict creates safety
 - [[literature-notes/conflict-avoidant-leaders-trade-short-term-for-long-term-pain|Conflict avoidant leaders trade short-term for long-term pain]] - Applied to leadership
+- [[literature-notes/conflict-avoidant-managers-destroy-trust|Conflict-avoidant managers destroy trust]]
 
 ## Source
 

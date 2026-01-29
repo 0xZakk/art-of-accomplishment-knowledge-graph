@@ -25,6 +25,8 @@ This applies to leadership, parenting, therapy, and every relationship. The most
 - [[literature-notes/chameleon-leadership-creates-uncertainty|Chameleon leadership creates uncertainty]] - What happens without a center
 - [[literature-notes/unfelt-emotions-drive-you-into-others-opinions|Unfelt emotions drive you into others' opinions]] - Why we leave ourselves
 - [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - The broader principle
+- [[literature-notes/empathy-is-being-with-not-in|Empathy is being with someone, not in someone]]
+- [[literature-notes/being-together-in-emotions-not-caretaking|Being together in emotions is different from caretaking them]]
 
 ## Source
 

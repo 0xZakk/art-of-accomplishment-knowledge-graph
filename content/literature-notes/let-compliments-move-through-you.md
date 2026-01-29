@@ -23,6 +23,8 @@ This applies to coaching and facilitation as well: the facilitator's job is to b
 - [[literature-notes/receiving-compliments-dissolves-unworthiness|Receiving compliments dissolves unworthiness]] - The practice of letting praise in
 - [[literature-notes/receiving-requires-vulnerability|Receiving requires vulnerability]] - Why deflecting feels safer than receiving
 - [[literature-notes/humility-is-not-taking-life-personally|Humility is not taking life personally]] - The non-defended stance
+- [[literature-notes/false-humility-as-defense|False humility is a defense against being seen]]
+- [[literature-notes/hollowing-out-is-a-perpetual-process|The hollowing out process never ends]]
 
 ## Source
 

@@ -53,6 +53,9 @@ This teaching is uncomfortable because it removes all our excuses. We can't say 
 - [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]] - Where purpose actually exists
 - [[literature-notes/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]] - Why searching fails
 - [[literature-notes/the-expansiveness-of-I-Am|The expansiveness of I Am]] - What we're avoiding through the search
+- [[literature-notes/say-yes-then-filter-for-joy|Say yes to what intrigues you, then filter for joy]]
+- [[literature-notes/wanting-is-aliveness|Wanting is aliveness]]
+- [[literature-notes/grief-of-self-abandonment|Grief of self-abandonment]]
 
 ## Source
 

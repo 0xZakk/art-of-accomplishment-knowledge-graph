@@ -29,6 +29,7 @@ When organizations lose creative capacity ("we're not creating new anymore, we'r
 - [[literature-notes/sales-is-connecting-not-convincing|Sales is connecting, not convincing]] - Listening-first approach to sales
 - [[literature-notes/trust-is-the-universal-ingredient-of-functional-teams|Trust is the universal ingredient of functional teams]] - Trust requires being heard
 - [[literature-notes/product-designed-by-connection-not-ideas|Product designed by connection, not ideas]] - Products emerge from listening
+- [[literature-notes/asking-questions-is-active-listening|Asking questions is the most powerful form of active listening]]
 
 ## Source
 

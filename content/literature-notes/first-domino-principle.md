@@ -25,6 +25,7 @@ The self-abuse creates a fog that prevents seeing which domino matters most. Whe
 - [[literature-notes/procrastination-as-wisdom-signal|Procrastination can signal misaligned priorities]] - Reading the signal
 - [[literature-notes/address-root-blockers-not-symptoms|Address root blockers not symptoms]] - Working on what matters
 - [[literature-notes/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]] - Why the fog exists
+- [[literature-notes/procrastination-is-emotional-avoidance|Procrastination is the avoidance of an emotional state]]
 
 ## Source
 

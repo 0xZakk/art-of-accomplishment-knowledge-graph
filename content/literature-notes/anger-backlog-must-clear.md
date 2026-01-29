@@ -25,6 +25,10 @@ This is important for anyone beginning emotional processing work. The initial ph
 - [[literature-notes/move-the-charge-not-the-story|Move the emotional charge without believing the story]] - How to move it cleanly
 - [[literature-notes/suppressing-anger-kills-your-fire|Suppressing anger kills your fire]] - What created the backlog
 - [[literature-notes/exhaustion-is-unexpressed-anger|Exhaustion is unexpressed anger]] - The cost of holding it in
+- [[literature-notes/progression-from-anger-to-deeper-emotions|The progression from anger reveals grief and fear underneath]]
+- [[literature-notes/anger-champagne-bottle-effect|The champagne bottle effect of releasing stored anger]]
+- [[literature-notes/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
+- [[literature-notes/anger-release-ends-in-clarity-and-determination|Clean anger release ends in clarity and determination about yourself, not others]]
 
 ## Source
 

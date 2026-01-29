@@ -22,6 +22,9 @@ This gives a practical entry point: you don't need to intellectually identify yo
 - [[literature-notes/unfelt-emotions-create-physical-stress|Unfelt emotions create physical stress]]
 - [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]]
 - [[literature-notes/stuck-is-a-feeling-not-reality|Stuck is a feeling not reality]]
+- [[literature-notes/three-categories-of-limiting-beliefs|Limiting beliefs come in three forms: false thoughts, misinterpreted experience, and incomplete story]]
+- [[literature-notes/constriction-not-truth-identifies-limiting-beliefs|Constriction, not truth, identifies limiting beliefs]]
+- [[literature-notes/look-for-what-you-absolutely-believe-true|Your limiting beliefs hide in what you absolutely believe to be true]]
 
 ## Source
 

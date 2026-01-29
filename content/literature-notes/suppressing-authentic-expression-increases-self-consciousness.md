@@ -25,6 +25,9 @@ The comic had also been told by coaches to do "dead pan" — which Joe points ou
 - [[literature-notes/hiding-makes-you-feel-more-like-an-imposter|Hiding makes you feel more like an imposter]] - Suppression creates the very problem it tries to solve
 - [[literature-notes/imposter-syndrome-means-not-being-yourself|Imposter syndrome means not being yourself]] - Performance mode is impostor mode
 - [[literature-notes/shame-creates-the-see-me-dont-see-me-double-bind|Shame creates the see-me-don't-see-me double bind]] - Wanting to be seen but afraid to be seen
+- [[literature-notes/connection-dissolves-self-consciousness|Connection dissolves self-consciousness]]
+- [[literature-notes/welcoming-fear-cures-phobia|Welcoming fear cures phobia]]
+- [[literature-notes/contradiction-reveals-the-mask|Contradiction between words and body reveals the mask we're wearing]]
 
 ## Source
 

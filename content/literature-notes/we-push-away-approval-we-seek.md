@@ -39,6 +39,9 @@ We don't let compliments move all the way through us. We don't sit with them, fe
 - [[literature-notes/you-get-the-love-you-can-accept|You only get the love you can let in]]
 - [[literature-notes/ego-resists-change-in-either-direction|Ego resists change in either direction]]
 - [[literature-notes/war-with-your-wants-creates-self-sabotage|Being at war with your wants creates self-sabotage]]
+- [[literature-notes/receiving-compliments-dissolves-unworthiness|Receiving compliments somatically dissolves the feeling of unworthiness]]
+- [[literature-notes/approval-seeking-pushes-people-away|Seeking approval pushes away the very connection you want]]
+- [[literature-notes/compliments-pushed-away-reveal-disallowed-goodness|Pushing away compliments reveals disallowed goodness]]
 
 ## Source
 

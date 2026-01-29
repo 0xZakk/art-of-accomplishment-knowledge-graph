@@ -26,6 +26,7 @@ This is the core mechanism by which self-development becomes self-abuse: the mom
 - [[literature-notes/todo-lists-can-be-inner-critic|To-do lists can be inner critic]]
 - [[literature-notes/turning-insight-into-practice-can-backfire|Turning insight into practice can backfire]]
 - [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
+- [[literature-notes/you-cant-earn-being|You can't earn the right to just be]]
 
 ## Source
 

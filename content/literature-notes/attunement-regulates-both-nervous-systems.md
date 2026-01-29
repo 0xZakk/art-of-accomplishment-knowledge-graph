@@ -24,6 +24,7 @@ The implication for parenting is significant: children who receive genuine attun
 - [[literature-notes/breath-regulates-the-nervous-system|Breath regulates the nervous system]] - Another pathway to regulation
 - [[literature-notes/connection-is-the-core-of-parenting|Connection is the core of parenting]] - Attunement as the foundation of parent-child bond
 - [[literature-notes/attunement-is-listening-without-leaving-yourself|Attunement is listening without leaving yourself]] - The quality of presence that enables co-regulation
+- [[literature-notes/stone-face-teaches-stone-face|The stone-faced baby experiment shows how suppression is transmitted]]
 
 ## Source
 

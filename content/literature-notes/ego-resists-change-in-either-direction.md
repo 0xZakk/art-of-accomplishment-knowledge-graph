@@ -41,6 +41,7 @@ We're different all the time. Different with different people, at different ages
 - [[literature-notes/we-push-away-approval-we-seek|We push away the approval we seek]]
 - [[literature-notes/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]]
 - [[literature-notes/the-expansiveness-of-I-Am|The expansiveness of I Am]]
+- [[literature-notes/any-self-definition-limits-you|Any way you define yourself limits you]]
 
 ## Source
 

@@ -27,6 +27,10 @@ The reason the anger stays repressed is often that the resentful person would fe
 - [[literature-notes/resentment-points-to-unexpressed-wants|Resentment points to unexpressed wants]] - What resentment is trying to communicate
 - [[literature-notes/boundaries-declare-your-action-not-theirs|Boundaries declare your action, not theirs]] - How to actually draw the boundary
 - [[literature-notes/asking-for-what-you-want-dissolves-resentment|Asking for what you want dissolves resentment]] - The cure
+- [[literature-notes/anger-at-without-permission-is-manipulation|Expressing anger at someone without permission is a bid for control]]
+- [[literature-notes/resentment-saturates-every-fight|Resentment saturates every fight]]
+- [[literature-notes/anger-is-love-with-a-boundary|Unresisted anger is love expressing a clear boundary]]
+- [[literature-notes/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
 
 ## Source
 

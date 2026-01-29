@@ -27,6 +27,7 @@ This is like accepting your son into the house only so he'll grow up and leave. 
 - [[literature-notes/dont-make-experiments-a-should|Don't make experiments a should]]
 - [[literature-notes/managing-yourself-kills-the-practice|Managing yourself kills the practice]]
 - [[literature-notes/felt-gratitude-not-performed-gratitude|Felt gratitude, not performed gratitude]]
+- [[literature-notes/passive-consumption-never-transforms|Passive consumption of wisdom never transforms you]]
 
 ## Source
 

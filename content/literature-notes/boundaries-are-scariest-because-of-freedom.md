@@ -28,6 +28,11 @@ The fear isn't just about consequences. It's about testing your projections of t
 - [[literature-notes/facing-fear-builds-empowerment|Facing fear builds empowerment]] - The mechanics of courage
 - [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]] - Why freedom requires letting go of who you thought you were
 - [[literature-notes/grief-of-self-abandonment|Grief of self-abandonment]] - Mourning the years lived under false constraints
+- [[literature-notes/pre-grieving-loss-creates-resilience|Pre-grieving potential loss creates resilience and the courage to draw boundaries]]
+- [[literature-notes/boundary-firmness-eliminates-fear-of-attack|Boundary firmness eliminates fear of attack]]
+- [[literature-notes/boundaries-open-your-heart|Boundaries must open your heart, not close it]]
+- [[literature-notes/being-yourself-gets-you-promoted-or-freed|Being yourself either gets you promoted or freed]]
+- [[literature-notes/boundaries-are-for-you-not-them|Boundaries are primarily for you, not the other person]]
 
 ## Source
 

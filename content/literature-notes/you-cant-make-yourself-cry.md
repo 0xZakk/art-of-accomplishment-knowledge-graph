@@ -21,6 +21,10 @@ This isn't a failure of will — it's how emotions work. The effort to produce a
 - [[literature-notes/trying-to-feel-is-resistance-too|Trying to feel is resistance too]] - The paradox of effortful feeling
 - [[literature-notes/questioning-feeling-destroys-feeling|Questioning feeling destroys feeling]] - How analysis interrupts emotion
 - [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]] - What happens when you push against what's arising
+- [[literature-notes/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[literature-notes/softening-not-solving-breaks-the-loop|Softening, not solving, breaks self-imposed loops]]
+- [[literature-notes/resisting-emotion-invites-it-back|Resisting an emotion is exactly what invites it back]]
+- [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 
 ## Source
 

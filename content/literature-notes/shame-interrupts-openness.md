@@ -25,6 +25,11 @@ This shows up in work, relationships, and creative pursuits — anywhere someone
 - [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - Shame perpetuates the very patterns it claims to correct
 - [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]] - Feeling shame directly removes its grip
 - [[literature-notes/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant]] - Expansion can feel threatening
+- [[literature-notes/shame-after-feeling-good-pattern|Shame arises after feeling good as a learned pattern]]
+- [[literature-notes/shame-blocks-feeling-how-good-life-is|Shame blocks you from feeling how good life actually is]]
+- [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]]
+- [[literature-notes/false-humility-as-defense|False humility is a defense against being seen]]
+- [[literature-notes/welcome-shame-dont-push-through-it|Welcome shame rather than pushing through it]]
 
 ## Source
 

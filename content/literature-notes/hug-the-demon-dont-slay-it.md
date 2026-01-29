@@ -25,6 +25,7 @@ This echoes Joe's core teaching about the inner critic and unwanted parts: fight
 - [[literature-notes/welcome-the-inner-critic|Welcome the inner critic]] - The same principle with the inner critic
 - [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts creates more of them]] - Why fighting doesn't work
 - [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]] - The deeper practice
+- [[literature-notes/financial-safety-is-not-about-money|Financial safety is not actually about money]]
 
 ## Source
 

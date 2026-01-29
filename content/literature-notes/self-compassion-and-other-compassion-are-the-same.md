@@ -25,6 +25,7 @@ This isn't naive — it requires going deep enough. Surface-level wants ("I want
 - [[literature-notes/self-love-is-the-capacity-limit-for-loving-others|Self-love is the capacity limit for loving others]] - The capacity relationship
 - [[literature-notes/owning-your-needs-is-not-selfish|Owning your needs is not selfish]] - Dissolving the false binary
 - [[literature-notes/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others' emotions to avoid your own]] - The false compassion
+- [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
 
 ## Source
 

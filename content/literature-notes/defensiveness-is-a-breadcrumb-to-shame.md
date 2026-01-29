@@ -25,6 +25,7 @@ This makes defensiveness a powerful diagnostic tool. Wherever you see defensiven
 - [[literature-notes/defensiveness-kills-team-communication|Defensiveness kills team communication]] - Impact on teams
 - [[literature-notes/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]] - The antidote
 - [[literature-notes/not-defending-reveals-inherent-goodness|Not defending reveals inherent goodness]] - What happens when you stop
+- [[literature-notes/shame-hot-potato|Shame gets passed back and forth in fights]]
 
 ## Source
 

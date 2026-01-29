@@ -23,6 +23,7 @@ The two common responses to passive aggression — walking on eggshells or getti
 
 - [[literature-notes/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]] - Aggressive and passive-aggressive partners find each other
 - [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - The outer dynamic reflects inner unresolved anger
+- [[literature-notes/passive-aggression-develops-when-anger-is-forbidden|Passive aggression develops when direct anger is forbidden]]
 
 ## Source
 

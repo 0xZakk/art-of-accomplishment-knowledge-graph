@@ -24,6 +24,10 @@ It shows up in all three centers: in the heart as the emotional experience of "n
 - [[literature-notes/helplessness-is-gateway-to-surrender|Helplessness is the gateway to surrender]] - Where helplessness leads when fully felt
 - [[literature-notes/helplessness-is-the-emotion-being-avoided|Helplessness is the emotion being avoided]] - Why self-reliant people avoid it most
 - [[literature-notes/fear-as-road-map-not-enemy|Fear as road map, not enemy]] - The broader framework for working with fear
+- [[literature-notes/control-patterns-reveal-hidden-helplessness|Your most controlling patterns reveal your hidden helplessness]]
+- [[literature-notes/feeling-helplessness-creates-empowerment|Going through helplessness is what creates empowerment]]
+- [[literature-notes/teams-consolidate-helplessness-in-one-person|Teams consolidate unfelt helplessness in one person]]
+- [[literature-notes/welcoming-helplessness-not-managing-it|The freedom is in wanting to feel helpless again]]
 
 ## Source
 

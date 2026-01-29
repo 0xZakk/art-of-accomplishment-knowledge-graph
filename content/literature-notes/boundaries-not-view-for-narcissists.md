@@ -25,6 +25,10 @@ Brett clarifies: drawing a boundary *is* impartial. Being in VIEW might mean bei
 - [[literature-notes/narcissism-is-a-spectrum-we-are-all-on|Narcissism is a spectrum we are all on]] - The broader context for this approach
 - [[literature-notes/view-cannot-be-used-as-a-tool|VIEW cannot be used as a tool to get somewhere]] - Why using VIEW instrumentally fails
 - [[literature-notes/safe-agreements-make-conflict-transformative|Safe agreements make conflict transformative]] - Boundaries that create safety
+- [[literature-notes/boundary-firmness-eliminates-fear-of-attack|Boundary firmness eliminates fear of attack]]
+- [[literature-notes/weaponized-boundaries-are-control-in-disguise|Weaponized boundaries are control in disguise]]
+- [[literature-notes/boundaries-with-children-require-closeness-and-respect|Boundaries with children require closeness, gentleness, and mutual respect]]
+- [[literature-notes/boundaries-are-essential-with-mental-health|Boundaries are essential when supporting someone with mental health issues]]
 
 ## Source
 

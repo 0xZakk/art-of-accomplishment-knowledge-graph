@@ -24,6 +24,7 @@ The session's most powerful moment demonstrates this viscerally. When the client
 - [[literature-notes/attunement-to-self-produces-intuition|Attunement to self produces intuition]] - Self-awareness as a generative capacity
 - [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]] - The simplicity of the internal shift
 - [[literature-notes/self-trust-as-the-only-scorecard|Self-trust as the only scorecard]] - Replacing external metrics with internal ones
+- [[literature-notes/burnout-from-external-validation|Burnout comes from constantly performing for others' approval]]
 
 ## Source
 

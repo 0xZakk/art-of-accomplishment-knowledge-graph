@@ -23,6 +23,7 @@ The helpful recognition for anyone stuck in "I want this so badly and I can't ge
 - [[literature-notes/craving-versus-wanting|Craving versus wanting]] - The distinction between healthy desire and grasping
 - [[literature-notes/neediness-repels-what-you-want|Neediness repels what you want]] - How desperation creates distance
 - [[literature-notes/chasing-love-is-also-pushing-it-away|Chasing love is also pushing it away]] - The paradox of pursuing love
+- [[literature-notes/craving-is-the-pushing-away|Craving is the pushing away]]
 
 ## Source
 

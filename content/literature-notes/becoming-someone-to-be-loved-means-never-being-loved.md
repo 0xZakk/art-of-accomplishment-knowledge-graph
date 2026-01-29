@@ -25,6 +25,7 @@ Both Joe and Dr. K see this as a necessary developmental stage for many people. 
 - [[literature-notes/performing-for-connection-blocks-authentic-earning|Performing for connection blocks authentic earning]] - The broader pattern
 - [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]] - How this pattern perpetuates
 - [[literature-notes/two-forms-of-charisma|There are two forms of charisma]] - The framework this fits within
+- [[literature-notes/money-patterns-replay-childhood-connection-patterns|Money patterns replay childhood connection patterns]]
 
 ## Source
 

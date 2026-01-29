@@ -22,6 +22,7 @@ Joe's practical advice for cultivating community: practice vulnerability, impart
 
 - [[literature-notes/real-community-requires-non-judgmental-witnessing|Real community requires non-judgmental witnessing, not fixing]] - What healthy community actually looks like
 - [[literature-notes/unmet-needs-drive-self-reliance|Unmet needs drive self-reliance]] - How lack of community drives isolation
+- [[literature-notes/dismissing-deep-connection-as-cult-diminishes-life|Dismissing deep community as 'cult behavior' diminishes the possibility of authentic living]]
 
 ## Source
 

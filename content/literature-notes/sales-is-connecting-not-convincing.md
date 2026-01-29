@@ -23,6 +23,7 @@ When you really connect with someone, they want to work with you. The top sales 
 - [[literature-notes/active-listening-is-asking-questions|Active listening means asking questions, not just receiving]]
 - [[literature-notes/being-interested-not-interesting|Being interested rather than interesting creates connection]]
 - [[literature-notes/connection-enables-accomplishment|Connection enables accomplishment]]
+- [[literature-notes/product-designed-by-connection-not-ideas|Products designed by connection, not ideas]]
 
 ## Source
 

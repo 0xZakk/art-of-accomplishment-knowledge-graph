@@ -25,6 +25,7 @@ The more functional version: "I have very little confidence that we're going to 
 - [[literature-notes/ceo-emotional-avoidance-blocks-team-truth|CEO emotional avoidance blocks team truth]] - How the leader's avoidance cascades
 - [[literature-notes/keeping-it-together-blocks-team-trust|Keeping it together blocks team trust]] - The appearance of composure prevents authentic leadership
 - [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]] - The individual version of this team pattern
+- [[literature-notes/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
 
 ## Source
 

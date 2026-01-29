@@ -23,6 +23,10 @@ This connects directly to the "how much do you love me" question in culture. Peo
 
 - [[literature-notes/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]] - The same need in personal relationships
 - [[literature-notes/culture-dysfunction-two-questions|All cultural dysfunction comes from two questions]] - The "how much do you love me" piece
+- [[literature-notes/company-is-relationships-and-decisions|A company is just relationships and decisions]]
+- [[literature-notes/asking-questions-is-active-listening|Asking questions is the most powerful form of active listening]]
+- [[literature-notes/you-cannot-judge-the-value-of-your-own-input|You cannot judge the value of your own input]]
+- [[literature-notes/communication-techniques-get-weaponized|Communication techniques get weaponized without the right state]]
 
 ## Source
 

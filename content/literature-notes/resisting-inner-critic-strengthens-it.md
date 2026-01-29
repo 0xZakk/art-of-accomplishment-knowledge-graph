@@ -21,6 +21,9 @@ The key shift is from trying to eliminate the voice to building a better relatio
 - [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]] - The same principle applied to any self-rejection
 - [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - How fighting yourself backfires
 - [[literature-notes/welcome-the-inner-critic|Welcoming the inner critic dissolves its power]] - The alternative approach
+- [[literature-notes/resistance-gives-the-inner-critic-its-power|Resistance gives the inner critic its power]]
+- [[literature-notes/inner-critic-prevents-nervous-system-rest|The inner critic prevents the rest needed for nervous system integration]]
+- [[literature-notes/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
 
 ## Source
 

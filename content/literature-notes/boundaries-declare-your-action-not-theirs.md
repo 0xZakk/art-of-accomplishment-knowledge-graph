@@ -25,6 +25,9 @@ The formula: "I am going to go and take care of myself." Not "I am going to do s
 - [[literature-notes/boundaries-open-your-heart|Boundaries must open your heart, not close it]] - The first rule that pairs with this one
 - [[literature-notes/owning-your-needs-is-not-selfish|Owning your needs is not selfish]] - The permission underlying boundary-setting
 - [[literature-notes/feeling-helplessness-creates-agency|Feeling helplessness creates agency]] - How owning your limits creates power
+- [[literature-notes/boundaries-say-what-you-will-do-not-what-they-must|Boundaries say what you will do, not what they must do]]
+- [[literature-notes/boundaries-are-the-deepest-non-management|Boundaries are the deepest non-management]]
+- [[literature-notes/saying-no-restores-agency-and-want|Saying no restores agency and reconnects you to your want]]
 
 ## Source
 

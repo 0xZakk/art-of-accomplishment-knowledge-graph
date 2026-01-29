@@ -45,6 +45,7 @@ Fear also makes us see consequences as final. But what happens after the feared 
 
 - [[literature-notes/fear-limits-optionality|Fear limits what options you can see]]
 - [[literature-notes/self-judgment-defends-against-emotions|Self-judgment is a defense against feeling emotions]]
+- [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|The avoidance of the feeling is the stuckness, not the feeling itself]]
 
 ## Source
 

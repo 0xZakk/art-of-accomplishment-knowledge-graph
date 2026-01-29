@@ -31,6 +31,9 @@ This principle also flips the common desire to be listened to. If you want other
 - [[literature-notes/body-awareness-prevents-empathic-merging|Body awareness prevents empathic merging]] - Why body awareness matters in connection
 - [[literature-notes/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]] - Self-listening as protection
 - [[literature-notes/listening-to-yourself-transforms-communication|Listening to yourself transforms communication]] - Self-listening as communication foundation
+- [[literature-notes/embodied-listening-improves-signal-to-noise|Embodied listening improves signal to noise]]
+- [[literature-notes/unconditional-listening-transforms-relationships|Listening with unconditional acceptance transforms relationships]]
+- [[literature-notes/listening-is-receiving-not-doing|Listening is receiving, not doing]]
 
 ## Source
 

@@ -39,6 +39,11 @@ At 28, Joe wrote down honest truths about his behavior. Months later, he checked
 - [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]]
 - [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
 - [[literature-notes/self-judgment-defends-against-emotions|Self-judgment is a defense against feeling emotions]]
+- [[literature-notes/shame-locks-in-bad-habits|Shame locks in the very habits it punishes]]
+- [[literature-notes/shame-stagnates-emotional-fluidity|Shame stagnates emotional fluidity]]
+- [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck in the patterns you regret]]
+- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shaming a behavior is the best way to guarantee it repeats]]
+- [[literature-notes/feel-whats-underneath-the-shame|Feel what's underneath the shame to break stagnation]]
 
 ## Source
 

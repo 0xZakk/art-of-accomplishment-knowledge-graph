@@ -25,6 +25,9 @@ Perfectionism manifests as rigidity in the body, hesitation in action, and stunt
 - [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]] - Perfectionism as emotional defense
 - [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]] - The inner critic's tool
 - [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]] - Trying to perfect yourself destroys yourself
+- [[literature-notes/inner-voice-mirrors-parenting|The inner critic mirrors how you were parented]]
+- [[literature-notes/rigidity-and-hesitation-signal-perfectionism|Rigidity and hesitation in the body signal perfectionism at work]]
+- [[literature-notes/perfectionism-as-safety-strategy|Perfectionism originates as a childhood safety strategy]]
 
 ## Source
 

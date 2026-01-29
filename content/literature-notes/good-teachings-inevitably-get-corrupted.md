@@ -20,6 +20,7 @@ The corruption doesn't require bad intentions. People who haven't examined their
 
 - [[literature-notes/communication-techniques-get-weaponized|Communication techniques get weaponized]]
 - [[literature-notes/every-epiphany-becomes-the-next-rut|Every epiphany becomes the next rut]]
+- [[literature-notes/you-cannot-judge-the-value-of-your-own-input|You cannot judge the value of your own input]]
 
 ## Source
 

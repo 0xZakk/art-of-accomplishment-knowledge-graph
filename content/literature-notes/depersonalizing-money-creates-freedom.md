@@ -25,6 +25,11 @@ The least personal approach to a difficult money situation (like firing someone)
 - [[literature-notes/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood emotional patterns]] - Why we take money personally in the first place
 - [[literature-notes/money-beliefs-create-money-reality|Money beliefs create money reality]] - The downstream effects of personalized money
 - [[literature-notes/money-as-oppression-or-empowerment|Money as oppression or empowerment]] - The broader framing
+- [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning your wants means being okay with having them]]
+- [[literature-notes/obligation-oppresses-every-domain|Obligation oppresses every domain it touches — money, work, relationships]]
+- [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]]
+- [[literature-notes/seeking-power-is-an-expression-of-fear|Seeking power is always an expression of fear]]
+- [[literature-notes/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
 
 ## Source
 

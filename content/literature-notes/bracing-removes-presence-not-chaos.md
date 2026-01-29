@@ -26,6 +26,7 @@ When the man imagines being "recklessly enthusiastic" and then drops the bracing
 - [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - The general principle at work
 - [[literature-notes/control-works-until-it-doesnt|Control works until it doesn't]] - Why the brace eventually fails
 - [[literature-notes/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]] - The productivity insight
+- [[literature-notes/bracing-identity-of-being-needed|Bracing maintains the identity of being needed]]
 
 ## Source
 

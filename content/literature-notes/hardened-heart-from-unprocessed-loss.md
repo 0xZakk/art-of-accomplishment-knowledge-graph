@@ -26,6 +26,8 @@ The hardened heart wasn't just emotionally painful — it was functionally impai
 - [[literature-notes/closing-heart-to-protect-traps-you|Closing heart to protect traps you]] - The protection becomes the prison
 - [[literature-notes/hypervigilance-masks-unfelt-grief|Hypervigilance masks unfelt grief]] - The hardened heart as a form of vigilance
 - [[literature-notes/alcohol-as-permission-to-open-the-heart|Alcohol as permission to open the heart]] - Will used alcohol in the opposite direction — to keep the heart closed
+- [[literature-notes/hate-consumes-mental-bandwidth|Hate consumes mental bandwidth needed for flow]]
+- [[literature-notes/identity-collapse-follows-peak-achievement|Identity collapse follows peak achievement]]
 
 ## Source
 

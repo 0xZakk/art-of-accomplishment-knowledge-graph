@@ -25,6 +25,7 @@ The journey from insight to wisdom involves: physical movement (stretching, walk
 - [[literature-notes/wisdom-is-when-you-dont-need-to-remember|Wisdom is when you don't need to remember]] - The endpoint of integration
 - [[literature-notes/knowing-patterns-doesnt-free-you|Knowing patterns doesn't free you]] - Why insight alone is insufficient
 - [[literature-notes/three-brains-of-transformation|Three brains of transformation]] - Head, heart, and gut all need to update
+- [[literature-notes/insight-requires-embodied-integration|Insight requires embodied integration to become wisdom]]
 
 ## Source
 

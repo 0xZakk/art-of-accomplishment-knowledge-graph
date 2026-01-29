@@ -26,6 +26,7 @@ The mechanism is self-reinforcing: speaking truth → self-approval → less nee
 - [[literature-notes/chase-your-own-approval|Chase your own approval]] - The internal shift
 - [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]] - Why the old strategy fails
 - [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - The paradox of performing for connection
+- [[literature-notes/unfelt-emotions-drive-you-into-others-opinions|Unfelt emotions drive you out of yourself and into others' opinions]]
 
 ## Source
 

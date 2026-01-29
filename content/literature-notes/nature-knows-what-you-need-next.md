@@ -25,6 +25,8 @@ The challenge: try not to improve for two weeks. Don't learn anything, don't gro
 - [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]] - When all parts align, action happens naturally
 - [[literature-notes/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]] - The way matters more than the what
 - [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]] - The same dynamic with purpose
+- [[literature-notes/your-nature-knows-what-you-need-next|Your nature knows what you need next]]
+- [[literature-notes/intuition-sees-what-logic-cannot|Intuition sees what the logical mind cannot]]
 
 ## Source
 

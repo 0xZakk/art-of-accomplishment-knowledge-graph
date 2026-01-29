@@ -25,6 +25,11 @@ The irony is that one of the man's deepest needs is to be "not just accepted, bu
 - [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - You have to show up to be witnessed
 - [[literature-notes/hiding-makes-you-feel-more-like-an-imposter|Hiding makes you feel more like an imposter]] - Hiding reinforces the sense of fraudulence
 - [[literature-notes/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]] - Openness invites the connection false humility prevents
+- [[literature-notes/welcoming-is-self-love|Welcoming whatever arises is self-love]]
+- [[literature-notes/what-youre-hiding-is-your-emotions|What you're hiding is your emotions, not a defect]]
+- [[literature-notes/let-compliments-move-through-you|Letting compliments move all the way through you destroys ego]]
+- [[literature-notes/hedging-reveals-shame-about-wanting|Hedging language reveals shame about wanting]]
+- [[literature-notes/putting-yourself-above-others-is-protection|Putting yourself above others is a subtle form of protection]]
 
 ## Source
 

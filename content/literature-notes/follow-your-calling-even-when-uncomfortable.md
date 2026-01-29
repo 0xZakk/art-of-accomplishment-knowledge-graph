@@ -25,6 +25,9 @@ But there's wisdom in the discomfort too. Self-promotion can be dangerous to you
 - [[literature-notes/edge-of-comfort-is-where-growth-happens|Edge of comfort is where growth happens]] - Growth at the boundary of identity
 - [[literature-notes/shame-blocks-self-promotion|Shame blocks self-promotion]] - Why sharing your work feels dangerous
 - [[literature-notes/humility-is-not-taking-life-personally|Humility is not taking life personally]] - The non-defended stance behind following a call
+- [[literature-notes/humility-requires-self-care|Humility can require self-care]]
+- [[literature-notes/humility-is-not-making-yourself-small|Humility is not making yourself small]]
+- [[literature-notes/false-humility-as-defense|False humility is a defense against being seen]]
 
 ## Source
 

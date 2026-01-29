@@ -24,6 +24,8 @@ The key insight is that purpose can't be figured out in advance — it can only 
 
 - [[literature-notes/purpose-is-in-the-how-not-the-what|Purpose is in the how, not the what]] - Purpose is a quality of engagement, not a job title
 - [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]] - Why the mental search fails
+- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
+- [[literature-notes/searching-for-purpose-assumes-you-lack-it|Searching for purpose assumes you don't already have it]]
 
 ## Source
 

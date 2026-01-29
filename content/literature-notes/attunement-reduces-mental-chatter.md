@@ -23,6 +23,7 @@ This has direct implications for goal-setting and career decisions. Janine disco
 - [[literature-notes/attunement-to-self-produces-intuition|Attunement to self produces intuition]] - The faculty that emerges from quiet
 - [[literature-notes/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist]] - Another path to quieting the mind
 - [[literature-notes/craving-versus-wanting|Craving versus wanting]] - Distinguishing authentic wants from mental noise
+- [[literature-notes/deep-listening-requires-self-listening|Deep listening requires listening to yourself simultaneously]]
 
 ## Source
 

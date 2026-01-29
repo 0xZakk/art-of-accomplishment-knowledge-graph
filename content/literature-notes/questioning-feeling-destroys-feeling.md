@@ -23,6 +23,8 @@ His own tennis coaching wisdom applies perfectly: "Don't guess. Just do it."
 
 - [[literature-notes/doubt-is-leaving-your-heart|Doubt is leaving your heart]]
 - [[literature-notes/knowing-patterns-doesnt-free-you|Knowing your patterns doesn't free you from them]]
+- [[literature-notes/flow-state-is-embodiment-applied-to-life|Flow state in sports is the same skill as embodiment in life]]
+- [[literature-notes/play-tennis-in-life|Apply your embodied skill from one domain to all of life]]
 
 ## Source
 

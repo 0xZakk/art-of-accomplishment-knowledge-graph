@@ -25,6 +25,9 @@ The practical marker: not fake niceness or performed happiness, but spontaneous,
 - [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]] - The underlying capacity
 - [[literature-notes/pleasure-signals-safety|Pleasure signals safety]] - Joy as indicator of nervous system health
 - [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - Why blocking emotions blocks joy too
+- [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]]
+- [[literature-notes/joy-wont-enter-where-emotions-unwelcome|Joy won't come into a house where her children aren't welcome]]
+- [[literature-notes/joy-is-the-matriarch|Joy is the matriarch of the emotional family]]
 
 ## Source
 

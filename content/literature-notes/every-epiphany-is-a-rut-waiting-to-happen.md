@@ -25,6 +25,9 @@ The implication: don't cling to your breakthroughs. The thing that freed you wil
 
 - [[literature-notes/awakening-is-not-an-endpoint|Awakening is not an endpoint]] - The ongoing nature of development
 - [[literature-notes/ego-resists-change-in-either-direction|Ego resists change in either direction]] - How we get stuck at any stage
+- [[literature-notes/to-me-by-me-through-me-as-me|Developmental stages: to me, by me, through me, as me]]
+- [[literature-notes/epiphany-is-the-tender-beginning-of-a-rut|Every epiphany is the tender beginning of a new rut]]
+- [[literature-notes/hollowing-out-is-a-perpetual-process|The hollowing out process never ends]]
 
 ## Source
 

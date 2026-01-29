@@ -22,6 +22,10 @@ Brett's experience demonstrates this: by loving his anxiety rather than avoiding
 - [[literature-notes/bad-decisions-come-from-fear-of-emotions|Bad decisions come from fear of emotions]] - How this fear distorts decision-making
 - [[literature-notes/financial-safety-is-not-about-money|Financial safety is not about money]] - The same principle applied to money fears
 - [[literature-notes/embracing-fear-versus-avoiding-fear|Embracing fear versus avoiding fear]] - The two approaches to feared states
+- [[literature-notes/decisions-reveal-emotional-avoidance|Every decision is an attempt to avoid an emotion]]
+- [[literature-notes/problems-are-emotional-not-material|Problems are emotional, not material]]
+- [[literature-notes/pre-grieving-loss-creates-resilience|Pre-grieving potential loss creates resilience and the courage to draw boundaries]]
+- [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots in life]]
 
 ## Source
 

@@ -26,6 +26,10 @@ Importantly, this works better as discovery than prescription. In emotional rele
 - [[literature-notes/pleasure-as-emotional-fluidity-practice|Pleasure as emotional fluidity practice]] - Pleasure practice directly supports emotional fluidity
 - [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]] - Joy and pleasure share this requirement
 - [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - Limiting any emotion limits pleasure
+- [[literature-notes/pleasure-dissolves-the-boundary-of-self|Deep pleasure dissolves the boundary of self]]
+- [[literature-notes/joy-dissolves-identity|Joy dissolves identity and that's what makes it scary]]
+- [[literature-notes/pleasure-requires-receiving-not-effort|Pleasure requires receiving not effort]]
+- [[literature-notes/discomfort-is-the-resistance-not-the-emotion|The discomfort of emotions is the resistance to them, not the emotions themselves]]
 
 ## Source
 

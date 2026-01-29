@@ -24,6 +24,7 @@ The implication is that transformation isn't about becoming a bigger self — it
 - [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]]
 - [[literature-notes/the-expansiveness-of-I-Am|The expansiveness of I Am]]
 - [[literature-notes/dissolution-of-self-happens-many-ways|Dissolution of self happens many ways]]
+- [[literature-notes/aloneness-without-loneliness|Aloneness without loneliness is a sign of authentic self-discovery]]
 
 ## Source
 

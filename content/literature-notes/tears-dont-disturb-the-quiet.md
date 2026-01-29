@@ -22,6 +22,7 @@ This dissolves the false choice between numbness and overwhelm. The quiet place 
 - [[literature-notes/numbness-as-survival-gift|Emotional numbness can be a survival gift, not a deficit]]
 - [[literature-notes/joy-wont-come-where-children-unwelcome|Joy won't come into a house where her children aren't welcome]]
 - [[literature-notes/rage-as-gateway-to-healing|Rage as gateway to healing]]
+- [[literature-notes/joy-wont-enter-where-emotions-unwelcome|Joy won't come into a house where her children aren't welcome]]
 
 ## Source
 

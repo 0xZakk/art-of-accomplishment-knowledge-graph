@@ -28,6 +28,11 @@ The deeper insight is that people who can't access their anger become "very oppr
 - [[literature-notes/suppressing-anger-kills-your-fire|Suppressing anger kills your fire]] - What happens when anger stays repressed
 - [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]] - The transformation of anger when welcomed
 - [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]] - Why anger is the emotion most avoided
+- [[literature-notes/anger-reveals-trapped-feelings|Anger reveals where we feel trapped]]
+- [[literature-notes/childhood-origins-of-anger-repression|Anger repression gets installed through three childhood pathways]]
+- [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[literature-notes/childhood-freeze-becomes-adult-trap|The childhood freeze response becomes the adult trap]]
+- [[literature-notes/express-anger-without-directing-it|You can express anger without directing it at anyone]]
 
 ## Source
 

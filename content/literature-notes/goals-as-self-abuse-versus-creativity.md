@@ -25,6 +25,7 @@ Aligned goals feel like play—like a sports team wanting to win. Misaligned goa
 - [[literature-notes/todo-lists-can-be-inner-critic|To-do lists can be the inner critic]] - Goals and to-dos as oppression tools
 - [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]] - "Should" goals versus genuine wanting
 - [[literature-notes/wanting-is-aliveness|Wanting is aliveness]] - Where real goals come from
+- [[literature-notes/internal-alignment-mirrors-organizational-alignment|Internal alignment mirrors organizational alignment—misaligned goals create wasted effort]]
 
 ## Source
 

@@ -28,6 +28,7 @@ This is the difference between venting (which often escalates) and genuine emoti
 - [[literature-notes/triggers-are-past-living-through-present|Triggers are past living through present]] - Why the charge is so intense
 - [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]] - What anger becomes when allowed
 - [[literature-notes/fights-as-healing-opportunities-in-relationship|Fights as healing opportunities in relationship]] - The larger context
+- [[literature-notes/uncharged-truth-follows-moved-emotion|Speaking truth uncharged follows moved emotion]]
 
 ## Source
 

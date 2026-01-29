@@ -25,6 +25,10 @@ Joe's client illustrated this viscerally: intellectually knowing that openhearte
 - [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]] - Each heartbreak increases capacity to love
 - [[literature-notes/being-undefended-erodes-narcissism|Being undefended erodes narcissism]] - The power of dropping defenses
 - [[literature-notes/engineering-heartbreak-to-avoid-heartbreak|Engineering heartbreak to avoid heartbreak]] - What happens when we try to avoid the pain
+- [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[literature-notes/untangle-what-was-wired-with-love|Healing requires untangling what was wired together with love in childhood]]
+- [[literature-notes/fear-of-losing-yourself-blocks-intimacy|Fear of losing yourself is what blocks intimacy]]
+- [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 
 ## Source
 

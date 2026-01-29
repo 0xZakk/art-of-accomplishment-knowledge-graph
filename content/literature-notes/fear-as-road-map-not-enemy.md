@@ -25,6 +25,9 @@ Brett adds an important nuance: building an identity around "diving into fear" c
 - [[literature-notes/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]] - The same shift from fighting emotions to befriending them
 - [[literature-notes/facing-fear-builds-empowerment|Facing fear builds empowerment]] - The earlier stage of working with fear
 - [[literature-notes/fear-patterns-reveal-identity|Fear patterns reveal identity]] - How fear reveals who we think we are
+- [[literature-notes/fear-path-has-no-end|The fear path has no end — deeper levels always reveal themselves]]
+- [[literature-notes/manufactured-rage-masks-fear|Manufactured rage masks fear and creates destruction]]
+- [[literature-notes/fear-signals-unmet-needs|Fear is a signal that needs aren't being met]]
 
 ## Source
 

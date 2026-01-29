@@ -25,6 +25,9 @@ When Joe asks her to make "10 times more room" for herself — room for her face
 - [[literature-notes/demanding-composure-of-a-child-is-psychotic|Demanding composure of a child is psychotic]] - The origin of the pattern
 - [[literature-notes/being-held-requires-dropping-the-performance|Being held requires dropping the performance]] - What it takes to connect
 - [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Composure prevents real connection
+- [[literature-notes/responsibility-as-composure-maintenance|Chronic responsibility-taking is really composure maintenance in disguise]]
+- [[literature-notes/sensitivity-locked-down-for-safety|Extreme sensitivity gets locked down for safety and becomes a hidden gift]]
+- [[literature-notes/containing-emotions-to-connect-disconnects-you|Containing emotions to connect actually disconnects you]]
 
 ## Source
 

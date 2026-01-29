@@ -20,6 +20,7 @@ This means a course (or any container for growth) is actually a microcosm. Your 
 
 - [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
 - [[literature-notes/tools-can-keep-you-stuck|Your healing tools can become tools for staying stuck]]
+- [[literature-notes/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]]
 
 ## Source
 

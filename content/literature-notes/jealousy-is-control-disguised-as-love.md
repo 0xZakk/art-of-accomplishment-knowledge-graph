@@ -25,6 +25,7 @@ The deeper layer: jealousy is also discomfort with someone else's autonomy. When
 - [[literature-notes/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]] - His jealousy pattern is the same as his leadership pattern
 - [[literature-notes/fear-limits-optionality|Fear limits optionality]] - Jealousy narrows what feels possible
 - [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - What he rejects externally, he rejects in himself
+- [[literature-notes/jealousy-masks-rejected-parts-of-self|Jealousy masks rejected parts of self]]
 
 ## Source
 

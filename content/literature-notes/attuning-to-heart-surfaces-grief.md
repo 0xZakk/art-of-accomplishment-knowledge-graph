@@ -26,6 +26,7 @@ The invitation is to treat the arising emotions not as problems but as cleaning 
 - [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]] - Why you can't selectively attune
 - [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - The mechanism behind avoidance
 - [[literature-notes/grief-of-self-abandonment|Grief of self-abandonment]] - What often surfaces first
+- [[literature-notes/shame-about-grief-shuts-down-all-emotions|Shame about grief shuts down all emotions]]
 
 ## Source
 

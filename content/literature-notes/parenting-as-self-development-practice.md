@@ -22,6 +22,9 @@ The key insight is that while all caretaking flows toward the child, both parent
 
 - [[literature-notes/parenting-as-ego-dissolution|Parenting as ego dissolution]] - A deeper look at the same dynamic
 - [[literature-notes/connection-is-the-core-of-parenting|Connection is the core need in parenting]] - What makes the practice work
+- [[literature-notes/parenting-is-the-deepest-ego-work|Parenting is the deepest ego work you can do]]
+- [[literature-notes/dont-shame-kids-love-yourself|To not harm your children, love yourself]]
+- [[literature-notes/teach-children-self-referencing|Teaching children to reference themselves builds their internal compass]]
 
 ## Source
 

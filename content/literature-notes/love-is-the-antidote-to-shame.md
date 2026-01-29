@@ -27,6 +27,7 @@ Joe prescribes it like physical therapy: 15 minutes a day of coming in and lovin
 - [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck in the patterns you regret]] - What love dissolves
 - [[literature-notes/moving-emotions-dissolves-depression|Moving emotions dissolves depression]] - The mechanism of letting feelings move through
 - [[literature-notes/when-love-shows-up-unloved-parts-surface|When love shows up, unloved parts surface]] - Why love triggers tears and sadness
+- [[literature-notes/being-loved-in-the-shame-dissolves-it|Being loved within the shame dissolves it]]
 
 ## Source
 

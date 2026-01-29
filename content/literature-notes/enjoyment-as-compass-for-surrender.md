@@ -22,6 +22,7 @@ This shifts the question from "what should I accomplish?" to "what deeply enlive
 - [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]]
 - [[literature-notes/follow-your-migratory-path|Follow your migratory path]]
 - [[literature-notes/wanting-is-aliveness|Wanting is aliveness]]
+- [[literature-notes/enjoyment-is-the-orientation-for-transformation|The question isn't how to do things you enjoy but how to enjoy what you're doing]]
 
 ## Source
 

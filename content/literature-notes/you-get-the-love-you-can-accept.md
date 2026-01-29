@@ -34,6 +34,11 @@ The work isn't changing the other person. It's expanding your own capacity to lo
 - [[literature-notes/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger your wounds]]
 - [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning your wants means being okay with having them]]
 - [[literature-notes/war-with-your-wants-creates-self-sabotage|Being at war with your wants creates self-sabotage]]
+- [[literature-notes/self-love-sets-the-capacity-limit-for-loving-others|Self-love sets the capacity limit for loving a partner]]
+- [[literature-notes/wanting-is-aliveness|Wanting is aliveness]]
+- [[literature-notes/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
+- [[literature-notes/self-love-is-the-capacity-limit-for-loving-others|Self-love is the capacity limit for loving others]]
+- [[literature-notes/external-patterns-mirror-internal-ones|External relationship patterns mirror internal ones]]
 
 ## Source
 

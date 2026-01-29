@@ -27,6 +27,10 @@ Joe learned this after a therapist asked him: "What does fault have to do with a
 - [[literature-notes/shame-stagnates-behavior|Shame stagnates the behavior it punishes]] - Why shame-based apologies fail
 - [[literature-notes/shame-free-problem-solving|Shame-free problem solving]] - The broader principle
 - [[literature-notes/safe-agreements-make-conflict-transformative|Safe agreements make conflict transformative]] - Creating the container for honest apology
+- [[literature-notes/shame-locks-in-bad-habits|Shame locks in the very habits it punishes]]
+- [[literature-notes/shame-stagnates-fights-like-it-stagnates-individuals|Shame stagnates fights the same way it stagnates individuals]]
+- [[literature-notes/empathic-acknowledgment-is-presence|Empathic acknowledgment is presence, not fixing]]
+- [[literature-notes/apology-as-transformation-tool|An empowered apology is one of the most powerful tools for self-transformation]]
 
 ## Source
 

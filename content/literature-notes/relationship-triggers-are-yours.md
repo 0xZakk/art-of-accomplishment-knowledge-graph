@@ -44,6 +44,10 @@ Every trigger becomes a gift—a pointer to where work is needed.
 - [[literature-notes/triggers-reveal-self-judgment|Triggers reveal what we judge in ourselves]]
 - [[literature-notes/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger your wounds]]
 - [[literature-notes/triggers-rhyme-with-negative-self-talk|We get triggered when something rhymes with our negative self-talk]]
+- [[literature-notes/triggers-are-projections-of-your-own-patterns|Every trigger in your partner is a projection of your own pattern]]
+- [[literature-notes/own-the-trigger-as-yours|Owning the trigger as yours dissolves the fight]]
+- [[literature-notes/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
+- [[literature-notes/wanting-someone-to-change-reflects-self-rejection|Wanting someone to change reflects a part of yourself you can't love]]
 
 ## Source
 

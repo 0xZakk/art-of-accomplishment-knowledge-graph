@@ -25,6 +25,9 @@ This pattern isn't unique to Joe. The relationship we have with money almost alw
 - [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]] - The mechanism by which this works
 - [[literature-notes/money-beliefs-create-money-reality|Money beliefs create money reality]] - How these wounds shape financial outcomes
 - [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - The broader principle at work
+- [[literature-notes/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood emotional patterns]]
+- [[literature-notes/money-resistance-mirrors-childhood-wounds|Money resistance often mirrors childhood wounds around love and worth]]
+- [[literature-notes/money-patterns-replay-childhood-connection-patterns|Money patterns replay childhood connection patterns]]
 
 ## Source
 

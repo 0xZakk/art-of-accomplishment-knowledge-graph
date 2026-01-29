@@ -24,6 +24,8 @@ The key requirement is genuine curiosity without an agenda. If you're secretly t
 - [[literature-notes/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]] - The mechanism by which curiosity dissolves resistance
 - [[literature-notes/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist]] - Why genuine inquiry shifts the nervous system
 - [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]] - What happens when you oppose rather than explore a feeling
+- [[literature-notes/emotions-respond-to-how-you-relate-to-them|Emotions respond dynamically to how you relate to them]]
+- [[literature-notes/emotional-inquiry-as-embodied-exploration|Emotional inquiry is embodied exploration, not intellectual analysis]]
 
 ## Source
 

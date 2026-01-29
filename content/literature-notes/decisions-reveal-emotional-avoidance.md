@@ -28,6 +28,7 @@ Clarity in decision-making comes when you can fully feel and welcome all emotion
 - [[literature-notes/bad-decisions-come-from-fear-of-emotions|Bad decisions come from fear of emotions]] - How fear distorts the process
 - [[literature-notes/indecision-means-unfelt-emotions|Indecision means unfelt emotions]] - Unfelt emotions create paralysis
 - [[literature-notes/thinking-youre-deciding-means-youre-in-fear|Thinking you're deciding means you're in fear]] - The signal that fear is present
+- [[literature-notes/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]
 
 ## Source
 

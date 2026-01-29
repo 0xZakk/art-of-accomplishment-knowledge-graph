@@ -22,6 +22,8 @@ This applies equally to resistance in others and in ourselves. If you listen to 
 - [[literature-notes/procrastination-has-wisdom|Procrastination has wisdom]] - Procrastination as a specific form of wise resistance
 - [[literature-notes/love-the-resistance|Loving resistance is the path through it]] - The orientation that makes listening possible
 - [[literature-notes/denial-has-a-functional-purpose|Denial has a functional purpose]] - Denial as protection until readiness arrives
+- [[literature-notes/bullying-yourself-creates-resistance|Bullying yourself into action creates resistance]]
+- [[literature-notes/intuition-sees-what-logic-cannot|Intuition sees what the logical mind cannot]]
 
 ## Source
 

@@ -24,6 +24,9 @@ This same principle first emerged in parenting. Tara told her daughter Esme in a
 - [[literature-notes/move-the-charge-not-the-story|Move the emotional charge without believing the story]] - What happens during the exit
 - [[literature-notes/relationship-agreements-create-safe-conflict|Relationship agreements create safe conflict]] - Pre-agreed frameworks
 - [[literature-notes/safe-agreements-make-conflict-transformative|Safe agreements make conflict transformative]] - Safety enables transformation
+- [[literature-notes/you-must-know-you-can-leave-to-love|You must know you can leave to truly love]]
+- [[literature-notes/progression-from-anger-to-deeper-emotions|The progression from anger reveals grief and fear underneath]]
+- [[literature-notes/anger-backlog-must-clear|There is often a backlog of anger that must clear before you can settle]]
 
 ## Source
 

@@ -25,6 +25,8 @@ The early version might be "You're putting me in my trauma right now" (still bla
 - [[literature-notes/relationship-triggers-are-yours|Relationship triggers are yours]] - Taking ownership of what gets activated
 - [[literature-notes/the-pattern-is-happening-right-now|The pattern is happening right now]] - Recognizing old patterns in present conflicts
 - [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer together]] - The broader framework for healing through conflict
+- [[literature-notes/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
+- [[literature-notes/fights-can-heal-or-retraumatize|Fights can heal trauma or create more of it]]
 
 ## Source
 

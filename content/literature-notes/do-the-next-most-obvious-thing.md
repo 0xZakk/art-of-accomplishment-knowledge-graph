@@ -25,6 +25,7 @@ Joe even suggests a fun experiment: while driving, instead of deciding where to 
 - [[literature-notes/thinking-youre-deciding-means-youre-in-fear|Thinking you're deciding means you're in fear]] - Why decisions feel hard
 - [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]] - Fear narrows options to two
 - [[literature-notes/fear-limits-optionality|Fear limits optionality]] - Opening up from binary to multiple paths
+- [[literature-notes/decisions-reveal-emotional-avoidance|Every decision is an attempt to avoid an emotion]]
 
 ## Source
 

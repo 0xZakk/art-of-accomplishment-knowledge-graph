@@ -25,6 +25,11 @@ Once you have power, you must work to maintain it. The cycle never satisfies bec
 - [[literature-notes/fear-as-road-map-not-enemy|Fear as road map, not enemy]] - Fear as information rather than obstacle
 - [[literature-notes/fear-based-safety-attracts-what-it-fears|Fear-based safety attracts what it fears]] - How fear-based strategies backfire
 - [[literature-notes/helplessness-is-the-emotion-being-avoided|Helplessness is the emotion being avoided]] - Helplessness as the core avoided emotion
+- [[literature-notes/feeling-helplessness-creates-empowerment|Going through helplessness is what creates empowerment]]
+- [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning your wants means being okay with having them]]
+- [[literature-notes/depersonalizing-money-creates-freedom|Depersonalizing money creates financial freedom]]
+- [[literature-notes/craving-versus-wanting|The difference between craving and wanting]]
+- [[literature-notes/power-seeking-as-fear-expression|Power seeking is the ultimate expression of fear]]
 
 ## Source
 

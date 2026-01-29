@@ -40,6 +40,8 @@ As you learn to listen to others with vulnerability, impartiality, empathy, and 
 
 - [[literature-notes/being-interested-not-interesting|Being interested, not interesting]]
 - [[literature-notes/view-framework-for-listening|The VIEW framework for deep listening]]
+- [[literature-notes/unconditional-listening-transforms-relationships|Listening with unconditional acceptance transforms relationships]]
+- [[literature-notes/deep-listening-requires-self-listening|Deep listening requires listening to yourself simultaneously]]
 
 ## Source
 

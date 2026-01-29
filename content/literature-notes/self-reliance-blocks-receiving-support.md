@@ -24,6 +24,10 @@ Brett observes that when he was running his own self-reliant pattern, he perceiv
 - [[literature-notes/receiving-support-requires-surrendering-autonomy|Receiving support requires surrendering autonomy]] - What self-reliance prevents
 - [[literature-notes/holding-it-together-blocks-support|Holding it together blocks support]] - The mask that pushes help away
 - [[literature-notes/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]] - The counterintuitive path
+- [[literature-notes/self-reliance-as-intimacy-avoidance|Self-reliance can be a form of intimacy avoidance]]
+- [[literature-notes/self-reliance-is-a-defense-against-helplessness|Self-reliance is a defense against helplessness]]
+- [[literature-notes/compulsive-giving-avoids-receiving|Compulsive giving is a self-reliance strategy to avoid receiving]]
+- [[literature-notes/helplessness-is-the-emotion-being-avoided|The feeling being avoided underneath 'I've got this' is helplessness]]
 
 ## Source
 

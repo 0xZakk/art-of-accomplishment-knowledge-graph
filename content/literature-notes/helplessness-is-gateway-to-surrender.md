@@ -24,6 +24,7 @@ The trap: the mind hears this and says "okay, I'll accept that I don't have cont
 - [[literature-notes/helplessness-is-the-cayenne-pepper-of-fear|Helplessness is the most potent ingredient of fear]] - What helplessness actually is
 - [[literature-notes/feeling-helplessness-creates-agency|Feeling helplessness creates agency, not control]] - What emerges on the other side
 - [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]] - The distinction between feeling and managing
+- [[literature-notes/welcoming-helplessness-not-managing-it|The freedom is in wanting to feel helpless again]]
 
 ## Source
 

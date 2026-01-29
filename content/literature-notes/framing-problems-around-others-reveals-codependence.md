@@ -24,6 +24,7 @@ This pattern is diagnostic: if you consistently describe your problems in terms 
 - [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]] - The underlying pattern
 - [[literature-notes/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others to avoid your feelings]] - How focusing on others serves avoidance
 - [[literature-notes/self-abandonment-in-communication|Self-abandonment in communication]] - The communication pattern this creates
+- [[literature-notes/codependent-cycling-avoids-heartbreak|Codependent cycling between shame and anger avoids heartbreak]]
 
 ## Source
 

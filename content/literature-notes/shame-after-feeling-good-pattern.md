@@ -26,6 +26,11 @@ People often enter self-development thinking they need to become good enough to 
 - [[literature-notes/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant]] - Why joy triggers protective responses
 - [[literature-notes/foreboding-joy-blocks-gratitude|Foreboding joy blocks gratitude]] - Another form of this pattern
 - [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck]] - The self-reinforcing nature of the pattern
+- [[literature-notes/shame-interrupts-openness|Shame interrupts openness and pulls you out of spaciousness]]
+- [[literature-notes/shame-blocks-feeling-how-good-life-is|Shame blocks you from feeling how good life actually is]]
+- [[literature-notes/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
+- [[literature-notes/love-the-resistance-to-the-thing|If you can't love the thing, love the resistance to the thing]]
+- [[literature-notes/fully-feeling-stops-the-pattern|Fully falling in love with the avoided feeling is the quickest way to stop a negative pattern]]
 
 ## Source
 

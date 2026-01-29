@@ -39,6 +39,9 @@ The want becomes the identity, and having would destroy that identity.
 - [[literature-notes/wanting-is-aliveness|Wanting is aliveness]]
 - [[literature-notes/war-with-your-wants-creates-self-sabotage|Being at war with your wants creates self-sabotage]]
 - [[literature-notes/the-expansiveness-of-I-Am|The expansiveness of I Am]]
+- [[literature-notes/depersonalizing-money-creates-freedom|Depersonalizing money creates financial freedom]]
+- [[literature-notes/you-get-the-love-you-can-accept|You only get the love you can let in]]
+- [[literature-notes/seeking-power-is-an-expression-of-fear|Seeking power is always an expression of fear]]
 
 ## Source
 

@@ -25,6 +25,10 @@ This connects to the broader pattern where pleasure, being so expansive and self
 - [[literature-notes/shame-after-feeling-good-pattern|Shame after feeling good pattern]] - The reflexive insertion of shame when things feel too good
 - [[literature-notes/foreboding-joy-blocks-gratitude|Foreboding joy blocks gratitude]] - Another mechanism that prevents feeling how good life is
 - [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - Shame perpetuates the very cycles it claims to correct
+- [[literature-notes/shame-addiction-creates-empty-fulfillment|Shame becomes addictive and creates empty fulfillment]]
+- [[literature-notes/shame-interrupts-openness|Shame interrupts openness and pulls you out of spaciousness]]
+- [[literature-notes/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
+- [[literature-notes/shame-is-a-signal-of-disconnection|Shame is a signal of disconnection, not a problem to solve]]
 
 ## Source
 

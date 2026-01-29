@@ -25,6 +25,9 @@ The path through isn't gradual exposure or insight — Joe describes being put i
 - [[literature-notes/holding-it-together-blocks-support|Holding it together shields you from the support trying to reach you]]
 - [[literature-notes/subtle-superiority-as-protection|Subtle superiority is a protection pattern that creates isolation]]
 - [[literature-notes/numbness-as-survival-gift|Numbness as a survival gift]]
+- [[literature-notes/helplessness-dissolves-false-self-reliance|Helplessness dissolves false self-reliance]]
+- [[literature-notes/welcoming-helplessness-not-managing-it|The freedom is in wanting to feel helpless again]]
+- [[literature-notes/facing-fear-builds-empowerment|Facing the feeling you're avoiding is how empowerment comes]]
 
 ## Source
 

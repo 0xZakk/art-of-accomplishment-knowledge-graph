@@ -25,6 +25,7 @@ Internal freedom — the one every spiritual tradition points to — requires no
 - [[literature-notes/nothing-is-required-for-freedom|Nothing is required for freedom]] - The core teaching
 - [[literature-notes/depersonalizing-money-creates-freedom|Depersonalizing money creates freedom]] - Money and freedom are separate
 - [[literature-notes/financial-safety-is-not-about-money|Financial safety is not about money]] - Safety is internal
+- [[literature-notes/freedom-is-recognized-not-achieved|Freedom is recognized, not achieved]]
 
 ## Source
 

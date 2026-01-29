@@ -40,6 +40,9 @@ Pleasure enables rest. Rest enables healing. This is why pleasure is "the gatewa
 
 - [[literature-notes/presence-is-pleasure|Presence is pleasure, not trying]]
 - [[literature-notes/moving-emotions-dissolves-depression|Moving the emotion dissolves depression]]
+- [[literature-notes/pleasure-requires-receiving-not-effort|Pleasure requires receiving not effort]]
+- [[literature-notes/pleasure-is-available-in-every-emotion|Pleasure is available in every emotion when fully felt]]
+- [[literature-notes/pleasure-is-noticing-sensations-moving|Pleasure is simply noticing sensations moving in your body]]
 
 ## Source
 

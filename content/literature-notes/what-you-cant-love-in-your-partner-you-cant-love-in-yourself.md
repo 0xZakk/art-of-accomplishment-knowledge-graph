@@ -25,6 +25,7 @@ This is why people who truly love themselves create the healthiest relationships
 - [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others exists in you]] - The mirror of projection
 - [[literature-notes/triggers-reveal-self-judgment|Triggers reveal self-judgment]] - How triggers point to internal judgments
 - [[literature-notes/wanting-someone-to-change-reflects-self-rejection|Wanting someone to change reflects self-rejection]] - The desire to change as self-rejection
+- [[literature-notes/self-love-is-the-capacity-limit-for-loving-others|Self-love is the capacity limit for loving others]]
 
 ## Source
 

@@ -25,6 +25,10 @@ The resistance is itself a secondary feeling that loops back and fights the prim
 - [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]] - The kink in the garden hose metaphor
 - [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]] - What anger looks like with no kinks
 - [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
+- [[literature-notes/managing-emotions-prolongs-suffering|Managing emotions prolongs suffering]]
+- [[literature-notes/resisting-emotion-invites-it-back|Resisting an emotion is exactly what invites it back]]
+- [[literature-notes/discomfort-is-the-resistance-not-the-emotion|The discomfort of emotions is the resistance to them, not the emotions themselves]]
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming emotions is fundamentally different from accepting them]]
 
 ## Source
 

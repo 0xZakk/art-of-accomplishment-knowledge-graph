@@ -25,6 +25,7 @@ Joe connects this to nature: we can feel the peace of nature, and yet there is t
 - [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]] - Why avoiding tension keeps you stuck
 - [[literature-notes/allowing-conflict-not-creating-it|Allowing conflict not creating it]] - The practice of being with disagreement
 - [[literature-notes/resentment-is-stored-conflict|Resentment is stored conflict]] - What happens when conflict is suppressed
+- [[literature-notes/truth-over-comfort-in-relationships|Prioritizing truth over comfort creates lasting relationships]]
 
 ## Source
 

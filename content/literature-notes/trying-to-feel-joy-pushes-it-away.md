@@ -24,6 +24,10 @@ The distinction matters: forced positivity ("everything's great!") without feeli
 - [[literature-notes/trying-is-resistance-to-experience|Trying is resistance to experience]] - The broader principle
 - [[literature-notes/craving-pushes-away-what-you-want|Craving pushes away what you want]] - Same dynamic applied to wanting
 - [[literature-notes/managing-yourself-kills-the-practice|Managing yourself kills the practice]] - Self-management as a form of resistance
+- [[literature-notes/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
+- [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[literature-notes/discomfort-is-the-resistance-not-the-emotion|The discomfort of emotions is the resistance to them, not the emotions themselves]]
+- [[literature-notes/craving-is-the-pushing-away|Craving is the pushing away]]
 
 ## Source
 

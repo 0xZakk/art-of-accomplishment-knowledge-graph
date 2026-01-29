@@ -25,6 +25,10 @@ The key insight is that what we're scared of is not some external catastrophe â€
 - [[literature-notes/the-abyss-you-avoid-is-your-freedom|The abyss you avoid is your freedom]] - The direct teaching that what we avoid contains our liberation
 - [[literature-notes/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]] - The progressive dissolution of self-concept
 - [[literature-notes/embracing-fear-versus-avoiding-fear|Embracing fear versus avoiding fear]] - The choice between entering the fear or running from it
+- [[literature-notes/near-death-reveals-peace-already-present|Near-death experiences reveal peace that was already there]]
+- [[literature-notes/stuckness-is-resistance-to-the-abyss|Stuckness is resistance to the abyss, not the abyss itself]]
+- [[literature-notes/acknowledging-death-compresses-life|Acknowledging death compresses and intensifies life]]
+- [[literature-notes/sense-of-self-transforms-through-facing-the-abyss|The sense of self transforms through facing the abyss you've been avoiding]]
 
 ## Source
 

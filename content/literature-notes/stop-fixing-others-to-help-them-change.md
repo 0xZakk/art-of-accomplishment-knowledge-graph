@@ -24,6 +24,9 @@ Matthew learned a related version: after completing the course, his excited impu
 - [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - What you see in others reflects what's happening in you
 - [[literature-notes/fixing-mindset-perpetuates-stuckness|Fixing mindset perpetuates stuckness]] - The attempt to fix is itself the obstacle
 - [[literature-notes/should-creates-rebellion-or-submission|Should creates either rebellion or submission]] - Telling others what they should do produces resistance
+- [[literature-notes/fixing-avoids-being-present|Compulsive fixing avoids being present]]
+- [[literature-notes/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
+- [[literature-notes/self-attack-after-epiphany-slows-transformation|Beating yourself up after an epiphany slows your transformation]]
 
 ## Source
 

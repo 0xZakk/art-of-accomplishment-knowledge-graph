@@ -23,6 +23,9 @@ The woman tried to assert control even with God — "I am in control of all of t
 - [[literature-notes/the-enoughness-bar-always-moves|The enoughness bar always moves]] - The control mechanism in action
 - [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]] - What happens when control is released
 - [[literature-notes/chasing-understanding-creates-control|Chasing understanding creates control]] - A parallel pattern
+- [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
+- [[literature-notes/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
+- [[literature-notes/saving-others-is-a-strategy-for-enoughness|Saving others is a strategy for enoughness]]
 
 ## Source
 

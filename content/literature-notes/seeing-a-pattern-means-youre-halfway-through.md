@@ -25,6 +25,8 @@ This is deeply reassuring: once you see a pattern, you're already through the ha
 - [[literature-notes/the-pattern-is-happening-right-now|The pattern is happening right now]] - Patterns reveal themselves in real time
 - [[literature-notes/knowing-patterns-doesnt-free-you|Knowing patterns doesn't free you]] - The gap between knowing and being free
 - [[literature-notes/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]] - Why awareness itself transforms
+- [[literature-notes/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
+- [[literature-notes/self-attack-after-epiphany-slows-transformation|Beating yourself up after an epiphany slows your transformation]]
 
 ## Source
 

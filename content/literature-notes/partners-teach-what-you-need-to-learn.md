@@ -23,6 +23,9 @@ The conflict itself is the delivery mechanism for growth, but only if both partn
 - [[literature-notes/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]] - The broader pattern of relational mirroring
 - [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]] - Another lens on why we choose who we choose
 - [[literature-notes/fights-can-heal-or-retraumatize|Fights can heal or retraumatize]] - What determines whether conflict is generative
+- [[literature-notes/logical-vs-emotional-partner-dynamic|The logical vs emotional partner dynamic is a trap]]
+- [[literature-notes/no-right-or-wrong-only-perspectives|There is no right or wrong in a fight, only perspectives]]
+- [[literature-notes/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
 
 ## Source
 

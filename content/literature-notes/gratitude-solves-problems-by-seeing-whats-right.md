@@ -23,6 +23,8 @@ Gratitude also dissolves poverty mentality. If you feel lack around money, time,
 - [[literature-notes/gratitude-reveals-solutions-criticism-hides|Gratitude reveals solutions criticism hides]] - The complementary insight about what criticism blocks
 - [[literature-notes/find-what-already-works-and-amplify-it|Find what already works and amplify it]] - The leadership principle of growing what works
 - [[literature-notes/resourcefulness-over-resources|Resourcefulness over resources]] - The mindset shift gratitude enables
+- [[literature-notes/find-whats-working-and-spread-it|Find what's already working and spread it rather than fixing what's broken]]
+- [[literature-notes/ungratitude-removes-half-your-solutions|Ungratitude removes half your solutions]]
 
 ## Source
 

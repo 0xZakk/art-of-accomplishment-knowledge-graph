@@ -25,6 +25,8 @@ She had told herself that separating from her feelings made her more effective. 
 - [[literature-notes/all-decisions-are-emotional|All decisions are emotional]] - The emotional brain's role in choosing
 - [[literature-notes/indecision-means-unfelt-emotions|Indecision means unfelt emotions]] - The link between stuck decisions and stuck feelings
 - [[literature-notes/bad-decisions-come-from-fear-of-emotions|Bad decisions come from fear of emotions]] - How emotional avoidance warps choices
+- [[literature-notes/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]
+- [[literature-notes/decisions-are-made-in-the-emotional-brain|Decisions are made in the emotional center of the brain, not through analysis]]
 
 ## Source
 

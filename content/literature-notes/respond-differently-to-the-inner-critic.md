@@ -25,6 +25,11 @@ The critical points: you're not trying to eliminate the voice (that would be man
 - [[literature-notes/welcome-the-inner-critic|Welcome the inner critic]] - The broader principle this practice embodies
 - [[literature-notes/curiosity-transforms-relationship-to-emotions|Curiosity transforms relationship to emotions]] - The stance of wonder that makes it work
 - [[literature-notes/experiments-make-knowledge-embodied|Experimentation over dogma]] - The experimental approach applied to inner work
+- [[literature-notes/experiment-with-your-inner-critic|Experiment with how you respond to the inner critic]]
+- [[literature-notes/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
+- [[literature-notes/inner-critic-is-not-your-voice|The inner critic is not your voice — it's inherited]]
+- [[literature-notes/ouch-technique-for-inner-critic|The 'ouch' technique silences the inner critic and creates genuine rest]]
+- [[literature-notes/resistance-gives-the-inner-critic-its-power|Resistance gives the inner critic its power]]
 
 ## Source
 

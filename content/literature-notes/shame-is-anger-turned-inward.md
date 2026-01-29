@@ -25,6 +25,11 @@ This is a concrete mechanism, not a metaphor. Unexpressed anger at someone else 
 - [[literature-notes/rage-as-gateway-to-healing|Rage can be the gateway to healing]] - Anger as doorway rather than obstacle
 - [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt not fought]] - The broader principle of meeting shame
 - [[literature-notes/self-blame-holds-onto-what-you-lost|Self-blame holds onto what you lost]] - How blame turned inward perpetuates stuckness
+- [[literature-notes/shame-is-a-signal-of-disconnection|Shame is a signal of disconnection, not a problem to solve]]
+- [[literature-notes/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]
+- [[literature-notes/collapse-dysregulation-shame-in-anger-release|Anger release goes wrong through collapse, dysregulation, or shame recreation]]
+- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]]
+- [[literature-notes/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
 
 ## Source
 

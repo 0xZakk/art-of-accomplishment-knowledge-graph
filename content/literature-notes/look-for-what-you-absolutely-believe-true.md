@@ -20,6 +20,9 @@ This is why limiting beliefs are so powerful. They don't feel like beliefs at al
 
 - [[literature-notes/identity-you-cant-see-controls-you-most|Identity you can't see controls you most]]
 - [[literature-notes/knowing-patterns-doesnt-free-you|Knowing patterns doesn't free you]]
+- [[literature-notes/physical-constriction-signals-limiting-beliefs|Physical constriction and tension signal where limiting beliefs live]]
+- [[literature-notes/three-categories-of-limiting-beliefs|Limiting beliefs come in three forms: false thoughts, misinterpreted experience, and incomplete story]]
+- [[literature-notes/constriction-not-truth-identifies-limiting-beliefs|Constriction, not truth, identifies limiting beliefs]]
 
 ## Source
 

@@ -27,6 +27,8 @@ This reframes pleasure from something you chase to something you notice. It's al
 - [[literature-notes/pleasure-as-emotional-fluidity-practice|Pleasure as emotional fluidity practice]] - Pleasure as a tool for emotional development
 - [[literature-notes/pleasure-signals-safety|Pleasure signals safety]] - Why pleasure activates the parasympathetic nervous system
 - [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]] - The simplicity of embodied awareness
+- [[literature-notes/pleasure-is-sensation-moving-through-the-body|Pleasure is the awareness of sensation moving through the body]]
+- [[literature-notes/pleasure-requires-receiving-not-effort|Pleasure requires receiving not effort]]
 
 ## Source
 

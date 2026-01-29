@@ -27,6 +27,7 @@ The key insight: it's more integrated and healthy when it happens naturally thro
 - [[literature-notes/the-expansiveness-of-I-Am|The expansiveness of I Am]] - The natural expansion of identity
 - [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]] - Every definition constrains expansion
 - [[literature-notes/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]] - Growth requires letting identity dissolve
+- [[literature-notes/sense-of-self-expands-then-dissolves|The sense of self expands from personal to universal, then dissolves]]
 
 ## Source
 

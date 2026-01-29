@@ -24,6 +24,9 @@ Joe surfaced the contradiction: "God's able to love you, but the person you want
 - [[literature-notes/the-enoughness-bar-always-moves|The enoughness bar always moves]] - The impossible standard this serves
 - [[literature-notes/caretaking-kills-desire|Caretaking kills desire]] - What saving does to romantic relationships
 - [[literature-notes/stop-fixing-others-to-help-them-change|Stop fixing others to help them change]] - The alternative
+- [[literature-notes/control-is-the-trade-for-self-love|Control is the trade for self-love]]
+- [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
+- [[literature-notes/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
 
 ## Source
 

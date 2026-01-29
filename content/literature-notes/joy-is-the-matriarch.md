@@ -24,6 +24,7 @@ This reframes the entire pursuit of happiness. Rather than chasing joy directly,
 - [[literature-notes/joy-wont-enter-where-emotions-unwelcome|Joy won't enter where emotions are unwelcome]] - The same teaching stated differently
 - [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - Why blocking any emotion blocks joy
 - [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]] - The state that enables joy
+- [[literature-notes/joy-is-the-sign-of-emotional-health|Joy is the sign that emotional fluidity is working]]
 
 ## Source
 

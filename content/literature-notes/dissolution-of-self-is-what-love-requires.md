@@ -26,6 +26,9 @@ The woman's deepest fear — "I don't want to give myself away" — was based on
 - [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]] - The paradox: dissolution protects rather than destroys
 - [[literature-notes/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]] - The developmental arc
 - [[literature-notes/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]] - The practical consequence
+- [[literature-notes/heartbreak-is-the-mechanism-of-boundaries|Heartbreak is the mechanism of healthy boundaries]]
+- [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[literature-notes/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
 
 ## Source
 

@@ -24,6 +24,9 @@ The wisdom of the body's calmness is: don't force the decision. Stay focused, be
 - [[literature-notes/overwhelm-is-leaving-flow-to-manage-reality|Overwhelm begins when you leave flow to manage reality]]
 - [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]]
 - [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]]
+- [[literature-notes/procrastination-has-wisdom|Procrastination contains wisdom worth listening to]]
+- [[literature-notes/the-mind-inflates-tasks-to-avoid-feelings|The mind inflates tasks to avoid the feelings underneath]]
+- [[literature-notes/intuition-sees-what-logic-cannot|Intuition sees what the logical mind cannot]]
 
 ## Source
 

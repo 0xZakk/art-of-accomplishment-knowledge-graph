@@ -25,6 +25,7 @@ The practical recommendation: just be with the sensation all day with love and a
 - [[literature-notes/fixing-mindset-perpetuates-stuckness|Fixing mindset perpetuates stuckness]] - Why treating it as a problem makes it worse
 - [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]] - The mechanics of how agenda blocks movement
 - [[literature-notes/trying-to-feel-is-resistance-too|Trying to feel is resistance too]] - Effort as its own form of resistance
+- [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 
 ## Source
 

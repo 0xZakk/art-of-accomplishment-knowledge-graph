@@ -26,6 +26,9 @@ Brett points out that some of that unowned, unprocessed rage was itself a source
 - [[literature-notes/unfelt-emotions-create-physical-stress|Unfelt emotions create physical stress]] - Hate manifesting as alopecia
 - [[literature-notes/anger-backlog-must-clear|Anger backlog must clear]] - The accumulated hate needed processing
 - [[literature-notes/flow-state-is-embodiment-applied-to-life|Flow state is embodiment applied to life]] - Hate blocks the flow state
+- [[literature-notes/hardened-heart-from-unprocessed-loss|A hardened heart comes from unprocessed loss]]
+- [[literature-notes/identity-collapse-follows-peak-achievement|Identity collapse follows peak achievement]]
+- [[literature-notes/empathy-makes-warriors-more-effective|Empathy makes warriors more effective, not weaker]]
 
 ## Source
 

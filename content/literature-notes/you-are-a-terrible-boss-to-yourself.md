@@ -25,6 +25,9 @@ The insight isn't "be nicer to yourself" as a vague platitude — it's that the 
 - [[literature-notes/bullying-yourself-creates-resistance|Bullying yourself creates resistance]] - The mechanism of self-sabotage
 - [[literature-notes/enjoyment-as-the-only-metric|Enjoyment as the only productivity metric]] - The alternative management style
 - [[literature-notes/punishing-the-remembering-slows-growth|Punishing the remembering slows growth]] - Same pattern in self-development
+- [[literature-notes/gentle-narcissism-in-the-call-to-coach|Gentle narcissism hides in the call to coach]]
+- [[literature-notes/wanting-to-control-perception-is-absurd|Wanting to control others' perception of you is absurd]]
+- [[literature-notes/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
 
 ## Source
 

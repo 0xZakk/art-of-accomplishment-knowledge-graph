@@ -26,6 +26,9 @@ The proof is in the result: if you were truly doing it for them, you wouldn't re
 - [[literature-notes/caretaking-creates-resentment-in-the-receiver|Caretaking creates resentment in the receiver]] - The impact on the other person
 - [[literature-notes/managing-others-avoids-own-feelings|Managing others avoids own feelings]] - The general principle
 - [[literature-notes/being-together-in-emotions-not-caretaking|Being together in emotions, not caretaking]] - The alternative
+- [[literature-notes/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
+- [[literature-notes/thinking-they-cant-handle-it-means-youre-caretaking|Thinking they can't handle it means you're caretaking]]
+- [[literature-notes/weaponizing-non-caretaking-is-still-defense|Weaponizing non-caretaking is just another defense]]
 
 ## Source
 

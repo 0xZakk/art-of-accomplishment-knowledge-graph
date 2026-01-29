@@ -23,6 +23,10 @@ If clarity and determination don't arrive at the end of an anger release, either
 
 - [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]] - The natural endpoint of clean anger
 - [[literature-notes/feel-then-act|Feel then act]] - The order of operations for emotional processing
+- [[literature-notes/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
+- [[literature-notes/moving-emotions-dissolves-stories|Moving emotions dissolves stories and creates clarity]]
+- [[literature-notes/anger-backlog-must-clear|There is often a backlog of anger that must clear before you can settle]]
+- [[literature-notes/suppressing-anger-kills-your-fire|Suppressing anger kills your fire, determination, and clarity]]
 
 ## Source
 

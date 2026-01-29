@@ -26,6 +26,8 @@ The spiral structure means that fighting the habit directly can strengthen it. E
 - [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck]] - How shame becomes its own self-reinforcing loop
 - [[literature-notes/shame-drives-compulsive-avoidance|Shame drives compulsive avoidance]] - The avoidance mechanism at work
 - [[literature-notes/connection-dissolves-shame|Connection dissolves shame]] - The actual antidote
+- [[literature-notes/avoidance-chain-from-essence-to-addiction|The avoidance chain runs from essential self through thinking to addiction]]
+- [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]]
 
 ## Source
 

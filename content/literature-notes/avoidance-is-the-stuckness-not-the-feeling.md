@@ -25,6 +25,10 @@ A feeling that is resisted shows up as a different feeling entirely — resisted
 - [[literature-notes/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]] - The distinction between feeling stuck and being stuck
 - [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - How avoidance perpetuates problems
 - [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]] - How resisting a feeling transforms it
+- [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[literature-notes/stuckness-is-resistance-to-the-abyss|Stuckness is resistance to the abyss, not the abyss itself]]
+- [[literature-notes/craving-is-the-pushing-away|Craving is the pushing away]]
+- [[literature-notes/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
 
 ## Source
 

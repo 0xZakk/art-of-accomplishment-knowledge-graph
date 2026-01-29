@@ -27,6 +27,7 @@ Joe points out that bad relationships with money, partners, or dreams are all re
 - [[literature-notes/relationship-reflects-self-relationship|Relationship reflects self-relationship]] - External mirrors internal
 - [[literature-notes/fixing-mindset-perpetuates-stuckness|Fixing mindset perpetuates stuckness]] - The "fix me" frame is part of the problem
 - [[literature-notes/address-root-blockers-not-symptoms|Address root blockers not symptoms]] - Going to the core
+- [[literature-notes/self-relationship-is-the-core-issue|The relationship with yourself is always the core issue]]
 
 ## Source
 

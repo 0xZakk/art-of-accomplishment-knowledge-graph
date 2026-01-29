@@ -27,6 +27,8 @@ The avoidance strategy always creates the very condition it's trying to prevent.
 - [[literature-notes/avoidance-creates-the-pattern-it-fears|Emotional avoidance creates the very pattern it fears]] - The underlying mechanism
 - [[literature-notes/the-pattern-is-happening-right-now|The pattern is happening right now]] - Recognizing the pattern in real time
 - [[literature-notes/seeing-a-pattern-means-youre-halfway-through|Seeing a pattern means you're halfway through]] - Why awareness matters
+- [[literature-notes/fully-feeling-stops-the-pattern|Fully falling in love with the avoided feeling is the quickest way to stop a negative pattern]]
+- [[literature-notes/engineering-heartbreak-to-avoid-heartbreak|We engineer heartbreak to avoid the heartbreak we haven't felt]]
 
 ## Source
 

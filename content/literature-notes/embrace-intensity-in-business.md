@@ -25,6 +25,8 @@ This is also why business is "hard mode" for spiritual practice — there are co
 - [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]] - The general principle
 - [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]] - A specific form of avoiding intensity
 - [[literature-notes/do-the-uncomfortable-thing-first|Do the uncomfortable thing first]] - The practical application
+- [[literature-notes/business-alignment-is-spiritual-alignment|Business alignment and spiritual alignment are the same thing]]
+- [[literature-notes/embracing-not-creating-intensity|Embracing intensity means welcoming what's already present, not manufacturing challenge]]
 
 ## Source
 

@@ -22,6 +22,7 @@ This perspective reframes entrepreneurship as an art form. The way you build, pr
 - [[literature-notes/business-alignment-is-spiritual-alignment|Business alignment is spiritual alignment]]
 - [[literature-notes/just-business-is-deeply-personal|Just business is deeply personal]]
 - [[literature-notes/ego-obliteration-through-business|Ego obliteration through business]]
+- [[literature-notes/business-prevents-spiritual-bypassing|Business prevents spiritual bypassing because reality keeps showing up]]
 
 ## Source
 

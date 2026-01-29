@@ -26,6 +26,9 @@ Joe draws the parallel to CEOs and spiritual seekers: anyone who feels "finished
 - [[literature-notes/grief-is-identity-dissolution|Grief is identity dissolution]] - The collapse is fundamentally a grief process
 - [[literature-notes/burnout-is-sustained-adrenaline-depletion|Burnout is sustained adrenaline depletion]] - The physiological component of the crash
 - [[literature-notes/overachieving-is-survival-mode|Overachieving is survival mode]] - Achievement can mask deeper disconnection
+- [[literature-notes/hate-consumes-mental-bandwidth|Hate consumes mental bandwidth needed for flow]]
+- [[literature-notes/growth-stops-when-you-think-youve-made-it|Growth stops when you think you've made it]]
+- [[literature-notes/hardened-heart-from-unprocessed-loss|A hardened heart comes from unprocessed loss]]
 
 ## Source
 

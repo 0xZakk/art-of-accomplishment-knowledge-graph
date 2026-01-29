@@ -27,6 +27,8 @@ Joe Hudson adds the complementary insight: the destruction that happens when you
 - [[literature-notes/the-abyss-you-avoid-is-your-freedom|The abyss you avoid is your freedom]] - What you avoid most is where freedom waits
 - [[literature-notes/facing-fear-builds-empowerment|Facing fear builds empowerment]] - Courage as a practice
 - [[literature-notes/follow-your-calling-even-when-uncomfortable|Follow your calling even when uncomfortable]] - Discomfort as directional signal
+- [[literature-notes/adversity-refines-rather-than-destroys|Adversity refines rather than destroys]]
+- [[literature-notes/feel-your-way-to-freedom|Feel your way to freedom]]
 
 ## Source
 
