@@ -2,6 +2,7 @@
 title: "Charisma isn't learned (Dr. K, Charisma on Command & Joe)"
 source: https://www.youtube.com/watch?v=OM8Gtt37-m4
 videoId: "OM8Gtt37-m4"
+category: "Guest Appearance"
 type: interview
 duration: "178:06"
 topics:
@@ -17,6 +18,7 @@ topics:
   - inner-critic
   - spirituality
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OM8Gtt37-m4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

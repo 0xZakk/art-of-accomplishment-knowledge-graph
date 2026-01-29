@@ -2,6 +2,7 @@
 title: "The Price Of Being The Logical One In Love"
 source: https://www.youtube.com/watch?v=8Fv26TyX4QQ
 videoId: "8Fv26TyX4QQ"
+category: "Short Lesson"
 type: teaching
 duration: "5:59"
 topics:
@@ -11,6 +12,7 @@ topics:
   - superiority
   - shame
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Fv26TyX4QQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

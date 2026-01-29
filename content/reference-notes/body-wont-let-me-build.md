@@ -2,6 +2,7 @@
 title: "My body won't let me build what my brain knows I can (Coaching with Joe Hudson)"
 source: https://www.youtube.com/watch?v=sK4FenmRmaU
 videoId: "sK4FenmRmaU"
+category: "Coaching Session"
 type: coaching-session
 duration: "8:56"
 topics:
@@ -11,6 +12,7 @@ topics:
   - self-management
   - enjoyment
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sK4FenmRmaU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

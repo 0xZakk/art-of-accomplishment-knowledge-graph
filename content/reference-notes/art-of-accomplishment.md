@@ -2,6 +2,7 @@
 title: "The Art of Accomplishment"
 source: https://www.youtube.com/watch?v=lDhpX89TLOQ
 videoId: "lDhpX89TLOQ"
+category: "Podcast Episode"
 type: teaching
 duration: "47:09"
 topics:
@@ -13,6 +14,7 @@ topics:
   - art
   - flow
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lDhpX89TLOQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

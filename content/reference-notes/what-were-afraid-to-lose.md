@@ -2,6 +2,7 @@
 title: "What We're Afraid to Lose"
 source: https://www.youtube.com/watch?v=I02EVlDLUX8
 videoId: "I02EVlDLUX8"
+category: "Podcast Episode"
 type: interview
 duration: "39:34"
 topics:
@@ -13,6 +14,7 @@ topics:
   - anxiety
   - loss
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I02EVlDLUX8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

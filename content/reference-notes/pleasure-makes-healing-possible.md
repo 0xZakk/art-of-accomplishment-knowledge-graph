@@ -2,6 +2,7 @@
 title: "Pleasure Is What Makes Healing Possible"
 source: https://www.youtube.com/watch?v=nJMPJYrfplI
 videoId: "nJMPJYrfplI"
+category: "Short Lesson"
 type: teaching
 duration: "11:16"
 topics:
@@ -10,6 +11,7 @@ topics:
   - presence
   - nervous-system
 date: 2026-01-26
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nJMPJYrfplI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

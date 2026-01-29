@@ -2,6 +2,7 @@
 title: "15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe)"
 source: https://www.youtube.com/watch?v=nH0tWr9b1JY
 videoId: "nH0tWr9b1JY"
+category: "Coaching Session"
 type: coaching-session
 duration: "13:41"
 topics:
@@ -12,6 +13,7 @@ topics:
   - identity
   - purpose
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nH0tWr9b1JY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

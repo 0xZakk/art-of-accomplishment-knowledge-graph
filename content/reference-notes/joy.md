@@ -2,6 +2,7 @@
 title: "Joy"
 source: https://www.youtube.com/watch?v=XjfCZRVaGqY
 videoId: "XjfCZRVaGqY"
+category: "Podcast Episode"
 type: teaching
 duration: "38:40"
 topics:
@@ -14,6 +15,7 @@ topics:
   - principles
   - resistance
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XjfCZRVaGqY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

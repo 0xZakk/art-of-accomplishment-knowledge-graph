@@ -2,6 +2,7 @@
 title: "How Do I Not Get Ruined By Narcissism?"
 source: https://www.youtube.com/watch?v=wMtBzEyXEiw
 videoId: "wMtBzEyXEiw"
+category: "Coaching Session"
 type: coaching-session
 duration: "9:41"
 topics:
@@ -13,6 +14,7 @@ topics:
   - love
   - empowerment
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wMtBzEyXEiw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "I Have To Do What Others Want (To Make Money)"
 source: https://www.youtube.com/watch?v=7PTCKrXQVPQ
 videoId: "7PTCKrXQVPQ"
+category: "Coaching Session"
 type: coaching-session
 duration: "11:29"
 topics:
@@ -11,6 +12,7 @@ topics:
   - childhood-patterns
   - coaching
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7PTCKrXQVPQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

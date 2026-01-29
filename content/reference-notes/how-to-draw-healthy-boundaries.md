@@ -2,6 +2,7 @@
 title: "How to Draw HEALTHY Boundaries"
 source: https://www.youtube.com/watch?v=NZCqvH1jE5Y
 videoId: "NZCqvH1jE5Y"
+category: "Short Lesson"
 type: teaching
 duration: "5:46"
 topics:
@@ -10,6 +11,7 @@ topics:
   - self-love
   - power-struggles
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NZCqvH1jE5Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "Why Your Goals Are Making You Miserable"
 source: https://www.youtube.com/watch?v=3PcAtZhvlGA
 videoId: "3PcAtZhvlGA"
+category: "Short Lesson"
 type: teaching
 duration: "32:52"
 topics:
@@ -11,6 +12,7 @@ topics:
   - creativity
   - self-abuse
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3PcAtZhvlGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "Q&A – Expressing 'Anger At', Playing with Depression, & More"
 source: https://www.youtube.com/watch?v=tzAUTWizy4k
 videoId: "tzAUTWizy4k"
+category: "Podcast Episode"
 type: teaching
 duration: "40:27"
 topics:
@@ -13,6 +14,7 @@ topics:
   - patience
   - identity
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tzAUTWizy4k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

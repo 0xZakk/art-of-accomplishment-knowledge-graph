@@ -2,6 +2,7 @@
 title: "Marriage, Love, and Death"
 source: https://www.youtube.com/watch?v=TpVHwB12XY0
 videoId: "TpVHwB12XY0"
+category: "Coaching Session"
 type: interview
 duration: "46:53"
 topics:
@@ -13,6 +14,7 @@ topics:
   - codependence
   - projection
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TpVHwB12XY0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

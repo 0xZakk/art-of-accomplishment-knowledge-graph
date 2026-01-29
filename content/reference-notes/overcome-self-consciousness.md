@@ -2,6 +2,7 @@
 title: "How Do I Overcome Self-Consciousness? (Coaching Session With Master Coach)"
 source: https://www.youtube.com/watch?v=uaqGB89KIPs
 videoId: "uaqGB89KIPs"
+category: "Coaching Session"
 type: coaching-session
 duration: "8:17"
 topics:
@@ -12,6 +13,7 @@ topics:
   - performance
   - phobia
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uaqGB89KIPs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

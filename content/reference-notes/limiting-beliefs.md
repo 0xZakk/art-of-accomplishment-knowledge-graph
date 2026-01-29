@@ -2,6 +2,7 @@
 title: "Limiting Beliefs"
 source: https://www.youtube.com/watch?v=gbeeyjpFp3w
 videoId: "gbeeyjpFp3w"
+category: "Podcast Episode"
 type: interview
 duration: "36:17"
 topics:
@@ -12,6 +13,7 @@ topics:
   - inquiry
   - emotional-fluidity
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gbeeyjpFp3w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

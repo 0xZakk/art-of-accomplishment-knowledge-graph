@@ -2,6 +2,7 @@
 title: "What's So Scary About Boundaries?"
 source: https://www.youtube.com/watch?v=LOn6fF8DDZ0
 videoId: "LOn6fF8DDZ0"
+category: "Podcast Episode"
 type: teaching
 duration: "58:04"
 topics:
@@ -12,6 +13,7 @@ topics:
   - fear
   - control
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LOn6fF8DDZ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

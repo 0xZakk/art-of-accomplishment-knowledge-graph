@@ -2,6 +2,7 @@
 title: "Why You Procrastinate on Your Own Goals (But Not Your Job)"
 source: https://www.youtube.com/watch?v=5LJCgIlb3iI
 videoId: "5LJCgIlb3iI"
+category: "Coaching Session"
 type: coaching-session
 duration: "37:55"
 topics:
@@ -12,6 +13,7 @@ topics:
   - identity
   - codependence
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5LJCgIlb3iI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

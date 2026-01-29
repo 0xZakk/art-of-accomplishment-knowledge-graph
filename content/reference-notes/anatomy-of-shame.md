@@ -2,6 +2,7 @@
 title: "The Anatomy Of Shame"
 source: https://www.youtube.com/watch?v=mFZgUzg31rc
 videoId: "mFZgUzg31rc"
+category: "Podcast Episode"
 type: teaching
 duration: "43:10"
 topics:
@@ -13,6 +14,7 @@ topics:
   - habits
   - parenting
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mFZgUzg31rc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

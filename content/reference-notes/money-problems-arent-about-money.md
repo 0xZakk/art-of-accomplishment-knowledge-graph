@@ -2,6 +2,7 @@
 title: "Your Money Problems Aren't About Money (Coaching with Joe Hudson)"
 source: https://www.youtube.com/watch?v=HD__7X_gq_g
 videoId: "HD__7X_gq_g"
+category: "Coaching Session"
 type: coaching-session
 duration: "56:21"
 topics:
@@ -13,6 +14,7 @@ topics:
   - freedom
   - responsibility
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HD__7X_gq_g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

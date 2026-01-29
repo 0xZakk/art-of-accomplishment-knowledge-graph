@@ -2,6 +2,7 @@
 title: "STOP Chasing Approval — Here's How To Get Free"
 source: https://www.youtube.com/watch?v=1cqkP5_YRho
 videoId: "1cqkP5_YRho"
+category: "Short Lesson"
 type: teaching
 duration: "6:26"
 topics:
@@ -11,6 +12,7 @@ topics:
   - emotions
   - presence
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1cqkP5_YRho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

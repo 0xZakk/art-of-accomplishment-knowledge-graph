@@ -2,6 +2,7 @@
 title: "How Do I Stop Watching Porn And Procrastinating? (Coaching Session With Master Coach)"
 source: https://www.youtube.com/watch?v=KY0My-sg9Fw
 videoId: "KY0My-sg9Fw"
+category: "Coaching Session"
 type: coaching-session
 duration: "17:17"
 topics:
@@ -12,6 +13,7 @@ topics:
   - identity
   - presence
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KY0My-sg9Fw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

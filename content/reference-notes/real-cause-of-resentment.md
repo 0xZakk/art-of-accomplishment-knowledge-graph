@@ -2,6 +2,7 @@
 title: "The Real Cause of Resentment (And What to Do About It)"
 source: https://www.youtube.com/watch?v=NJwuDwCFkTo
 videoId: "NJwuDwCFkTo"
+category: "Short Lesson"
 type: teaching
 duration: "5:14"
 topics:
@@ -11,6 +12,7 @@ topics:
   - relationships
   - caretaking
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NJwuDwCFkTo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

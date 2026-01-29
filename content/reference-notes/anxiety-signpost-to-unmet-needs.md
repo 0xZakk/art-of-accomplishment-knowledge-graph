@@ -2,6 +2,7 @@
 title: "Anxiety: A Signpost To Unmet Needs"
 source: https://www.youtube.com/watch?v=N_fltKFwR_M
 videoId: "N_fltKFwR_M"
+category: "Podcast Episode"
 type: teaching
 duration: "35:49"
 topics:
@@ -12,6 +13,7 @@ topics:
   - joy
   - self-management
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N_fltKFwR_M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "How Do I Stop Postponing My Enjoyment? (Coaching Session)"
 source: https://www.youtube.com/watch?v=IPFRRowdd2w
 videoId: "IPFRRowdd2w"
+category: "Coaching Session"
 type: coaching-session
 duration: "31:27"
 topics:
@@ -13,6 +14,7 @@ topics:
   - empowerment
   - self-expression
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IPFRRowdd2w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "How To Measure Your Progress In Personal Development & Transformation"
 source: https://www.youtube.com/watch?v=BRYWSu3kTnc
 videoId: "BRYWSu3kTnc"
+category: "Short Lesson"
 type: teaching
 duration: "6:52"
 topics:
@@ -11,6 +12,7 @@ topics:
   - nervous-system
   - pleasure
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BRYWSu3kTnc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

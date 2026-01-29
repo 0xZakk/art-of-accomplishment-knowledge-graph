@@ -2,6 +2,7 @@
 title: "Why Am I Stuck In Life When I Know My Patterns? (Coaching Session With Joe Hudson)"
 source: https://www.youtube.com/watch?v=_kp__uRTS8w
 videoId: "_kp__uRTS8w"
+category: "Coaching Session"
 type: coaching-session
 duration: "12:10"
 topics:
@@ -12,6 +13,7 @@ topics:
   - needs
   - somatic avoidance
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_kp__uRTS8w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

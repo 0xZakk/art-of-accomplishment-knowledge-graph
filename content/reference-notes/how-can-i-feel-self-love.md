@@ -2,6 +2,7 @@
 title: "How Can I Feel Self-Love? - Coaching Session Breakdown"
 source: https://www.youtube.com/watch?v=n24xPZP1dmQ
 videoId: "n24xPZP1dmQ"
+category: "Coaching Session"
 type: coaching-session
 duration: "28:42"
 topics:
@@ -12,6 +13,7 @@ topics:
   - false humility
   - coaching
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n24xPZP1dmQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

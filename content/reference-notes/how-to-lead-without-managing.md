@@ -2,6 +2,7 @@
 title: "How To Lead Without Managing"
 source: https://www.youtube.com/watch?v=5F0fzMHp4qM
 videoId: "5F0fzMHp4qM"
+category: "Short Lesson"
 type: teaching
 duration: "8:15"
 topics:
@@ -10,6 +11,7 @@ topics:
   - wants
   - teams
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5F0fzMHp4qM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

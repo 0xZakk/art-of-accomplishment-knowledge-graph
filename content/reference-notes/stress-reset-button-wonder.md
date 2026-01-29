@@ -2,6 +2,7 @@
 title: "Your Brain Has A Stress Reset Button, Here's How to Use It"
 source: https://www.youtube.com/watch?v=5GVz4LgT1Ac
 videoId: "5GVz4LgT1Ac"
+category: "Short Lesson"
 type: teaching
 duration: "13:58"
 topics:
@@ -11,6 +12,7 @@ topics:
   - self-discovery
   - love
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5GVz4LgT1Ac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

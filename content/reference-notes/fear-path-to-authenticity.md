@@ -2,6 +2,7 @@
 title: "Fear: A Path To Authenticity"
 source: https://www.youtube.com/watch?v=XGRxX5jGaj0
 videoId: "XGRxX5jGaj0"
+category: "Podcast Episode"
 type: teaching
 duration: "36:24"
 topics:
@@ -12,6 +13,7 @@ topics:
   - helplessness
   - flow state
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XGRxX5jGaj0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

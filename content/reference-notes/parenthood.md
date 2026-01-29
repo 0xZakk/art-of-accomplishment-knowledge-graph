@@ -2,6 +2,7 @@
 title: "Parenthood"
 source: https://www.youtube.com/watch?v=XeWoI0bD9po
 videoId: "XeWoI0bD9po"
+category: "Podcast Episode"
 type: teaching
 duration: "54:16"
 topics:
@@ -12,6 +13,7 @@ topics:
   - children
   - relationships
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XeWoI0bD9po" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

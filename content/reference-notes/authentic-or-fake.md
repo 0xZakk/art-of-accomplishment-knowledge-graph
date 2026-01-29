@@ -2,6 +2,7 @@
 title: "Am I Being Authentic Or Fake?"
 source: https://www.youtube.com/watch?v=NSdJODB2T8Y
 videoId: "NSdJODB2T8Y"
+category: "Coaching Session"
 type: coaching-session
 duration: "9:45"
 topics:
@@ -11,6 +12,7 @@ topics:
   - self-trust
   - resistance
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NSdJODB2T8Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "How Do I Feel Financially Safe?"
 source: https://www.youtube.com/watch?v=ABw8XJH7QFI
 videoId: "ABw8XJH7QFI"
+category: "Coaching Session"
 type: coaching-session
 duration: "8:52"
 topics:
@@ -11,6 +12,7 @@ topics:
   - identity
   - emotions
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ABw8XJH7QFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

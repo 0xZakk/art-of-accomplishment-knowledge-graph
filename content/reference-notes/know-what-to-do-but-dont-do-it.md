@@ -2,6 +2,7 @@
 title: "When You Know What To Do But You Just Don't Do It"
 source: https://www.youtube.com/watch?v=6kMwXM54-LQ
 videoId: "6kMwXM54-LQ"
+category: "Short Lesson"
 type: teaching
 duration: "8:39"
 topics:
@@ -11,6 +12,7 @@ topics:
   - emotional-avoidance
   - self-bullying
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6kMwXM54-LQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

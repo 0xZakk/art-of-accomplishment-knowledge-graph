@@ -2,6 +2,7 @@
 title: "Money Can't Oppress You"
 source: https://www.youtube.com/watch?v=BL_wpFFp6bA
 videoId: "BL_wpFFp6bA"
+category: "Podcast Episode"
 type: teaching
 duration: "27:26"
 topics:
@@ -12,6 +13,7 @@ topics:
   - integrity
   - poverty-mentality
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BL_wpFFp6bA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

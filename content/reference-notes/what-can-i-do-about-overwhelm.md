@@ -2,6 +2,7 @@
 title: "What Can I Do About Overwhelm?"
 source: https://www.youtube.com/watch?v=cezTrYF7qQ8
 videoId: "cezTrYF7qQ8"
+category: "Podcast Episode"
 type: interview
 duration: "50:41"
 topics:
@@ -13,6 +14,7 @@ topics:
   - leadership
   - flow
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cezTrYF7qQ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

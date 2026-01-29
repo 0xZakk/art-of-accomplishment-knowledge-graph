@@ -5,11 +5,36 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.ConditionalRender({
+      component: Component.Graph({
+        localGraph: {
+          drag: true,
+          zoom: true,
+          depth: 2,
+          scale: 1.5,
+          repelForce: 2,
+          centerForce: 0.3,
+          linkDistance: 50,
+          fontSize: 0.4,
+          focusOnHover: true,
+        },
+        globalGraph: {
+          repelForce: 3,
+          centerForce: 0.1,
+          linkDistance: 60,
+          fontSize: 0,
+          focusOnHover: true,
+          enableRadial: true,
+        },
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+  ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Art of Accomplishment": "https://www.artofaccomplishment.com/",
+      GitHub: "https://github.com/0xZakk/aoa-zettelkasten",
     },
   }),
 }
@@ -21,9 +46,18 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
+    Component.ConditionalRender({
+      component: Component.ArticleTitle(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.ContentMeta(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.TagList(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
   ],
   left: [
     Component.PageTitle(),
@@ -38,28 +72,40 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.ConditionalRender({
+      component: Component.Explorer(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
   ],
   right: [
-    Component.Graph({
-      localGraph: {
-        repelForce: 2,
-        centerForce: 0.5,
-        linkDistance: 50,
-        fontSize: 0.4,
-        focusOnHover: true,
-      },
-      globalGraph: {
-        repelForce: 3,
-        centerForce: 0.1,
-        linkDistance: 60,
-        fontSize: 0,
-        focusOnHover: true,
-        enableRadial: true,
-      },
+    Component.ConditionalRender({
+      component: Component.Graph({
+        localGraph: {
+          repelForce: 2,
+          centerForce: 0.5,
+          linkDistance: 50,
+          fontSize: 0.4,
+          focusOnHover: true,
+        },
+        globalGraph: {
+          repelForce: 3,
+          centerForce: 0.1,
+          linkDistance: 60,
+          fontSize: 0,
+          focusOnHover: true,
+          enableRadial: true,
+        },
+      }),
+      condition: (page) => page.fileData.slug !== "index",
     }),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.TableOfContents()),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.Backlinks(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
   ],
 }
 

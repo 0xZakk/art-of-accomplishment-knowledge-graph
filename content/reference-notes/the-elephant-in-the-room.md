@@ -2,6 +2,7 @@
 title: "The Elephant In The Room"
 source: https://www.youtube.com/watch?v=526sb1ht4yg
 videoId: "526sb1ht4yg"
+category: "Podcast Episode"
 type: interview
 duration: "39:41"
 topics:
@@ -11,6 +12,7 @@ topics:
   - family-dynamics
   - psychological-safety
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/526sb1ht4yg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

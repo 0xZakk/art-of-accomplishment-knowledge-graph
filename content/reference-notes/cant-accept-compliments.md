@@ -2,6 +2,7 @@
 title: "If You Can't Accept Compliments, Watch This (Coaching Session With Joe Hudson)"
 source: https://www.youtube.com/watch?v=v235OpxMywM
 videoId: "v235OpxMywM"
+category: "Coaching Session"
 type: coaching-session
 duration: "15:00"
 topics:
@@ -12,6 +13,7 @@ topics:
   - self-worth
   - expansiveness
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v235OpxMywM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

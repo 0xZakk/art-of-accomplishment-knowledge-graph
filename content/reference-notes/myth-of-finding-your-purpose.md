@@ -2,6 +2,7 @@
 title: "The Myth Of Finding Your Purpose"
 source: https://www.youtube.com/watch?v=LmPMaJhi_SA
 videoId: "LmPMaJhi_SA"
+category: "Short Lesson"
 type: teaching
 duration: "20:32"
 topics:
@@ -12,6 +13,7 @@ topics:
   - alignment
   - fear
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LmPMaJhi_SA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

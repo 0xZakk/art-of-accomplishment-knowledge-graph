@@ -2,6 +2,7 @@
 title: "How To Tell If The Master Class Isn't For You"
 source: https://www.youtube.com/watch?v=0iq7EXdhSik
 videoId: "0iq7EXdhSik"
+category: "Podcast Episode"
 type: interview
 duration: "22:48"
 topics:
@@ -14,6 +15,7 @@ topics:
   - sincerity
   - resistance
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0iq7EXdhSik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

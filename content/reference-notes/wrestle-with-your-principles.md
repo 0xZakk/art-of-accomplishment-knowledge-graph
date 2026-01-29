@@ -2,6 +2,7 @@
 title: "Wrestle With Your Principles"
 source: https://www.youtube.com/watch?v=FdSon9hsSbY
 videoId: "FdSon9hsSbY"
+category: "Podcast Episode"
 type: interview
 duration: "45:16"
 topics:
@@ -15,6 +16,7 @@ topics:
   - accountability
   - company-culture
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FdSon9hsSbY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

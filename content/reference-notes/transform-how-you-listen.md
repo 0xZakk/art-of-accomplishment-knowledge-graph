@@ -2,6 +2,7 @@
 title: "Give Me 5 Minutes And I'll Transform How You Listen Forever"
 source: https://www.youtube.com/watch?v=Du9Y-USO9KM
 videoId: "Du9Y-USO9KM"
+category: "Short Lesson"
 type: teaching
 duration: "5:03"
 topics:
@@ -11,6 +12,7 @@ topics:
   - communication
   - wonder
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Du9Y-USO9KM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

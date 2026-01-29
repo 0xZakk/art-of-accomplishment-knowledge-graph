@@ -2,6 +2,7 @@
 title: "Empower Over Power"
 source: https://www.youtube.com/watch?v=l3LSpFoPkqs
 videoId: "l3LSpFoPkqs"
+category: "Podcast Episode"
 type: teaching
 duration: "47:50"
 topics:
@@ -14,6 +15,7 @@ topics:
   - drama triangle
   - principles
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l3LSpFoPkqs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

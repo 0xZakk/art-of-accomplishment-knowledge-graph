@@ -2,6 +2,7 @@
 title: "How To Be Empathetic Without Losing Yourself"
 source: https://www.youtube.com/watch?v=H4KxP6GA_-8
 videoId: "H4KxP6GA_-8"
+category: "Short Lesson"
 type: teaching
 duration: "5:08"
 topics:
@@ -10,6 +11,7 @@ topics:
   - emotional boundaries
   - relationships
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H4KxP6GA_-8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

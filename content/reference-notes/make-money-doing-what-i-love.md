@@ -2,6 +2,7 @@
 title: "How Do I Make Money Doing What I Love?"
 source: https://www.youtube.com/watch?v=BE5bYxFV-Zs
 videoId: "BE5bYxFV-Zs"
+category: "Coaching Session"
 type: coaching-session
 duration: "6:35"
 topics:
@@ -11,6 +12,7 @@ topics:
   - coaching
   - self-worth
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BE5bYxFV-Zs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

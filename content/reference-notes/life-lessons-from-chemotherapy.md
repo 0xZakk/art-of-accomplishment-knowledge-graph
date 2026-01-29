@@ -2,6 +2,7 @@
 title: "I'm Not Dead Yet: Life Lessons from Chemotherapy | Tara Howley with Guest Michael Nagle"
 source: https://www.youtube.com/watch?v=f2MCclXtmzs
 videoId: "f2MCclXtmzs"
+category: "Podcast Episode"
 type: interview
 duration: "32:19"
 topics:
@@ -15,6 +16,7 @@ topics:
   - denial
   - choice
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f2MCclXtmzs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

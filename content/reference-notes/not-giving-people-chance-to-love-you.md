@@ -2,6 +2,7 @@
 title: "You're Not Giving People the Chance to Love You"
 source: https://www.youtube.com/watch?v=JsNRVP6g_Xs
 videoId: "JsNRVP6g_Xs"
+category: "Short Lesson"
 type: teaching
 duration: "18:48"
 topics:
@@ -12,6 +13,7 @@ topics:
   - reputation
   - stress
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JsNRVP6g_Xs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

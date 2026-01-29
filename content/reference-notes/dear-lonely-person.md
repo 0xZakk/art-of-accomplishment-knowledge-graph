@@ -2,6 +2,7 @@
 title: "Dear Lonely Person: You're Probably A Sweetheart"
 source: https://www.youtube.com/watch?v=Wswz67PpBsY
 videoId: "Wswz67PpBsY"
+category: "Podcast Episode"
 type: teaching
 duration: "33:48"
 topics:
@@ -12,6 +13,7 @@ topics:
   - attachment
   - self-connection
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wswz67PpBsY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

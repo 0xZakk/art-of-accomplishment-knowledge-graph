@@ -2,6 +2,7 @@
 title: "Why Am I Always Trying To Fix Myself & Others? (Coaching Session With Joe Hudson)"
 source: https://www.youtube.com/watch?v=t0psPDzUjYc
 videoId: "t0psPDzUjYc"
+category: "Coaching Session"
 type: coaching-session
 duration: "13:23"
 topics:
@@ -11,6 +12,7 @@ topics:
   - purpose
   - being-with
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t0psPDzUjYc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

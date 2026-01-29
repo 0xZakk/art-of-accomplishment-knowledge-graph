@@ -2,6 +2,7 @@
 title: "Unlocking your trauma pattern (how to see and be seen)"
 source: https://www.youtube.com/watch?v=XRHh3PHrB5s
 videoId: "XRHh3PHrB5s"
+category: "Short Lesson"
 type: teaching
 duration: "5:06"
 topics:
@@ -11,6 +12,7 @@ topics:
   - being seen
   - repair
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XRHh3PHrB5s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

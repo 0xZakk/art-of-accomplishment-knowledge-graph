@@ -2,6 +2,7 @@
 title: "Ant Taylor On Embracing Emotions"
 source: https://www.youtube.com/watch?v=S2IVBskpp2g
 videoId: "S2IVBskpp2g"
+category: "Podcast Episode"
 type: interview
 duration: "43:57"
 topics:
@@ -13,6 +14,7 @@ topics:
   - business
   - stress
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S2IVBskpp2g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

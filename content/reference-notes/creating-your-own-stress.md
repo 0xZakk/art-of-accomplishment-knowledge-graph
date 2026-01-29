@@ -2,6 +2,7 @@
 title: "The 3-Minute Test That Proves You're Creating Your Own Stress"
 source: https://www.youtube.com/watch?v=ZcA3KM2NM74
 videoId: "ZcA3KM2NM74"
+category: "Short Lesson"
 type: teaching
 duration: "13:24"
 topics:
@@ -11,6 +12,7 @@ topics:
   - enjoyment
   - experiments
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZcA3KM2NM74" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

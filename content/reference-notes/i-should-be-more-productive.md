@@ -2,6 +2,7 @@
 title: "\"I Should Be More Productive\" Is Killing You (Coaching Session With Master Coach)"
 source: https://www.youtube.com/watch?v=NtKQdSbrykI
 videoId: "NtKQdSbrykI"
+category: "Coaching Session"
 type: coaching-session
 duration: "18:21"
 topics:
@@ -13,6 +14,7 @@ topics:
   - freedom
   - purpose
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NtKQdSbrykI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

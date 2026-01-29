@@ -2,6 +2,7 @@
 title: "Perfectionism Creates the Chaos it's trying to Prevent"
 source: https://www.youtube.com/watch?v=fMzEp7YQ-js
 videoId: "fMzEp7YQ-js"
+category: "Short Lesson"
 type: teaching
 duration: "35:22"
 topics:
@@ -12,6 +13,7 @@ topics:
   - organizational-culture
   - excellence
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fMzEp7YQ-js" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

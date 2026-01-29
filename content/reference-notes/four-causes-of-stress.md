@@ -2,6 +2,7 @@
 title: "4 Causes of Stress (And How to Start Resolving Them Now)"
 source: https://www.youtube.com/watch?v=7b7R4zQEDH4
 videoId: "7b7R4zQEDH4"
+category: "Short Lesson"
 type: teaching
 duration: "14:14"
 topics:
@@ -11,6 +12,7 @@ topics:
   - identity
   - self-awareness
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7b7R4zQEDH4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

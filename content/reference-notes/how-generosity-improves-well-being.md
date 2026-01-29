@@ -2,6 +2,7 @@
 title: "How Generosity Improves Your Well-Being"
 source: https://www.youtube.com/watch?v=uP8us2NqPzg
 videoId: "uP8us2NqPzg"
+category: "Podcast Episode"
 type: teaching
 duration: "26:54"
 topics:
@@ -13,6 +14,7 @@ topics:
   - grief
   - gratitude
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uP8us2NqPzg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

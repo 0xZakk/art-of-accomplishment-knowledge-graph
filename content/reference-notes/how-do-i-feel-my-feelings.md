@@ -2,6 +2,7 @@
 title: "How Do I Feel My Feelings? (Coaching Session With Master Coach)"
 source: https://www.youtube.com/watch?v=y4ePjkg3SSY
 videoId: "y4ePjkg3SSY"
+category: "Coaching Session"
 type: coaching-session
 duration: "18:44"
 topics:
@@ -12,6 +13,7 @@ topics:
   - non-personal perspective
   - inner child
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y4ePjkg3SSY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

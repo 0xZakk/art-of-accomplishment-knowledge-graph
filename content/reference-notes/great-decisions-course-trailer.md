@@ -2,6 +2,7 @@
 title: "Great Decisions Course | Official Trailer"
 source: https://www.youtube.com/watch?v=Ao5jNp_WMpg
 videoId: "Ao5jNp_WMpg"
+category: "Podcast Episode"
 type: teaching
 duration: "1:41"
 topics:
@@ -10,6 +11,7 @@ topics:
   - fear
   - neurology
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ao5jNp_WMpg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

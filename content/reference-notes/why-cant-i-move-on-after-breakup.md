@@ -2,6 +2,7 @@
 title: "Why Can't I Move On After My Breakup? (Coaching Session With Joe Hudson)"
 source: https://www.youtube.com/watch?v=11Pbk6WyqTU
 videoId: "11Pbk6WyqTU"
+category: "Coaching Session"
 type: coaching-session
 duration: "10:32"
 topics:
@@ -11,6 +12,7 @@ topics:
   - self-love
   - forgiveness
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/11Pbk6WyqTU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "How to Love My Parents Without Becoming Their Emotional Prisoner (Coaching Session)"
 source: https://www.youtube.com/watch?v=Pjr5-19poLM
 videoId: "Pjr5-19poLM"
+category: "Coaching Session"
 type: coaching-session
 duration: "13:44"
 topics:
@@ -12,6 +13,7 @@ topics:
   - heartbreak
   - love
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pjr5-19poLM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

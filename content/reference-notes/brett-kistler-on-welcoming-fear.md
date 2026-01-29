@@ -2,6 +2,7 @@
 title: "Brett Kistler On Welcoming Fear"
 source: https://www.youtube.com/watch?v=qLsRJqYTh8A
 videoId: "qLsRJqYTh8A"
+category: "Podcast Episode"
 type: interview
 duration: "38:32"
 topics:
@@ -13,6 +14,7 @@ topics:
   - leadership
   - boundaries
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qLsRJqYTh8A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

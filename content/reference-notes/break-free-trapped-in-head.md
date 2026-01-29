@@ -2,6 +2,7 @@
 title: "How To Break Free From \"I'm Trapped In My Head\" - Coaching Breakdown"
 source: https://www.youtube.com/watch?v=XCbXt1s4omQ
 videoId: "XCbXt1s4omQ"
+category: "Coaching Session"
 type: coaching-session
 duration: "32:42"
 topics:
@@ -13,6 +14,7 @@ topics:
   - somatic-awareness
   - self-regulation
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XCbXt1s4omQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

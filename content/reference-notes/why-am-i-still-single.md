@@ -2,6 +2,7 @@
 title: "I've Done The Work. Why Am I Still Single? (Coaching with Joe Hudson)"
 source: https://www.youtube.com/watch?v=NT1kGKyBLqw
 videoId: "NT1kGKyBLqw"
+category: "Coaching Session"
 type: coaching-session
 duration: "43:51"
 topics:
@@ -14,6 +15,7 @@ topics:
   - dissolution-of-self
   - God
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NT1kGKyBLqw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

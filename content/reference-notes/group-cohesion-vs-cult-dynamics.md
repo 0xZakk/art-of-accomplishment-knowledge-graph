@@ -2,6 +2,7 @@
 title: "Group Cohesion Vs Cult Dynamics"
 source: https://www.youtube.com/watch?v=xrYIUtXX_b8
 videoId: "xrYIUtXX_b8"
+category: "Podcast Episode"
 type: interview
 duration: "23:24"
 topics:
@@ -13,6 +14,7 @@ topics:
   - community
   - internal authority
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xrYIUtXX_b8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

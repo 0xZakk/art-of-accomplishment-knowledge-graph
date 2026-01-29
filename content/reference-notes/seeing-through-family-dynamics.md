@@ -2,6 +2,7 @@
 title: "Seeing Through Family Dynamics"
 source: https://www.youtube.com/watch?v=s8J5562f22c
 videoId: "s8J5562f22c"
+category: "Podcast Episode"
 type: interview
 duration: "27:21"
 topics:
@@ -12,6 +13,7 @@ topics:
   - workplace dynamics
   - transformation
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s8J5562f22c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

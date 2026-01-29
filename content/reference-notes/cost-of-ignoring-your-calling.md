@@ -2,6 +2,7 @@
 title: "The Cost of Ignoring What You're Called to Do"
 source: https://www.youtube.com/watch?v=jo14X1Sx-2g
 videoId: "jo14X1Sx-2g"
+category: "Podcast Episode"
 type: interview
 duration: "40:12"
 topics:
@@ -13,6 +14,7 @@ topics:
   - humility
   - service
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jo14X1Sx-2g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

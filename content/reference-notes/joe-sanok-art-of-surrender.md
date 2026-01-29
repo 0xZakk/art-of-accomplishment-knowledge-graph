@@ -2,6 +2,7 @@
 title: "Joe Sanok | The Art Of Surrender"
 source: https://www.youtube.com/watch?v=PRvuGKQuFu4
 videoId: "PRvuGKQuFu4"
+category: "Guest Appearance"
 type: interview
 duration: "38:12"
 topics:
@@ -13,6 +14,7 @@ topics:
   - authenticity
   - connection
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PRvuGKQuFu4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "Connection Is Hard Until You Face Your Aloneness"
 source: https://www.youtube.com/watch?v=rJCXb4rrbew
 videoId: "rJCXb4rrbew"
+category: "Short Lesson"
 type: teaching
 duration: "11:48"
 topics:
@@ -10,6 +11,7 @@ topics:
   - authenticity
   - approval
 date: 2026-01-26
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rJCXb4rrbew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

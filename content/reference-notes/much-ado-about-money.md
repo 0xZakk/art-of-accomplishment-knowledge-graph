@@ -2,6 +2,7 @@
 title: "Much Ado About Money"
 source: https://www.youtube.com/watch?v=Cobcgld0Mbw
 videoId: "Cobcgld0Mbw"
+category: "Short Lesson"
 type: teaching
 duration: "44:24"
 topics:
@@ -12,6 +13,7 @@ topics:
   - spirituality
   - alignment
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cobcgld0Mbw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

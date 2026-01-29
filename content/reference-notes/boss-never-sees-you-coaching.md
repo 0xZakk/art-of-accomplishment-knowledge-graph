@@ -2,6 +2,7 @@
 title: "Why Your Boss Never Sees You (Even When They Try) - Follow-along Coaching Session"
 source: https://www.youtube.com/watch?v=YtrecDD6juU
 videoId: "YtrecDD6juU"
+category: "Coaching Session"
 type: coaching-session
 duration: "15:40"
 topics:
@@ -12,6 +13,7 @@ topics:
   - self-worth
   - intellectualizing
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YtrecDD6juU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

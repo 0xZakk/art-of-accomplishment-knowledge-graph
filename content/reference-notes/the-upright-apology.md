@@ -2,6 +2,7 @@
 title: "The Upright Apology"
 source: https://www.youtube.com/watch?v=fdsUsWBXHDQ
 videoId: "fdsUsWBXHDQ"
+category: "Coaching Session"
 type: teaching
 duration: "34:04"
 topics:
@@ -13,6 +14,7 @@ topics:
   - forgiveness
   - emotional-fluidity
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fdsUsWBXHDQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

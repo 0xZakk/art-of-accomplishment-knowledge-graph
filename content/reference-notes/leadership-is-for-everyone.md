@@ -2,6 +2,7 @@
 title: "Are You Avoiding Your Own Power? Leadership Is For Everyone"
 source: https://www.youtube.com/watch?v=kpnOylGntj0
 videoId: "kpnOylGntj0"
+category: "Podcast Episode"
 type: teaching
 duration: "33:41"
 topics:
@@ -13,6 +14,7 @@ topics:
   - self-development
   - inner critic
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kpnOylGntj0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

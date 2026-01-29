@@ -2,6 +2,7 @@
 title: "Your World Is A Projection"
 source: https://www.youtube.com/watch?v=Z91T3TxMc64
 videoId: "Z91T3TxMc64"
+category: "Podcast Episode"
 type: teaching
 duration: "37:47"
 topics:
@@ -12,6 +13,7 @@ topics:
   - childhood conditioning
   - freedom
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z91T3TxMc64" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

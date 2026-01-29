@@ -2,6 +2,7 @@
 title: "Why Some Families Feel Like Home & Others Feel Like an Obligation"
 source: https://www.youtube.com/watch?v=W9AkfWmbOhk
 videoId: "W9AkfWmbOhk"
+category: "Short Lesson"
 type: teaching
 duration: "6:09"
 topics:
@@ -12,6 +13,7 @@ topics:
   - management
   - connection
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W9AkfWmbOhk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

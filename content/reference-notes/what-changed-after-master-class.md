@@ -2,6 +2,7 @@
 title: "What Changed After Master Class?"
 source: https://www.youtube.com/watch?v=EkFgbzK5crU
 videoId: "EkFgbzK5crU"
+category: "Podcast Episode"
 type: interview
 duration: "60:42"
 topics:
@@ -12,6 +13,7 @@ topics:
   - authenticity
   - identity
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EkFgbzK5crU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

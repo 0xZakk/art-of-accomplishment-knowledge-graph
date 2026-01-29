@@ -2,6 +2,7 @@
 title: "How Do I Trust Myself?"
 source: https://www.youtube.com/watch?v=naEYY4PLnlQ
 videoId: "naEYY4PLnlQ"
+category: "Coaching Session"
 type: coaching-session
 duration: "40:28"
 topics:
@@ -13,6 +14,7 @@ topics:
   - vulnerability
   - intuition
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/naEYY4PLnlQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

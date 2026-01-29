@@ -2,6 +2,7 @@
 title: "Integrating A Transformative Experience"
 source: https://www.youtube.com/watch?v=Xd2TwaYi9gw
 videoId: "Xd2TwaYi9gw"
+category: "Podcast Episode"
 type: teaching
 duration: "42:19"
 topics:
@@ -12,6 +13,7 @@ topics:
   - community
   - teacher-student-relationship
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xd2TwaYi9gw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

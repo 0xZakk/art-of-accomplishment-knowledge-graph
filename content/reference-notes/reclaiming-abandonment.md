@@ -2,6 +2,7 @@
 title: "Stacy Brown-Philpot On Reclaiming Abandonment"
 source: https://www.youtube.com/watch?v=3vHT6CYPFSU
 videoId: "3vHT6CYPFSU"
+category: "Podcast Episode"
 type: interview
 duration: "36:34"
 topics:
@@ -12,6 +13,7 @@ topics:
   - compartmentalization
   - healing
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3vHT6CYPFSU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

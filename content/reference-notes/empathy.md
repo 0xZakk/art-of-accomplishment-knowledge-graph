@@ -2,6 +2,7 @@
 title: "Empathy"
 source: https://www.youtube.com/watch?v=kpL6uBEY-mo
 videoId: "kpL6uBEY-mo"
+category: "Coaching Session"
 type: teaching
 duration: "51:55"
 topics:
@@ -13,6 +14,7 @@ topics:
   - self-empathy
   - VIEW framework
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kpL6uBEY-mo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

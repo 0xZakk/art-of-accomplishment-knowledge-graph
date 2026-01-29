@@ -2,6 +2,7 @@
 title: "How To Stop Being Resentful"
 source: https://www.youtube.com/watch?v=FQY7bcS5RRE
 videoId: "FQY7bcS5RRE"
+category: "Short Lesson"
 type: teaching
 duration: "7:54"
 topics:
@@ -11,6 +12,7 @@ topics:
   - wanting
   - admiration
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FQY7bcS5RRE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

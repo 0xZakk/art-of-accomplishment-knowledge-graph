@@ -2,6 +2,7 @@
 title: "You Don't Have A Money Problem (Coaching Session with Joe Hudson)"
 source: https://www.youtube.com/watch?v=hLJnziDln6Y
 videoId: "hLJnziDln6Y"
+category: "Coaching Session"
 type: coaching-session
 duration: "17:23"
 topics:
@@ -11,6 +12,7 @@ topics:
   - self-compassion
   - freedom
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hLJnziDln6Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

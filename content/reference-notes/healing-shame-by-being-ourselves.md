@@ -2,6 +2,7 @@
 title: "Healing Shame By Being Ourselves"
 source: https://www.youtube.com/watch?v=XPGLsT6w2CE
 videoId: "XPGLsT6w2CE"
+category: "Coaching Session"
 type: coaching-session
 duration: "38:19"
 topics:
@@ -13,6 +14,7 @@ topics:
   - connection
   - parenting
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XPGLsT6w2CE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

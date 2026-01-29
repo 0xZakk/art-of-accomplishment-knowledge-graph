@@ -2,6 +2,7 @@
 title: "Introduction to VIEW"
 source: https://www.youtube.com/watch?v=zs6-RcdE48o
 videoId: "zs6-RcdE48o"
+category: "Podcast Episode"
 type: teaching
 duration: "49:04"
 topics:
@@ -15,6 +16,7 @@ topics:
   - sales
   - leadership
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zs6-RcdE48o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

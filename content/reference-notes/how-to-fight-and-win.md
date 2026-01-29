@@ -2,6 +2,7 @@
 title: "How To Fight And Win"
 source: https://www.youtube.com/watch?v=dR08XKn8dmA
 videoId: "dR08XKn8dmA"
+category: "Podcast Episode"
 type: interview
 duration: "53:25"
 topics:
@@ -12,6 +13,7 @@ topics:
   - love
   - growth
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dR08XKn8dmA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

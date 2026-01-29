@@ -2,6 +2,7 @@
 title: "How Do I Get Unstuck? (Coaching Commentary)"
 source: https://www.youtube.com/watch?v=OxWNr34Bl2w
 videoId: "OxWNr34Bl2w"
+category: "Coaching Session"
 type: coaching-session
 duration: "35:18"
 topics:
@@ -13,6 +14,7 @@ topics:
   - self-inquiry
   - coaching
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OxWNr34Bl2w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

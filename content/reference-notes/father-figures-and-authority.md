@@ -2,6 +2,7 @@
 title: "Father Figures And Authority (Coaching Session)"
 source: https://www.youtube.com/watch?v=GYzSlVw1ovg
 videoId: "GYzSlVw1ovg"
+category: "Coaching Session"
 type: coaching-session
 duration: "25:26"
 topics:
@@ -13,6 +14,7 @@ topics:
   - love
   - being-seen
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GYzSlVw1ovg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

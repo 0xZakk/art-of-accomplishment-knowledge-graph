@@ -2,6 +2,7 @@
 title: "Enjoy Over Manage"
 source: https://www.youtube.com/watch?v=SEsv-pF7BWs
 videoId: "SEsv-pF7BWs"
+category: "Podcast Episode"
 type: interview
 duration: "45:43"
 topics:
@@ -14,6 +15,7 @@ topics:
   - emotions
   - parenting
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SEsv-pF7BWs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "What Do I Offer The World?"
 source: https://www.youtube.com/watch?v=ST57QWklsDg
 videoId: "ST57QWklsDg"
+category: "Coaching Session"
 type: coaching-session
 duration: "9:13"
 topics:
@@ -11,6 +12,7 @@ topics:
   - presence
   - frameworks
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ST57QWklsDg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

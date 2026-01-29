@@ -2,6 +2,7 @@
 title: "The More Stuck You Feel, The Closer You Are To Freedom"
 source: https://www.youtube.com/watch?v=tDDztBVQ6pA
 videoId: "tDDztBVQ6pA"
+category: "Short Lesson"
 type: teaching
 duration: "8:59"
 topics:
@@ -10,6 +11,7 @@ topics:
   - decisions
   - freedom
 date: 2026-01-26
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tDDztBVQ6pA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

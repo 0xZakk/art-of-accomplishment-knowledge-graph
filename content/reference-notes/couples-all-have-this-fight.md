@@ -2,6 +2,7 @@
 title: "I've Coached 1000s of Couples. They All Have This Fight"
 source: https://www.youtube.com/watch?v=i0Ct9aDAxCM
 videoId: "i0Ct9aDAxCM"
+category: "Short Lesson"
 type: teaching
 duration: "12:06"
 topics:
@@ -11,6 +12,7 @@ topics:
   - boundaries
   - shame
 date: 2026-01-26
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i0Ct9aDAxCM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

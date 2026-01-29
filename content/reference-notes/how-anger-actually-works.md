@@ -2,6 +2,7 @@
 title: "How Anger Actually Works (It's Not How You Were Taught)"
 source: https://www.youtube.com/watch?v=wbSXl_SX2Vc
 videoId: "wbSXl_SX2Vc"
+category: "Short Lesson"
 type: teaching
 duration: "8:26"
 topics:
@@ -12,6 +13,7 @@ topics:
   - self-criticism
   - clarity
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wbSXl_SX2Vc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

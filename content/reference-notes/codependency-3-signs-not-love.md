@@ -2,6 +2,7 @@
 title: "Codependency: 3 signs it's not love"
 source: https://www.youtube.com/watch?v=f3ID9GA0FqQ
 videoId: "f3ID9GA0FqQ"
+category: "Short Lesson"
 type: teaching
 duration: "7:33"
 topics:
@@ -12,6 +13,7 @@ topics:
   - empowerment
   - relationships
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f3ID9GA0FqQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

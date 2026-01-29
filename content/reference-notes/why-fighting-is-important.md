@@ -2,6 +2,7 @@
 title: "Why Fighting Is Important"
 source: https://www.youtube.com/watch?v=RfJ_rAREQy0
 videoId: "RfJ_rAREQy0"
+category: "Short Lesson"
 type: teaching
 duration: "5:09"
 topics:
@@ -11,6 +12,7 @@ topics:
   - tension
   - growth
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RfJ_rAREQy0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

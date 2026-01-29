@@ -2,6 +2,7 @@
 title: "What To Do When You Get Triggered"
 source: https://www.youtube.com/watch?v=dArljuXtZEg
 videoId: "dArljuXtZEg"
+category: "Short Lesson"
 type: teaching
 duration: "6:37"
 topics:
@@ -11,6 +12,7 @@ topics:
   - projection
   - shame
 date: 2026-01-26
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dArljuXtZEg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

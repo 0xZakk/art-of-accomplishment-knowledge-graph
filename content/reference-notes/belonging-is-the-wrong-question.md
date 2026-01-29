@@ -2,6 +2,7 @@
 title: "\"I Don't Belong Here\" - Belonging Is The Wrong Question"
 source: https://www.youtube.com/watch?v=J_IvAx8dTQ4
 videoId: "J_IvAx8dTQ4"
+category: "Short Lesson"
 type: teaching
 duration: "8:57"
 topics:
@@ -11,6 +12,7 @@ topics:
   - self-expression
   - rejection
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J_IvAx8dTQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

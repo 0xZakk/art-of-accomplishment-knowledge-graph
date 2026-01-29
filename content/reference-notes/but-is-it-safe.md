@@ -2,6 +2,7 @@
 title: "But... Is It Safe?"
 source: https://www.youtube.com/watch?v=y0BkZ6KJ92c
 videoId: "y0BkZ6KJ92c"
+category: "Podcast Episode"
 type: interview
 duration: "25:48"
 topics:
@@ -13,6 +14,7 @@ topics:
   - limiting beliefs
   - grounded excitement
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y0BkZ6KJ92c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

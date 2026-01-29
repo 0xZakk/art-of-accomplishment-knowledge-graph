@@ -2,6 +2,7 @@
 title: "Question The Assumption"
 source: https://www.youtube.com/watch?v=OLsUvWRn7NA
 videoId: "OLsUvWRn7NA"
+category: "Podcast Episode"
 type: teaching
 duration: "38:07"
 topics:
@@ -13,6 +14,7 @@ topics:
   - healing
   - embodiment
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OLsUvWRn7NA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

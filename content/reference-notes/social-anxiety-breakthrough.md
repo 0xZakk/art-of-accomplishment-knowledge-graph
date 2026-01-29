@@ -2,6 +2,7 @@
 title: "Social Anxiety Breakthrough (Coaching Session With Joe Hudson)"
 source: https://www.youtube.com/watch?v=QoOlCC46NiE
 videoId: "QoOlCC46NiE"
+category: "Coaching Session"
 type: coaching-session
 duration: "7:42"
 topics:
@@ -11,6 +12,7 @@ topics:
   - vulnerability
   - emotions
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QoOlCC46NiE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

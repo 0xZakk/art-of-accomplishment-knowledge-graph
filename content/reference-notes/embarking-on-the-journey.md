@@ -2,6 +2,7 @@
 title: "Embarking On The Journey"
 source: https://www.youtube.com/watch?v=TONwNk_MbVk
 videoId: "TONwNk_MbVk"
+category: "Podcast Episode"
 type: teaching
 duration: "48:24"
 topics:
@@ -13,6 +14,7 @@ topics:
   - curiosity
   - resistance
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TONwNk_MbVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

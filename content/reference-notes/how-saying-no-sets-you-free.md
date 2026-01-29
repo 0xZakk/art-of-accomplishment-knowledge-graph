@@ -2,6 +2,7 @@
 title: "How Saying \"No\" Sets You Free (Coaching Reaction Video)"
 source: https://www.youtube.com/watch?v=gjggsXgyg8U
 videoId: "gjggsXgyg8U"
+category: "Coaching Session"
 type: teaching
 duration: "28:12"
 topics:
@@ -11,6 +12,7 @@ topics:
   - leadership
   - opposing-viewpoints
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gjggsXgyg8U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

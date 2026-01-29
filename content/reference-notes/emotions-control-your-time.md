@@ -2,6 +2,7 @@
 title: "Your Emotions Control Your Time (Why We Always Feel So Busy)"
 source: https://www.youtube.com/watch?v=WsCdqTZ1zXA
 videoId: "WsCdqTZ1zXA"
+category: "Podcast Episode"
 type: teaching
 duration: "33:54"
 topics:
@@ -12,6 +13,7 @@ topics:
   - productivity
   - stress
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WsCdqTZ1zXA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

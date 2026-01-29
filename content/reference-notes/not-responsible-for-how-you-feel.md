@@ -2,6 +2,7 @@
 title: "\"I'm Not Responsible For How You Feel\" (Coaching With Joe Hudson)"
 source: https://www.youtube.com/watch?v=xVXOesjPE3k
 videoId: "xVXOesjPE3k"
+category: "Coaching Session"
 type: coaching-session
 duration: "12:04"
 topics:
@@ -11,6 +12,7 @@ topics:
   - containment patterns
   - inner critic
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xVXOesjPE3k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "How Relationships Reveal Us"
 source: https://www.youtube.com/watch?v=oxfZbS86oNc
 videoId: "oxfZbS86oNc"
+category: "Podcast Episode"
 type: teaching
 duration: "46:12"
 topics:
@@ -13,6 +14,7 @@ topics:
   - personal-growth
   - mourning
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oxfZbS86oNc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

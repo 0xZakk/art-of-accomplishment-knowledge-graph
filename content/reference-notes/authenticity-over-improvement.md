@@ -2,6 +2,7 @@
 title: "Authenticity Over Improvement"
 source: https://www.youtube.com/watch?v=693BJduifCs
 videoId: "693BJduifCs"
+category: "Podcast Episode"
 type: teaching
 duration: "49:43"
 topics:
@@ -12,6 +13,7 @@ topics:
   - identity
   - goals
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/693BJduifCs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

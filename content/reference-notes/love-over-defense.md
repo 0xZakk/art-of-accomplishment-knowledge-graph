@@ -2,6 +2,7 @@
 title: "Love Over Defense"
 source: https://www.youtube.com/watch?v=kwGZXTk4wME
 videoId: "kwGZXTk4wME"
+category: "Podcast Episode"
 type: teaching
 duration: "47:40"
 topics:
@@ -14,6 +15,7 @@ topics:
   - VIEW framework
   - unconditional love
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kwGZXTk4wME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

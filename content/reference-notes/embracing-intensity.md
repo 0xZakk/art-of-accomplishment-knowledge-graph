@@ -2,6 +2,7 @@
 title: "Embracing Intensity"
 source: https://www.youtube.com/watch?v=UmGTVjKXM1M
 videoId: "UmGTVjKXM1M"
+category: "Podcast Episode"
 type: teaching
 duration: "23:55"
 topics:
@@ -13,6 +14,7 @@ topics:
   - effectiveness
   - emotional-fluidity
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UmGTVjKXM1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

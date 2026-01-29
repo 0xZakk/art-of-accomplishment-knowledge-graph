@@ -2,6 +2,7 @@
 title: "Emile DeWeaver"
 source: https://www.youtube.com/watch?v=7pYenYrgJFM
 videoId: "7pYenYrgJFM"
+category: "Guest Appearance"
 type: interview
 duration: "48:54"
 topics:
@@ -14,6 +15,7 @@ topics:
   - healing
   - accountability
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7pYenYrgJFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

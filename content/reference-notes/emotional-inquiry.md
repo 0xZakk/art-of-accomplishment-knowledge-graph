@@ -2,6 +2,7 @@
 title: "Emotional Inquiry"
 source: https://www.youtube.com/watch?v=VvTZpl9GPsI
 videoId: "VvTZpl9GPsI"
+category: "Short Lesson"
 type: teaching
 duration: "28:03"
 topics:
@@ -11,6 +12,7 @@ topics:
   - embodiment
   - self-discovery
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VvTZpl9GPsI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

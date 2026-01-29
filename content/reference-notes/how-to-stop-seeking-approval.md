@@ -2,6 +2,7 @@
 title: "How To Stop Seeking Approval"
 source: https://www.youtube.com/watch?v=92VTkwhxzrc
 videoId: "92VTkwhxzrc"
+category: "Podcast Episode"
 type: teaching
 duration: "28:37"
 topics:
@@ -12,6 +13,7 @@ topics:
   - courage
   - identity
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/92VTkwhxzrc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

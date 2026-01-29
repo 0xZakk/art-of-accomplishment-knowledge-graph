@@ -2,6 +2,7 @@
 title: "Listening"
 source: https://www.youtube.com/watch?v=YqW0ltFgvF4
 videoId: "YqW0ltFgvF4"
+category: "Coaching Session"
 type: teaching
 duration: "35:03"
 topics:
@@ -13,6 +14,7 @@ topics:
   - non-management
   - embodiment
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YqW0ltFgvF4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

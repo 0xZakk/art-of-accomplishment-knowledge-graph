@@ -2,6 +2,7 @@
 title: "Making the Most of Uncertain Times"
 source: https://www.youtube.com/watch?v=JRz3Nnu-MJI
 videoId: "JRz3Nnu-MJI"
+category: "Podcast Episode"
 type: teaching
 duration: "37:52"
 topics:
@@ -11,6 +12,7 @@ topics:
   - emotions
   - presence
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JRz3Nnu-MJI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

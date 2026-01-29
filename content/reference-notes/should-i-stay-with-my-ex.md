@@ -2,6 +2,7 @@
 title: "Should I Stay With My Ex?"
 source: https://www.youtube.com/watch?v=MNJAiGoDdPU
 videoId: "MNJAiGoDdPU"
+category: "Coaching Session"
 type: coaching-session
 duration: "9:56"
 topics:
@@ -12,6 +13,7 @@ topics:
   - codependence
   - joy
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MNJAiGoDdPU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

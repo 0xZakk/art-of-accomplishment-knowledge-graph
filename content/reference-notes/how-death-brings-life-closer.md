@@ -2,6 +2,7 @@
 title: "How Death Brings Life Closer"
 source: https://www.youtube.com/watch?v=NVhWaCX5YIw
 videoId: "NVhWaCX5YIw"
+category: "Podcast Episode"
 type: teaching
 duration: "28:06"
 topics:
@@ -12,6 +13,7 @@ topics:
   - freedom
   - ego dissolution
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NVhWaCX5YIw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

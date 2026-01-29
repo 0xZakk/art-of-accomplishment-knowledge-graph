@@ -2,6 +2,7 @@
 title: "Speaking Authentically With Tristan de Montebello"
 source: https://www.youtube.com/watch?v=Wq2VpnrgSpw
 videoId: "Wq2VpnrgSpw"
+category: "Podcast Episode"
 type: interview
 duration: "43:32"
 topics:
@@ -14,6 +15,7 @@ topics:
   - coaching
   - community
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wq2VpnrgSpw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

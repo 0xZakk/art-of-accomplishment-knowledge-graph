@@ -2,6 +2,7 @@
 title: "Addressing Conflict Avoidance Finding Connection In Disagreement"
 source: https://www.youtube.com/watch?v=1bnKoQtX7A8
 videoId: "1bnKoQtX7A8"
+category: "Short Lesson"
 type: teaching
 duration: "36:44"
 topics:
@@ -12,6 +13,7 @@ topics:
   - anger
   - connection
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1bnKoQtX7A8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

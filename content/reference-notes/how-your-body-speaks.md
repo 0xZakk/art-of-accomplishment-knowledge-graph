@@ -2,6 +2,7 @@
 title: "How Your Body Speaks"
 source: https://www.youtube.com/watch?v=jvYogQgiHMM
 videoId: "jvYogQgiHMM"
+category: "Podcast Episode"
 type: teaching
 duration: "41:41"
 topics:
@@ -12,6 +13,7 @@ topics:
   - creativity
   - leadership
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jvYogQgiHMM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

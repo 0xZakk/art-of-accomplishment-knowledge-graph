@@ -2,6 +2,7 @@
 title: "Fear Of Overworking"
 source: https://www.youtube.com/watch?v=OmjVohrDcuU
 videoId: "OmjVohrDcuU"
+category: "Coaching Session"
 type: coaching-session
 duration: "4:47"
 topics:
@@ -11,6 +12,7 @@ topics:
   - burnout
   - self-trust
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OmjVohrDcuU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

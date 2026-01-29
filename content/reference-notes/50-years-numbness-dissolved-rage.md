@@ -2,6 +2,7 @@
 title: "50 Years of Numbness Dissolved in 15Mins of Rage"
 source: https://www.youtube.com/watch?v=Xrev7lM7sKU
 videoId: "Xrev7lM7sKU"
+category: "Coaching Session"
 type: coaching-session
 duration: "14:46"
 topics:
@@ -14,6 +15,7 @@ topics:
   - numbness
   - aliveness
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xrev7lM7sKU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "Why Can't I Get My Business Off The Ground? (Coaching With Joe Hudson)"
 source: https://www.youtube.com/watch?v=VrhdLFQsy3g
 videoId: "VrhdLFQsy3g"
+category: "Coaching Session"
 type: coaching-session
 duration: "11:11"
 topics:
@@ -12,6 +13,7 @@ topics:
   - embodiment
   - entrepreneurship
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VrhdLFQsy3g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

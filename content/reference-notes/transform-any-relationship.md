@@ -2,6 +2,7 @@
 title: "How To Transform Any Relationship (Complete Toolkit For Healthy Relationships)"
 source: https://www.youtube.com/watch?v=WrRwKCXdTZQ
 videoId: "WrRwKCXdTZQ"
+category: "Podcast Episode"
 type: teaching
 duration: "108:26"
 topics:
@@ -18,6 +19,7 @@ topics:
   - passive-aggression
   - shame
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WrRwKCXdTZQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

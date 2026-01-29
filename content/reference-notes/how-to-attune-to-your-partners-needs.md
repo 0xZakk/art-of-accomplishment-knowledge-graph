@@ -2,6 +2,7 @@
 title: "How To Attune To Your Partner's Needs"
 source: https://www.youtube.com/watch?v=ysCCOPemUO8
 videoId: "ysCCOPemUO8"
+category: "Short Lesson"
 type: teaching
 duration: "5:06"
 topics:
@@ -11,6 +12,7 @@ topics:
   - communication
   - caretaking
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ysCCOPemUO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

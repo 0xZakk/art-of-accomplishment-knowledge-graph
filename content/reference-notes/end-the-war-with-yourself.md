@@ -2,6 +2,7 @@
 title: "The Art of Accomplishment: End The War With Yourself"
 source: https://www.youtube.com/watch?v=m6H6zeiUV6E
 videoId: "m6H6zeiUV6E"
+category: "Podcast Episode"
 type: teaching
 duration: "8:46"
 topics:
@@ -11,6 +12,7 @@ topics:
   - stress
   - self-understanding
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m6H6zeiUV6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

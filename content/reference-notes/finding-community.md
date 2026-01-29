@@ -2,6 +2,7 @@
 title: "Finding Community"
 source: https://www.youtube.com/watch?v=aurxR6UEo2U
 videoId: "aurxR6UEo2U"
+category: "Short Lesson"
 type: teaching
 duration: "33:44"
 topics:
@@ -11,6 +12,7 @@ topics:
   - loneliness
   - connection
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aurxR6UEo2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

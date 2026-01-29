@@ -2,6 +2,7 @@
 title: "A Workshop For Welcoming Fear"
 source: https://www.youtube.com/watch?v=DLMal_PaRbw
 videoId: "DLMal_PaRbw"
+category: "Podcast Episode"
 type: interview
 duration: "41:46"
 topics:
@@ -12,6 +13,7 @@ topics:
   - group-dynamics
   - retreats
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DLMal_PaRbw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "Wonder"
 source: https://www.youtube.com/watch?v=Oti8_SnZQCk
 videoId: "Oti8_SnZQCk"
+category: "Podcast Episode"
 type: teaching
 duration: "52:43"
 topics:
@@ -13,6 +14,7 @@ topics:
   - business
   - knowing
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oti8_SnZQCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

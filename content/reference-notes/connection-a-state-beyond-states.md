@@ -2,6 +2,7 @@
 title: "Connection: A State Beyond States"
 source: https://www.youtube.com/watch?v=ZUPe21SRBLY
 videoId: "ZUPe21SRBLY"
+category: "Coaching Session"
 type: teaching
 duration: "42:05"
 topics:
@@ -12,6 +13,7 @@ topics:
   - gratitude
   - vulnerability
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZUPe21SRBLY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

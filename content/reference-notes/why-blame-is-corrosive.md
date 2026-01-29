@@ -2,6 +2,7 @@
 title: "Why Blame Is So Corrosive"
 source: https://www.youtube.com/watch?v=ZCqSiaQGGCo
 videoId: "ZCqSiaQGGCo"
+category: "Short Lesson"
 type: teaching
 duration: "8:09"
 topics:
@@ -11,6 +12,7 @@ topics:
   - accountability
   - emotional-healing
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZCqSiaQGGCo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

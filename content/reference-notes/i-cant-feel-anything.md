@@ -2,6 +2,7 @@
 title: "I Can't Feel Anything (Coaching Session With Master Coach)"
 source: https://www.youtube.com/watch?v=0UxOxlLv02Y
 videoId: "0UxOxlLv02Y"
+category: "Coaching Session"
 type: coaching-session
 duration: "13:06"
 topics:
@@ -11,6 +12,7 @@ topics:
   - embodiment
   - loss
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0UxOxlLv02Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

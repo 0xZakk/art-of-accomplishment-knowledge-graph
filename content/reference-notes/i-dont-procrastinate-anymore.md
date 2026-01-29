@@ -2,6 +2,7 @@
 title: "I Don't Procrastinate Anymore - Here's What Changed (Joe Hudson)"
 source: https://www.youtube.com/watch?v=Qrw4jBtKJqg
 videoId: "Qrw4jBtKJqg"
+category: "Podcast Episode"
 type: teaching
 duration: "32:01"
 topics:
@@ -13,6 +14,7 @@ topics:
   - creativity
   - self-trust
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qrw4jBtKJqg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "Why You Still Feel Alone (Coaching with Joe)"
 source: https://www.youtube.com/watch?v=clHzKiXakGc
 videoId: "clHzKiXakGc"
+category: "Coaching Session"
 type: coaching-session
 duration: "13:18"
 topics:
@@ -12,6 +13,7 @@ topics:
   - support
   - protection
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/clHzKiXakGc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "How To Get Unstuck"
 source: https://www.youtube.com/watch?v=qgs92uSZuzw
 videoId: "qgs92uSZuzw"
+category: "Coaching Session"
 type: teaching
 duration: "35:12"
 topics:
@@ -13,6 +14,7 @@ topics:
   - oppression
   - liminal-space
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qgs92uSZuzw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

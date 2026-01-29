@@ -2,6 +2,7 @@
 title: "Why You Can't Stop Trying So Hard (Coaching Session With Joe Hudson)"
 source: https://www.youtube.com/watch?v=tww4hgGFqj8
 videoId: "tww4hgGFqj8"
+category: "Coaching Session"
 type: coaching-session
 duration: "10:57"
 topics:
@@ -11,6 +12,7 @@ topics:
   - authenticity
   - masks
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tww4hgGFqj8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

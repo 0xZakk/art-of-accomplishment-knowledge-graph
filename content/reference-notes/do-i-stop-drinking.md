@@ -2,6 +2,7 @@
 title: "Do I Stop Drinking?"
 source: https://www.youtube.com/watch?v=w-JLH9yy-08
 videoId: "w-JLH9yy-08"
+category: "Coaching Session"
 type: coaching-session
 duration: "7:58"
 topics:
@@ -11,6 +12,7 @@ topics:
   - rebellion
   - drinking
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-JLH9yy-08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

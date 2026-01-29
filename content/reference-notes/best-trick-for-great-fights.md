@@ -2,6 +2,7 @@
 title: "The Best Trick For Having Great Fights In Relationship"
 source: https://www.youtube.com/watch?v=OankJ5L8HfE
 videoId: "OankJ5L8HfE"
+category: "Short Lesson"
 type: teaching
 duration: "5:04"
 topics:
@@ -10,6 +11,7 @@ topics:
   - agreements
   - vulnerability
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OankJ5L8HfE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

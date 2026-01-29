@@ -2,6 +2,7 @@
 title: "Pleasure"
 source: https://www.youtube.com/watch?v=u0lUteRXC0c
 videoId: "u0lUteRXC0c"
+category: "Podcast Episode"
 type: teaching
 duration: "43:27"
 topics:
@@ -12,6 +13,7 @@ topics:
   - gratitude
   - embodiment
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u0lUteRXC0c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

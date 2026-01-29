@@ -2,6 +2,7 @@
 title: "Triggered!"
 source: https://www.youtube.com/watch?v=ncKimBGih1Y
 videoId: "ncKimBGih1Y"
+category: "Podcast Episode"
 type: teaching
 duration: "55:07"
 topics:
@@ -13,6 +14,7 @@ topics:
   - emotional-awareness
   - conflict
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ncKimBGih1Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

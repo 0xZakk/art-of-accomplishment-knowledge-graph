@@ -2,6 +2,7 @@
 title: "Passive Aggression"
 source: https://www.youtube.com/watch?v=aNM9_vpG2Vk
 videoId: "aNM9_vpG2Vk"
+category: "Coaching Session"
 type: teaching
 duration: "47:22"
 topics:
@@ -12,6 +13,7 @@ topics:
   - fear-triangle
   - communication
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aNM9_vpG2Vk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

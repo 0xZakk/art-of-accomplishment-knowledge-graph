@@ -2,6 +2,7 @@
 title: "How Do I Find My Purpose?"
 source: https://www.youtube.com/watch?v=gP69k4BGjqI
 videoId: "gP69k4BGjqI"
+category: "Coaching Session"
 type: coaching-session
 duration: "5:51"
 topics:
@@ -11,6 +12,7 @@ topics:
   - somatic-experience
   - searching
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gP69k4BGjqI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

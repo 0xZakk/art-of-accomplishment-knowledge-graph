@@ -2,6 +2,7 @@
 title: "The Boy Who Taught Me Truth"
 source: https://www.youtube.com/watch?v=g31--LpbDMc
 videoId: "g31--LpbDMc"
+category: "Short Lesson"
 type: teaching
 duration: "2:33"
 topics:
@@ -10,6 +11,7 @@ topics:
   - honesty
   - courage
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g31--LpbDMc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

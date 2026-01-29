@@ -2,6 +2,7 @@
 title: "You Won't Find Your Purpose By Searching For It"
 source: https://www.youtube.com/watch?v=jQ_r0iJKCtk
 videoId: "jQ_r0iJKCtk"
+category: "Short Lesson"
 type: teaching
 duration: "9:05"
 topics:
@@ -10,6 +11,7 @@ topics:
   - fulfillment
   - career
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jQ_r0iJKCtk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

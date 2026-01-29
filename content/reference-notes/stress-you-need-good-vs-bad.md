@@ -2,6 +2,7 @@
 title: "You Need The Stress You Hate (Good vs Bad Stress Explained)"
 source: https://www.youtube.com/watch?v=RNa6x_toR0w
 videoId: "RNa6x_toR0w"
+category: "Short Lesson"
 type: teaching
 duration: "11:50"
 topics:
@@ -11,6 +12,7 @@ topics:
   - self-awareness
   - emotional-release
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RNa6x_toR0w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "When The Story Falls Apart"
 source: https://www.youtube.com/watch?v=yf5RaRdxIbY
 videoId: "yf5RaRdxIbY"
+category: "Podcast Episode"
 type: teaching
 duration: "34:59"
 topics:
@@ -12,6 +13,7 @@ topics:
   - limiting beliefs
   - awakening
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yf5RaRdxIbY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

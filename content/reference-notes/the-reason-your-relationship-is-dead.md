@@ -2,6 +2,7 @@
 title: "The Reason Your Relationship Is Dead"
 source: https://www.youtube.com/watch?v=fXBsHnf-ntk
 videoId: "fXBsHnf-ntk"
+category: "Short Lesson"
 type: teaching
 duration: "3:32"
 topics:
@@ -11,6 +12,7 @@ topics:
   - intimacy
   - communication
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fXBsHnf-ntk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

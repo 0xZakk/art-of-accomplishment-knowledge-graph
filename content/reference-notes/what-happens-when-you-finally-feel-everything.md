@@ -2,6 +2,7 @@
 title: "What Happens When You Finally Feel Everything"
 source: https://www.youtube.com/watch?v=mYnRHhSI-zw
 videoId: "mYnRHhSI-zw"
+category: "Guest Appearance"
 type: interview
 duration: "43:19"
 topics:
@@ -14,6 +15,7 @@ topics:
   - identity dissolution
   - leadership
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mYnRHhSI-zw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

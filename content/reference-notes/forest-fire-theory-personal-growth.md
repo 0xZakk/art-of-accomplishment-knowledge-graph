@@ -2,6 +2,7 @@
 title: "The Forest Fire Theory of Personal Growth - Why Chaos Is Good For You"
 source: https://www.youtube.com/watch?v=eIXE_JdkWPE
 videoId: "eIXE_JdkWPE"
+category: "Short Lesson"
 type: teaching
 duration: "9:59"
 topics:
@@ -12,6 +13,7 @@ topics:
   - opportunity
   - resilience
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eIXE_JdkWPE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

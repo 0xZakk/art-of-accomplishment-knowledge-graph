@@ -2,6 +2,7 @@
 title: "End Toxic Relationship Patterns (The Internal Voice Fix)"
 source: https://www.youtube.com/watch?v=oLFCDLgyzZc
 videoId: "oLFCDLgyzZc"
+category: "Short Lesson"
 type: teaching
 duration: "9:42"
 topics:
@@ -11,6 +12,7 @@ topics:
   - boundaries
   - healing
 date: 2026-01-26
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oLFCDLgyzZc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

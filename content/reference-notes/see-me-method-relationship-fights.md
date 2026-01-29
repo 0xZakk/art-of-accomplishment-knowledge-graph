@@ -2,6 +2,7 @@
 title: "Stop Relationship Fights in 10 Minutes — 'See Me' Method"
 source: https://www.youtube.com/watch?v=SXmgzT4wfNA
 videoId: "SXmgzT4wfNA"
+category: "Short Lesson"
 type: teaching
 duration: "4:54"
 topics:
@@ -11,6 +12,7 @@ topics:
   - connection
   - truth
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SXmgzT4wfNA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

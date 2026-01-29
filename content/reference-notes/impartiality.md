@@ -2,6 +2,7 @@
 title: "Impartiality"
 source: https://www.youtube.com/watch?v=nYdRg7MmKMQ
 videoId: "nYdRg7MmKMQ"
+category: "Podcast Episode"
 type: teaching
 duration: "51:27"
 topics:
@@ -14,6 +15,7 @@ topics:
   - wants
   - sales
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nYdRg7MmKMQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

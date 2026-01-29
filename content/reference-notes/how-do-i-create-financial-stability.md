@@ -2,6 +2,7 @@
 title: "How Do I Create Financial Stability?"
 source: https://www.youtube.com/watch?v=tUADE9gqiPs
 videoId: "tUADE9gqiPs"
+category: "Coaching Session"
 type: coaching-session
 duration: "6:51"
 topics:
@@ -10,6 +11,7 @@ topics:
   - projection
   - abundance
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tUADE9gqiPs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

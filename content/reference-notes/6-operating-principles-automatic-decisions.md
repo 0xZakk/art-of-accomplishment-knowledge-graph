@@ -2,6 +2,7 @@
 title: "6 Operating Principles That Make 80% of Decisions Automatic"
 source: https://www.youtube.com/watch?v=nFxaYD55DvY
 videoId: "nFxaYD55DvY"
+category: "Podcast Episode"
 type: interview
 duration: "48:54"
 topics:
@@ -13,6 +14,7 @@ topics:
   - AI
   - emotional-clarity
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nFxaYD55DvY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "Joe And His Daughter Discuss Fatherhood"
 source: https://www.youtube.com/watch?v=IBvPVu7bigk
 videoId: "IBvPVu7bigk"
+category: "Podcast Episode"
 type: interview
 duration: "22:48"
 topics:
@@ -12,6 +13,7 @@ topics:
   - childhood
   - community
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IBvPVu7bigk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

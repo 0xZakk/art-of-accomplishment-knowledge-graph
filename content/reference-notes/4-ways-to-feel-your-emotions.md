@@ -2,6 +2,7 @@
 title: "4 Ways To Feel Your Emotions"
 source: https://www.youtube.com/watch?v=uu1gmUlb-kY
 videoId: "uu1gmUlb-kY"
+category: "Short Lesson"
 type: teaching
 duration: "9:16"
 topics:
@@ -11,6 +12,7 @@ topics:
   - emotional-expression
   - self-awareness
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uu1gmUlb-kY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

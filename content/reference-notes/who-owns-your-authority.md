@@ -2,6 +2,7 @@
 title: "Who Owns Your Authority?"
 source: https://www.youtube.com/watch?v=vh_AV3JcoSE
 videoId: "vh_AV3JcoSE"
+category: "Podcast Episode"
 type: teaching
 duration: "47:37"
 topics:
@@ -13,6 +14,7 @@ topics:
   - parenting
   - self-trust
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vh_AV3JcoSE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

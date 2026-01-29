@@ -2,6 +2,7 @@
 title: "How to Break Free From Overthinking"
 source: https://www.youtube.com/watch?v=cU1xoqllVps
 videoId: "cU1xoqllVps"
+category: "Short Lesson"
 type: teaching
 duration: "9:14"
 topics:
@@ -10,6 +11,7 @@ topics:
   - self-compassion
   - awareness
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cU1xoqllVps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

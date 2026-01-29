@@ -4,6 +4,7 @@ source: https://www.youtube.com/watch?v=zDUTPSvIoNg
 videoId: "zDUTPSvIoNg"
 type: coaching-session
 duration: "9:12"
+category: "Coaching Session"
 topics:
   - commitment
   - self-abandonment

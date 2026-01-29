@@ -2,6 +2,7 @@
 title: "8 Seconds of Oneness — Joe Hudson's Story (Part II)"
 source: https://www.youtube.com/watch?v=5G6bbjSJdjA
 videoId: "5G6bbjSJdjA"
+category: "Podcast Episode"
 type: interview
 duration: "28:02"
 topics:
@@ -11,6 +12,7 @@ topics:
   - self-discovery
   - spiritual-development
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5G6bbjSJdjA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

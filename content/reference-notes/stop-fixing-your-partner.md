@@ -2,6 +2,7 @@
 title: "Stop Fixing Your Partner - It's Killing the Relationship"
 source: https://www.youtube.com/watch?v=HmrmQk9t7vc
 videoId: "HmrmQk9t7vc"
+category: "Short Lesson"
 type: teaching
 duration: "5:25"
 topics:
@@ -11,6 +12,7 @@ topics:
   - boundaries
   - emotional-responsibility
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HmrmQk9t7vc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

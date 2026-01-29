@@ -2,6 +2,7 @@
 title: "Gratitude"
 source: https://www.youtube.com/watch?v=Nwh2AVkBa_8
 videoId: "Nwh2AVkBa_8"
+category: "Short Lesson"
 type: teaching
 duration: "57:18"
 topics:
@@ -13,6 +14,7 @@ topics:
   - emotional fluidity
   - business culture
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nwh2AVkBa_8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

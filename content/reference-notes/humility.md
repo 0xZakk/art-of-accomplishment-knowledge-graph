@@ -2,6 +2,7 @@
 title: "Humility"
 source: https://www.youtube.com/watch?v=i8eeVHt6_wA
 videoId: "i8eeVHt6_wA"
+category: "Podcast Episode"
 type: teaching
 duration: "50:03"
 topics:
@@ -12,6 +13,7 @@ topics:
   - self-promotion
   - calling
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i8eeVHt6_wA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "What's Beneath Your Fear Of Being Seen? (Coaching Session With Joe Hudson)"
 source: https://www.youtube.com/watch?v=seZPqPtV3nI
 videoId: "seZPqPtV3nI"
+category: "Coaching Session"
 type: coaching-session
 duration: "18:35"
 topics:
@@ -12,6 +13,7 @@ topics:
   - speaking truth
   - self-harm
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/seZPqPtV3nI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

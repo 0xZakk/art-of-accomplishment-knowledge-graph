@@ -2,6 +2,7 @@
 title: "The 1 Emotional Processing Technique Everyone Should Do"
 source: https://www.youtube.com/watch?v=EOzYU0FtovY
 videoId: "EOzYU0FtovY"
+category: "Short Lesson"
 type: teaching
 duration: "17:00"
 topics:
@@ -11,6 +12,7 @@ topics:
   - curiosity
   - self-awareness
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EOzYU0FtovY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

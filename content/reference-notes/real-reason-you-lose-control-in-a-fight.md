@@ -2,6 +2,7 @@
 title: "The Real Reason You Lose Control In A Fight"
 source: https://www.youtube.com/watch?v=MCVLh4tlDJE
 videoId: "MCVLh4tlDJE"
+category: "Short Lesson"
 type: teaching
 duration: "6:17"
 topics:
@@ -11,6 +12,7 @@ topics:
   - nervous-system
   - healing
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MCVLh4tlDJE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

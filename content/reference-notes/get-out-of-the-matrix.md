@@ -2,6 +2,7 @@
 title: "How To Get Out Of The Matrix - Break Through Emotional Patterns"
 source: https://www.youtube.com/watch?v=s61p2b-lKEc
 videoId: "s61p2b-lKEc"
+category: "Short Lesson"
 type: teaching
 duration: "9:25"
 topics:
@@ -10,6 +11,7 @@ topics:
   - welcoming-emotions
   - self-regulation
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s61p2b-lKEc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

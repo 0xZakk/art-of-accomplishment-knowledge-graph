@@ -2,6 +2,7 @@
 title: "The Business Behind Our Courses"
 source: https://www.youtube.com/watch?v=g-olq09j3Aw
 videoId: "g-olq09j3Aw"
+category: "Podcast Episode"
 type: interview
 duration: "28:46"
 topics:
@@ -13,6 +14,7 @@ topics:
   - intellectual-property
   - scaling
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g-olq09j3Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "The Opposite Of Trying"
 source: https://www.youtube.com/watch?v=Niq2M2fbncs
 videoId: "Niq2M2fbncs"
+category: "Podcast Episode"
 type: teaching
 duration: "34:59"
 topics:
@@ -15,6 +16,7 @@ topics:
   - authenticity
   - joy
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Niq2M2fbncs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

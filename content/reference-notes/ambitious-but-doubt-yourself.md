@@ -2,6 +2,7 @@
 title: "If You're Ambitious But Constantly Doubt Yourself"
 source: https://www.youtube.com/watch?v=lMVHl8CIhzI
 videoId: "lMVHl8CIhzI"
+category: "Short Lesson"
 type: teaching
 duration: "15:52"
 topics:
@@ -13,6 +14,7 @@ topics:
   - open-heart
   - emotional-inquiry
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lMVHl8CIhzI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

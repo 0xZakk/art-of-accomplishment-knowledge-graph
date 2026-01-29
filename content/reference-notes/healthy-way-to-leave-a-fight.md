@@ -2,6 +2,7 @@
 title: "The Healthy Way To Leave A Fight"
 source: https://www.youtube.com/watch?v=WTvtx07zNmg
 videoId: "WTvtx07zNmg"
+category: "Short Lesson"
 type: teaching
 duration: "4:21"
 topics:
@@ -11,6 +12,7 @@ topics:
   - nervous-system
   - communication
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WTvtx07zNmg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

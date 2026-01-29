@@ -2,6 +2,7 @@
 title: "Building A Dysfunctional Team"
 source: https://www.youtube.com/watch?v=H7nc1y8ijKg
 videoId: "H7nc1y8ijKg"
+category: "Podcast Episode"
 type: teaching
 duration: "32:55"
 topics:
@@ -12,6 +13,7 @@ topics:
   - conflict
   - organizational-culture
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H7nc1y8ijKg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

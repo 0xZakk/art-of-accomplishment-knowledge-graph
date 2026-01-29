@@ -2,6 +2,7 @@
 title: "How To Know If You Are In An Emotionally Abusive Relationship"
 source: https://www.youtube.com/watch?v=RQkbFUQM_g0
 videoId: "RQkbFUQM_g0"
+category: "Short Lesson"
 type: teaching
 duration: "5:13"
 topics:
@@ -11,6 +12,7 @@ topics:
   - boundaries
   - conflict
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RQkbFUQM_g0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

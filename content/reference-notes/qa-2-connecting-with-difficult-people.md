@@ -2,6 +2,7 @@
 title: "Q&A #2 - Connecting with Difficult People, and More"
 source: https://www.youtube.com/watch?v=E56A-SKV9sg
 videoId: "E56A-SKV9sg"
+category: "Podcast Episode"
 type: teaching
 duration: "41:51"
 topics:
@@ -13,6 +14,7 @@ topics:
   - authenticity
   - listening
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E56A-SKV9sg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

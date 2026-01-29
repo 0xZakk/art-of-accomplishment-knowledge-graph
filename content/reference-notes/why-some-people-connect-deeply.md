@@ -2,6 +2,7 @@
 title: "Why Some People Connect Deeply and Others Don't (Coaches' Perspective)"
 source: https://www.youtube.com/watch?v=lFlbV4TmAc4
 videoId: "lFlbV4TmAc4"
+category: "Podcast Episode"
 type: teaching
 duration: "34:06"
 topics:
@@ -13,6 +14,7 @@ topics:
   - leadership
   - self-awareness
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lFlbV4TmAc4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

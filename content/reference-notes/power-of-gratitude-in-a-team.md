@@ -2,6 +2,7 @@
 title: "The Power Of Gratitude In A Team"
 source: https://www.youtube.com/watch?v=4551ILzvs7Y
 videoId: "4551ILzvs7Y"
+category: "Podcast Episode"
 type: teaching
 duration: "11:12"
 topics:
@@ -11,6 +12,7 @@ topics:
   - problem-solving
   - negativity-bias
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4551ILzvs7Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

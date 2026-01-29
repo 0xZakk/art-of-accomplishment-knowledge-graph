@@ -2,6 +2,7 @@
 title: "How to Be a Parent (Without Messing Everything Up) | Guest Episode with Nathan Baschez"
 source: https://www.youtube.com/watch?v=8WUi8y1vxbk
 videoId: "8WUi8y1vxbk"
+category: "Podcast Episode"
 type: interview
 duration: "36:08"
 topics:
@@ -12,6 +13,7 @@ topics:
   - child-development
   - self-development
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8WUi8y1vxbk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

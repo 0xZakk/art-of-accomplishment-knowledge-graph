@@ -2,6 +2,7 @@
 title: "The Self-Discovery Of A Navy SEAL"
 source: https://www.youtube.com/watch?v=vwyn1CLTlvo
 videoId: "vwyn1CLTlvo"
+category: "Podcast Episode"
 type: interview
 duration: "43:22"
 topics:
@@ -15,6 +16,7 @@ topics:
   - purpose
   - military
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vwyn1CLTlvo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

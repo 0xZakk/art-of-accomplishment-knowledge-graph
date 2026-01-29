@@ -2,6 +2,7 @@
 title: "3 reasons you are poor"
 source: https://www.youtube.com/watch?v=-qFZp77tIFg
 videoId: "-qFZp77tIFg"
+category: "Short Lesson"
 type: teaching
 duration: "8:28"
 topics:
@@ -11,6 +12,7 @@ topics:
   - gratitude
   - alignment
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-qFZp77tIFg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

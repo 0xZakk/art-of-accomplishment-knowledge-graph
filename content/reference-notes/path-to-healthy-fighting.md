@@ -2,6 +2,7 @@
 title: "The Path To Healthy Fighting"
 source: https://www.youtube.com/watch?v=RePuSgxdiYw
 videoId: "RePuSgxdiYw"
+category: "Short Lesson"
 type: teaching
 duration: "13:12"
 topics:
@@ -13,6 +14,7 @@ topics:
   - resentment
   - parenting
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RePuSgxdiYw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

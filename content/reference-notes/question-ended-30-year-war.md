@@ -2,6 +2,7 @@
 title: "The Question That Ended Her 30-Year War With Herself (Coaching With Joe Hudson)"
 source: https://www.youtube.com/watch?v=gKUdfy7fOAg
 videoId: "gKUdfy7fOAg"
+category: "Coaching Session"
 type: coaching-session
 duration: "10:24"
 topics:
@@ -11,6 +12,7 @@ topics:
   - love
   - resistance
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gKUdfy7fOAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

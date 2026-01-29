@@ -2,6 +2,7 @@
 title: "How To Break Free From Beliefs That Keep You Small"
 source: https://www.youtube.com/watch?v=_hXTA6CU09Q
 videoId: "_hXTA6CU09Q"
+category: "Short Lesson"
 type: teaching
 duration: "8:23"
 topics:
@@ -10,6 +11,7 @@ topics:
   - fear
   - growth
 date: 2026-01-26
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_hXTA6CU09Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

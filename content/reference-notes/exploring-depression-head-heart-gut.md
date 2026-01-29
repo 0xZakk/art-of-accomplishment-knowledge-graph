@@ -2,6 +2,7 @@
 title: "Exploring Depression in the Head, Heart, and Gut"
 source: https://www.youtube.com/watch?v=KeZ6TJAEjro
 videoId: "KeZ6TJAEjro"
+category: "Coaching Session"
 type: teaching
 duration: "38:41"
 topics:
@@ -12,6 +13,7 @@ topics:
   - self-talk
   - connection
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KeZ6TJAEjro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

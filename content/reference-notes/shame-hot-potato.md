@@ -2,6 +2,7 @@
 title: "The Shame Hot Potato"
 source: https://www.youtube.com/watch?v=Ru-9xpWh8Y0
 videoId: "Ru-9xpWh8Y0"
+category: "Short Lesson"
 type: teaching
 duration: "32:28"
 topics:
@@ -12,6 +13,7 @@ topics:
   - defensiveness
   - blame
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ru-9xpWh8Y0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

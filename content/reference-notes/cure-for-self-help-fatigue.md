@@ -2,6 +2,7 @@
 title: "The Cure for Self-Help Fatigue"
 source: https://www.youtube.com/watch?v=wVslfrWUT2U
 videoId: "wVslfrWUT2U"
+category: "Short Lesson"
 type: teaching
 duration: "6:23"
 topics:
@@ -11,6 +12,7 @@ topics:
   - transformation
   - embodiment
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wVslfrWUT2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

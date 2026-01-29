@@ -2,6 +2,7 @@
 title: "Watch her 2-year Relationship Paralysis dissolve in 9 mins (Coaching with Joe)"
 source: https://www.youtube.com/watch?v=YP-k5RSH6ok
 videoId: "YP-k5RSH6ok"
+category: "Coaching Session"
 type: coaching-session
 duration: "9:36"
 topics:
@@ -12,6 +13,7 @@ topics:
   - anger
   - heartbreak
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YP-k5RSH6ok" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

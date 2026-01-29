@@ -2,6 +2,7 @@
 title: "I Can't Get Over My Ex"
 source: https://www.youtube.com/watch?v=I94-r5A-v80
 videoId: "I94-r5A-v80"
+category: "Coaching Session"
 type: coaching-session
 duration: "16:54"
 topics:
@@ -12,6 +13,7 @@ topics:
   - connection
   - emotions
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I94-r5A-v80" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

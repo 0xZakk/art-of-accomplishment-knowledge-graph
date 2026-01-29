@@ -4,6 +4,7 @@ source: https://www.youtube.com/watch?v=Jj_RxySVYwI
 videoId: "Jj_RxySVYwI"
 type: teaching
 duration: "6:17"
+category: "Short Lesson"
 topics:
   - self-development
   - gratitude

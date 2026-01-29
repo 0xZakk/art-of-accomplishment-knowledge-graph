@@ -2,6 +2,7 @@
 title: "How to Use Relationship Fights to Heal"
 source: https://www.youtube.com/watch?v=yNGt2cFRGHw
 videoId: "yNGt2cFRGHw"
+category: "Short Lesson"
 type: teaching
 duration: "4:35"
 topics:
@@ -11,6 +12,7 @@ topics:
   - emotional release
   - connection
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yNGt2cFRGHw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

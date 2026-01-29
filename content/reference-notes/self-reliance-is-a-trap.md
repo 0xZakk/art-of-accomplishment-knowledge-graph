@@ -2,6 +2,7 @@
 title: "Self-Reliance Is A Trap"
 source: https://www.youtube.com/watch?v=z5VBkMiaOhM
 videoId: "z5VBkMiaOhM"
+category: "Podcast Episode"
 type: teaching
 duration: "27:34"
 topics:
@@ -12,6 +13,7 @@ topics:
   - interdependence
   - community
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z5VBkMiaOhM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

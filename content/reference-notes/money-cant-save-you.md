@@ -2,6 +2,7 @@
 title: "Money Can't Save You"
 source: https://www.youtube.com/watch?v=KgYq5668kqo
 videoId: "KgYq5668kqo"
+category: "Podcast Episode"
 type: teaching
 duration: "26:45"
 topics:
@@ -13,6 +14,7 @@ topics:
   - parenting
   - creativity
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KgYq5668kqo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

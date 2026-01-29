@@ -2,6 +2,7 @@
 title: "Productivity Is Making You Unproductive"
 source: https://www.youtube.com/watch?v=2iVxvWkXahk
 videoId: "2iVxvWkXahk"
+category: "Short Lesson"
 type: teaching
 duration: "36:38"
 topics:
@@ -11,6 +12,7 @@ topics:
   - dopamine
   - business
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2iVxvWkXahk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

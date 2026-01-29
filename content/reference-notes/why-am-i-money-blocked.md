@@ -2,6 +2,7 @@
 title: "Why Am I Money Blocked? (Coaching Session With Master Coach)"
 source: https://www.youtube.com/watch?v=d5wC6vJLh_4
 videoId: "d5wC6vJLh_4"
+category: "Coaching Session"
 type: coaching-session
 duration: "8:06"
 topics:
@@ -11,6 +12,7 @@ topics:
   - empowerment
   - appreciation
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d5wC6vJLh_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

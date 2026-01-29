@@ -2,6 +2,7 @@
 title: "Carla Pineyro Sublett | Making Space For Feelings"
 source: https://www.youtube.com/watch?v=pI7dX6O9E6I
 videoId: "pI7dX6O9E6I"
+category: "Podcast Episode"
 type: interview
 duration: "39:30"
 topics:
@@ -13,6 +14,7 @@ topics:
   - corporate-culture
   - parenting
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pI7dX6O9E6I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

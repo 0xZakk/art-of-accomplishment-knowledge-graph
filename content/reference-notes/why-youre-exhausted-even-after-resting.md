@@ -2,6 +2,7 @@
 title: "Why You're Exhausted (Even After Resting)"
 source: https://www.youtube.com/watch?v=LfIonsHpKZc
 videoId: "LfIonsHpKZc"
+category: "Short Lesson"
 type: teaching
 duration: "24:03"
 topics:
@@ -13,6 +14,7 @@ topics:
   - productivity
   - nervous-system
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LfIonsHpKZc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

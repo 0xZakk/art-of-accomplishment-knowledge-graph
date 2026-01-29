@@ -2,6 +2,7 @@
 title: "How Love Gets Confused"
 source: https://www.youtube.com/watch?v=66sMWhm6NKk
 videoId: "66sMWhm6NKk"
+category: "Podcast Episode"
 type: teaching
 duration: "34:22"
 topics:
@@ -11,6 +12,7 @@ topics:
   - heartbreak
   - self-love
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/66sMWhm6NKk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

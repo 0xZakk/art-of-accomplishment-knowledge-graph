@@ -2,6 +2,7 @@
 title: "How Do I Love My Mom?"
 source: https://www.youtube.com/watch?v=ws2fANK68C0
 videoId: "ws2fANK68C0"
+category: "Coaching Session"
 type: coaching-session
 duration: "11:13"
 topics:
@@ -13,6 +14,7 @@ topics:
   - boundaries
   - self-care
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ws2fANK68C0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

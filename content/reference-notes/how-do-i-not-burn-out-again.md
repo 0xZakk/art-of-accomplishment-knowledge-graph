@@ -2,6 +2,7 @@
 title: "How Do I Not Burn Out Again?"
 source: https://www.youtube.com/watch?v=XrFi5m9Kfuk
 videoId: "XrFi5m9Kfuk"
+category: "Coaching Session"
 type: coaching-session
 duration: "11:01"
 topics:
@@ -11,6 +12,7 @@ topics:
   - body awareness
   - progress
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XrFi5m9Kfuk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

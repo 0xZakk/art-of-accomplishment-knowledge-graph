@@ -2,6 +2,7 @@
 title: "How To End 60,000 Negative Thoughts a Day"
 source: https://www.youtube.com/watch?v=eX4d7wIOvuM
 videoId: "eX4d7wIOvuM"
+category: "Short Lesson"
 type: teaching
 duration: "13:21"
 topics:
@@ -11,6 +12,7 @@ topics:
   - self-awareness
   - mindfulness
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eX4d7wIOvuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

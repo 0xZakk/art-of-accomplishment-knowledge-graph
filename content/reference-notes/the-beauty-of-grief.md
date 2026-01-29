@@ -2,6 +2,7 @@
 title: "The Beauty Of Grief"
 source: https://www.youtube.com/watch?v=KM2kJPzPz5E
 videoId: "KM2kJPzPz5E"
+category: "Podcast Episode"
 type: teaching
 duration: "49:57"
 topics:
@@ -13,6 +14,7 @@ topics:
   - transformation
   - love
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KM2kJPzPz5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

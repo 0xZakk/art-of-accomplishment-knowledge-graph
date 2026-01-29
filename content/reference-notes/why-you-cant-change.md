@@ -2,6 +2,7 @@
 title: "Why You Can't Change"
 source: https://www.youtube.com/watch?v=StE4dJiPfqU
 videoId: "StE4dJiPfqU"
+category: "Short Lesson"
 type: teaching
 duration: "6:22"
 topics:
@@ -10,6 +11,7 @@ topics:
   - habits
   - self-improvement
 date: 2026-01-26
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/StE4dJiPfqU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

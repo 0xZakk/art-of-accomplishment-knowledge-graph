@@ -2,6 +2,7 @@
 title: "The Plight Of Perfection – Joe Hudson with Stephanie Harrison"
 source: https://www.youtube.com/watch?v=BcMNb2MJTHM
 videoId: "BcMNb2MJTHM"
+category: "Podcast Episode"
 type: interview
 duration: "50:26"
 topics:
@@ -12,6 +13,7 @@ topics:
   - anger
   - emotions
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BcMNb2MJTHM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

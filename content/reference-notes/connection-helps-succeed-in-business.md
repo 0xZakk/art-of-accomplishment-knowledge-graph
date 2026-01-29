@@ -2,6 +2,7 @@
 title: "How Connection Helps You Succeed In Business"
 source: https://www.youtube.com/watch?v=hfZwKo9nZLc
 videoId: "hfZwKo9nZLc"
+category: "Short Lesson"
 type: teaching
 duration: "5:38"
 topics:
@@ -11,6 +12,7 @@ topics:
   - teams
   - product
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hfZwKo9nZLc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "The Secret To Thriving Company Culture"
 source: https://www.youtube.com/watch?v=THCZae-EQZc
 videoId: "THCZae-EQZc"
+category: "Podcast Episode"
 type: teaching
 duration: "33:48"
 topics:
@@ -13,6 +14,7 @@ topics:
   - meetings
   - self-awareness
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/THCZae-EQZc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

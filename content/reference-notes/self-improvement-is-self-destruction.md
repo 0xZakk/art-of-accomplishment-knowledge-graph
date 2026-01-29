@@ -2,6 +2,7 @@
 title: "Walk with a Master Coach: Self-improvement is self-destruction"
 source: https://www.youtube.com/watch?v=BbSfqJJKJes
 videoId: "BbSfqJJKJes"
+category: "Short Lesson"
 type: teaching
 duration: "11:49"
 topics:
@@ -11,6 +12,7 @@ topics:
   - identity
   - presence
 date: 2026-01-26
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BbSfqJJKJes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

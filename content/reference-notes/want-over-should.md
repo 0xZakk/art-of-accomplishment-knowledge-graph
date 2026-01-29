@@ -2,6 +2,7 @@
 title: "Want Over Should"
 source: https://www.youtube.com/watch?v=ENtcGRXisTo
 videoId: "ENtcGRXisTo"
+category: "Podcast Episode"
 type: teaching
 duration: "41:21"
 topics:
@@ -12,6 +13,7 @@ topics:
   - business
   - self-management
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ENtcGRXisTo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

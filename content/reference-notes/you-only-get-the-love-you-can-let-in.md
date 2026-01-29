@@ -2,6 +2,7 @@
 title: "You only get the love you can let in"
 source: https://www.youtube.com/watch?v=KRYcrGQ155Y
 videoId: "KRYcrGQ155Y"
+category: "Short Lesson"
 type: teaching
 duration: "7:00"
 topics:
@@ -11,6 +12,7 @@ topics:
   - love
   - healing
 date: 2026-01-26
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KRYcrGQ155Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

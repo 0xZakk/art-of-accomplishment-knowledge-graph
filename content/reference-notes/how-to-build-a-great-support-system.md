@@ -2,6 +2,7 @@
 title: "How To Build A Great Support System | Art Of Accomplishment Podcast #122"
 source: https://www.youtube.com/watch?v=zTPyoa-U9UE
 videoId: "zTPyoa-U9UE"
+category: "Podcast Episode"
 type: teaching
 duration: "31:38"
 topics:
@@ -12,6 +13,7 @@ topics:
   - leadership
   - vulnerability
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zTPyoa-U9UE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

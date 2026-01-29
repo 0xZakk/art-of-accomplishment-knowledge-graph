@@ -2,6 +2,7 @@
 title: "Seeing Identity For What It Is"
 source: https://www.youtube.com/watch?v=1jCtQk1leOw
 videoId: "1jCtQk1leOw"
+category: "Short Lesson"
 type: teaching
 duration: "36:29"
 topics:
@@ -11,6 +12,7 @@ topics:
   - growth
   - letting-go
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1jCtQk1leOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

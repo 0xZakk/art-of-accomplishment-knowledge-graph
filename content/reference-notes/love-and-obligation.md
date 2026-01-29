@@ -2,6 +2,7 @@
 title: "Love And Obligation"
 source: https://www.youtube.com/watch?v=IfYmO3h-ekI
 videoId: "IfYmO3h-ekI"
+category: "Coaching Session"
 type: teaching
 duration: "41:37"
 topics:
@@ -14,6 +15,7 @@ topics:
   - commitment
   - self-management
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IfYmO3h-ekI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "The Golden Algorithm"
 source: https://www.youtube.com/watch?v=yMmN6XY3ywE
 videoId: "yMmN6XY3ywE"
+category: "Coaching Session"
 type: teaching
 duration: "41:25"
 topics:
@@ -12,6 +13,7 @@ topics:
   - joy
   - shame
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yMmN6XY3ywE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "I'm Afraid I Won't Get Anything Done"
 source: https://www.youtube.com/watch?v=SPM8VFY4EQM
 videoId: "SPM8VFY4EQM"
+category: "Coaching Session"
 type: coaching-session
 duration: "9:01"
 topics:
@@ -11,6 +12,7 @@ topics:
   - control
   - identity
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SPM8VFY4EQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

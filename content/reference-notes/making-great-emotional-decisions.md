@@ -2,6 +2,7 @@
 title: "Making Great Emotional Decisions"
 source: https://www.youtube.com/watch?v=VVax3Bxz4bM
 videoId: "VVax3Bxz4bM"
+category: "Podcast Episode"
 type: teaching
 duration: "45:38"
 topics:
@@ -12,6 +13,7 @@ topics:
   - connection
   - embracing-intensity
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VVax3Bxz4bM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

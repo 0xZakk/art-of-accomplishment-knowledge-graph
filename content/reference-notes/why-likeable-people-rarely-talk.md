@@ -2,6 +2,7 @@
 title: "Why Likeable People Rarely Talk"
 source: https://www.youtube.com/watch?v=9cj2vA_vSos
 videoId: "9cj2vA_vSos"
+category: "Short Lesson"
 type: teaching
 duration: "7:31"
 topics:
@@ -10,6 +11,7 @@ topics:
   - relationships
   - presence
 date: 2026-01-26
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9cj2vA_vSos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

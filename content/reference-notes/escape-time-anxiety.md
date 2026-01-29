@@ -2,6 +2,7 @@
 title: "Escape Time Anxiety: Your 14-Day Experiment"
 source: https://www.youtube.com/watch?v=fYXTd-HnObc
 videoId: "fYXTd-HnObc"
+category: "Short Lesson"
 type: teaching
 duration: "7:56"
 topics:
@@ -11,6 +12,7 @@ topics:
   - experimentation
   - mindset
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fYXTd-HnObc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

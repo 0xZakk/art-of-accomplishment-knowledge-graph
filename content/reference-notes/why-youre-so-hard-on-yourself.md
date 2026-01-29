@@ -2,6 +2,7 @@
 title: "This is why you're so hard on yourself"
 source: https://www.youtube.com/watch?v=guz__bc2x7M
 videoId: "guz__bc2x7M"
+category: "Coaching Session"
 type: coaching-session
 duration: "8:09"
 topics:
@@ -11,6 +12,7 @@ topics:
   - depression
   - defense-mechanisms
 date: 2026-01-26
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/guz__bc2x7M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

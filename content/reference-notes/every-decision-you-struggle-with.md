@@ -2,6 +2,7 @@
 title: "Every decision you struggle with has one thing in common"
 source: https://www.youtube.com/watch?v=pTIAaExpW9c
 videoId: "pTIAaExpW9c"
+category: "Short Lesson"
 type: teaching
 duration: "7:20"
 topics:
@@ -11,6 +12,7 @@ topics:
   - fear
   - consciousness
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pTIAaExpW9c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

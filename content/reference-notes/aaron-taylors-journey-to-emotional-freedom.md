@@ -4,6 +4,7 @@ source: https://www.youtube.com/watch?v=ydo8LMBAUCo
 videoId: "ydo8LMBAUCo"
 type: interview
 duration: "51:04"
+category: "Podcast Episode"
 topics:
   - emotional-freedom
   - vulnerability

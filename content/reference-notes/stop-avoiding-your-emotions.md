@@ -2,6 +2,7 @@
 title: "Give Me 17 Minutes And You'll Stop Avoiding Your Emotions"
 source: https://www.youtube.com/watch?v=4R2R3w6h34Q
 videoId: "4R2R3w6h34Q"
+category: "Coaching Session"
 type: teaching
 duration: "17:21"
 topics:
@@ -12,6 +13,7 @@ topics:
   - dissociation
   - emotional-awareness
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4R2R3w6h34Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

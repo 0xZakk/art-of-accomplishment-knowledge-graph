@@ -2,6 +2,7 @@
 title: "Master Class - What is Holding You Back?"
 source: https://www.youtube.com/watch?v=IVG7bAHcYi0
 videoId: "IVG7bAHcYi0"
+category: "Short Lesson"
 type: teaching
 duration: "1:32"
 topics:
@@ -10,6 +11,7 @@ topics:
   - motivation
   - personal-growth
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IVG7bAHcYi0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

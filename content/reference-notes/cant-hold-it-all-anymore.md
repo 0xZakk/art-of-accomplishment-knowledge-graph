@@ -2,6 +2,7 @@
 title: "I Can't Hold It All Anymore (Coaching Session)"
 source: https://www.youtube.com/watch?v=n8z5RMuJhu4
 videoId: "n8z5RMuJhu4"
+category: "Coaching Session"
 type: coaching-session
 duration: "45:25"
 topics:
@@ -12,6 +13,7 @@ topics:
   - emotional-expression
   - exhaustion
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n8z5RMuJhu4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

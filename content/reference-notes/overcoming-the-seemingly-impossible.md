@@ -2,6 +2,7 @@
 title: "Heather Falenski On Overcoming The Seemingly Impossible"
 source: https://www.youtube.com/watch?v=hiKnnX_sVV4
 videoId: "hiKnnX_sVV4"
+category: "Podcast Episode"
 type: interview
 duration: "37:37"
 topics:
@@ -14,6 +15,7 @@ topics:
   - dissociation
   - vulnerability
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hiKnnX_sVV4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

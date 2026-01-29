@@ -2,6 +2,7 @@
 title: "How To Fall In Love With Your Negative Emotions (Coaching with Joe)"
 source: https://www.youtube.com/watch?v=2k887gxRK_0
 videoId: "2k887gxRK_0"
+category: "Coaching Session"
 type: coaching-session
 duration: "12:11"
 topics:
@@ -11,6 +12,7 @@ topics:
   - sadness
   - emotional-fluidity
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2k887gxRK_0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

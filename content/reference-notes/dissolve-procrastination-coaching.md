@@ -2,6 +2,7 @@
 title: "Watch Him Dissolve Procrastination In 11 Minutes (Coaching Session With Joe Hudson)"
 source: https://www.youtube.com/watch?v=N65NPYRN8z8
 videoId: "N65NPYRN8z8"
+category: "Coaching Session"
 type: coaching-session
 duration: "11:15"
 topics:
@@ -11,6 +12,7 @@ topics:
   - self-pressure
   - fear-of-failure
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N65NPYRN8z8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

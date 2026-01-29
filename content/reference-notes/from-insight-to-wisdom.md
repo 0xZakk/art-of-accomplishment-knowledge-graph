@@ -2,6 +2,7 @@
 title: "Tara Howley — From Insight to Wisdom"
 source: https://www.youtube.com/watch?v=d0x8w4Jcjs4
 videoId: "d0x8w4Jcjs4"
+category: "Coaching Session"
 type: interview
 duration: "31:51"
 topics:
@@ -12,6 +13,7 @@ topics:
   - integration
   - self-compassion
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d0x8w4Jcjs4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "Be yourself and watch your life rearrange"
 source: https://www.youtube.com/watch?v=yoAxUxvA2LE
 videoId: "yoAxUxvA2LE"
+category: "Short Lesson"
 type: teaching
 duration: "10:25"
 topics:
@@ -10,6 +11,7 @@ topics:
   - self-acceptance
   - living-without-regret
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yoAxUxvA2LE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

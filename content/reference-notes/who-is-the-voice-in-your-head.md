@@ -2,6 +2,7 @@
 title: "Who Is The Voice In Your Head"
 source: https://www.youtube.com/watch?v=IS_UwKfAi9c
 videoId: "IS_UwKfAi9c"
+category: "Podcast Episode"
 type: teaching
 duration: "41:22"
 topics:
@@ -11,6 +12,7 @@ topics:
   - self-relationship
   - identity
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IS_UwKfAi9c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

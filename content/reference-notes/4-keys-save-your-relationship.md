@@ -4,6 +4,7 @@ source: https://www.youtube.com/watch?v=QgrPt76QQVo
 videoId: "QgrPt76QQVo"
 type: teaching
 duration: "10:34"
+category: "Short Lesson"
 topics:
   - relationships
   - blame

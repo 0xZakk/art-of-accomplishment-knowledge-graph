@@ -2,6 +2,7 @@
 title: "Business As A Spiritual Practice"
 source: https://www.youtube.com/watch?v=esy2HSH_Nu8
 videoId: "esy2HSH_Nu8"
+category: "Podcast Episode"
 type: teaching
 duration: "37:21"
 topics:
@@ -12,6 +13,7 @@ topics:
   - ego
   - self-discovery
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/esy2HSH_Nu8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

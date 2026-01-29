@@ -2,6 +2,7 @@
 title: "You're Pushing Away What You Most Want"
 source: https://www.youtube.com/watch?v=mfU5lW5S6Mg
 videoId: "mfU5lW5S6Mg"
+category: "Short Lesson"
 type: teaching
 duration: "8:49"
 topics:
@@ -11,6 +12,7 @@ topics:
   - ego
   - identity
 date: 2026-01-26
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mfU5lW5S6Mg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "Allowing Yourself To Change – Joe Coaches Brett"
 source: https://www.youtube.com/watch?v=IeV2SrlsBWE
 videoId: "IeV2SrlsBWE"
+category: "Coaching Session"
 type: coaching-session
 duration: "41:35"
 topics:
@@ -13,6 +14,7 @@ topics:
   - rabbit holes
   - childhood patterns
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IeV2SrlsBWE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

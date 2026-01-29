@@ -2,6 +2,7 @@
 title: "Privilege, Pain and Projection — Joe Hudson's Story (Part I)"
 source: https://www.youtube.com/watch?v=RTkRzCEnfM8
 videoId: "RTkRzCEnfM8"
+category: "Podcast Episode"
 type: interview
 duration: "40:36"
 topics:
@@ -16,6 +17,7 @@ topics:
   - rebellion
   - parenting
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RTkRzCEnfM8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: "Connection Over Perfection"
 source: https://www.youtube.com/watch?v=2J7xla5rkBQ
 videoId: "2J7xla5rkBQ"
+category: "Short Lesson"
 type: teaching
 duration: "50:37"
 topics:
@@ -12,6 +13,7 @@ topics:
   - creativity
   - sales
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2J7xla5rkBQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

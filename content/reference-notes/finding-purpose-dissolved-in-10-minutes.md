@@ -2,6 +2,7 @@
 title: "Her Need to 'Find' Her Purpose Dissolved In 10 Minutes"
 source: https://www.youtube.com/watch?v=-gB3hCY8ies
 videoId: "-gB3hCY8ies"
+category: "Coaching Session"
 type: coaching-session
 duration: "11:02"
 topics:
@@ -12,6 +13,7 @@ topics:
   - self-abandonment
   - I-am
 date: 2026-01-22
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-gB3hCY8ies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

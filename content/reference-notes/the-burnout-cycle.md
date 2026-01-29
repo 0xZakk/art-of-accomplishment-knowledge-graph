@@ -2,6 +2,7 @@
 title: "The Burnout Cycle"
 source: https://www.youtube.com/watch?v=AdCNadypDAk
 videoId: "AdCNadypDAk"
+category: "Podcast Episode"
 type: teaching
 duration: "31:43"
 topics:
@@ -13,6 +14,7 @@ topics:
   - self-care
   - leadership
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AdCNadypDAk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

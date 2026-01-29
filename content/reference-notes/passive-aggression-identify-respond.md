@@ -2,6 +2,7 @@
 title: "Passive Aggression: How To Identify & Respond"
 source: https://www.youtube.com/watch?v=s6y4OmCZivE
 videoId: "s6y4OmCZivE"
+category: "Short Lesson"
 type: teaching
 duration: "5:28"
 topics:
@@ -10,6 +11,7 @@ topics:
   - anger
   - empowerment
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s6y4OmCZivE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

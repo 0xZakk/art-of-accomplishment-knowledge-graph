@@ -2,6 +2,7 @@
 title: "How Do I Love The \"No\"?"
 source: https://www.youtube.com/watch?v=ycgwrlkmNys
 videoId: "ycgwrlkmNys"
+category: "Coaching Session"
 type: coaching-session
 duration: "8:40"
 topics:
@@ -11,6 +12,7 @@ topics:
   - leadership
   - resistance
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ycgwrlkmNys" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

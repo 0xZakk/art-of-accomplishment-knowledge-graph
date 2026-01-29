@@ -2,6 +2,7 @@
 title: "Finding Your Purpose is Hard Until You Understand This"
 source: https://www.youtube.com/watch?v=WSTcCbhbG7U
 videoId: "WSTcCbhbG7U"
+category: "Short Lesson"
 type: teaching
 duration: "12:14"
 topics:
@@ -11,6 +12,7 @@ topics:
   - authenticity
   - self-discovery
 date: 2026-01-27
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WSTcCbhbG7U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
