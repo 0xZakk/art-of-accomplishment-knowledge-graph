@@ -47,9 +47,20 @@ The path forward isn't about finding the right career or activity, but about rec
 
 Joe's approach to purpose dismantles our entire relationship to seeking and finding, revealing that what we've been looking for has been looking for us all along. The question isn't whether you have purpose—it's whether you're willing to stop searching long enough to receive it.
 
+
 ## Reference Notes
 
+- [[reference-notes/you-wont-find-purpose-by-searching|You Won't Find Your Purpose By Searching For It]]
 - [[reference-notes/finding-purpose-dissolved-in-10-minutes|Her Need to 'Find' Her Purpose Dissolved In 10 Minutes]]
+- [[reference-notes/finding-your-purpose|Finding Your Purpose is Hard Until You Understand This]]
+- [[reference-notes/how-do-i-find-my-purpose|How Do I Find My Purpose?]]
+- [[reference-notes/myth-of-finding-your-purpose|The Myth Of Finding Your Purpose]]
+- [[reference-notes/cost-of-ignoring-your-calling|The Cost of Ignoring What You're Called to Do]]
+- [[reference-notes/creative-block-unravelled|15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe)]]
+- [[reference-notes/i-should-be-more-productive|\]]
+- [[reference-notes/self-discovery-navy-seal|The Self-Discovery Of A Navy SEAL]]
+- [[reference-notes/what-do-i-offer-the-world|What Do I Offer The World?]]
+- [[reference-notes/why-always-trying-to-fix|Why Am I Always Trying To Fix Myself & Others? (Coaching Session With Joe Hudson)]]
 
 ## Related Topics
 

@@ -65,9 +65,24 @@ Perhaps Joe's most profound insight is that healthy relationships require the ca
 
 This creates relationships based on choice rather than need, presence rather than performance, and growth rather than comfort. The result isn't perfect harmony—it's authentic connection that can hold the full range of human experience without breaking.
 
+
 ## Reference Notes
 
-*Coming soon.*
+- [[reference-notes/can-marriage-make-you-better-person|Can Marriage Make You a Better Person? (Modern Relationships Podcast)]]
+- [[reference-notes/addressing-conflict-avoidance|Addressing Conflict Avoidance Finding Connection In Disagreement]]
+- [[reference-notes/finding-a-romantic-partner|Finding a Romantic Partner]]
+- [[reference-notes/how-to-fight-and-win|How To Fight And Win]]
+- [[reference-notes/relationship-fights-to-heal|How to Use Relationship Fights to Heal]]
+- [[reference-notes/the-beauty-of-grief|The Beauty Of Grief]]
+- [[reference-notes/the-reason-your-relationship-is-dead|The Reason Your Relationship Is Dead]]
+- [[reference-notes/codependency-3-signs-not-love|Codependency: 3 signs it's not love]]
+- [[reference-notes/connection-a-state-beyond-states|Connection: A State Beyond States]]
+- [[reference-notes/couples-all-have-this-fight|I've Coached 1000s of Couples. They All Have This Fight]]
+- [[reference-notes/how-love-gets-confused|How Love Gets Confused]]
+- [[reference-notes/price-of-being-logical-in-love|The Price Of Being The Logical One In Love]]
+- [[reference-notes/transform-any-relationship|How To Transform Any Relationship (Complete Toolkit For Healthy Relationships)]]
+- [[reference-notes/you-only-get-the-love-you-can-let-in|You only get the love you can let in]]
+- [[reference-notes/best-trick-for-great-fights|The Best Trick For Having Great Fights In Relationship]]
 
 ## Related Topics
 

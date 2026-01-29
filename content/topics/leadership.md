@@ -47,6 +47,25 @@ When goals operate through should and fear ("if I don't hit this number, I'm a f
 
 [[literature-notes/discovery-not-improvement|Discovery, not improvement]] applies to organizational change as much as personal development. The most effective leaders don't try to fix their teams; they create conditions where the team can discover its own solutions. This requires tolerating uncertainty — not knowing the answer and trusting the process — which brings us full circle to the emotional intelligence that underlies all of Joe's work.
 
+
+## Reference Notes
+
+- [[reference-notes/business-as-spiritual-practice|Business As A Spiritual Practice]]
+- [[reference-notes/productivity-is-making-you-unproductive|Productivity Is Making You Unproductive]]
+- [[reference-notes/ant-taylor-embracing-emotions|Ant Taylor On Embracing Emotions]]
+- [[reference-notes/brett-kistler-on-welcoming-fear|Brett Kistler On Welcoming Fear]]
+- [[reference-notes/building-a-functional-team|Building A Functional Team]]
+- [[reference-notes/enjoy-over-manage|Enjoy Over Manage]]
+- [[reference-notes/how-to-lead-without-managing|How To Lead Without Managing]]
+- [[reference-notes/joy|Joy]]
+- [[reference-notes/listening|Listening]]
+- [[reference-notes/making-space-for-feelings|Carla Pineyro Sublett | Making Space For Feelings]]
+- [[reference-notes/the-burnout-cycle|The Burnout Cycle]]
+- [[reference-notes/what-can-i-do-about-overwhelm|What Can I Do About Overwhelm?]]
+- [[reference-notes/6-operating-principles-automatic-decisions|6 Operating Principles That Make 80% of Decisions Automatic]]
+- [[reference-notes/business-behind-our-courses|The Business Behind Our Courses]]
+- [[reference-notes/business-off-the-ground|Why Can't I Get My Business Off The Ground? (Coaching With Joe Hudson)]]
+
 ## Related Topics
 
 - [[topics/self-awareness|Self-Awareness & Self-Discovery]]

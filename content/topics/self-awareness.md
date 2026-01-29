@@ -57,9 +57,24 @@ The goal isn't to achieve perfect self-knowledge but to develop ongoing curiosit
 
 Self-awareness, in Joe's understanding, ultimately serves freedom—not the freedom from being human, but the freedom to be human without resistance. This creates space for authentic choice rather than unconscious reactivity, and genuine connection rather than defended performance.
 
+
 ## Reference Notes
 
-*More content coming as videos are processed.*
+- [[reference-notes/eight-seconds-of-oneness|8 Seconds of Oneness — Joe Hudson's Story (Part II)]]
+- [[reference-notes/four-causes-of-stress|4 Causes of Stress (And How to Start Resolving Them Now)]]
+- [[reference-notes/group-cohesion-vs-cult-dynamics|Group Cohesion Vs Cult Dynamics]]
+- [[reference-notes/how-to-see-through-limiting-beliefs|How To See Through Limiting Beliefs]]
+- [[reference-notes/myth-of-finding-your-purpose|The Myth Of Finding Your Purpose]]
+- [[reference-notes/stop-watching-porn-procrastinating|How Do I Stop Watching Porn And Procrastinating? (Coaching Session With Master Coach)]]
+- [[reference-notes/why-you-should-run-experiments|Why You Should Run Experiments In Life]]
+- [[reference-notes/your-world-is-a-projection|Your World Is A Projection]]
+- [[reference-notes/end-toxic-relationship-patterns|End Toxic Relationship Patterns (The Internal Voice Fix)]]
+- [[reference-notes/sam-altman-self-awareness-in-business|Sam Altman | Self-Awareness In Business]]
+- [[reference-notes/seeing-identity-for-what-it-is|Seeing Identity For What It Is]]
+- [[reference-notes/self-discovery-navy-seal|The Self-Discovery Of A Navy SEAL]]
+- [[reference-notes/3-mindsets-transform-self-development|3 Mindsets That Transform Self-Development]]
+- [[reference-notes/4-ways-to-feel-your-emotions|4 Ways To Feel Your Emotions]]
+- [[reference-notes/50-years-numbness-dissolved-rage|50 Years of Numbness Dissolved in 15Mins of Rage]]
 
 ## Related Topics
 

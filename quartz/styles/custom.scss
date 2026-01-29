@@ -248,6 +248,21 @@ ol.overflow {
   flex: unset !important;
 }
 
+// ---------- Left sidebar scroll fade ----------
+
+.sidebar.left {
+  .search, .darkmode, .reader-mode, .explorer {
+    opacity: 0;
+    transition: opacity 0.4s ease;
+  }
+
+  &.scrolled {
+    .search, .darkmode, .reader-mode, .explorer {
+      opacity: 1;
+    }
+  }
+}
+
 // ---------- Smooth Selection ----------
 
 ::selection {

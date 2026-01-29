@@ -47,6 +47,25 @@ Joe's ultimate teaching on fear isn't about eliminating it but about changing yo
 
 This doesn't mean being reckless or ignoring genuine danger. It means that the vast majority of what passes for fear in daily life — social anxiety, fear of judgment, fear of failure, fear of loss — is manageable emotional experience that, when fully felt, opens doors rather than closing them.
 
+
+## Reference Notes
+
+- [[reference-notes/brett-kistler-on-welcoming-fear|Brett Kistler On Welcoming Fear]]
+- [[reference-notes/ant-taylor-embracing-emotions|Ant Taylor On Embracing Emotions]]
+- [[reference-notes/anxiety-signpost-to-unmet-needs|Anxiety: A Signpost To Unmet Needs]]
+- [[reference-notes/creating-your-own-stress|The 3-Minute Test That Proves You're Creating Your Own Stress]]
+- [[reference-notes/escape-time-anxiety|Escape Time Anxiety: Your 14-Day Experiment]]
+- [[reference-notes/fear-of-overworking|Fear Of Overworking]]
+- [[reference-notes/fear-path-to-authenticity|Fear: A Path To Authenticity]]
+- [[reference-notes/four-causes-of-stress|4 Causes of Stress (And How to Start Resolving Them Now)]]
+- [[reference-notes/helplessness-cayenne-pepper-of-fear|Helplessness: The Cayenne Pepper of Fear]]
+- [[reference-notes/power-dynamics-of-fear|The Power Dynamics Of Fear]]
+- [[reference-notes/stress-reset-button-wonder|Your Brain Has A Stress Reset Button, Here's How to Use It]]
+- [[reference-notes/stress-you-need-good-vs-bad|You Need The Stress You Hate (Good vs Bad Stress Explained)]]
+- [[reference-notes/welcoming-fear-workshop|A Workshop For Welcoming Fear]]
+- [[reference-notes/when-being-seen-feels-dangerous|When Being Seen Feels Dangerous: Ending Performance Anxiety]]
+- [[reference-notes/aaron-taylors-journey-to-emotional-freedom|Aaron Taylor's Journey To Emotional Freedom]]
+
 ## Related Topics
 
 - [[topics/emotions|Emotions & Emotional Processing]]

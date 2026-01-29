@@ -55,9 +55,24 @@ The goal isn't to become emotionally perfect but to develop fluidity—the abili
 
 Joe's approach to emotions ultimately offers a path to what he calls [[literature-notes/emotional-fluidity-defined|emotional fluidity]]—the ability to feel all emotions without resistance, allowing them to flow through and deliver their gifts before naturally moving on to whatever wants to be felt next. This fluency transforms suffering from a problem to be solved into a teacher to be welcomed.
 
+
 ## Reference Notes
 
-*More content coming as videos are processed.*
+- [[reference-notes/emotional-fluidity|Emotional Fluidity]]
+- [[reference-notes/joy|Joy]]
+- [[reference-notes/the-beauty-of-grief|The Beauty Of Grief]]
+- [[reference-notes/cant-get-over-my-ex|I Can't Get Over My Ex]]
+- [[reference-notes/connection-can-change-your-life|How Connection Can Change Your Life (Joe Hudson & Ali Abdaal)]]
+- [[reference-notes/embracing-intensity|Embracing Intensity]]
+- [[reference-notes/how-do-i-not-get-ruined-by-narcissism|How Do I Not Get Ruined By Narcissism?]]
+- [[reference-notes/how-generosity-improves-well-being|How Generosity Improves Your Well-Being]]
+- [[reference-notes/when-the-story-falls-apart|When The Story Falls Apart]]
+- [[reference-notes/4-ways-to-feel-your-emotions|4 Ways To Feel Your Emotions]]
+- [[reference-notes/enjoy-over-manage|Enjoy Over Manage]]
+- [[reference-notes/making-great-emotional-decisions|Making Great Emotional Decisions]]
+- [[reference-notes/stages-of-emotional-development|Stages Of Emotional Development]]
+- [[reference-notes/stop-avoiding-your-emotions|Give Me 17 Minutes And You'll Stop Avoiding Your Emotions]]
+- [[reference-notes/50-years-numbness-dissolved-rage|50 Years of Numbness Dissolved in 15Mins of Rage]]
 
 ## Related Topics
 

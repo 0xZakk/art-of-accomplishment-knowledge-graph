@@ -43,6 +43,25 @@ In one of his most paradoxical teachings, Joe argues that [[literature-notes/bou
 
 [[literature-notes/compassion-can-block-anger|Using compassion to bypass anger blocks the emotional process]]. Joe warns against premature forgiveness or understanding — the "spiritual bypass" of jumping to compassion before the anger has been fully felt. The anger must move first; the compassion that emerges afterward is genuine rather than performative.
 
+
+## Reference Notes
+
+- [[reference-notes/how-anger-actually-works|How Anger Actually Works (It's Not How You Were Taught)]]
+- [[reference-notes/wisdom-of-anger-part-1|The Wisdom Of Anger, Part 1]]
+- [[reference-notes/addressing-conflict-avoidance|Addressing Conflict Avoidance Finding Connection In Disagreement]]
+- [[reference-notes/how-to-stop-being-resentful|How To Stop Being Resentful]]
+- [[reference-notes/passive-aggression-identify-respond|Passive Aggression: How To Identify & Respond]]
+- [[reference-notes/passive-aggression|Passive Aggression]]
+- [[reference-notes/real-cause-of-resentment|The Real Cause of Resentment (And What to Do About It)]]
+- [[reference-notes/transform-any-relationship|How To Transform Any Relationship (Complete Toolkit For Healthy Relationships)]]
+- [[reference-notes/triggered|Triggered!]]
+- [[reference-notes/50-years-numbness-dissolved-rage|50 Years of Numbness Dissolved in 15Mins of Rage]]
+- [[reference-notes/boundaries-arent-what-you-think|Boundaries Aren't What You Think They Are]]
+- [[reference-notes/how-to-draw-healthy-boundaries|How to Draw HEALTHY Boundaries]]
+- [[reference-notes/path-to-healthy-fighting|The Path To Healthy Fighting]]
+- [[reference-notes/qa-expressing-anger-at-playing-with-depression|Q&A – Expressing 'Anger At', Playing with Depression, & More]]
+- [[reference-notes/whats-so-scary-about-boundaries|What's So Scary About Boundaries?]]
+
 ## Related Topics
 
 - [[topics/emotions|Emotions & Emotional Processing]]

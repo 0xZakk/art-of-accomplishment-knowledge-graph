@@ -49,9 +49,24 @@ This understanding removes the pressure to maintain perfect presence. Instead of
 
 Joe's teaching on presence is ultimately an invitation to stop searching for what we already have. The expansiveness that terrifies the mind is also the source of everything we truly want. Learning to rest in that expansiveness—to find it pleasurable rather than overwhelming—is perhaps the most fundamental skill for a fulfilling life.
 
+
 ## Reference Notes
 
-- [[reference-notes/finding-purpose-dissolved-in-10-minutes|Her Need to 'Find' Her Purpose Dissolved In 10 Minutes]]
+- [[reference-notes/authentic-or-fake|Am I Being Authentic Or Fake?]]
+- [[reference-notes/finding-your-purpose|Finding Your Purpose is Hard Until You Understand This]]
+- [[reference-notes/what-do-i-offer-the-world|What Do I Offer The World?]]
+- [[reference-notes/authenticity-over-improvement|Authenticity Over Improvement]]
+- [[reference-notes/fear-path-to-authenticity|Fear: A Path To Authenticity]]
+- [[reference-notes/sam-altman-self-awareness-in-business|Sam Altman | Self-Awareness In Business]]
+- [[reference-notes/3-mindsets-transform-self-development|3 Mindsets That Transform Self-Development]]
+- [[reference-notes/afraid-to-commit|Why He's Afraid To Commit]]
+- [[reference-notes/afraid-wont-get-anything-done|I'm Afraid I Won't Get Anything Done]]
+- [[reference-notes/am-i-a-fake|Am I A Fake?]]
+- [[reference-notes/be-yourself-watch-life-rearrange|Be yourself and watch your life rearrange]]
+- [[reference-notes/belonging-is-the-wrong-question|\]]
+- [[reference-notes/care-over-caretaking|Care Over Caretaking | Loving Without Losing Yourself]]
+- [[reference-notes/charisma-isnt-learned|Charisma isn't learned (Dr. K, Charisma on Command & Joe)]]
+- [[reference-notes/coaching-as-a-practice|Coaching As A Practice]]
 
 ## Related Topics
 

@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          Built by <a href="https://zkf.io">Zakk Fleischmann</a> · <a href="https://twitter.com/0xZakk">@0xZakk</a>
+          Built by <a href="https://zkf.io" target="_blank" rel="noopener noreferrer">Zakk Fleischmann</a> · <a href="https://twitter.com/0xZakk" target="_blank" rel="noopener noreferrer">@0xZakk</a>
         </p>
       </footer>
     )

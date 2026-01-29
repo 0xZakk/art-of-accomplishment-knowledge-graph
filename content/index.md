@@ -1,5 +1,5 @@
 ---
-title: Joe Hudson Zettelkasten
+title: Home
 ---
 
 # Joe Hudson's Work — A Zettelkasten
@@ -37,9 +37,11 @@ The most curated entry point. Each topic page offers a comprehensive summary of 
 
 Below is an interactive visualization of how notes in this knowledge base connect to each other. Each node is a note; each line is a link between them. Click any node to navigate to that note, or zoom and pan to explore clusters of related ideas.
 
+<div id="homepage-graph-placeholder"></div>
+
 ### Search
 
-Use the search bar in the sidebar to find any concept, quote, or topic across the entire knowledge base.
+Use the search bar to find any concept, quote, or topic across the entire knowledge base. You can also press **⌘+K** (Mac) or **Ctrl+K** (Windows/Linux) to open search from anywhere on the site.
 
 ---
 
@@ -73,9 +75,9 @@ Today, Joe coaches leaders and executives at top companies including Apple, Goog
 
 ### Courses & Offerings
 
-- [**The Connection Course**](https://www.artofaccomplishment.com/course/the-connection-course) — A three-week deep dive into the fundamentals of the AOA approach. Their most popular experience.
-- [**Great Decisions Course**](https://www.artofaccomplishment.com/course/great-decisions-course) — A five-week deep dive into emotional fluidity.
-- [**Master Class**](https://www.artofaccomplishment.com/course/masterclass) — Their flagship program. Break through what holds you back from creating the life you want.
 - [**Podcast**](https://www.artofaccomplishment.com/podcast) — Free episodes covering a wide range of topics.
 - [**Rapid Coaching**](https://www.artofaccomplishment.com/rapid-coaching) — Watch live 1:1 coaching sessions with community members.
 - [**Free Workshop**](https://www.artofaccomplishment.com/workshop) — Take a self-assessment and get a taste of the AOA approach.
+- [**The Connection Course**](https://www.artofaccomplishment.com/course/the-connection-course) — A three-week deep dive into the fundamentals of the AOA approach. Their most popular experience.
+- [**Great Decisions Course**](https://www.artofaccomplishment.com/course/great-decisions-course) — A five-week deep dive into emotional fluidity.
+- [**Master Class**](https://www.artofaccomplishment.com/course/masterclass) — Their flagship program. Break through what holds you back from creating the life you want.

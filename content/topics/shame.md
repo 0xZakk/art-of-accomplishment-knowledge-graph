@@ -61,9 +61,24 @@ Joe's work reveals specific patterns that maintain shame cycles. [[literature-no
 
 Joe's approach to shame ultimately offers a pathway from self-imprisonment to self-acceptance, revealing that what we've been taught to see as evidence of brokenness is actually evidence of our capacity to love and care. This fundamental shift in perspective opens possibilities for healing that go far beyond behavior change to touch the core of human worth and belonging.
 
+
 ## Reference Notes
 
-*Coming soon.*
+- [[reference-notes/counterintuitive-cure-imposter-syndrome|The Counterintuitive Cure for Imposter Syndrome]]
+- [[reference-notes/love-and-obligation|Love And Obligation]]
+- [[reference-notes/make-money-doing-what-i-love|How Do I Make Money Doing What I Love?]]
+- [[reference-notes/money-problems-arent-about-money|Your Money Problems Aren't About Money (Coaching with Joe Hudson)]]
+- [[reference-notes/whats-bad-about-money|What's Bad About Money?]]
+- [[reference-notes/you-dont-have-a-money-problem|You Don't Have A Money Problem (Coaching Session with Joe Hudson)]]
+- [[reference-notes/anatomy-of-shame|The Anatomy Of Shame]]
+- [[reference-notes/healing-shame-by-being-ourselves|Healing Shame By Being Ourselves]]
+- [[reference-notes/how-to-overcome-shame-in-conflict|How To Overcome Shame In Conflict]]
+- [[reference-notes/shame-hot-potato|The Shame Hot Potato]]
+- [[reference-notes/allowing-yourself-to-change|Allowing Yourself To Change – Joe Coaches Brett]]
+- [[reference-notes/am-i-a-fake|Am I A Fake?]]
+- [[reference-notes/body-wont-let-me-build|My body won't let me build what my brain knows I can (Coaching with Joe Hudson)]]
+- [[reference-notes/boss-never-sees-you-coaching|Why Your Boss Never Sees You (Even When They Try) - Follow-along Coaching Session]]
+- [[reference-notes/can-marriage-make-you-better-person|Can Marriage Make You a Better Person? (Modern Relationships Podcast)]]
 
 ## Related Topics
 
