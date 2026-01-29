@@ -13,3 +13,6 @@ replit.nix
 # Processing helper scripts
 clean_transcript*.py
 update_reference_note.py
+
+.env*
+audio/
