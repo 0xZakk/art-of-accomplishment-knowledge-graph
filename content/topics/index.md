@@ -1,5 +1,6 @@
 ---
 title: Topics
+hidePageList: true
 ---
 
 Browse Joe Hudson's teachings by topic.

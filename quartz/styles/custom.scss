@@ -196,6 +196,58 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+// ---------- Tag Index page ----------
+
+.popover-hint > div > div > h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top: 2.5rem;
+  margin-bottom: 0.25rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--lightgray);
+
+  a.tag-link {
+    font-size: 1.5rem;
+    font-weight: 700;
+    background: none !important;
+    border: none !important;
+    padding: 0 !important;
+    color: var(--secondary) !important;
+
+    &:hover {
+      color: var(--tertiary) !important;
+      background: none !important;
+    }
+  }
+}
+
+// ---------- Sidebar: no scroll/blur ----------
+
+.sidebar.right {
+  height: auto !important;
+  position: relative !important;
+}
+
+div:has(> .overflow) {
+  max-height: none !important;
+  overflow-y: visible !important;
+}
+
+ul.overflow,
+ol.overflow {
+  max-height: none !important;
+  overflow-y: visible !important;
+
+  &.gradient-active {
+    mask-image: none !important;
+  }
+}
+
+.toc {
+  overflow-y: visible !important;
+  flex: unset !important;
+}
+
 // ---------- Smooth Selection ----------
 
 ::selection {

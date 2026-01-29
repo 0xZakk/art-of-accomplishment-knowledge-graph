@@ -56,6 +56,11 @@ export default ((opts?: Partial<TagContentOptions>) => {
         <div class="popover-hint">
           <article class={classes}>
             <p>{content}</p>
+            <p>
+              Tags are automatically generated from the content of each note. Use them to discover
+              related concepts across Joe Hudson's teachings. Click any tag to see all notes that
+              share that theme.
+            </p>
           </article>
           <p>{i18n(cfg.locale).pages.tagContent.totalTags({ count: tags.length })}</p>
           <div>
