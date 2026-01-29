@@ -2,8 +2,6 @@
 title: Reference Notes
 ---
 
-# Reference Notes
-
 Each reference note contains:
 - The full video with embedded player
 - Complete transcript

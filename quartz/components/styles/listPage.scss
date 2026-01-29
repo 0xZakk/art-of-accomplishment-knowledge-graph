@@ -11,28 +11,24 @@ li.section-li {
 
   & > .section {
     display: grid;
-    grid-template-columns: fit-content(8em) 3fr 1fr;
+    grid-template-columns: 3fr 1fr;
 
     @media all and ($mobile) {
       & > .tags {
         display: none;
       }
+      grid-template-columns: 1fr;
     }
 
     & > .desc > h3 > a {
       background-color: transparent;
-    }
-
-    & .meta {
-      margin: 0 1em 0 0;
-      opacity: 0.6;
     }
   }
 }
 
 // modifications in popover context
 .popover .section {
-  grid-template-columns: fit-content(8em) 1fr !important;
+  grid-template-columns: 1fr !important;
 
   & > .tags {
     display: none;

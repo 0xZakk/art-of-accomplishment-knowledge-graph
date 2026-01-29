@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Art of Accomplishment",
+    pageTitleSuffix: " · Knowledge Base",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -23,32 +23,32 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Poppins",
+        body: "Poppins",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#FAFBFD",
+          lightgray: "#E8EAF0",
+          gray: "#A2A4B8",
+          darkgray: "#3D3D3D",
+          dark: "#181F2B",
+          secondary: "#33465D",
+          tertiary: "#F5931C",
+          highlight: "rgba(245, 147, 28, 0.1)",
+          textHighlight: "#F5931C44",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#181F2B",
+          lightgray: "#2A3347",
+          gray: "#5A6478",
+          darkgray: "#D4D8E0",
+          dark: "#F5F7FA",
+          secondary: "#F5931C",
+          tertiary: "#E8852A",
+          highlight: "rgba(245, 147, 28, 0.12)",
+          textHighlight: "#F5931C44",
         },
       },
     },
@@ -89,7 +89,7 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Plugin.CustomOgImages(), // temporarily disabled for fast builds
     ],
   },
 }

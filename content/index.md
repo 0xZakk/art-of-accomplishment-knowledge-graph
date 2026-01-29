@@ -2,8 +2,6 @@
 title: Joe Hudson Zettelkasten
 ---
 
-# Joe Hudson's Work - A Zettelkasten
-
 This is a comprehensive knowledge base of **Joe Hudson's** teachings from the [Art of Accomplishment](https://www.youtube.com/@ArtofAccomplishment) YouTube channel.
 
 ## Navigation
