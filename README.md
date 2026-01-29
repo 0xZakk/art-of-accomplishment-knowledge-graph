@@ -6,7 +6,7 @@
 
 A comprehensive, interconnected knowledge base of **Joe Hudson's** teachings from the [Art of Accomplishment](https://www.youtube.com/@ArtofAccomplishment) YouTube channel — built as a Zettelkasten-style digital garden.
 
-## 🌱 Overview
+## Overview
 
 This project transforms Joe Hudson's entire YouTube catalog into a searchable, browsable knowledge graph. Each video becomes a **reference note** with full transcript, while key concepts are extracted into atomic **literature notes** that cross-link throughout the knowledge base.
 
@@ -15,7 +15,7 @@ This project transforms Joe Hudson's entire YouTube catalog into a searchable, b
 - Finding specific concepts or tracing ideas across videos was difficult
 - A Zettelkasten structure enables serendipitous discovery and deep exploration of interconnected ideas
 
-## ✨ Features
+## Features
 
 - **298 Videos Processed** — Every video from the Art of Accomplishment channel
 - **300 Reference Notes** — Each with embedded video, summary, key concepts, and full transcript
@@ -25,7 +25,7 @@ This project transforms Joe Hudson's entire YouTube catalog into a searchable, b
 - **Knowledge Graph** — Visual exploration of how ideas connect
 - **YouTube Integration** — Direct links and embedded players for source material
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 joe-hudson-zettelkasten-site/
@@ -60,7 +60,7 @@ joe-hudson-zettelkasten-site/
 - Fear & Anxiety
 - Leadership & Business
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -103,14 +103,14 @@ npx quartz build
 
 See the [Quartz hosting documentation](https://quartz.jzhao.xyz/hosting) for platform-specific guides (GitHub Pages, Vercel, Netlify, etc.).
 
-## 🔧 Configuration
+## Configuration
 
 Key configuration files:
 
 - **`quartz.config.ts`** — Site title, base URL, plugins, and features
 - **`quartz.layout.ts`** — Page layout and component arrangement
 
-## 📖 How It Works
+## How It Works
 
 ### Reference Notes
 Each reference note corresponds to a single YouTube video and contains:
@@ -131,7 +131,7 @@ Literature notes are atomic concept notes following Zettelkasten principles:
 ### Knowledge Graph
 Quartz automatically generates an interactive knowledge graph showing how notes connect, enabling visual exploration of Joe Hudson's interconnected teachings.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here are some ways to help:
 
@@ -142,13 +142,13 @@ Contributions are welcome! Here are some ways to help:
 
 Please read [AUTHORING.md](AUTHORING.md) for content guidelines.
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License — see [LICENSE.txt](LICENSE.txt) for details.
 
 **Note:** The content of Joe Hudson's teachings remains his intellectual property. This project is a fan-made educational resource for navigating and studying his publicly available YouTube content.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **[Joe Hudson](https://artofaccomplishment.com/)** — For sharing his profound teachings freely on YouTube
 - **[Art of Accomplishment](https://www.youtube.com/@ArtofAccomplishment)** — Source of all video content
@@ -158,5 +158,5 @@ This project is licensed under the MIT License — see [LICENSE.txt](LICENSE.txt
 ---
 
 <p align="center">
-  <em>Made with ❤️ for the Art of Accomplishment community</em>
+  <em>Made for the Art of Accomplishment community</em>
 </p>
