@@ -28,6 +28,7 @@ The solution is to "open your heart" to both the doubt and the feared emotions. 
 ## Key Concepts
 
 - [[literature-notes/doubt-as-emotional-protection|Doubt as emotional protection]]
+- [[literature-notes/doubt-protects-from-unwanted-emotions|Doubt protects you from emotions you don't want to feel]]
 - [[literature-notes/doubt-is-sin-of-heart|"Doubt is the sin of the heart"]]
 - [[literature-notes/open-heart-dissolves-doubt|Opening your heart dissolves doubt]]
 - [[literature-notes/emotional-inquiry-practice|Emotional inquiry practice]]
