@@ -25,6 +25,9 @@ Joe tells the story of the musk deer that spends its life searching for a beauti
 The episode extends into business, describing how companies that hook into authentic human desires (like a Dutch nursing company focused on patient self-reliance rather than efficiency metrics) massively outperform improvement-driven cultures. The fear of stagnation—the worry that without improvement we'll stop growing—actually invites the very stagnation it fears. Life can't stop moving.
 
 ## Key Concepts
+- [[literature-notes/authenticity-is-a-path-not-destination|Authenticity is a path of discovery, not a fixed destination]]
+- [[literature-notes/authenticity-transforms-business|Authenticity transforms business more effectively than improvement metrics]]
+- [[literature-notes/nature-knows-what-you-need-next|Your nature knows what you need next]]
 
 - [[literature-notes/discovery-not-improvement|Self-discovery, not self-improvement]]
 - [[literature-notes/authenticity-is-a-river-not-a-destination|Authenticity is a river, not a destination]]

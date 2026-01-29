@@ -1,6 +1,6 @@
 ---
 title: "Address root blockers, not surface symptoms"
-source: "[[reference-notes/master-class-isnt-for-you|How To Tell If The Master Class Isn't For You]]"
+source: "[[reference-notes/how-to-tell-if-master-class-isnt-for-you|How To Tell If The Master Class Isn't For You]]"
 related:
   - "[[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]"
   - "[[literature-notes/identity-you-cant-see-controls-you-most|The identity you can't see controls you most]]"
@@ -23,4 +23,4 @@ This is why to-do lists and willpower fail: they address symptoms. The blocker i
 
 ## Source
 
-- [[reference-notes/master-class-isnt-for-you|How To Tell If The Master Class Isn't For You]]
+- [[reference-notes/how-to-tell-if-master-class-isnt-for-you|How To Tell If The Master Class Isn't For You]]

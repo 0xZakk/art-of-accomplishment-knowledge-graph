@@ -23,6 +23,9 @@ Tara Howley, coach and co-founder of Art of Accomplishment, explores the journey
 The conversation covers what facilitates integration—movement, breath, walking, being with the insight without rushing to action—and what sabotages it: fear of losing the insight, beating yourself up for old patterns, defending your knowing, confusing the ecstatic state of the epiphany with the insight itself, or turning the insight into a new identity rather than letting it settle into the body. Tara explains that emotions are the "glue" holding old belief systems in place, and integration requires those emotions to move—anger, grief, and fear all need to be felt for the insight to fully land.
 
 ## Key Concepts
+- [[literature-notes/confusing-state-with-insight|Confusing the ecstatic state with the insight itself sabotages integration]]
+- [[literature-notes/emotions-are-glue-holding-beliefs|Emotions are the glue holding old beliefs in place]]
+- [[literature-notes/insight-requires-embodied-integration|Insight requires embodied integration to become wisdom]]
 
 - [[literature-notes/insight-is-not-wisdom-until-embodied|Insight is not wisdom until embodied]]
 - [[literature-notes/emotions-are-the-glue-holding-beliefs-in-place|Emotions are the glue holding beliefs in place]]

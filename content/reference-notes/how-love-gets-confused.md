@@ -24,6 +24,7 @@ The practical implications are enormous: attraction patterns that keep pulling u
 The way out involves three things: learning to love yourself the way you always wanted to be loved, allowing heartbreak (which is actually a "breaking open," an expansion of capacity), and taking contrary action to break conditioned patterns. Joe emphasizes that heartbreak doesn't break you—it expands your capacity to love.
 
 ## Key Concepts
+- [[literature-notes/false-love-erodes-power-in-relationships|Maintaining false love erodes power and attraction in relationships]]
 
 - [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]]
 - [[literature-notes/what-we-do-for-love-erodes-power|What we do to maintain love erodes our power]]

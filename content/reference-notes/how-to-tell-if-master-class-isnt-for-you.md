@@ -27,6 +27,9 @@ Joe outlines who shouldn't take the course: people who use skepticism before rat
 The conversation also covers how to get the most from the work (embracing intensity), how resistance in a course mirrors resistance in life, how "shoulds" create stagnation while "wants" open things up, and the power of weekly experiments done over time versus weekend intensives. Joe walks listeners through a visualization exercise to determine if the course is right for them.
 
 ## Key Concepts
+- [[literature-notes/address-root-blockers-not-symptoms|Address root blockers, not surface symptoms]]
+- [[literature-notes/sincerity-is-prerequisite-for-transformation|Sincerity is the prerequisite for transformation]]
+- [[literature-notes/skepticism-after-not-before-experiments|Skepticism belongs after the experiment, not before]]
 
 - [[literature-notes/address-blockers-not-symptoms|Address what blocks you, not the surface symptom]]
 - [[literature-notes/skepticism-before-experiment-destroys-it|Skepticism before an experiment destroys the experiment]]

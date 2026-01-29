@@ -24,6 +24,7 @@ Rather than trying to force feeling, Joe works with the person's blankness itsel
 The session surfaces the person's need to cry—a lot—and Joe normalizes this, sharing that after 14 years of not crying, he once cried for four days straight. The key teaching: the blank space doesn't have to go away when emotions arrive. Tears don't disturb the quiet; they just help the body.
 
 ## Key Concepts
+- [[literature-notes/high-achieving-can-mask-emotional-numbness|High achievement can completely mask emotional numbness]]
 
 - [[literature-notes/joy-wont-come-where-children-unwelcome|Joy won't come into a house where her children aren't welcome]]
 - [[literature-notes/numbness-as-survival-gift|Emotional numbness can be a survival gift, not a deficit]]

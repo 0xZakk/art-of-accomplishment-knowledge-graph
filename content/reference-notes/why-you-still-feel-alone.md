@@ -25,6 +25,8 @@ Joe identifies the core issue: Samson subtly puts himself above others as a form
 The breakthrough Joe describes from his own life was being put in a situation of complete helplessness, where none of his skill or intelligence could help. That experience dissolved the subtle superiority permanently. The feeling of aloneness isn't true — as Joe tells CEOs who feel alone despite having thousands of people whose concern is their happiness — but the avoidance of helplessness makes it feel real.
 
 ## Key Concepts
+- [[literature-notes/being-held-requires-dropping-the-performance|Being held requires dropping the performance]]
+- [[literature-notes/helplessness-dissolves-false-self-reliance|Helplessness dissolves false self-reliance]]
 
 - [[literature-notes/holding-it-together-blocks-support|Holding it together shields you from the support trying to reach you]]
 - [[literature-notes/subtle-superiority-as-protection|Subtle superiority is a protection pattern that creates isolation]]

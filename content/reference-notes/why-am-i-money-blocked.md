@@ -22,6 +22,8 @@ In a live coaching Q&A, a participant asks how to deal with money without freezi
 Joe demonstrates that going directly into the feeling of unsafety—rather than avoiding it—immediately shifts the person's sense of empowerment. But when the participant says they'll "make it a practice," Joe warns this will become another source of self-abuse (failing to do it, beating yourself up). The real answer comes unexpectedly: appreciation and connection. When the person receives Joe's appreciation, something shifts viscerally—that moment of genuine connection is the actual antidote to the safety wound.
 
 ## Key Concepts
+- [[literature-notes/facing-fear-builds-empowerment|Facing the feeling you're avoiding is how empowerment comes]]
+- [[literature-notes/money-blocks-mask-deeper-fears|Money blocks usually mask a deeper relationship with safety]]
 
 - [[literature-notes/money-blocks-are-safety-blocks|Money blocks are often safety blocks]]
 - [[literature-notes/appreciation-dissolves-unsafety|Appreciation and connection dissolve unsafety]]

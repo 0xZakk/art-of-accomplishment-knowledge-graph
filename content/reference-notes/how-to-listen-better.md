@@ -24,6 +24,8 @@ He explains that *how* you listen matters enormously: listening with judgment cl
 The practical advice is counterintuitive: the fastest way to become a better listener to others is to practice listening to yourself with unconditional acceptance — even just 1-2 minutes a day. He closes with a client story where simply listening with unconditional acceptance transformed both a marriage and a business.
 
 ## Key Concepts
+- [[literature-notes/active-listening-is-asking-questions|Active listening means asking questions, not just receiving]]
+- [[literature-notes/listen-to-yourself-with-unconditional-acceptance|Listening to yourself with unconditional acceptance is the fastest path to listening well]]
 
 - [[literature-notes/unconditional-listening-transforms-relationships|Listening with unconditional acceptance transforms relationships]]
 - [[literature-notes/asking-questions-is-active-listening|Asking questions is the most powerful form of active listening]]

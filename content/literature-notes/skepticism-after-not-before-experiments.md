@@ -1,6 +1,6 @@
 ---
 title: "Skepticism belongs after the experiment, not before"
-source: "[[reference-notes/master-class-isnt-for-you|How To Tell If The Master Class Isn't For You]]"
+source: "[[reference-notes/how-to-tell-if-master-class-isnt-for-you|How To Tell If The Master Class Isn't For You]]"
 related:
   - "[[literature-notes/sincerity-is-prerequisite-for-transformation|Sincerity is the prerequisite for transformation]]"
   - "[[literature-notes/discovery-not-improvement|Transformation is discovery, not improvement]]"
@@ -26,4 +26,4 @@ The antidote isn't credulity—it's sequencing. Stay open during the experiment,
 
 ## Source
 
-- [[reference-notes/master-class-isnt-for-you|How To Tell If The Master Class Isn't For You]]
+- [[reference-notes/how-to-tell-if-master-class-isnt-for-you|How To Tell If The Master Class Isn't For You]]

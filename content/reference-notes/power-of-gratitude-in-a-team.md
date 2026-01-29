@@ -26,6 +26,11 @@ He illustrates with a story from Vietnam: a Save the Children worker with $50,00
 Brett raises the objection that skeptical team members may see gratitude as "positive dissociation." Joe responds: frame it as an experiment with measurable outcomes over three weeks, make clear it's about seeing all the data (not being Pollyannaish), and call out anyone half-assing it. If the team doesn't feel it's beneficial, find another tool.
 
 ## Key Concepts
+- [[literature-notes/felt-gratitude-not-performed-gratitude|Gratitude must be felt in the body, not just performed]]
+- [[literature-notes/find-what-already-works-and-amplify-it|Find what already works and amplify it rather than importing external solutions]]
+- [[literature-notes/find-whats-working-and-spread-it|Find what's already working and spread it rather than fixing what's broken]]
+- [[literature-notes/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant—gratitude resistance comes from fear of being unprepared]]
+- [[literature-notes/self-criticism-intensifies-with-intelligence|Self-criticism intensifies with intelligence—the smarter you are, the more nuanced your inner critic]]
 
 - [[literature-notes/gratitude-reveals-solutions-in-problems|Gratitude directed at a problem reveals solutions within it]]
 - [[literature-notes/negativity-bias-limits-intelligent-people|Negativity bias especially limits intelligent people]]

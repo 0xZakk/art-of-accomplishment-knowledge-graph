@@ -23,6 +23,7 @@ Joe guides him through a simple progression: feel your vocal cords vibrating as 
 The breakthrough comes through a tennis analogy: the client already knows how to be in his body during flow states on the court. Joe reframes the task as simply "playing tennis in life"—bringing that same embodied awareness into conversation and daily living. When the client speaks from his body rather than his head, the shift is visible on camera.
 
 ## Key Concepts
+- [[literature-notes/play-tennis-in-life|Apply your embodied skill from one domain to all of life]]
 
 - [[literature-notes/attention-is-feeling|Attention directed at the body is already feeling]]
 - [[literature-notes/flow-state-is-embodiment|Flow state in sport is the same skill as embodiment in life]]

@@ -1,6 +1,6 @@
 ---
 title: "Sincerity is the prerequisite for transformation"
-source: "[[reference-notes/master-class-isnt-for-you|How To Tell If The Master Class Isn't For You]]"
+source: "[[reference-notes/how-to-tell-if-master-class-isnt-for-you|How To Tell If The Master Class Isn't For You]]"
 related:
   - "[[literature-notes/skepticism-after-not-before-experiments|Skepticism belongs after the experiment, not before]]"
   - "[[literature-notes/discovery-not-improvement|Transformation is discovery, not improvement]]"
@@ -26,4 +26,4 @@ This is both a filter and a teaching: if you can't be sincere about where you ar
 
 ## Source
 
-- [[reference-notes/master-class-isnt-for-you|How To Tell If The Master Class Isn't For You]]
+- [[reference-notes/how-to-tell-if-master-class-isnt-for-you|How To Tell If The Master Class Isn't For You]]

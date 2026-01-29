@@ -24,6 +24,8 @@ Through reframing, Joe helps the caller discover that money = freedom = confirma
 Joe guides the caller through recognizing negative self-talk ("ouch" exercise) and then into self-compassion. When the caller feels genuine compassion for the scared part of himself, freedom is already present — money wasn't even on the radar. Joe suggests the order of operations: self-love first, then money becomes easier.
 
 ## Key Concepts
+- [[literature-notes/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
+- [[literature-notes/wrong-question-keeps-you-stuck|Asking the wrong question keeps you stuck for years]]
 
 - [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]]
 - [[literature-notes/depersonalizing-money-creates-freedom|Depersonalizing money creates freedom]]
