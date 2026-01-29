@@ -55,10 +55,6 @@ The goal isn't to become emotionally perfect but to develop fluidity—the abili
 
 Joe's approach to emotions ultimately offers a path to what he calls [[literature-notes/emotional-fluidity-defined|emotional fluidity]]—the ability to feel all emotions without resistance, allowing them to flow through and deliver their gifts before naturally moving on to whatever wants to be felt next. This fluency transforms suffering from a problem to be solved into a teacher to be welcomed.
 
-## Literature Notes
-
-- [[literature-notes/grief-of-self-abandonment|Grief of self-abandonment]]
-
 ## Reference Notes
 
 *More content coming as videos are processed.*

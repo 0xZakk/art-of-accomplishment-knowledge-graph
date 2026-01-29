@@ -57,11 +57,6 @@ The goal isn't to achieve perfect self-knowledge but to develop ongoing curiosit
 
 Self-awareness, in Joe's understanding, ultimately serves freedom—not the freedom from being human, but the freedom to be human without resistance. This creates space for authentic choice rather than unconscious reactivity, and genuine connection rather than defended performance.
 
-## Literature Notes
-
-- [[literature-notes/the-expansiveness-of-I-Am|The expansiveness of I Am]]
-- [[literature-notes/doubt-is-leaving-your-heart|Doubt is leaving your heart]]
-
 ## Reference Notes
 
 *More content coming as videos are processed.*

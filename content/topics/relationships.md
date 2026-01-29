@@ -65,10 +65,6 @@ Perhaps Joe's most profound insight is that healthy relationships require the ca
 
 This creates relationships based on choice rather than need, presence rather than performance, and growth rather than comfort. The result isn't perfect harmony—it's authentic connection that can hold the full range of human experience without breaking.
 
-## Literature Notes
-
-*Coming soon.*
-
 ## Reference Notes
 
 *Coming soon.*

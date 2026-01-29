@@ -61,10 +61,6 @@ Joe's work reveals specific patterns that maintain shame cycles. [[literature-no
 
 Joe's approach to shame ultimately offers a pathway from self-imprisonment to self-acceptance, revealing that what we've been taught to see as evidence of brokenness is actually evidence of our capacity to love and care. This fundamental shift in perspective opens possibilities for healing that go far beyond behavior change to touch the core of human worth and belonging.
 
-## Literature Notes
-
-*Coming soon.*
-
 ## Reference Notes
 
 *Coming soon.*
