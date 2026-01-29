@@ -1,5 +1,6 @@
 ---
 title: "Purpose & Meaning"
+hidePageList: true
 ---
 
 Joe Hudson's teachings on purpose and meaning present perhaps his most paradoxical and profound insight: [[literature-notes/searching-for-purpose-avoids-it|the very act of searching for purpose is how we avoid it]]. This understanding completely transforms the conventional approach to finding meaning in life, revealing that what we've been taught to do—look, seek, search—is precisely what keeps us from what we want most.

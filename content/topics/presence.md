@@ -1,5 +1,6 @@
 ---
 title: "Presence & Authenticity"
+hidePageList: true
 ---
 
 Joe Hudson's teachings on presence reveal one of life's great paradoxes: the very thing we're searching for everywhere else—authentic connection, meaning, peace—is available right here in the simple, direct experience of "I am." Yet [[literature-notes/the-expansiveness-of-I-Am|the expansiveness of truly being ourselves can be terrifying to the mind]], leading us to develop elaborate protective mechanisms that keep us from the very presence we long for.
