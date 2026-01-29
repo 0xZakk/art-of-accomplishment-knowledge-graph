@@ -22,9 +22,9 @@ This connects owning the dark parts of yourself to healing. Hiding yourself is s
 
 ## Related Concepts
 
-- [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt not fought]] - How to work with this shame
-- [[literature-notes/grief-is-necessary-for-transformation|Grief is necessary for transformation]] - Grief as precursor to love
-- [[literature-notes/grief-of-self-abandonment|Grief of self-abandonment]] - The specific grief
+- [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt not fought]]
+- [[literature-notes/grief-is-necessary-for-transformation|Grief is necessary for transformation]]
+- [[literature-notes/grief-of-self-abandonment|Grief of self-abandonment]]
 
 ## Source
 

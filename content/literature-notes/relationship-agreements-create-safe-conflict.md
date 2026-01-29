@@ -22,9 +22,9 @@ The agreements don't prevent conflict—they create the container that makes con
 
 ## Related Concepts
 
-- [[literature-notes/fights-can-heal-or-retraumatize|Fights can heal trauma or re-traumatize depending on safety]] - Why these agreements matter
-- [[literature-notes/allowing-conflict-not-creating-it|Allowing conflict, not creating it]] - The right orientation toward conflict
-- [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]] - What happens without safe conflict
+- [[literature-notes/fights-can-heal-or-retraumatize|Fights can heal trauma or re-traumatize depending on safety]]
+- [[literature-notes/allowing-conflict-not-creating-it|Allowing conflict, not creating it]]
+- [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]]
 - [[literature-notes/safe-agreements-make-conflict-transformative|Safe agreements make conflict transformative]]
 - [[literature-notes/safety-enables-productive-conflict|Safety enables productive conflict rather than preventing it]]
 - [[literature-notes/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]

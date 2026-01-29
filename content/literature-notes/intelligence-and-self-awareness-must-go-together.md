@@ -20,9 +20,9 @@ This has implications for AI: if emotions play a fundamental role in decision-ma
 
 ## Related Concepts
 
-- [[literature-notes/all-decisions-are-emotional|All decisions are emotional]] - The neurological basis for why intelligence requires emotional capacity
-- [[literature-notes/three-brains-of-transformation|Three brains of transformation]] - How intellect, emotion, and nervous system must work together
-- [[literature-notes/attunement-to-self-produces-intuition|Attunement to self produces intuition]] - Self-awareness as the source of intelligent action
+- [[literature-notes/all-decisions-are-emotional|All decisions are emotional]]
+- [[literature-notes/three-brains-of-transformation|Three brains of transformation]]
+- [[literature-notes/attunement-to-self-produces-intuition|Attunement to self produces intuition]]
 
 ## Source
 

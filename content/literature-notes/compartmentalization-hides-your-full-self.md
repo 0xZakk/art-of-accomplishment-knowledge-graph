@@ -22,9 +22,9 @@ Compartmentalization doesn't eliminate the hidden parts. It just makes them invi
 
 ## Related Concepts
 
-- [[literature-notes/independence-as-armor-against-abandonment|Independence as armor against abandonment]] - Another protective strategy from the same wound
-- [[literature-notes/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]] - What compartmentalization costs
-- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]] - Another defense against feeling
+- [[literature-notes/independence-as-armor-against-abandonment|Independence as armor against abandonment]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]]
+- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]]
 - [[literature-notes/containing-emotions-to-connect-disconnects-you|Containing emotions to connect actually disconnects you]]
 
 ## Source

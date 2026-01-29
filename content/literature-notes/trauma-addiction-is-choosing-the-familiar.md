@@ -22,9 +22,9 @@ This explains why insight alone doesn't break the cycle. The pull toward the fam
 
 ## Related Concepts
 
-- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]] - The same pattern in relationships
-- [[literature-notes/feeling-the-held-back-emotion-ends-trauma-repetition|Feeling the held-back emotion ends trauma repetition]] - The way out
-- [[literature-notes/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic not just intellectual]] - Why it's body-level
+- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]]
+- [[literature-notes/feeling-the-held-back-emotion-ends-trauma-repetition|Feeling the held-back emotion ends trauma repetition]]
+- [[literature-notes/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic not just intellectual]]
 - [[literature-notes/attachment-is-bigger-than-trauma-events|Attachment is bigger than traumatic events]]
 
 ## Source

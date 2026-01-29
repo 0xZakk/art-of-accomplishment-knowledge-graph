@@ -22,9 +22,9 @@ The key insight from Lynn Twist's *The Soul of Money* was that money can either 
 
 ## Related Concepts
 
-- [[literature-notes/money-beliefs-create-money-reality|Money beliefs create money reality]] - How projections shape actual financial outcomes
-- [[literature-notes/money-as-oppression-or-empowerment|Money as oppression or empowerment]] - The dual projection
-- [[literature-notes/money-wounds-trace-to-parent-wounds|Money wounds trace to parent wounds]] - The deepest layer of projection
+- [[literature-notes/money-beliefs-create-money-reality|Money beliefs create money reality]]
+- [[literature-notes/money-as-oppression-or-empowerment|Money as oppression or empowerment]]
+- [[literature-notes/money-wounds-trace-to-parent-wounds|Money wounds trace to parent wounds]]
 - [[literature-notes/money-resistance-mirrors-childhood-wounds|Money resistance often mirrors childhood wounds around love and worth]]
 - [[literature-notes/money-as-the-sun|Money is like the sun — abundant, neutral, and everywhere]]
 - [[literature-notes/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood emotional patterns]]

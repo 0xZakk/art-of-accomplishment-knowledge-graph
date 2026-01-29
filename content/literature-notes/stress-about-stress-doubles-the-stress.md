@@ -22,9 +22,9 @@ Crucially, you can't just pep-talk your way out — if your body is still reject
 
 ## Related Concepts
 
-- [[literature-notes/attention-alone-reduces-stress|Paying attention to stress without trying to change it reduces it]] - The experiential demonstration of this principle
-- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]] - Obligation thinking as a specific stress creator
-- [[literature-notes/inner-critic-speaks-from-care|The inner critic speaks from care]] - Understanding the voice that creates thought-stress
+- [[literature-notes/attention-alone-reduces-stress|Paying attention to stress without trying to change it reduces it]]
+- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]]
+- [[literature-notes/inner-critic-speaks-from-care|The inner critic speaks from care]]
 
 ## Source
 

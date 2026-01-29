@@ -23,9 +23,9 @@ Identity plays a key role too: "If my identity is 'I'm the one that is calm in t
 
 ## Related Concepts
 
-- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]] - Childhood patterns repeated in adult relationships
-- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - How identity maintains familiar patterns
-- [[literature-notes/attunement-patterns-become-adult-cycles|Attunement patterns become adult cycles]] - Childhood emotional patterns becoming adult habits
+- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]]
+- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
+- [[literature-notes/attunement-patterns-become-adult-cycles|Attunement patterns become adult cycles]]
 - [[literature-notes/identity-stress-comes-from-defending-a-fixed-self|Identity stress comes from defending a fixed self-concept]]
 
 ## Source

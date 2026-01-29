@@ -23,9 +23,9 @@ The stagnation happens because shame prevents movement. When people are in shame
 
 ## Related Concepts
 
-- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]] - The individual-level pattern
-- [[literature-notes/shame-hot-potato|Shame gets passed back and forth in fights]] - The mechanism of passing shame
-- [[literature-notes/shame-locks-in-bad-habits|Shame locks in bad habits]] - Why shame perpetuates rather than corrects
+- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]]
+- [[literature-notes/shame-hot-potato|Shame gets passed back and forth in fights]]
+- [[literature-notes/shame-locks-in-bad-habits|Shame locks in bad habits]]
 - [[literature-notes/fighting-without-shame-transforms-conflict|Fighting without shame transforms conflict]]
 - [[literature-notes/upright-apology-changes-behavior|An upright apology actually changes behavior]]
 

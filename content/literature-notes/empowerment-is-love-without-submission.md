@@ -23,9 +23,9 @@ The session reveals that balance between two people requires love — but not th
 
 ## Related Concepts
 
-- [[literature-notes/empowerment-and-unconditional-love-are-the-same|Empowerment and unconditional love are the same]] - The broader equivalence
-- [[literature-notes/fight-or-collapse-is-a-false-dichotomy|Fight or collapse is a false dichotomy born from power-over thinking]] - What empowerment transcends
-- [[literature-notes/boundaries-and-openness-are-the-same-thing|Boundaries and openness are the same thing]] - The paradox of bounded openness
+- [[literature-notes/empowerment-and-unconditional-love-are-the-same|Empowerment and unconditional love are the same]]
+- [[literature-notes/fight-or-collapse-is-a-false-dichotomy|Fight or collapse is a false dichotomy born from power-over thinking]]
+- [[literature-notes/boundaries-and-openness-are-the-same-thing|Boundaries and openness are the same thing]]
 
 ## Source
 

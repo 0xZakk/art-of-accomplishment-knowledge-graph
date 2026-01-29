@@ -22,9 +22,9 @@ The experience of emotions fundamentally changes based on whether you resist the
 
 ## Related Concepts
 
-- [[literature-notes/emotional-fluidity-defined|Emotional fluidity is feeling all emotions without resistance]] - The core definition
-- [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]] - Joy as the natural state when all emotions are welcome
-- [[literature-notes/anger-unresisted-is-determination|Anger unresisted becomes determination and clarity]] - A specific example of transformation through welcoming
+- [[literature-notes/emotional-fluidity-defined|Emotional fluidity is feeling all emotions without resistance]]
+- [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]]
+- [[literature-notes/anger-unresisted-is-determination|Anger unresisted becomes determination and clarity]]
 - [[literature-notes/discomfort-is-the-resistance-not-the-emotion|The discomfort of emotions is the resistance to them, not the emotions themselves]]
 - [[literature-notes/resistance-changes-the-emotion|Resisting an emotion changes its expression entirely]]
 - [[literature-notes/resistance-creates-the-feared-outcome|Resisting an emotion creates the very outcome you fear]]

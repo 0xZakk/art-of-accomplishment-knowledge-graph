@@ -19,8 +19,8 @@ Tara illustrates this with their dish fights: when stuck in "you're not doing en
 
 ## Related Concepts
 
-- [[literature-notes/every-fight-is-about-feeling-unseen|Every fight is about feeling unseen]] - The same insight from a different episode
-- [[literature-notes/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]] - The symmetry of the dynamic
+- [[literature-notes/every-fight-is-about-feeling-unseen|Every fight is about feeling unseen]]
+- [[literature-notes/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
 
 ## Source
 

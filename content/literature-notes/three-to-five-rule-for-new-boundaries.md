@@ -20,9 +20,9 @@ About 70-80% of relationships survive transformation; 20-30% fall away when peop
 
 ## Related Concepts
 
-- [[literature-notes/boundaries-declare-your-action-not-theirs|Boundaries declare your action, not theirs]] - The form boundaries take
-- [[literature-notes/boundary-firmness-eliminates-fear-of-attack|Boundary firmness eliminates fear of attack]] - Why consistency matters
-- [[literature-notes/belief-precedes-relationship-change|Belief precedes relationship change]] - Internal shift before external
+- [[literature-notes/boundaries-declare-your-action-not-theirs|Boundaries declare your action, not theirs]]
+- [[literature-notes/boundary-firmness-eliminates-fear-of-attack|Boundary firmness eliminates fear of attack]]
+- [[literature-notes/belief-precedes-relationship-change|Belief precedes relationship change]]
 - [[literature-notes/relationship-agreements-create-safe-conflict|Relationship agreements create a safe playing field for conflict]]
 
 ## Source

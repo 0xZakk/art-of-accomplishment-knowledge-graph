@@ -21,8 +21,8 @@ When you constrict and defend, that's the signal that you've lost permeability. 
 
 ## Related Concepts
 
-- [[literature-notes/receiving-compliments-dissolves-unworthiness|Receiving compliments dissolves unworthiness]] - The parallel challenge of receiving positive acknowledgment
-- [[literature-notes/receiving-requires-vulnerability|Receiving requires vulnerability]] - The vulnerability inherent in letting things in
+- [[literature-notes/receiving-compliments-dissolves-unworthiness|Receiving compliments dissolves unworthiness]]
+- [[literature-notes/receiving-requires-vulnerability|Receiving requires vulnerability]]
 
 ## Source
 

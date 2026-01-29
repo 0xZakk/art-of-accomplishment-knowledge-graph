@@ -23,8 +23,8 @@ This works because authority issues, at their root, come from not feeling seen: 
 
 ## Related Concepts
 
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Being seen requires authenticity first
-- [[literature-notes/speaking-truth-requires-open-heart-not-management|Speaking truth requires an open heart, not management]] - Seeing others requires openheartedness
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
+- [[literature-notes/speaking-truth-requires-open-heart-not-management|Speaking truth requires an open heart, not management]]
 
 ## Source
 

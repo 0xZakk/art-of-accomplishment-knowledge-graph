@@ -20,9 +20,9 @@ The key was that he wasn't ideological about the path. Many seekers get trapped 
 
 ## Related Concepts
 
-- [[literature-notes/experiential-learning-over-intellectual-understanding|Experiential learning over intellectual understanding]] - Tools must be practiced, not just studied
-- [[literature-notes/transformation-requires-experience-not-information|Transformation requires experience, not information]] - The principle behind Joe's approach
-- [[literature-notes/sincerity-is-prerequisite-for-transformation|Sincerity is prerequisite for transformation]] - The desperate drive that made collecting tools effective
+- [[literature-notes/experiential-learning-over-intellectual-understanding|Experiential learning over intellectual understanding]]
+- [[literature-notes/transformation-requires-experience-not-information|Transformation requires experience, not information]]
+- [[literature-notes/sincerity-is-prerequisite-for-transformation|Sincerity is prerequisite for transformation]]
 
 ## Source
 

@@ -21,9 +21,9 @@ The antidote is simple: notice the judgment, then ask "What am I trying not to f
 
 ## Related Concepts
 
-- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]] - Judgment of self serves the same defensive function
-- [[literature-notes/triggers-reveal-self-judgment|Triggers reveal what we judge in ourselves]] - What triggers us externally mirrors internal judgment
-- [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]] - Judgment closes down our capacity to hear
+- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]]
+- [[literature-notes/triggers-reveal-self-judgment|Triggers reveal what we judge in ourselves]]
+- [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]]
 - [[literature-notes/judgment-repels-connection|Judgment repels the connection you actually want]]
 - [[literature-notes/judgment-signals-unfelt-emotion|Judgment toward others signals an unfelt emotion in yourself]]
 - [[literature-notes/letting-judgment-break-your-heart-open|Letting judgment break your heart open is the path through]]

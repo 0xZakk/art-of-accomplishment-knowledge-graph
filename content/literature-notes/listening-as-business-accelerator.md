@@ -25,10 +25,10 @@ When organizations lose creative capacity ("we're not creating new anymore, we'r
 
 ## Related Concepts
 
-- [[literature-notes/empathy-transforms-business-interactions|Empathy transforms business interactions]] - Empathy as a business force
-- [[literature-notes/sales-is-connecting-not-convincing|Sales is connecting, not convincing]] - Listening-first approach to sales
-- [[literature-notes/trust-is-the-universal-ingredient-of-functional-teams|Trust is the universal ingredient of functional teams]] - Trust requires being heard
-- [[literature-notes/product-designed-by-connection-not-ideas|Product designed by connection, not ideas]] - Products emerge from listening
+- [[literature-notes/empathy-transforms-business-interactions|Empathy transforms business interactions]]
+- [[literature-notes/sales-is-connecting-not-convincing|Sales is connecting, not convincing]]
+- [[literature-notes/trust-is-the-universal-ingredient-of-functional-teams|Trust is the universal ingredient of functional teams]]
+- [[literature-notes/product-designed-by-connection-not-ideas|Product designed by connection, not ideas]]
 - [[literature-notes/asking-questions-is-active-listening|Asking questions is the most powerful form of active listening]]
 
 ## Source

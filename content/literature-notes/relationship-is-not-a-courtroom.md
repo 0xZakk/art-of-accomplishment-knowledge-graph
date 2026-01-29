@@ -22,9 +22,9 @@ This reframe turns conflict from a zero-sum game (someone must be wrong) into a 
 
 ## Related Concepts
 
-- [[literature-notes/seeing-their-truth-not-finding-the-truth|Seeing their truth, not finding 'the' truth]] - The alternative to adjudication
-- [[literature-notes/blame-is-an-unowned-want|Blame is an unowned want]] - What blame does in the courtroom dynamic
-- [[literature-notes/never-compromise-find-solutions-for-both|Never compromise — find solutions that work for both]] - Finding solutions without the courtroom
+- [[literature-notes/seeing-their-truth-not-finding-the-truth|Seeing their truth, not finding 'the' truth]]
+- [[literature-notes/blame-is-an-unowned-want|Blame is an unowned want]]
+- [[literature-notes/never-compromise-find-solutions-for-both|Never compromise — find solutions that work for both]]
 
 ## Source
 

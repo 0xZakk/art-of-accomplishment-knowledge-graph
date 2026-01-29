@@ -22,9 +22,9 @@ This connects to why acknowledging death compresses life: the peace isn't someth
 
 ## Related Concepts
 
-- [[literature-notes/stillness-is-always-available|Stillness is always available]] - The peace revealed by near-death was always accessible
-- [[literature-notes/freedom-is-recognized-not-achieved|Freedom is recognized not achieved]] - Freedom isn't something you build; you see it was always here
-- [[literature-notes/source-is-always-there-just-drop-down|Source is always there, just drop down]] - The source of peace is constant; we just need to drop into it
+- [[literature-notes/stillness-is-always-available|Stillness is always available]]
+- [[literature-notes/freedom-is-recognized-not-achieved|Freedom is recognized not achieved]]
+- [[literature-notes/source-is-always-there-just-drop-down|Source is always there, just drop down]]
 - [[literature-notes/acknowledging-death-compresses-life|Acknowledging death compresses and intensifies life]]
 - [[literature-notes/the-abyss-is-where-you-dont-exist|The abyss we fear is the place where we don't exist]]
 

@@ -22,9 +22,9 @@ The pattern is common: the people who lock down the hardest often have the most 
 
 ## Related Concepts
 
-- [[literature-notes/composure-is-self-imprisonment|Forced composure is self-imprisonment]] - The mechanism of lockdown
-- [[literature-notes/pleasure-grounds-the-sensitive-system|Pleasure and sensation ground the sensitive system]] - The practice for reopening
-- [[literature-notes/dissociation-as-double-edged-sword|Dissociation as double-edged sword]] - Another form of locking down
+- [[literature-notes/composure-is-self-imprisonment|Forced composure is self-imprisonment]]
+- [[literature-notes/pleasure-grounds-the-sensitive-system|Pleasure and sensation ground the sensitive system]]
+- [[literature-notes/dissociation-as-double-edged-sword|Dissociation as double-edged sword]]
 
 ## Source
 

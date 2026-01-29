@@ -22,9 +22,9 @@ Joe and Brett applied this to the podcast itself — they recorded tons of episo
 
 ## Related Concepts
 
-- [[literature-notes/iterative-mindset-dissolves-procrastination|An iterative mindset dissolves procrastination]] - The broader framework
-- [[literature-notes/iteration-beats-perfection|Iteration beats perfection]] - Why multiple passes work
-- [[literature-notes/importance-kills-enjoyment|Importance kills enjoyment]] - What happens when you make it precious
+- [[literature-notes/iterative-mindset-dissolves-procrastination|An iterative mindset dissolves procrastination]]
+- [[literature-notes/iteration-beats-perfection|Iteration beats perfection]]
+- [[literature-notes/importance-kills-enjoyment|Importance kills enjoyment]]
 
 ## Source
 

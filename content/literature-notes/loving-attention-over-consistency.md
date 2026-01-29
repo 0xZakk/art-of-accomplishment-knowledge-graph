@@ -18,8 +18,8 @@ This distinction is crucial because many parents misinterpret connection-based p
 
 ## Related Concepts
 
-- [[literature-notes/connection-is-the-core-of-parenting|Connection is the core need in parenting]] - The broader framework
-- [[literature-notes/holding-space-requires-staying-in-yourself|Holding space requires staying in yourself]] - The same principle in adult contexts
+- [[literature-notes/connection-is-the-core-of-parenting|Connection is the core need in parenting]]
+- [[literature-notes/holding-space-requires-staying-in-yourself|Holding space requires staying in yourself]]
 
 ## Source
 

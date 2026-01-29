@@ -22,8 +22,8 @@ When Brett deeply accepted that there is no finish line, no "done," he immediate
 
 ## Related Concepts
 
-- [[literature-notes/conditional-happiness-is-a-limiting-belief|Conditional happiness is a limiting belief]] - The broader pattern of making happiness contingent on achieving something
-- [[literature-notes/enjoyment-is-available-now-not-later|Enjoyment is available now, not in some future you're chasing]] - Enjoyment exists in the present, not at the finish line
+- [[literature-notes/conditional-happiness-is-a-limiting-belief|Conditional happiness is a limiting belief]]
+- [[literature-notes/enjoyment-is-available-now-not-later|Enjoyment is available now, not in some future you're chasing]]
 
 ## Source
 

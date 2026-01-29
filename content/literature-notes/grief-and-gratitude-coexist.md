@@ -23,9 +23,9 @@ These aren't sequential or alternating — they coexist. The heart doesn't resol
 
 ## Related Concepts
 
-- [[literature-notes/grief-is-necessary-for-transformation|Grief is necessary for transformation]] - Why the grief can't be skipped
-- [[literature-notes/felt-gratitude-not-performed-gratitude|Felt gratitude not performed gratitude]] - Gratitude that emerges vs. gratitude that's manufactured
-- [[literature-notes/denial-has-a-functional-purpose|Denial has a functional purpose]] - The mind's parallel process
+- [[literature-notes/grief-is-necessary-for-transformation|Grief is necessary for transformation]]
+- [[literature-notes/felt-gratitude-not-performed-gratitude|Felt gratitude not performed gratitude]]
+- [[literature-notes/denial-has-a-functional-purpose|Denial has a functional purpose]]
 
 ## Source
 

@@ -22,9 +22,9 @@ When a debt collector compartmentalizes their heart and goes in hard, the custom
 
 ## Related Concepts
 
-- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - The personal version of this principle
-- [[literature-notes/connection-enables-accomplishment|Connection enables accomplishment]] - Why authentic connection drives results
-- [[literature-notes/internal-alignment-mirrors-organizational-alignment|Internal alignment mirrors organizational alignment]] - The inner-outer business parallel
+- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]]
+- [[literature-notes/connection-enables-accomplishment|Connection enables accomplishment]]
+- [[literature-notes/internal-alignment-mirrors-organizational-alignment|Internal alignment mirrors organizational alignment]]
 
 ## Source
 

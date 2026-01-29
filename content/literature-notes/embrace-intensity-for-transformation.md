@@ -21,8 +21,8 @@ This also means the defense mechanism of dismissal — "we've done something lik
 
 ## Related Concepts
 
-- [[literature-notes/do-the-uncomfortable-thing-first|Do the uncomfortable thing first]] - Intensity means voluntarily engaging discomfort
-- [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]] - Intensity includes welcoming uncomfortable emotions
+- [[literature-notes/do-the-uncomfortable-thing-first|Do the uncomfortable thing first]]
+- [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]]
 - [[literature-notes/embracing-not-creating-intensity|Embracing intensity means welcoming what's already present, not manufacturing challenge]]
 - [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 

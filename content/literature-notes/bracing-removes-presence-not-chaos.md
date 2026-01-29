@@ -22,10 +22,10 @@ When the man imagines being "recklessly enthusiastic" and then drops the bracing
 
 ## Related Concepts
 
-- [[literature-notes/ask-what-am-i-bracing-for|Ask "what am I bracing for?" to dissolve tension]] - The practical inquiry
-- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - The general principle at work
-- [[literature-notes/control-works-until-it-doesnt|Control works until it doesn't]] - Why the brace eventually fails
-- [[literature-notes/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]] - The productivity insight
+- [[literature-notes/ask-what-am-i-bracing-for|Ask "what am I bracing for?" to dissolve tension]]
+- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
+- [[literature-notes/control-works-until-it-doesnt|Control works until it doesn't]]
+- [[literature-notes/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]]
 - [[literature-notes/bracing-identity-of-being-needed|Bracing maintains the identity of being needed]]
 
 ## Source

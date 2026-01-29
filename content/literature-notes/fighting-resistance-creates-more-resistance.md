@@ -20,10 +20,10 @@ Joe shares his pot habit as a personal example: the more he fought it with shame
 
 ## Related Concepts
 
-- [[literature-notes/love-the-resistance|Loving resistance is the path through it]] - The alternative to fighting
-- [[literature-notes/management-is-war-with-yourself|Management is war with yourself]] - Self-management as another form of the fight
-- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - How fighting produces what you're trying to avoid
-- [[literature-notes/resisting-inner-critic-strengthens-it|Resisting inner critic strengthens it]] - The same dynamic with the inner critic
+- [[literature-notes/love-the-resistance|Loving resistance is the path through it]]
+- [[literature-notes/management-is-war-with-yourself|Management is war with yourself]]
+- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
+- [[literature-notes/resisting-inner-critic-strengthens-it|Resisting inner critic strengthens it]]
 - [[literature-notes/resistance-gives-the-inner-critic-its-power|Resistance gives the inner critic its power]]
 - [[literature-notes/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
 

@@ -22,9 +22,9 @@ This is why we avoid it. Not because the feeling is painful, but because love at
 
 ## Related Concepts
 
-- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]] - How heartbreak increases capacity for love
-- [[literature-notes/shame-is-love-in-disguise|Shame is love in disguise]] - Another feeling that conceals love
-- [[literature-notes/closing-heart-from-confused-love|Closing heart from confused love]] - Why we close off from love
+- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]]
+- [[literature-notes/shame-is-love-in-disguise|Shame is love in disguise]]
+- [[literature-notes/closing-heart-from-confused-love|Closing heart from confused love]]
 - [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 - [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
 - [[literature-notes/aloneness-without-loneliness|Aloneness without loneliness is a sign of authentic self-discovery]]

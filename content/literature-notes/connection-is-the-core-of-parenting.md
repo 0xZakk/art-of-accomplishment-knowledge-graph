@@ -21,9 +21,9 @@ The implication extends far beyond parenting. Joe notes that deep listening chan
 
 ## Related Concepts
 
-- [[literature-notes/children-bid-for-connection-not-defiance|Children's misbehavior is a bid for connection, not defiance]] - The mechanism behind why connection works
-- [[literature-notes/connection-enables-accomplishment|Connection enables accomplishment]] - The same principle in adult achievement
-- [[literature-notes/unconditional-listening-transforms-relationships|Unconditional listening transforms relationships]] - The adult application
+- [[literature-notes/children-bid-for-connection-not-defiance|Children's misbehavior is a bid for connection, not defiance]]
+- [[literature-notes/connection-enables-accomplishment|Connection enables accomplishment]]
+- [[literature-notes/unconditional-listening-transforms-relationships|Unconditional listening transforms relationships]]
 - [[literature-notes/teach-children-self-referencing|Teaching children to reference themselves builds their internal compass]]
 - [[literature-notes/children-need-connection-not-optimization|Children need connection, not optimization]]
 - [[literature-notes/parenting-as-self-development-practice|Parenting is a profound self-development practice]]

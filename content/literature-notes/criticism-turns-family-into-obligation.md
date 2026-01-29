@@ -23,9 +23,9 @@ Joe's own story is striking: he told his father he wouldn't visit unless the cri
 
 ## Related Concepts
 
-- [[literature-notes/management-communicates-distrust|Managing someone communicates you don't trust them]] - The mechanism behind the criticism
-- [[literature-notes/obligation-kills-love|Taking responsibility from obligation kills love]] - How obligation poisons relationships
-- [[literature-notes/boundaries-declare-your-action-not-theirs|Boundaries declare your action not theirs]] - Joe's boundary with his father as example
+- [[literature-notes/management-communicates-distrust|Managing someone communicates you don't trust them]]
+- [[literature-notes/obligation-kills-love|Taking responsibility from obligation kills love]]
+- [[literature-notes/boundaries-declare-your-action-not-theirs|Boundaries declare your action not theirs]]
 - [[literature-notes/open-heart-with-strong-boundaries|Loving parents requires both open heart and strong boundaries]]
 - [[literature-notes/heartbreak-is-where-love-for-a-parent-lives|Heartbreak over the relationship you never had is where love for a parent lives]]
 

@@ -20,9 +20,9 @@ The fear that accompanies dropping roles is real: "Do I not care anymore? Am I d
 
 ## Related Concepts
 
-- [[literature-notes/letting-go-is-non-management|Letting go is non-management]] - The practice of not managing
-- [[literature-notes/managing-others-avoids-own-feelings|Managing others avoids own feelings]] - What management actually serves
-- [[literature-notes/stop-fixing-others-to-help-them-change|Stop fixing others to help them change]] - Why fixing prevents growth
+- [[literature-notes/letting-go-is-non-management|Letting go is non-management]]
+- [[literature-notes/managing-others-avoids-own-feelings|Managing others avoids own feelings]]
+- [[literature-notes/stop-fixing-others-to-help-them-change|Stop fixing others to help them change]]
 
 ## Source
 

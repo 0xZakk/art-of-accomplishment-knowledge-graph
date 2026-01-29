@@ -19,8 +19,8 @@ This dual perspective also shifts you from fear to purpose: when the question be
 
 ## Related Concepts
 
-- [[literature-notes/community-health-is-individual-health|Community health is individual health]] - The inseparability of individual and collective
-- [[literature-notes/doubt-is-self-focused-service-dissolves-it|Doubt is self-focused, service dissolves it]] - How thinking beyond yourself shifts emotional state
+- [[literature-notes/community-health-is-individual-health|Community health is individual health]]
+- [[literature-notes/doubt-is-self-focused-service-dissolves-it|Doubt is self-focused, service dissolves it]]
 
 ## Source
 

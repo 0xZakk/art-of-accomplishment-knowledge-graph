@@ -22,9 +22,9 @@ The shift from "I need to" to "I get to" transforms the entire orientation from 
 
 ## Related Concepts
 
-- [[literature-notes/gentleness-accelerates-growth|Gentleness accelerates growth]] - Why softness works faster than force
-- [[literature-notes/loving-the-protective-part-before-asking-it-to-change|Loving the protective part before asking it to change]] - Honoring defenses first
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]] - The deeper invitation
+- [[literature-notes/gentleness-accelerates-growth|Gentleness accelerates growth]]
+- [[literature-notes/loving-the-protective-part-before-asking-it-to-change|Loving the protective part before asking it to change]]
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]]
 
 ## Source
 

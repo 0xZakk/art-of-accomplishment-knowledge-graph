@@ -22,10 +22,10 @@ Your gifts are what's already present when you stop performing. They don't need 
 
 ## Related Concepts
 
-- [[literature-notes/searching-for-your-superpower-takes-you-away-from-it|Searching for your superpower takes you away from it]] - The trap
-- [[literature-notes/purpose-is-recognition-not-decision|Purpose is recognition not decision]] - The broader principle
-- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - The result of inhabiting your nature
-- [[literature-notes/discovery-not-improvement|Discovery not improvement]] - The orientation
+- [[literature-notes/searching-for-your-superpower-takes-you-away-from-it|Searching for your superpower takes you away from it]]
+- [[literature-notes/purpose-is-recognition-not-decision|Purpose is recognition not decision]]
+- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]]
+- [[literature-notes/discovery-not-improvement|Discovery not improvement]]
 
 ## Source
 

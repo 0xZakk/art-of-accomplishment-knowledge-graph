@@ -20,9 +20,9 @@ This observation also suggests that the shift itself is more natural and common 
 
 ## Related Concepts
 
-- [[literature-notes/awakening-is-not-an-endpoint|Awakening is not an endpoint]] - Awakening as process, not achievement
-- [[literature-notes/dissolution-of-self-happens-many-ways|Dissolution of self happens many ways]] - Multiple paths to the same experience
-- [[literature-notes/confusing-state-with-insight|Confusing state with insight]] - Mistaking experience for understanding
+- [[literature-notes/awakening-is-not-an-endpoint|Awakening is not an endpoint]]
+- [[literature-notes/dissolution-of-self-happens-many-ways|Dissolution of self happens many ways]]
+- [[literature-notes/confusing-state-with-insight|Confusing state with insight]]
 
 ## Source
 

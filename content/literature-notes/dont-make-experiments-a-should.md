@@ -21,9 +21,9 @@ Brett's freewriting experiment illustrates this perfectly: rigid "write every mo
 
 ## Related Concepts
 
-- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]] - Shoulds undermine the very change they demand
-- [[literature-notes/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]] - The approach determines sustainability
-- [[literature-notes/todo-lists-can-be-inner-critic|To-do lists can be inner critic]] - Experiments can become another inner-critic tool
+- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]]
+- [[literature-notes/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]]
+- [[literature-notes/todo-lists-can-be-inner-critic|To-do lists can be inner critic]]
 
 ## Source
 

@@ -24,9 +24,9 @@ The way through is simple but not easy: feel the underlying emotions. When you'r
 
 ## Related Concepts
 
-- [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]] - The broader principle
-- [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]] - How avoidance creates reality
-- [[literature-notes/bad-decisions-come-from-fear-of-emotions|Bad decisions come from fear of emotions]] - Fear as root of poor decisions
+- [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]]
+- [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
+- [[literature-notes/bad-decisions-come-from-fear-of-emotions|Bad decisions come from fear of emotions]]
 - [[literature-notes/we-create-our-world-not-just-see-it|We create our projected world through attraction, manipulation, and selective evidence]]
 - [[literature-notes/thinking-youre-deciding-means-youre-in-fear|If you think you're making a decision, you're in fear]]
 - [[literature-notes/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]

@@ -22,9 +22,9 @@ This is a powerful retrospective test. You can't always catch caretaking in the 
 
 ## Related Concepts
 
-- [[literature-notes/resentment-is-the-indicator-of-caretaking|Resentment is the indicator of caretaking]] - The short-term indicator
-- [[literature-notes/gentleness-accelerates-growth|Gentleness accelerates growth]] - The quality of true care
-- [[literature-notes/boundaries-increase-capacity-to-love|Boundaries increase capacity to love]] - What enables sustained caring
+- [[literature-notes/resentment-is-the-indicator-of-caretaking|Resentment is the indicator of caretaking]]
+- [[literature-notes/gentleness-accelerates-growth|Gentleness accelerates growth]]
+- [[literature-notes/boundaries-increase-capacity-to-love|Boundaries increase capacity to love]]
 - [[literature-notes/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
 
 ## Source

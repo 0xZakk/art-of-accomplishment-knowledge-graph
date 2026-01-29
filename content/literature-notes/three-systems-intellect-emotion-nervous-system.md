@@ -23,9 +23,9 @@ Most modalities work on one or two of these systems but miss the third. Effectiv
 
 ## Related Concepts
 
-- [[literature-notes/three-brains-of-transformation|Three brains of transformation]] - Joe's core framework
-- [[literature-notes/three-brains-must-align-to-act|Three brains must align to act]] - Why all three matter
-- [[literature-notes/cultivating-all-intelligences-creates-clarity|Cultivating all intelligences creates clarity]] - The result of developing all three
+- [[literature-notes/three-brains-of-transformation|Three brains of transformation]]
+- [[literature-notes/three-brains-must-align-to-act|Three brains must align to act]]
+- [[literature-notes/cultivating-all-intelligences-creates-clarity|Cultivating all intelligences creates clarity]]
 
 ## Source
 

@@ -23,9 +23,9 @@ Often, the very act of being heard changes what you want and what you'll do next
 
 ## Related Concepts
 
-- [[literature-notes/withholding-truth-kills-intimacy|Withholding truth kills intimacy]] - The cost of silence
-- [[literature-notes/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]] - The eggshell dynamic
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Authenticity prerequisite
+- [[literature-notes/withholding-truth-kills-intimacy|Withholding truth kills intimacy]]
+- [[literature-notes/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[literature-notes/compromise-builds-resentment|Compromise means neglecting yourself and it always builds resentment]]
 - [[literature-notes/truth-over-comfort-in-relationships|Prioritizing truth over comfort creates lasting relationships]]
 - [[literature-notes/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]]

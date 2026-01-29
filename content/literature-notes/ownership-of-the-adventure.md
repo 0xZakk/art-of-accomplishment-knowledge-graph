@@ -23,8 +23,8 @@ The distinction is subtle but critical: you didn't choose the circumstances, but
 
 ## Related Concepts
 
-- [[literature-notes/uncertainty-is-where-transformation-happens|Uncertainty is where transformation happens]] - Why the crisis is an opportunity
-- [[literature-notes/certainty-lives-in-how-you-want-to-be|The only real certainty is how you want to be]] - The anchor point for ownership
+- [[literature-notes/uncertainty-is-where-transformation-happens|Uncertainty is where transformation happens]]
+- [[literature-notes/certainty-lives-in-how-you-want-to-be|The only real certainty is how you want to be]]
 
 ## Source
 

@@ -22,10 +22,10 @@ The path through is not to resolve the guilt intellectually ("nothing is wrong w
 
 ## Related Concepts
 
-- [[literature-notes/disgust-at-a-parent-reflects-absent-self-care|Disgust at a parent reflects absent self-care]] - What lies beneath the guilt
-- [[literature-notes/heartbreak-is-where-love-for-a-parent-lives|Heartbreak is where love for a parent lives]] - The deepest layer
-- [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness not the feeling]] - The guilt keeps him stuck, not the separation
-- [[literature-notes/progression-from-anger-to-deeper-emotions|Progression from anger to deeper emotions]] - Emotional layers pattern
+- [[literature-notes/disgust-at-a-parent-reflects-absent-self-care|Disgust at a parent reflects absent self-care]]
+- [[literature-notes/heartbreak-is-where-love-for-a-parent-lives|Heartbreak is where love for a parent lives]]
+- [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness not the feeling]]
+- [[literature-notes/progression-from-anger-to-deeper-emotions|Progression from anger to deeper emotions]]
 - [[literature-notes/guilt-is-inherited-fear-in-disguise|Guilt is inherited fear in disguise]]
 
 ## Source

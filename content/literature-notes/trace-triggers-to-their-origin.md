@@ -22,9 +22,9 @@ This practice works because the body remembers what the mind has forgotten or ne
 
 ## Related Concepts
 
-- [[literature-notes/triggers-are-past-living-through-present|Triggers are past living through present]] - Every trigger is an echo of an earlier experience
-- [[literature-notes/feeling-the-held-back-emotion-ends-trauma-repetition|Feeling the held-back emotion ends trauma repetition]] - Fully feeling the original emotion breaks the cycle
-- [[literature-notes/theta-programming-shapes-adult-reality|Theta programming shapes adult reality]] - The origin is usually in early childhood programming
+- [[literature-notes/triggers-are-past-living-through-present|Triggers are past living through present]]
+- [[literature-notes/feeling-the-held-back-emotion-ends-trauma-repetition|Feeling the held-back emotion ends trauma repetition]]
+- [[literature-notes/theta-programming-shapes-adult-reality|Theta programming shapes adult reality]]
 - [[literature-notes/fully-feeling-stops-the-pattern|Fully falling in love with the avoided feeling is the quickest way to stop a negative pattern]]
 
 ## Source

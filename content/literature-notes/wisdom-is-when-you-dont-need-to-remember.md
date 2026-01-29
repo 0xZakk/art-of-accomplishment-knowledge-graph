@@ -20,8 +20,8 @@ Tara also notes that wisdom is asymptotic—always evolving, always deepening. A
 
 ## Related Concepts
 
-- [[literature-notes/insight-is-not-wisdom-until-embodied|Insight is not wisdom until embodied]] - The journey that precedes wisdom
-- [[literature-notes/flow-state-is-embodiment-applied-to-life|Flow state is embodiment applied to life]] - Another expression of integrated knowing
+- [[literature-notes/insight-is-not-wisdom-until-embodied|Insight is not wisdom until embodied]]
+- [[literature-notes/flow-state-is-embodiment-applied-to-life|Flow state is embodiment applied to life]]
 - [[literature-notes/insight-requires-embodied-integration|Insight requires embodied integration to become wisdom]]
 - [[literature-notes/gentleness-accelerates-growth|Gentleness accelerates growth]]
 

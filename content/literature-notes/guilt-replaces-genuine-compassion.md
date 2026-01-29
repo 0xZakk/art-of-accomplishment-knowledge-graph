@@ -23,9 +23,9 @@ The remedy: ask "If I couldn't feel guilty, what would I have to feel?" That rev
 
 ## Related Concepts
 
-- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]] - Guilt drives us to abandon our own wants
-- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]] - Obligation-based action creates stress, not genuine change
-- [[literature-notes/wanting-is-aliveness|Wanting is aliveness]] - Reconnecting with genuine desire restores vitality
+- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
+- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]]
+- [[literature-notes/wanting-is-aliveness|Wanting is aliveness]]
 
 ## Source
 

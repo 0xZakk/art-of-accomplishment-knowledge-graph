@@ -21,9 +21,9 @@ Together, these two principles — experimentation and enjoyment — create a se
 
 ## Related Concepts
 
-- [[literature-notes/experiments-separate-identity-from-behavior|Experiments separate identity from behavior]] - Why experiments work
-- [[literature-notes/transformation-is-experiments-not-epiphany|Transformation is experiments not epiphany]] - Experiments as the vehicle
-- [[literature-notes/enjoyment-is-the-orientation-for-transformation|Enjoyment is the orientation for transformation]] - Enjoyment as compass
+- [[literature-notes/experiments-separate-identity-from-behavior|Experiments separate identity from behavior]]
+- [[literature-notes/transformation-is-experiments-not-epiphany|Transformation is experiments not epiphany]]
+- [[literature-notes/enjoyment-is-the-orientation-for-transformation|Enjoyment is the orientation for transformation]]
 - [[literature-notes/passive-consumption-never-transforms|Passive consumption of wisdom never transforms you]]
 - [[literature-notes/realization-not-behavior-control|Seeing through limiting beliefs is realization, not behavior control]]
 

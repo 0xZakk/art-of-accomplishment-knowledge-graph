@@ -20,9 +20,9 @@ This is a general principle: one of the things we do to slow transformation is t
 
 ## Related Concepts
 
-- [[literature-notes/punishing-the-remembering-slows-growth|Punishing the remembering slows growth]] - The same pattern in daily practice
-- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]] - How judgment blocks feeling
-- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]] - Why shame prevents change
+- [[literature-notes/punishing-the-remembering-slows-growth|Punishing the remembering slows growth]]
+- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]]
+- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]]
 - [[literature-notes/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
 - [[literature-notes/seeing-a-pattern-means-youre-halfway-through|Seeing a pattern means you're already halfway through it]]
 - [[literature-notes/stop-fixing-others-to-help-them-change|Stop trying to fix others if you want them to change]]

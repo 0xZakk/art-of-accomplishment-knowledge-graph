@@ -21,9 +21,9 @@ This is one of the most powerful properties of experiments: they make change pos
 
 ## Related Concepts
 
-- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]] - Identity creates the stuckness experiments bypass
-- [[literature-notes/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]] - Experiments create safe spaces to be undefined
-- [[literature-notes/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]] - Experiments reveal that stuckness is an identity, not a fact
+- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]]
+- [[literature-notes/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]]
+- [[literature-notes/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]]
 
 ## Source
 

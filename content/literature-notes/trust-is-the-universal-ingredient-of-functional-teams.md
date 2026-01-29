@@ -21,9 +21,9 @@ What makes trust particularly powerful as a metric is that it's hard to weaponiz
 
 ## Related Concepts
 
-- [[literature-notes/conflict-avoidant-managers-destroy-trust|Conflict-avoidant managers destroy trust]] - The primary way trust is destroyed
-- [[literature-notes/keeping-it-together-blocks-team-trust|Keeping it together blocks team trust]] - CEOs who don't share destroy trust
-- [[literature-notes/safety-comes-from-working-through-conflict|Safety comes from working through conflict]] - Trust is built through difficulty
+- [[literature-notes/conflict-avoidant-managers-destroy-trust|Conflict-avoidant managers destroy trust]]
+- [[literature-notes/keeping-it-together-blocks-team-trust|Keeping it together blocks team trust]]
+- [[literature-notes/safety-comes-from-working-through-conflict|Safety comes from working through conflict]]
 
 ## Source
 

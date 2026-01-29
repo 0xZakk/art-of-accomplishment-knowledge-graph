@@ -22,9 +22,9 @@ The implication is that the presenting issue is never really the issue. It's a d
 
 ## Related Concepts
 
-- [[literature-notes/progression-from-anger-to-deeper-emotions|Progression from anger to deeper emotions]] - Anger is often the first layer, with deeper emotions beneath
-- [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]] - Joy only flows when all emotions are welcome
-- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - You can't selectively suppress
+- [[literature-notes/progression-from-anger-to-deeper-emotions|Progression from anger to deeper emotions]]
+- [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]]
+- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
 
 ## Source
 

@@ -20,9 +20,9 @@ Indecision in a leader signals fear, and fear is contagious in organizations. Wh
 
 ## Related Concepts
 
-- [[literature-notes/trust-is-the-universal-ingredient-of-functional-teams|Trust is the universal ingredient of functional teams]] - Indecision erodes the foundation teams need
-- [[literature-notes/indecision-means-unfelt-emotions|Indecision means unfelt emotions]] - The emotional root of leadership paralysis
-- [[literature-notes/iterative-mindset-dissolves-procrastination|Iterative mindset dissolves procrastination]] - Taking the next step instead of finding the perfect step
+- [[literature-notes/trust-is-the-universal-ingredient-of-functional-teams|Trust is the universal ingredient of functional teams]]
+- [[literature-notes/indecision-means-unfelt-emotions|Indecision means unfelt emotions]]
+- [[literature-notes/iterative-mindset-dissolves-procrastination|Iterative mindset dissolves procrastination]]
 
 ## Source
 

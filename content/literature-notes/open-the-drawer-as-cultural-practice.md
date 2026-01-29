@@ -24,9 +24,9 @@ Principles must be phrased as things people can say in daily conversation — "r
 
 ## Related Concepts
 
-- [[literature-notes/nice-cultures-breed-passive-aggression|Nice cultures breed passive aggression]] - What happens without transparency
-- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]] - The predecessor principle
-- [[literature-notes/run-toward-friction-not-away|Run toward friction, not away from it]] - The behavioral pattern this enables
+- [[literature-notes/nice-cultures-breed-passive-aggression|Nice cultures breed passive aggression]]
+- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]]
+- [[literature-notes/run-toward-friction-not-away|Run toward friction, not away from it]]
 
 ## Source
 

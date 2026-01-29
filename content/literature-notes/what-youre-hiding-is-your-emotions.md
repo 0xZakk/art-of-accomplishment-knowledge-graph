@@ -23,9 +23,9 @@ This is a microcosm of a pattern Joe identifies repeatedly: people believe they'
 
 ## Related Concepts
 
-- [[literature-notes/social-anxiety-is-hiding-from-phantom-shame|Social anxiety is hiding from phantom shame]] - The belief structure behind the hiding
-- [[literature-notes/being-held-requires-dropping-the-performance|Being held requires dropping the performance]] - What becomes possible when the mask falls
-- [[literature-notes/vulnerability-is-truth-plus-fear|Vulnerability is truth plus fear]] - The mechanism at work
+- [[literature-notes/social-anxiety-is-hiding-from-phantom-shame|Social anxiety is hiding from phantom shame]]
+- [[literature-notes/being-held-requires-dropping-the-performance|Being held requires dropping the performance]]
+- [[literature-notes/vulnerability-is-truth-plus-fear|Vulnerability is truth plus fear]]
 - [[literature-notes/false-humility-as-defense|False humility is a defense against being seen]]
 - [[literature-notes/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
 

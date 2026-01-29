@@ -20,9 +20,9 @@ After crossing that threshold, Altman describes two shifts: a sense that "none o
 
 ## Related Concepts
 
-- [[literature-notes/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]] - The trajectory meditation follows
-- [[literature-notes/joy-is-the-sign-of-emotional-health|Joy is the sign of emotional health]] - The eventual destination of deep practice
-- [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]] - What meditation cultivates
+- [[literature-notes/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]]
+- [[literature-notes/joy-is-the-sign-of-emotional-health|Joy is the sign of emotional health]]
+- [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]]
 - [[literature-notes/detachment-from-outcomes-enables-better-outcomes|Detachment from outcomes enables better outcomes]]
 
 ## Source

@@ -20,8 +20,8 @@ The invitation is to let the evidence of your actions update your self-concept, 
 
 ## Related Concepts
 
-- [[literature-notes/worrying-about-the-future-is-the-pattern-not-the-solution|Worrying about the future is the pattern, not the solution]] - Why the worry itself perpetuates the problem
-- [[literature-notes/facing-fear-builds-empowerment|Facing fear builds empowerment]] - How action through fear builds self-trust
+- [[literature-notes/worrying-about-the-future-is-the-pattern-not-the-solution|Worrying about the future is the pattern, not the solution]]
+- [[literature-notes/facing-fear-builds-empowerment|Facing fear builds empowerment]]
 - [[literature-notes/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
 
 ## Source

@@ -22,9 +22,9 @@ The radical simplicity of this insight is also why it's hard to sell: people wan
 
 ## Related Concepts
 
-- [[literature-notes/relationship-reflects-self-relationship|Relationship reflects self-relationship]] - The mirror principle
-- [[literature-notes/bullying-yourself-creates-resistance|Bullying yourself creates resistance]] - One form of bad self-relationship
-- [[literature-notes/peace-comes-from-dropping-the-war-not-avoiding-conflict|Peace comes from dropping the war not avoiding conflict]] - Ending the internal war
+- [[literature-notes/relationship-reflects-self-relationship|Relationship reflects self-relationship]]
+- [[literature-notes/bullying-yourself-creates-resistance|Bullying yourself creates resistance]]
+- [[literature-notes/peace-comes-from-dropping-the-war-not-avoiding-conflict|Peace comes from dropping the war not avoiding conflict]]
 - [[literature-notes/you-are-wrong-about-your-problem|You are probably wrong about what your problem is]]
 
 ## Source

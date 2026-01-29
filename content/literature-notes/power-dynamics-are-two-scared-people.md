@@ -25,9 +25,9 @@ The dissolution is surprisingly simple: if you can see that the other person isn
 
 ## Related Concepts
 
-- [[literature-notes/defense-feels-like-attack|Defense feels like attack]] - The mechanism that perpetuates power dynamics
-- [[literature-notes/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]] - What's actually underneath the fight
-- [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]] - The cognitive distortion fear creates
+- [[literature-notes/defense-feels-like-attack|Defense feels like attack]]
+- [[literature-notes/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
+- [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]]
 
 ## Source
 

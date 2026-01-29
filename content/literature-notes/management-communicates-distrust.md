@@ -23,10 +23,10 @@ Joe admits he caught himself nagging his own young daughters and had the honesty
 
 ## Related Concepts
 
-- [[literature-notes/criticism-turns-family-into-obligation|Criticism turns family relationships into obligation]] - The broader pattern
-- [[literature-notes/connection-is-the-core-of-parenting|Connection is the core of parenting]] - What replaces management
-- [[literature-notes/be-available-dont-chase-teenagers|Be available don't chase teenagers]] - Applied to teens
-- [[literature-notes/childhood-criticism-creates-self-distrust|Childhood criticism creates self-distrust]] - The long-term impact
+- [[literature-notes/criticism-turns-family-into-obligation|Criticism turns family relationships into obligation]]
+- [[literature-notes/connection-is-the-core-of-parenting|Connection is the core of parenting]]
+- [[literature-notes/be-available-dont-chase-teenagers|Be available don't chase teenagers]]
+- [[literature-notes/childhood-criticism-creates-self-distrust|Childhood criticism creates self-distrust]]
 
 ## Source
 

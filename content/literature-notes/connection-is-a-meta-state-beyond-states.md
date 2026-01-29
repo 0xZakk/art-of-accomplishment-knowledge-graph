@@ -21,9 +21,9 @@ This reframes the pursuit of connection entirely. Rather than chasing a particul
 
 ## Related Concepts
 
-- [[literature-notes/being-with-emotions-beats-fixing-them|Being with emotions beats fixing them]] - Connection requires being with what is, not trying to change it
-- [[literature-notes/emotions-are-always-present|Emotions are always present]] - Since emotions are always present, connection with them is always available
-- [[literature-notes/connection-starts-within-not-between|Connection starts within, not between]] - The meta state begins with internal awareness
+- [[literature-notes/being-with-emotions-beats-fixing-them|Being with emotions beats fixing them]]
+- [[literature-notes/emotions-are-always-present|Emotions are always present]]
+- [[literature-notes/connection-starts-within-not-between|Connection starts within, not between]]
 
 ## Source
 

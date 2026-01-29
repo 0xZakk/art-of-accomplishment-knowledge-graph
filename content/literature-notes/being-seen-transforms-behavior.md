@@ -20,7 +20,7 @@ Esme tells a parallel story about an attention-seeking teammate she found annoyi
 
 ## Related Concepts
 
-- [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]] - The organizational version
+- [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]]
 - [[literature-notes/people-want-connection-not-perfection|People want connection, not perfection]]
 - [[literature-notes/being-interested-not-interesting|Being interested rather than interesting creates connection]]
 

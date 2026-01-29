@@ -21,9 +21,9 @@ The deeper issue is that when people find tools and community that produce genui
 
 ## Related Concepts
 
-- [[literature-notes/community-as-container-for-love|Community as container for love]] - What healthy community actually provides
-- [[literature-notes/community-forms-spontaneously-around-vulnerability|Community forms spontaneously around vulnerability]] - How authentic community emerges
-- [[literature-notes/loneliness-epidemic-stems-from-bad-models|Loneliness epidemic stems from bad models]] - Why people dismiss deep connection
+- [[literature-notes/community-as-container-for-love|Community as container for love]]
+- [[literature-notes/community-forms-spontaneously-around-vulnerability|Community forms spontaneously around vulnerability]]
+- [[literature-notes/loneliness-epidemic-stems-from-bad-models|Loneliness epidemic stems from bad models]]
 - [[literature-notes/seeding-authority-feels-like-belonging|Ceding authority to a group feels like belonging and safety]]
 - [[literature-notes/we-are-each-a-cult-of-one|Each person is a 'cult of one' with internal belief structures they can't fully see]]
 

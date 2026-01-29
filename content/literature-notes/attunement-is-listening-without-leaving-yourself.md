@@ -22,9 +22,9 @@ Physical signals reveal the quality of attunement: leaning too far forward sugge
 
 ## Related Concepts
 
-- [[literature-notes/connection-starts-within-not-between|Connection starts within, not between]] - Attunement begins with self-connection
-- [[literature-notes/being-held-requires-dropping-the-performance|Being held requires dropping the performance]] - Being attuned to is deeply vulnerable
-- [[literature-notes/empathic-acknowledgment-is-presence|Empathic acknowledgment is presence]] - Reflecting what you sense without fixing
+- [[literature-notes/connection-starts-within-not-between|Connection starts within, not between]]
+- [[literature-notes/being-held-requires-dropping-the-performance|Being held requires dropping the performance]]
+- [[literature-notes/empathic-acknowledgment-is-presence|Empathic acknowledgment is presence]]
 - [[literature-notes/deep-listening-requires-self-listening|Deep listening requires listening to yourself simultaneously]]
 - [[literature-notes/attunement-to-self-produces-intuition|Attunement to self produces intuition]]
 

@@ -24,10 +24,10 @@ The reason this works is that feeling seen is the actual need underneath the arg
 
 ## Related Concepts
 
-- [[literature-notes/seeing-their-truth-not-finding-the-truth|Seeing their truth, not finding 'the' truth]] - How to see without adjudicating
-- [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer]] - Fights as opportunities for deeper seeing
-- [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]] - The same dynamic in organizations
-- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]] - Why shame-throwing keeps fights going
+- [[literature-notes/seeing-their-truth-not-finding-the-truth|Seeing their truth, not finding 'the' truth]]
+- [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer]]
+- [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]]
+- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]]
 - [[literature-notes/seeing-others-is-the-exit-from-feeling-unseen|Seeing others is the counterintuitive exit from feeling unseen]]
 - [[literature-notes/fighting-without-shame-transforms-conflict|Fighting without shame transforms conflict]]
 - [[literature-notes/dropping-shame-is-prerequisite-for-seeing-your-partner|Dropping shame is the prerequisite for seeing your partner]]

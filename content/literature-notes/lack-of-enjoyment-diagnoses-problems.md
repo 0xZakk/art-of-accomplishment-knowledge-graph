@@ -22,9 +22,9 @@ This principle generalizes: if you can't enjoy a process, ask what would need to
 
 ## Related Concepts
 
-- [[literature-notes/authenticity-transforms-business|Authenticity transforms business]] - Authenticity is what makes business work
-- [[literature-notes/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]] - The how matters as much as the what
-- [[literature-notes/procrastination-has-wisdom|Procrastination has wisdom]] - Resistance contains information
+- [[literature-notes/authenticity-transforms-business|Authenticity transforms business]]
+- [[literature-notes/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]]
+- [[literature-notes/procrastination-has-wisdom|Procrastination has wisdom]]
 - [[literature-notes/enjoyment-dissolves-procrastination|Making enjoyment the priority dissolves procrastination]]
 
 ## Source

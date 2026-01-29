@@ -23,9 +23,9 @@ This creates a death spiral in relationships. Both people feel increasingly powe
 
 ## Related Concepts
 
-- [[literature-notes/truth-telling-revives-dead-relationships|Truth-telling revives dead relationships]] - The recovery process
-- [[literature-notes/hedging-your-truth-is-subtle-caretaking|Hedging your truth is subtle caretaking]] - Subtler versions of the same
-- [[literature-notes/withholding-truth-kills-intimacy|Withholding truth kills intimacy]] - The consequence
+- [[literature-notes/truth-telling-revives-dead-relationships|Truth-telling revives dead relationships]]
+- [[literature-notes/hedging-your-truth-is-subtle-caretaking|Hedging your truth is subtle caretaking]]
+- [[literature-notes/withholding-truth-kills-intimacy|Withholding truth kills intimacy]]
 
 ## Source
 

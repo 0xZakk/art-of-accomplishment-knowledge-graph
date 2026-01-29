@@ -20,8 +20,8 @@ The most ego-dissolving generosity may not feel like generosity at all. Joe note
 
 ## Related Concepts
 
-- [[literature-notes/generosity-is-being-not-giving|True generosity is being, not giving]] - The foundation
-- [[literature-notes/highest-generosity-is-presence|The highest generosity is presence]] - The ultimate dissolution
+- [[literature-notes/generosity-is-being-not-giving|True generosity is being, not giving]]
+- [[literature-notes/highest-generosity-is-presence|The highest generosity is presence]]
 
 ## Source
 

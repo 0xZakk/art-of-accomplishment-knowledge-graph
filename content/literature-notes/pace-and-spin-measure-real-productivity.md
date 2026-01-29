@@ -22,9 +22,9 @@ Together, these two metrics cut through the illusion of productive busyness. You
 
 ## Related Concepts
 
-- [[literature-notes/busyness-is-not-productivity|Busyness is not productivity]] - Spin is the quantification of false busyness
-- [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]] - Aligned work has low spin
-- [[literature-notes/do-the-uncomfortable-thing-first|Do the uncomfortable thing first]] - Low-spin work is often uncomfortable
+- [[literature-notes/busyness-is-not-productivity|Busyness is not productivity]]
+- [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]]
+- [[literature-notes/do-the-uncomfortable-thing-first|Do the uncomfortable thing first]]
 
 ## Source
 

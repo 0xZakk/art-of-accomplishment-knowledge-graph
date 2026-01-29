@@ -26,9 +26,9 @@ Netflix's approach illustrates the principle: intentionally maintaining chaos so
 
 ## Related Concepts
 
-- [[literature-notes/leaders-and-culture-co-create|Leaders and culture co-create]] - The feedback loop of leadership and environment
-- [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]] - When fear has somewhere to go
-- [[literature-notes/rules-accumulate-until-nobody-follows-them|Rules accumulate until nobody follows them]] - The endpoint of fear-driven rule-making
+- [[literature-notes/leaders-and-culture-co-create|Leaders and culture co-create]]
+- [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]]
+- [[literature-notes/rules-accumulate-until-nobody-follows-them|Rules accumulate until nobody follows them]]
 
 ## Source
 

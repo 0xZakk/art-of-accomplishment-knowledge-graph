@@ -22,8 +22,8 @@ Joe notes that scaling through teachers (not the school system bureaucracy) allo
 
 ## Related Concepts
 
-- [[literature-notes/transformation-is-generational|Transformation is generational]] - The long view
-- [[literature-notes/community-health-is-individual-health|Community health is individual health]] - The collective dimension
+- [[literature-notes/transformation-is-generational|Transformation is generational]]
+- [[literature-notes/community-health-is-individual-health|Community health is individual health]]
 
 ## Source
 

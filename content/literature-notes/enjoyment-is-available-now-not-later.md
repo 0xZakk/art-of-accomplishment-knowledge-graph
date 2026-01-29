@@ -23,9 +23,9 @@ The essential thing that stops enjoyment isn't a bad circumstance — it's leavi
 
 ## Related Concepts
 
-- [[literature-notes/enjoyment-is-the-orientation-for-transformation|Enjoyment is the orientation for transformation]] - Enjoyment as primary compass
-- [[literature-notes/finish-line-illusion|The finish line illusion keeps you from present serenity]] - The chase itself prevents arrival
-- [[literature-notes/enjoyment-as-the-only-metric|Enjoyment as the only metric]] - Making enjoyment the measure
+- [[literature-notes/enjoyment-is-the-orientation-for-transformation|Enjoyment is the orientation for transformation]]
+- [[literature-notes/finish-line-illusion|The finish line illusion keeps you from present serenity]]
+- [[literature-notes/enjoyment-as-the-only-metric|Enjoyment as the only metric]]
 
 ## Source
 

@@ -27,9 +27,9 @@ Joe's filter: he wants to work with people deeply committed to their self-awaren
 
 ## Related Concepts
 
-- [[literature-notes/gentle-narcissism-in-the-call-to-coach|Gentle narcissism in the call to coach]] - The narcissistic pull in wanting to coach
-- [[literature-notes/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others to avoid your feelings]] - The savior pattern
-- [[literature-notes/saving-others-is-a-strategy-for-enoughness|Saving others is a strategy for enoughness]] - Saving as self-worth strategy
+- [[literature-notes/gentle-narcissism-in-the-call-to-coach|Gentle narcissism in the call to coach]]
+- [[literature-notes/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others to avoid your feelings]]
+- [[literature-notes/saving-others-is-a-strategy-for-enoughness|Saving others is a strategy for enoughness]]
 - [[literature-notes/compulsive-giving-avoids-receiving|Compulsive giving is a self-reliance strategy to avoid receiving]]
 
 ## Source

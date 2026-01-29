@@ -24,10 +24,10 @@ Joe's story about his daughter who chose to pause meditation because it made her
 
 ## Related Concepts
 
-- [[literature-notes/be-available-dont-chase-teenagers|Be available don't chase teenagers]] - The posture of availability over pursuit
-- [[literature-notes/children-need-connection-not-optimization|Children need connection not optimization]] - What kids actually need from parents
-- [[literature-notes/parenting-as-ego-dissolution|Parenting as ego dissolution]] - How parenting dissolves the parent's ego
-- [[literature-notes/connection-is-the-core-of-parenting|Connection is the core of parenting]] - Relationship over instruction
+- [[literature-notes/be-available-dont-chase-teenagers|Be available don't chase teenagers]]
+- [[literature-notes/children-need-connection-not-optimization|Children need connection not optimization]]
+- [[literature-notes/parenting-as-ego-dissolution|Parenting as ego dissolution]]
+- [[literature-notes/connection-is-the-core-of-parenting|Connection is the core of parenting]]
 
 ## Source
 

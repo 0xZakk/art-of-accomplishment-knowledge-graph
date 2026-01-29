@@ -18,8 +18,8 @@ This is why to-do lists and willpower fail: they address symptoms. The blocker i
 
 ## Related Concepts
 
-- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - Root blockers create patterns across all domains
-- [[literature-notes/identity-you-cant-see-controls-you-most|The identity you can't see controls you most]] - Unseen identity is often the root blocker
+- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
+- [[literature-notes/identity-you-cant-see-controls-you-most|The identity you can't see controls you most]]
 
 ## Source
 

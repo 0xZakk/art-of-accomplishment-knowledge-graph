@@ -22,9 +22,9 @@ This applies far beyond speaking — to coaching, relationships, conflict, leade
 
 ## Related Concepts
 
-- [[literature-notes/experiential-learning-over-intellectual-understanding|Experiential learning over intellectual understanding]] - Knowledge must be lived
-- [[literature-notes/experiments-make-knowledge-embodied|Experimentation over dogma in self-development]] - Experiments as the vehicle
-- [[literature-notes/flow-requires-forgetting-yourself|Flow in speaking requires forgetting you're speaking]] - What the reps build toward
+- [[literature-notes/experiential-learning-over-intellectual-understanding|Experiential learning over intellectual understanding]]
+- [[literature-notes/experiments-make-knowledge-embodied|Experimentation over dogma in self-development]]
+- [[literature-notes/flow-requires-forgetting-yourself|Flow in speaking requires forgetting you're speaking]]
 - [[literature-notes/the-butler-is-always-there|The subconscious always has the answer on a platter — you just need to slow down to see it]]
 
 ## Source

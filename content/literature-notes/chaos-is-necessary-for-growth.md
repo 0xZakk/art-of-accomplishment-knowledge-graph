@@ -22,8 +22,8 @@ He also tells the story of Leopold on the Kaibab Plateau — shooting all mounta
 
 ## Related Concepts
 
-- [[literature-notes/suppressing-transitions-makes-them-worse|Suppressing transitions creates bigger eventual disruptions]] - The cost of fire suppression
-- [[literature-notes/every-epiphany-becomes-the-next-rut|Every epiphany becomes the next rut]] - Why periodic disruption is needed
+- [[literature-notes/suppressing-transitions-makes-them-worse|Suppressing transitions creates bigger eventual disruptions]]
+- [[literature-notes/every-epiphany-becomes-the-next-rut|Every epiphany becomes the next rut]]
 - [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]]
 
 ## Source

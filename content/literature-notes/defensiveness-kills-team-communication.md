@@ -19,8 +19,8 @@ The key insight is that defensiveness is a nervous system response to perceived 
 
 ## Related Concepts
 
-- [[literature-notes/safety-enables-productive-conflict|Safety enables productive conflict]] - Safety is the prerequisite for non-defensive communication
-- [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]] - When people feel seen, defense drops
+- [[literature-notes/safety-enables-productive-conflict|Safety enables productive conflict]]
+- [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]]
 
 ## Source
 

@@ -24,9 +24,9 @@ Joe's personal story illustrates the shift: his "should" to make money in ventur
 
 ## Related Concepts
 
-- [[literature-notes/craving-versus-wanting|Craving and wanting are fundamentally different experiences]] - The felt distinction between healthy desire and painful fixation
-- [[literature-notes/goals-generate-questions-not-destinations|Goals generate questions, not destinations]] - Why goals matter beyond the outcome
-- [[literature-notes/wanting-is-aliveness|Wanting is a form of aliveness close to love]] - What wanting feels like when freed from attachment
+- [[literature-notes/craving-versus-wanting|Craving and wanting are fundamentally different experiences]]
+- [[literature-notes/goals-generate-questions-not-destinations|Goals generate questions, not destinations]]
+- [[literature-notes/wanting-is-aliveness|Wanting is a form of aliveness close to love]]
 
 ## Source
 

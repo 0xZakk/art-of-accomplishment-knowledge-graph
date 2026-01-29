@@ -22,9 +22,9 @@ The insight is that the emotional experience itself was neutral — it could hav
 
 ## Related Concepts
 
-- [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness not the feeling]] - Avoidance, not the emotion, creates the block
-- [[literature-notes/fear-constricts-excitement-expands|Fear constricts excitement expands]] - Same sensation, different relationship
-- [[literature-notes/embracing-fear-versus-avoiding-fear|Embracing fear versus avoiding fear]] - The fork in the road
+- [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness not the feeling]]
+- [[literature-notes/fear-constricts-excitement-expands|Fear constricts excitement expands]]
+- [[literature-notes/embracing-fear-versus-avoiding-fear|Embracing fear versus avoiding fear]]
 
 ## Source
 

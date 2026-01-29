@@ -23,9 +23,9 @@ This work doesn't stop when you find a partner. Marriage is the ongoing commitme
 
 ## Related Concepts
 
-- [[literature-notes/closing-heart-from-confused-love|Closing heart from confused love]] - How wired-in associations close us off
-- [[literature-notes/guilt-is-inherited-fear-in-disguise|Guilt is inherited fear in disguise]] - Guilt as a specific childhood wiring
-- [[literature-notes/contrary-action-breaks-love-patterns|Contrary action breaks love patterns]] - How to rewire the associations
+- [[literature-notes/closing-heart-from-confused-love|Closing heart from confused love]]
+- [[literature-notes/guilt-is-inherited-fear-in-disguise|Guilt is inherited fear in disguise]]
+- [[literature-notes/contrary-action-breaks-love-patterns|Contrary action breaks love patterns]]
 - [[literature-notes/love-requires-willingness-to-be-hurt|Love requires willingness to be hurt]]
 - [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 

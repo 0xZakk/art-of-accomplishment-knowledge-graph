@@ -22,9 +22,9 @@ Joe's free-writing experiment embodies this principle: write without editing, wi
 
 ## Related Concepts
 
-- [[literature-notes/clarity-comes-after-feeling-not-before|Clarity comes after feeling not before]] - The broader principle across all emotions
-- [[literature-notes/express-anger-without-directing-it|You can express anger without directing it at anyone]] - How to allow the movement
-- [[literature-notes/anger-is-love-with-a-boundary|Unresisted anger is love expressing a clear boundary]] - What clarity reveals
+- [[literature-notes/clarity-comes-after-feeling-not-before|Clarity comes after feeling not before]]
+- [[literature-notes/express-anger-without-directing-it|You can express anger without directing it at anyone]]
+- [[literature-notes/anger-is-love-with-a-boundary|Unresisted anger is love expressing a clear boundary]]
 - [[literature-notes/anger-release-ends-in-clarity-and-determination|Clean anger release ends in clarity and determination about yourself, not others]]
 - [[literature-notes/compassion-can-block-anger|Using compassion to bypass anger blocks the emotional process]]
 - [[literature-notes/moving-emotions-dissolves-stories|Moving emotions dissolves stories and creates clarity]]

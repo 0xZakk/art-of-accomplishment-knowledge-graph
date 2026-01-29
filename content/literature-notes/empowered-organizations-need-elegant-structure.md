@@ -26,9 +26,9 @@ The political level of a team is a litmus test for disempowerment — highly pol
 
 ## Related Concepts
 
-- [[literature-notes/empower-people-decentrally|Empower people decentrally]] - Decentralized empowerment
-- [[literature-notes/safety-enables-productive-conflict|Safety enables productive conflict]] - Structure creating psychological safety
-- [[literature-notes/operating-principles-automate-eighty-percent-of-decisions|Operating principles automate eighty percent of decisions]] - Principles as structure
+- [[literature-notes/empower-people-decentrally|Empower people decentrally]]
+- [[literature-notes/safety-enables-productive-conflict|Safety enables productive conflict]]
+- [[literature-notes/operating-principles-automate-eighty-percent-of-decisions|Operating principles automate eighty percent of decisions]]
 
 ## Source
 

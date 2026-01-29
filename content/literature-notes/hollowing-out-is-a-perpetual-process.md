@@ -22,9 +22,9 @@ This applies to everyone doing transformational work: if you think you've had an
 
 ## Related Concepts
 
-- [[literature-notes/every-epiphany-becomes-the-next-rut|Every epiphany becomes the next rut]] - The cyclical nature of insight
-- [[literature-notes/awakening-is-not-an-endpoint|Awakening is not an endpoint]] - Why "done" doesn't exist
-- [[literature-notes/gentle-narcissism-in-the-call-to-coach|Gentle narcissism hides in the call to coach]] - What the hollowing process reveals
+- [[literature-notes/every-epiphany-becomes-the-next-rut|Every epiphany becomes the next rut]]
+- [[literature-notes/awakening-is-not-an-endpoint|Awakening is not an endpoint]]
+- [[literature-notes/gentle-narcissism-in-the-call-to-coach|Gentle narcissism hides in the call to coach]]
 - [[literature-notes/to-me-by-me-through-me-as-me|Developmental stages: to me, by me, through me, as me]]
 - [[literature-notes/let-compliments-move-through-you|Letting compliments move all the way through you destroys ego]]
 - [[literature-notes/every-epiphany-is-a-rut-waiting-to-happen|Every epiphany is a rut waiting to happen]]

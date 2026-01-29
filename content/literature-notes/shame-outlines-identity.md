@@ -22,9 +22,9 @@ The practice is to notice where you feel stagnation and look for the shame under
 
 ## Related Concepts
 
-- [[literature-notes/identity-you-cant-see-controls-you-most|The identity you can't see controls you most]] - The broader principle
-- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - Why fixed identity is problematic
-- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]] - The cost of self-labeling
+- [[literature-notes/identity-you-cant-see-controls-you-most|The identity you can't see controls you most]]
+- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
+- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]]
 - [[literature-notes/procrastination-is-not-who-you-are|Procrastination is not who you are — and knowing that is the real pain]]
 - [[literature-notes/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
 - [[literature-notes/shame-addiction-creates-empty-fulfillment|Shame becomes addictive and creates empty fulfillment]]

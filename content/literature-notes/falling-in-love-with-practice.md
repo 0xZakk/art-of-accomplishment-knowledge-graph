@@ -22,9 +22,9 @@ This connects directly to the belief that effort equals worth. When practice bec
 
 ## Related Concepts
 
-- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]] - The enjoyment principle applied to avoidance
-- [[literature-notes/enjoyment-is-the-true-measure-of-efficiency|Enjoyment is the true measure of efficiency]] - Why enjoyment produces better results
-- [[literature-notes/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]] - The self-punishment trap
+- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]]
+- [[literature-notes/enjoyment-is-the-true-measure-of-efficiency|Enjoyment is the true measure of efficiency]]
+- [[literature-notes/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
 - [[literature-notes/punishing-the-remembering-slows-growth|Punishing yourself for remembering slows growth]]
 - [[literature-notes/enjoyment-as-the-only-metric|Making enjoyment the only metric paradoxically increases productivity]]
 - [[literature-notes/importance-kills-enjoyment|Making something important is what makes it not fun]]

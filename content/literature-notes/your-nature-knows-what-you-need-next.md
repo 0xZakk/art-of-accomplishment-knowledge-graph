@@ -22,9 +22,9 @@ This is the difference between building a canal (planning the exact path, tremen
 
 ## Related Concepts
 
-- [[literature-notes/authenticity-is-a-river-not-a-destination|Authenticity is a river, not a destination]] - The metaphor for this process
-- [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]] - When all parts agree, action flows
-- [[literature-notes/discovery-not-improvement|Self-discovery, not self-improvement]] - The broader framework
+- [[literature-notes/authenticity-is-a-river-not-a-destination|Authenticity is a river, not a destination]]
+- [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]]
+- [[literature-notes/discovery-not-improvement|Self-discovery, not self-improvement]]
 - [[literature-notes/nature-knows-what-you-need-next|Your nature knows what you need next]]
 - [[literature-notes/intuition-sees-what-logic-cannot|Intuition sees what the logical mind cannot]]
 - [[literature-notes/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]

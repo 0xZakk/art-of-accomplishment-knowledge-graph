@@ -22,9 +22,9 @@ Even if someone truly has narcissistic personality disorder, they still offer gr
 
 ## Related Concepts
 
-- [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others exists in you]] - The projection dynamic with narcissism
-- [[literature-notes/superiority-and-shame-are-paired|Superiority and shame are paired]] - The dual nature of narcissistic patterns
-- [[literature-notes/boundaries-not-view-for-narcissists|Boundaries, not VIEW, are the tool for narcissists]] - The practical approach
+- [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others exists in you]]
+- [[literature-notes/superiority-and-shame-are-paired|Superiority and shame are paired]]
+- [[literature-notes/boundaries-not-view-for-narcissists|Boundaries, not VIEW, are the tool for narcissists]]
 
 ## Source
 

@@ -22,9 +22,9 @@ The thought experiment works because it bypasses intellectual defense. You can r
 
 ## Related Concepts
 
-- [[literature-notes/composure-is-self-imprisonment|Forced composure is self-imprisonment]] - The adult manifestation
-- [[literature-notes/children-bid-for-connection-not-defiance|Children bid for connection not defiance]] - Understanding child behavior
-- [[literature-notes/attunement-patterns-become-adult-cycles|Attunement patterns become adult cycles]] - How childhood patterns persist
+- [[literature-notes/composure-is-self-imprisonment|Forced composure is self-imprisonment]]
+- [[literature-notes/children-bid-for-connection-not-defiance|Children bid for connection not defiance]]
+- [[literature-notes/attunement-patterns-become-adult-cycles|Attunement patterns become adult cycles]]
 
 ## Source
 

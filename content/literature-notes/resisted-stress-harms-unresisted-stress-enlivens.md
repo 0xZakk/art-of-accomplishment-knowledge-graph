@@ -20,9 +20,9 @@ This connects to a broader principle in Joe's work: emotions aren't inherently h
 
 ## Related Concepts
 
-- [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]] - How resistance transforms the quality of experience
-- [[literature-notes/attention-alone-reduces-stress|Attention alone reduces stress]] - Presence as the antidote
-- [[literature-notes/stress-about-stress-doubles-the-stress|Stress about stress doubles the stress]] - The meta-resistance pattern
+- [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]]
+- [[literature-notes/attention-alone-reduces-stress|Attention alone reduces stress]]
+- [[literature-notes/stress-about-stress-doubles-the-stress|Stress about stress doubles the stress]]
 
 ## Source
 

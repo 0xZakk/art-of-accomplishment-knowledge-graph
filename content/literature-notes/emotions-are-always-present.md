@@ -21,9 +21,9 @@ The consequence is profound: since the emotional center of the brain drives all 
 
 ## Related Concepts
 
-- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]] - The simplicity of reconnecting
-- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - The systemic effect
-- [[literature-notes/all-decisions-are-emotional|All decisions are emotional]] - Why this matters
+- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]]
+- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
+- [[literature-notes/all-decisions-are-emotional|All decisions are emotional]]
 
 ## Source
 

@@ -23,8 +23,8 @@ Joe redirects: rather than analyzing what makes them charismatic, use your react
 
 ## Related Concepts
 
-- [[literature-notes/two-forms-of-charisma|There are two forms of charisma]] - The framework for understanding different types
-- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - Why opposition strengthens them
+- [[literature-notes/two-forms-of-charisma|There are two forms of charisma]]
+- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
 
 ## Source
 

@@ -24,9 +24,9 @@ The 14-day experiment: each day, practice one of the three strategies (plant a s
 
 ## Related Concepts
 
-- [[literature-notes/find-the-leverage-on-your-todo-list|Find the one thing that makes everything else easier or irrelevant]] - Strategy two
-- [[literature-notes/think-like-a-farmer-about-time|Think like a farmer — plant seeds for the future]] - Strategy one
-- [[literature-notes/we-are-always-running-experiments|We are always running experiments]] - The iterative approach to direction
+- [[literature-notes/find-the-leverage-on-your-todo-list|Find the one thing that makes everything else easier or irrelevant]]
+- [[literature-notes/think-like-a-farmer-about-time|Think like a farmer — plant seeds for the future]]
+- [[literature-notes/we-are-always-running-experiments|We are always running experiments]]
 
 ## Source
 

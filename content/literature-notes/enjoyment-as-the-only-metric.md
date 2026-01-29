@@ -22,9 +22,9 @@ Joe then proves the shift is trivially easy: "Enjoy yourself 5% more right now. 
 
 ## Related Concepts
 
-- [[literature-notes/you-are-a-terrible-boss-to-yourself|You are a terrible boss to yourself]] - The problem this solves
-- [[literature-notes/alignment-beats-effort|Alignment beats effort]] - Enjoyment as alignment
-- [[literature-notes/gratitude-reveals-abundance-already-present|Gratitude as orientation for growth]] - Similar reorientation
+- [[literature-notes/you-are-a-terrible-boss-to-yourself|You are a terrible boss to yourself]]
+- [[literature-notes/alignment-beats-effort|Alignment beats effort]]
+- [[literature-notes/gratitude-reveals-abundance-already-present|Gratitude as orientation for growth]]
 - [[literature-notes/enjoyment-dissolves-procrastination|Making enjoyment the priority dissolves procrastination]]
 - [[literature-notes/falling-in-love-with-practice|Falling in love with practice beats forcing yourself to practice]]
 

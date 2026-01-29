@@ -23,9 +23,9 @@ Jonny adds that bottom-up approaches (changing physiology through breath, body) 
 
 ## Related Concepts
 
-- [[literature-notes/rest-from-the-inner-critic|Rest from the inner critic]] - The practice of finding rest from the voice
-- [[literature-notes/self-attack-during-rest-prolongs-recovery|Self-attack during rest prolongs recovery]] - The specific mechanism at work
-- [[literature-notes/resisting-inner-critic-strengthens-it|Resisting inner critic strengthens it]] - Why the relationship needs to change, not the critic itself
+- [[literature-notes/rest-from-the-inner-critic|Rest from the inner critic]]
+- [[literature-notes/self-attack-during-rest-prolongs-recovery|Self-attack during rest prolongs recovery]]
+- [[literature-notes/resisting-inner-critic-strengthens-it|Resisting inner critic strengthens it]]
 - [[literature-notes/resistance-gives-the-inner-critic-its-power|Resistance gives the inner critic its power]]
 - [[literature-notes/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
 

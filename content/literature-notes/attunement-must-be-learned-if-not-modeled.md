@@ -22,9 +22,9 @@ For sensitive children, the body itself can feel uncomfortable to inhabit, which
 
 ## Related Concepts
 
-- [[literature-notes/attunement-patterns-become-adult-cycles|Attunement patterns become adult cycles]] - How early attunement shapes adult relationships
-- [[literature-notes/inner-voice-mirrors-parenting|Inner voice mirrors parenting]] - The internalized quality of how you were met
-- [[literature-notes/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic, not just intellectual]] - Why learning attunement requires body-level practice
+- [[literature-notes/attunement-patterns-become-adult-cycles|Attunement patterns become adult cycles]]
+- [[literature-notes/inner-voice-mirrors-parenting|Inner voice mirrors parenting]]
+- [[literature-notes/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic, not just intellectual]]
 
 ## Source
 

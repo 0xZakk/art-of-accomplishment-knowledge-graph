@@ -24,8 +24,8 @@ The real insight is that connection — not the presence of people — is what d
 
 ## Related Concepts
 
-- [[literature-notes/aloneness-without-loneliness|Aloneness without loneliness]] - The positive experience of chosen solitude
-- [[literature-notes/connection-starts-within-not-between|Connection starts within, not between]] - Self-connection as the foundation
+- [[literature-notes/aloneness-without-loneliness|Aloneness without loneliness]]
+- [[literature-notes/connection-starts-within-not-between|Connection starts within, not between]]
 - [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 
 ## Source

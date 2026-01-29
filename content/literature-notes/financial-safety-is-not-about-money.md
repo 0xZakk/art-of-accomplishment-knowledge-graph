@@ -22,9 +22,9 @@ The financial safety question was never financial. It was about an unresolved re
 
 ## Related Concepts
 
-- [[literature-notes/money-blocks-are-safety-blocks|Money blocks are safety blocks]] - The same insight from another angle
-- [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]] - Money as stand-in for deeper fears
-- [[literature-notes/inner-child-holds-money-permission|The inner child holds the permission around money]] - The mechanism
+- [[literature-notes/money-blocks-are-safety-blocks|Money blocks are safety blocks]]
+- [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]]
+- [[literature-notes/inner-child-holds-money-permission|The inner child holds the permission around money]]
 - [[literature-notes/hug-the-demon-dont-slay-it|Hug the demon, don't slay it]]
 - [[literature-notes/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood emotional patterns]]
 

@@ -19,8 +19,8 @@ This pattern often originates in childhood, where apologies were extracted as a 
 
 ## Related Concepts
 
-- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]] - The same dynamic of trying to prevent rejection
-- [[literature-notes/apology-as-transformation-tool|An empowered apology is one of the most powerful tools for self-transformation]] - The alternative to habitual apology
+- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
+- [[literature-notes/apology-as-transformation-tool|An empowered apology is one of the most powerful tools for self-transformation]]
 - [[literature-notes/apologies-in-power-struggles|Apologies in power struggles are surrogates for being seen]]
 
 ## Source

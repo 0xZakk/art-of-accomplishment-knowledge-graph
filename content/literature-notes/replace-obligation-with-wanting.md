@@ -20,9 +20,9 @@ The shift from "should/have to/got to" to "want" isn't semantic — it reconnect
 
 ## Related Concepts
 
-- [[literature-notes/wanting-is-aliveness|Wanting is aliveness]] - Wanting is fundamental to being alive
-- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]] - "Should" generates resistance, not motivation
-- [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]] - Owning wants is the first step
+- [[literature-notes/wanting-is-aliveness|Wanting is aliveness]]
+- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]]
+- [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]]
 
 ## Source
 

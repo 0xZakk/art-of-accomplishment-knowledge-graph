@@ -23,9 +23,9 @@ Most people have implicit support systems but lack a shared sense of purpose. Ma
 
 ## Related Concepts
 
-- [[literature-notes/community-is-more-important-than-the-teacher|Community is more important than the teacher]] - The group matters more than any individual
-- [[literature-notes/community-amplifies-transformation|Community amplifies transformation]] - Transformation accelerates in community
-- [[literature-notes/deep-community-dissolves-identity|Deep community dissolves identity]] - Community challenges fixed self-concepts
+- [[literature-notes/community-is-more-important-than-the-teacher|Community is more important than the teacher]]
+- [[literature-notes/community-amplifies-transformation|Community amplifies transformation]]
+- [[literature-notes/deep-community-dissolves-identity|Deep community dissolves identity]]
 
 ## Source
 

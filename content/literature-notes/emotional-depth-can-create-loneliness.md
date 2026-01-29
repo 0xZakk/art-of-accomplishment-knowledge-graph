@@ -23,9 +23,9 @@ This is why Joe builds community through his work — partly to create environme
 
 ## Related Concepts
 
-- [[literature-notes/deep-community-dissolves-identity|Deep community dissolves identity]] - What deep community makes possible
-- [[literature-notes/community-amplifies-transformation|Community amplifies transformation]] - Why community matters for the work
-- [[literature-notes/community-as-container-for-love|We build communities to create spaces where love can be fully expressed]] - Joe's motivation for building AOA
+- [[literature-notes/deep-community-dissolves-identity|Deep community dissolves identity]]
+- [[literature-notes/community-amplifies-transformation|Community amplifies transformation]]
+- [[literature-notes/community-as-container-for-love|We build communities to create spaces where love can be fully expressed]]
 
 ## Source
 

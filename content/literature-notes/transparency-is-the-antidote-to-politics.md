@@ -22,9 +22,9 @@ Joe doesn't advocate for Bridgewater's specific approach — he thinks every cul
 
 ## Related Concepts
 
-- [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]] - The relational mechanism behind transparency
-- [[literature-notes/suppressed-wants-become-politics|Suppressed wants become politics]] - What happens without transparency
-- [[literature-notes/nice-cultures-breed-passive-aggression|Nice cultures breed passive aggression]] - The alternative to directness
+- [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]]
+- [[literature-notes/suppressed-wants-become-politics|Suppressed wants become politics]]
+- [[literature-notes/nice-cultures-breed-passive-aggression|Nice cultures breed passive aggression]]
 
 ## Source
 

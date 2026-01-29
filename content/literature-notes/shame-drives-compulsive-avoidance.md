@@ -22,10 +22,10 @@ The crucial insight is that when Joe experienced a moment of self-forgiveness â€
 
 ## Related Concepts
 
-- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - The same self-reinforcing loop
-- [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck]] - How shame becomes its own trap
-- [[literature-notes/the-story-of-brokenness-is-the-problem|The story of brokenness is the problem]] - The narrative that enables continued avoidance
-- [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]] - The alternative to avoidance
+- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
+- [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck]]
+- [[literature-notes/the-story-of-brokenness-is-the-problem|The story of brokenness is the problem]]
+- [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]]
 - [[literature-notes/self-forgiveness-breaks-the-shame-loop|Self-forgiveness breaks the shame-avoidance loop]]
 - [[literature-notes/avoidance-chain-from-essence-to-addiction|The avoidance chain runs from essential self through thinking to addiction]]
 - [[literature-notes/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]]

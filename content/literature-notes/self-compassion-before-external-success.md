@@ -24,9 +24,9 @@ The insight is that what we chase externally (money, success, freedom) is often 
 
 ## Related Concepts
 
-- [[literature-notes/money-blocks-are-safety-blocks|Money blocks are safety blocks]] - Money problems are often safety/worth problems in disguise
-- [[literature-notes/chase-your-own-approval|Chase your own approval]] - External validation can never replace internal confirmation
-- [[literature-notes/love-yourself-how-you-wanted-to-be-loved|Love yourself how you wanted to be loved]] - The practice of giving yourself what you seek from others
+- [[literature-notes/money-blocks-are-safety-blocks|Money blocks are safety blocks]]
+- [[literature-notes/chase-your-own-approval|Chase your own approval]]
+- [[literature-notes/love-yourself-how-you-wanted-to-be-loved|Love yourself how you wanted to be loved]]
 
 ## Source
 

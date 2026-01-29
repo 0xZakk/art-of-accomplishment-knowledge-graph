@@ -20,9 +20,9 @@ The things we fear are often the very things we invite into our world through av
 
 ## Related Concepts
 
-- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - The mechanism by which resistance backfires
-- [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]] - Avoidance paradoxically attracts
-- [[literature-notes/fighting-resistance-creates-more-resistance|Fighting resistance creates more resistance]] - Why "don't resist" is itself resistance
+- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
+- [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
+- [[literature-notes/fighting-resistance-creates-more-resistance|Fighting resistance creates more resistance]]
 - [[literature-notes/resisting-emotion-invites-it-back|Resisting an emotion is exactly what invites it back]]
 - [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 - [[literature-notes/resistance-is-a-natural-step-in-transformation|Resistance is a natural step in transformation]]

@@ -22,9 +22,9 @@ The main reason people aren't authentic is that they want a certain reaction fro
 
 ## Related Concepts
 
-- [[literature-notes/authenticity-is-a-path-not-destination|Authenticity is a path not destination]] - The ongoing nature of the practice
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Why performance prevents connection
-- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - How authenticity shapes your world
+- [[literature-notes/authenticity-is-a-path-not-destination|Authenticity is a path not destination]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
+- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]]
 - [[literature-notes/contradiction-reveals-the-mask|Contradiction between words and body reveals the mask we're wearing]]
 - [[literature-notes/listening-is-receiving-not-doing|Listening is receiving, not doing]]
 - [[literature-notes/the-voice-of-fakeness-is-intuition-not-pathology|The voice of fakeness is intuition, not pathology]]

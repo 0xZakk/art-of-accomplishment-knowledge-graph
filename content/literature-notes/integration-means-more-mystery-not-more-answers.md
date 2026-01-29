@@ -21,9 +21,9 @@ Signs of healthy integration over weeks and months include: more emotional fluid
 
 ## Related Concepts
 
-- [[literature-notes/being-in-the-question-beats-finding-the-answer|Being in the question beats finding the answer]] - The primacy of inquiry
-- [[literature-notes/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]] - The quality of open attention
-- [[literature-notes/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]] - Staying with disorientation
+- [[literature-notes/being-in-the-question-beats-finding-the-answer|Being in the question beats finding the answer]]
+- [[literature-notes/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]]
+- [[literature-notes/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]]
 - [[literature-notes/questioning-assumptions-destabilizes-before-it-clarifies|Questioning assumptions destabilizes before it clarifies]]
 
 ## Source

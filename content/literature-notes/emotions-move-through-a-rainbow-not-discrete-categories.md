@@ -21,9 +21,9 @@ This understanding reframes the common approach of trying to identify and name e
 
 ## Related Concepts
 
-- [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]] - The state where all emotions flow freely
-- [[literature-notes/emotional-development-stages|Emotional development follows a spiral]] - The full developmental arc
-- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all of them]] - Why the rainbow can't be partially blocked
+- [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]]
+- [[literature-notes/emotional-development-stages|Emotional development follows a spiral]]
+- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all of them]]
 
 ## Source
 

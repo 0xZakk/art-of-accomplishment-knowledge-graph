@@ -25,9 +25,9 @@ The woman discovers this somatically, not intellectually. She sends all her love
 
 ## Related Concepts
 
-- [[literature-notes/boundaries-and-openness-are-the-same-thing|Boundaries and openness are the same thing]] - The apparent paradox resolved
-- [[literature-notes/vulnerability-protects-against-exploitation|Vulnerability protects against exploitation]] - The same principle in broader context
-- [[literature-notes/open-heart-with-strong-boundaries|Open heart with strong boundaries]] - Living this paradox
+- [[literature-notes/boundaries-and-openness-are-the-same-thing|Boundaries and openness are the same thing]]
+- [[literature-notes/vulnerability-protects-against-exploitation|Vulnerability protects against exploitation]]
+- [[literature-notes/open-heart-with-strong-boundaries|Open heart with strong boundaries]]
 - [[literature-notes/heartbreak-is-the-mechanism-of-boundaries|Heartbreak is the mechanism of healthy boundaries]]
 - [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
 - [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]

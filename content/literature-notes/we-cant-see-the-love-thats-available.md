@@ -20,8 +20,8 @@ When you actually find unconditional love, the experience is that it's everywher
 
 ## Related Concepts
 
-- [[literature-notes/we-push-away-approval-we-seek|We push away approval we seek]] - We reject what doesn't match our template
-- [[literature-notes/you-get-the-love-you-can-accept|You get the love you can accept]] - Our capacity to receive determines what we see
+- [[literature-notes/we-push-away-approval-we-seek|We push away approval we seek]]
+- [[literature-notes/you-get-the-love-you-can-accept|You get the love you can accept]]
 - [[literature-notes/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic, not just intellectual]]
 
 ## Source

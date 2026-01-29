@@ -22,9 +22,9 @@ This is distinct from performing success. The POW camp story illustrates the dif
 
 ## Related Concepts
 
-- [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]] - How avoidance creates what you fear
-- [[literature-notes/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]] - Truth-telling creating connection
-- [[literature-notes/being-yourself-gets-you-promoted-or-freed|Being yourself gets you promoted or freed]] - Authenticity and career outcomes
+- [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
+- [[literature-notes/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]]
+- [[literature-notes/being-yourself-gets-you-promoted-or-freed|Being yourself gets you promoted or freed]]
 
 ## Source
 

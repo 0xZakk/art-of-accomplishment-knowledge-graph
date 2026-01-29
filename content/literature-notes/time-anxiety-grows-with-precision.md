@@ -21,8 +21,8 @@ This recognition is the prerequisite for the three practical strategies that fol
 
 ## Related Concepts
 
-- [[literature-notes/think-like-a-farmer-about-time|Think like a farmer — plant seeds for the future]] - Strategy one
-- [[literature-notes/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist]] - Another path to dissolving time stress
+- [[literature-notes/think-like-a-farmer-about-time|Think like a farmer — plant seeds for the future]]
+- [[literature-notes/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist]]
 
 ## Source
 

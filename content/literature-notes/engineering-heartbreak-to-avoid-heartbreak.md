@@ -21,9 +21,9 @@ The twist is that we often become okay with one layer (heartbreak) while still a
 
 ## Related Concepts
 
-- [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]] - The broader principle that avoiding an emotion creates the conditions for it
-- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - Resistance to an experience draws it toward us
-- [[literature-notes/feeling-through-a-pattern-ends-it|Feeling through a pattern ends it]] - The pattern dissolves when the underlying emotion is finally felt
+- [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
+- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
+- [[literature-notes/feeling-through-a-pattern-ends-it|Feeling through a pattern ends it]]
 - [[literature-notes/fully-feeling-stops-the-pattern|Fully falling in love with the avoided feeling is the quickest way to stop a negative pattern]]
 - [[literature-notes/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
 - [[literature-notes/avoidance-creates-the-pattern-it-fears|Emotional avoidance creates the very pattern it fears]]

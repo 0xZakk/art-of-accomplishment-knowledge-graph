@@ -21,8 +21,8 @@ This connects to identity flexibility: allowing ourselves to update who we are, 
 
 ## Related Concepts
 
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming not just accepting emotions]] - The internal practice of allowing
-- [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]] - What happens when emotions flow freely
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming not just accepting emotions]]
+- [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]]
 
 ## Source
 

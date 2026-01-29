@@ -22,9 +22,9 @@ The more Joe lets go of results, the better results typically come — because h
 
 ## Related Concepts
 
-- [[literature-notes/chaos-is-necessary-for-growth|Chaos is necessary for growth]] - Chaos as fertile ground
-- [[literature-notes/detachment-from-outcomes-enables-better-outcomes|Detachment from outcomes enables better outcomes]] - Letting go produces better results
-- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]] - Welcoming intensity rather than avoiding it
+- [[literature-notes/chaos-is-necessary-for-growth|Chaos is necessary for growth]]
+- [[literature-notes/detachment-from-outcomes-enables-better-outcomes|Detachment from outcomes enables better outcomes]]
+- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]]
 
 ## Source
 

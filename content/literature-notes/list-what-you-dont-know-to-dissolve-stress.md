@@ -21,8 +21,8 @@ After completing the exercise, notice three things: what happened to your stress
 
 ## Related Concepts
 
-- [[literature-notes/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist neurologically]] - The neurological basis of why this works
-- [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]] - Stress narrows thinking; wonder opens it
+- [[literature-notes/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist neurologically]]
+- [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]]
 
 ## Source
 

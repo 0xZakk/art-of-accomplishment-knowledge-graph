@@ -22,10 +22,10 @@ The path through isn't to fight the guilt or comply with it, but to see the fear
 
 ## Related Concepts
 
-- [[literature-notes/fear-as-road-map-not-enemy|Fear as road map not enemy]] - Fear points to what needs attention
-- [[literature-notes/passive-aggression-develops-when-anger-is-forbidden|Passive aggression develops when anger is forbidden]] - The mother's pattern
-- [[literature-notes/obligation-kills-love|Taking responsibility from obligation kills love]] - Guilt as obligation mechanism
-- [[literature-notes/attunement-patterns-become-adult-cycles|Attunement patterns become adult cycles]] - How childhood patterns persist
+- [[literature-notes/fear-as-road-map-not-enemy|Fear as road map not enemy]]
+- [[literature-notes/passive-aggression-develops-when-anger-is-forbidden|Passive aggression develops when anger is forbidden]]
+- [[literature-notes/obligation-kills-love|Taking responsibility from obligation kills love]]
+- [[literature-notes/attunement-patterns-become-adult-cycles|Attunement patterns become adult cycles]]
 - [[literature-notes/guilt-covers-deeper-emotions-about-family|Guilt about separating from family covers deeper emotions]]
 - [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
 - [[literature-notes/not-responsible-for-others-emotions|Declaring 'I'm not responsible for how you feel' restores full expression]]

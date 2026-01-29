@@ -23,10 +23,10 @@ The iterative mindset compounds over time. Every company Joe knows that disrupte
 
 ## Related Concepts
 
-- [[literature-notes/failure-is-just-an-idea|Failure is just an idea, not a reality]] - Why iteration works: it dissolves the idea
-- [[literature-notes/reframe-failure-as-experimentation|Reframe failure as experimentation by writing 50 experiments]] - The practical method
-- [[literature-notes/we-are-always-running-experiments|We are always running experiments]] - The deeper truth underneath
-- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]] - Iteration is enjoyable, which sustains it
+- [[literature-notes/failure-is-just-an-idea|Failure is just an idea, not a reality]]
+- [[literature-notes/reframe-failure-as-experimentation|Reframe failure as experimentation by writing 50 experiments]]
+- [[literature-notes/we-are-always-running-experiments|We are always running experiments]]
+- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]]
 - [[literature-notes/iterative-mindset-dissolves-procrastination|An iterative mindset dissolves procrastination by removing the possibility of failure]]
 - [[literature-notes/reward-failure-in-culture|Reward failure to create innovative culture]]
 

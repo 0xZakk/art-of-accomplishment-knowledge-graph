@@ -21,8 +21,8 @@ The reframe isn't just easier for the parent—it's the self-talk the child inte
 
 ## Related Concepts
 
-- [[literature-notes/connection-is-the-core-of-parenting|Connection is the core need in parenting]] - The broader framework
-- [[literature-notes/attunement-patterns-become-adult-cycles|Attunement patterns in childhood become adult emotional cycles]] - What happens when these bids get the wrong response
+- [[literature-notes/connection-is-the-core-of-parenting|Connection is the core need in parenting]]
+- [[literature-notes/attunement-patterns-become-adult-cycles|Attunement patterns in childhood become adult emotional cycles]]
 
 ## Source
 

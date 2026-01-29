@@ -23,10 +23,10 @@ This connects to Joe's broader teaching that "should" is always a form of self-a
 
 ## Related Concepts
 
-- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]] - "Should" is the language of the bully voice
-- [[literature-notes/inner-critic-speaks-from-care|The inner critic speaks from care]] - Even the bully voice has good intentions underneath
-- [[literature-notes/resisting-inner-critic-strengthens-it|Resisting the inner critic strengthens it]] - Resistance creates more resistance
-- [[literature-notes/procrastination-has-wisdom|Procrastination contains wisdom worth listening to]] - What listening instead of bullying reveals
+- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]]
+- [[literature-notes/inner-critic-speaks-from-care|The inner critic speaks from care]]
+- [[literature-notes/resisting-inner-critic-strengthens-it|Resisting the inner critic strengthens it]]
+- [[literature-notes/procrastination-has-wisdom|Procrastination contains wisdom worth listening to]]
 - [[literature-notes/resistance-gives-the-inner-critic-its-power|Resistance gives the inner critic its power]]
 - [[literature-notes/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
 - [[literature-notes/should-creates-rebellion-or-submission|Should creates either rebellion or submission, never empowerment]]

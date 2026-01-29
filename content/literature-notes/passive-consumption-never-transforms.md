@@ -20,9 +20,9 @@ This also means that consuming more self-help content can actually become an avo
 
 ## Related Concepts
 
-- [[literature-notes/experiments-make-knowledge-embodied|Experiments make knowledge embodied]] - The mechanism that makes ideas real
-- [[literature-notes/we-are-always-running-experiments|We are always running experiments]] - We're already experimenting, just unconsciously
-- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]] - Why comfort-seeking blocks change
+- [[literature-notes/experiments-make-knowledge-embodied|Experiments make knowledge embodied]]
+- [[literature-notes/we-are-always-running-experiments|We are always running experiments]]
+- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]]
 - [[literature-notes/test-teachings-through-experiments|Test teachings through experiments rather than believing them]]
 - [[literature-notes/tools-stop-working-when-weaponized|Tools stop working when used for self-improvement]]
 

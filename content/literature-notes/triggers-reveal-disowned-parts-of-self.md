@@ -21,9 +21,9 @@ Joe offers three integration questions: (1) Write down four things that trigger 
 
 ## Related Concepts
 
-- [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others exists in you]] - The mirror of psychological projection
-- [[literature-notes/admire-what-you-crave-in-others|Admire what you crave in others]] - Positive projection as disowned gifts
-- [[literature-notes/jealousy-masks-rejected-parts-of-self|Jealousy masks rejected parts of self]] - Shadow material in admiration
+- [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others exists in you]]
+- [[literature-notes/admire-what-you-crave-in-others|Admire what you crave in others]]
+- [[literature-notes/jealousy-masks-rejected-parts-of-self|Jealousy masks rejected parts of self]]
 - [[literature-notes/four-types-of-projection|There are four distinct types of projection]]
 - [[literature-notes/triggers-reveal-unaccepted-parts-of-yourself|Every trigger reveals an unaccepted part of yourself]]
 

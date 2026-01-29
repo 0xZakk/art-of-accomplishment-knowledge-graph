@@ -20,8 +20,8 @@ The key insight is that the energy itself isn't the problem—it's how we direct
 
 ## Related Concepts
 
-- [[literature-notes/rage-as-gateway-to-healing|Rage as gateway to healing]] - How rage can lead back to aliveness
-- [[literature-notes/numbness-as-survival-gift|Numbness as survival mechanism]] - What we're moving away from
+- [[literature-notes/rage-as-gateway-to-healing|Rage as gateway to healing]]
+- [[literature-notes/numbness-as-survival-gift|Numbness as survival mechanism]]
 
 ## Source
 

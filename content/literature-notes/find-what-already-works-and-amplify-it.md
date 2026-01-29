@@ -22,9 +22,9 @@ This principle applies everywhere—in teams, in personal growth, in organizatio
 
 ## Related Concepts
 
-- [[literature-notes/gratitude-reveals-solutions-deficit-thinking-hides|Gratitude reveals solutions deficit thinking hides]] - Gratitude as the lens for finding what works
-- [[literature-notes/see-whats-right-and-build-on-it|See what's right and build on it]] - The general principle
-- [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - Finding versus inventing
+- [[literature-notes/gratitude-reveals-solutions-deficit-thinking-hides|Gratitude reveals solutions deficit thinking hides]]
+- [[literature-notes/see-whats-right-and-build-on-it|See what's right and build on it]]
+- [[literature-notes/discovery-not-improvement|Discovery, not improvement]]
 - [[literature-notes/find-whats-working-and-spread-it|Find what's already working and spread it rather than fixing what's broken]]
 - [[literature-notes/gratitude-solves-problems-by-seeing-whats-right|Gratitude solves problems by seeing what's right and growing it]]
 

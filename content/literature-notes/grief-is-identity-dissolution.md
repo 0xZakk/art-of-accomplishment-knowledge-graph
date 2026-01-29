@@ -21,9 +21,9 @@ A friend of Joe's captured the beauty side of this: "It's like if your foot fall
 
 ## Related Concepts
 
-- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]] - The broader pattern grief serves
-- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - Why identity dissolution creates freedom
-- [[literature-notes/grief-is-necessary-for-transformation|Grief is necessary for transformation]] - The functional role of grief in growth
+- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]]
+- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
+- [[literature-notes/grief-is-necessary-for-transformation|Grief is necessary for transformation]]
 - [[literature-notes/unprocessed-grief-creates-conflict|Unprocessed grief creates most human conflict]]
 
 ## Source

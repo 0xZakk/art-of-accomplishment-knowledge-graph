@@ -22,9 +22,9 @@ The woman used art as an escape from painful reality. When reality became good, 
 
 ## Related Concepts
 
-- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]] - Purpose isn't somewhere you get to
-- [[literature-notes/flow-state-is-embodiment-applied-to-life|Flow state is embodiment applied to life]] - The body-mind state of creating
-- [[literature-notes/art-is-not-important-and-thats-freedom|Art is not important, and that's freedom]] - Why unimportance liberates
+- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
+- [[literature-notes/flow-state-is-embodiment-applied-to-life|Flow state is embodiment applied to life]]
+- [[literature-notes/art-is-not-important-and-thats-freedom|Art is not important, and that's freedom]]
 - [[literature-notes/source-is-always-there-just-drop-down|Source is always there — just drop down]]
 - [[literature-notes/creative-block-is-trying-to-get-somewhere|Creative block is trying to get somewhere]]
 

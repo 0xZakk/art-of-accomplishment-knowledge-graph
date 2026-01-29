@@ -23,10 +23,10 @@ Joe Hudson connects this to the athletes he coaches who discover they can access
 
 ## Related Concepts
 
-- [[literature-notes/confidence-is-connection-to-yourself|Confidence is connection to yourself]] - The internal source of true confidence
-- [[literature-notes/competence-does-not-lead-to-confidence|Competence does not lead to confidence]] - Why skill mastery doesn't resolve self-doubt
-- [[literature-notes/imposter-syndrome-means-not-being-yourself|Imposter syndrome means not being yourself]] - The fraud feeling as signal of inauthenticity
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Performing prevents genuine recognition
+- [[literature-notes/confidence-is-connection-to-yourself|Confidence is connection to yourself]]
+- [[literature-notes/competence-does-not-lead-to-confidence|Competence does not lead to confidence]]
+- [[literature-notes/imposter-syndrome-means-not-being-yourself|Imposter syndrome means not being yourself]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[literature-notes/focus-on-how-you-want-to-feel-not-what-you-fear|Focus on how you want to feel not what you fear]]
 
 ## Source

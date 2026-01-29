@@ -20,9 +20,9 @@ Joe warns about the peace-without-joy trap: monks who have shifted identity but 
 
 ## Related Concepts
 
-- [[literature-notes/emotions-have-intelligent-signals|Emotions have intelligent signals]] - The informational value of emotions
-- [[literature-notes/managing-emotions-prolongs-suffering|Managing emotions prolongs suffering]] - Why control backfires
-- [[literature-notes/dissociation-as-double-edged-sword|Dissociation as double-edged sword]] - The cost of emotional disconnection
+- [[literature-notes/emotions-have-intelligent-signals|Emotions have intelligent signals]]
+- [[literature-notes/managing-emotions-prolongs-suffering|Managing emotions prolongs suffering]]
+- [[literature-notes/dissociation-as-double-edged-sword|Dissociation as double-edged sword]]
 
 ## Source
 

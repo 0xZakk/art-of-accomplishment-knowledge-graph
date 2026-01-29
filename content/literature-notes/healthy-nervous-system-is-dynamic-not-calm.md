@@ -22,9 +22,9 @@ Jonny explains through polyvagal theory that the ventral vagal, sympathetic, and
 
 ## Related Concepts
 
-- [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]] - The emotional parallel to nervous system dynamism
-- [[literature-notes/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms, unresisted stress enlivens]] - How we relate to activation matters more than the activation itself
-- [[literature-notes/breath-regulates-the-nervous-system|Breath regulates the nervous system]] - A tool for building both capacity and resilience
+- [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]]
+- [[literature-notes/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms, unresisted stress enlivens]]
+- [[literature-notes/breath-regulates-the-nervous-system|Breath regulates the nervous system]]
 
 ## Source
 

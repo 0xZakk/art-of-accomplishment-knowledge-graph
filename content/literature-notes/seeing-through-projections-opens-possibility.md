@@ -20,9 +20,9 @@ This connects to wonder, impartiality, vulnerability, and empathy — all traits
 
 ## Related Concepts
 
-- [[literature-notes/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]] - The stance that enables seeing through projections
-- [[literature-notes/holding-opposing-viewpoints-creates-freedom|Holding opposing viewpoints creates freedom]] - How multiple perspectives create spaciousness
-- [[literature-notes/being-in-the-question-beats-finding-the-answer|Being in the question beats finding the answer]] - Staying open rather than fixating
+- [[literature-notes/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]]
+- [[literature-notes/holding-opposing-viewpoints-creates-freedom|Holding opposing viewpoints creates freedom]]
+- [[literature-notes/being-in-the-question-beats-finding-the-answer|Being in the question beats finding the answer]]
 
 ## Source
 

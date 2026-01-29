@@ -22,9 +22,9 @@ This isn't about becoming indifferent to others. It's about releasing the false 
 
 ## Related Concepts
 
-- [[literature-notes/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others to avoid your feelings]] - The pattern of managing others' emotions
-- [[literature-notes/taking-responsibility-for-partners-emotions-breeds-resentment|Taking responsibility for partner's emotions breeds resentment]] - How this plays out in relationships
-- [[literature-notes/boundaries-declare-your-action-not-theirs|Boundaries declare your action, not theirs]] - Healthy boundary-setting
+- [[literature-notes/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others to avoid your feelings]]
+- [[literature-notes/taking-responsibility-for-partners-emotions-breeds-resentment|Taking responsibility for partner's emotions breeds resentment]]
+- [[literature-notes/boundaries-declare-your-action-not-theirs|Boundaries declare your action, not theirs]]
 - [[literature-notes/dont-shame-kids-love-yourself|To not harm your children, love yourself]]
 - [[literature-notes/eighty-percent-of-feared-rejection-is-internal|Eighty percent of feared rejection is internal self-talk]]
 - [[literature-notes/containing-emotions-to-connect-disconnects-you|Containing emotions to connect actually disconnects you]]

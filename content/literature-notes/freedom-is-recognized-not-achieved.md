@@ -22,9 +22,9 @@ This mirrors the broader teaching that what we chase is often already present â€
 
 ## Related Concepts
 
-- [[literature-notes/self-compassion-before-external-success|Self-compassion must come before external success]] - The order of operations that makes freedom visible
-- [[literature-notes/financial-safety-is-not-about-money|Financial safety is not about money]] - External markers of safety don't create internal safety
-- [[literature-notes/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]] - Recognizing what's already here
+- [[literature-notes/self-compassion-before-external-success|Self-compassion must come before external success]]
+- [[literature-notes/financial-safety-is-not-about-money|Financial safety is not about money]]
+- [[literature-notes/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]]
 - [[literature-notes/external-vs-internal-freedom|External freedom and internal freedom are different things]]
 
 ## Source

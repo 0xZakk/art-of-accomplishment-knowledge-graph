@@ -23,9 +23,9 @@ The fortunate side effect was that Joe's fierce drive led him to collect every t
 
 ## Related Concepts
 
-- [[literature-notes/every-epiphany-becomes-the-next-rut|Every epiphany becomes the next rut]] - How breakthroughs get absorbed into old patterns
-- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]] - The fundamental contradiction of trying to improve into your true nature
-- [[literature-notes/confusing-state-with-insight|Confusing state with insight]] - Mistaking a temporary experience for the thing itself
+- [[literature-notes/every-epiphany-becomes-the-next-rut|Every epiphany becomes the next rut]]
+- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
+- [[literature-notes/confusing-state-with-insight|Confusing state with insight]]
 
 ## Source
 

@@ -21,9 +21,9 @@ The solution Joe offers isn't permissiveness — it's partnership. He still teac
 
 ## Related Concepts
 
-- [[literature-notes/rebellion-secretly-wants-connection|Rebellion secretly wants connection]] - What's underneath the rebellion
-- [[literature-notes/management-communicates-distrust|Managing someone communicates you don't trust them]] - What drives kids to rebel
-- [[literature-notes/contrarian-thinking-is-still-controlled-by-the-system|Contrarian thinking is still controlled by the system]] - Rebellion as still externally defined
+- [[literature-notes/rebellion-secretly-wants-connection|Rebellion secretly wants connection]]
+- [[literature-notes/management-communicates-distrust|Managing someone communicates you don't trust them]]
+- [[literature-notes/contrarian-thinking-is-still-controlled-by-the-system|Contrarian thinking is still controlled by the system]]
 - [[literature-notes/rebellion-empowers-the-authority|Rebellion empowers the authority figure just as compliance does]]
 - [[literature-notes/scapegoat-holds-the-family-shadow|The scapegoat holds the family shadow]]
 - [[literature-notes/childhood-criticism-creates-self-distrust|Childhood criticism teaches you not to trust yourself]]

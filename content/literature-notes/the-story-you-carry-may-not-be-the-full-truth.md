@@ -22,9 +22,9 @@ We form our core stories as children with a child's limited perspective. Then we
 
 ## Related Concepts
 
-- [[literature-notes/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]] - How the story got updated
-- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - The story shapes what patterns you create
-- [[literature-notes/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]] - Doubt as narrative protection
+- [[literature-notes/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]]
+- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
+- [[literature-notes/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]]
 
 ## Source
 

@@ -23,9 +23,9 @@ The body also serves as a diagnostic: rigidity in the belly, shoulders, or jaw s
 
 ## Related Concepts
 
-- [[literature-notes/empathy-is-being-with-not-in|Empathy is being with someone's experience, not lost in it]] - The distinction this practice enables
-- [[literature-notes/muscles-constrict-to-block-feeling|Muscles constrict to block feeling]] - The somatic mechanism of emotional suppression
-- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]] - The simplicity of the practice
+- [[literature-notes/empathy-is-being-with-not-in|Empathy is being with someone's experience, not lost in it]]
+- [[literature-notes/muscles-constrict-to-block-feeling|Muscles constrict to block feeling]]
+- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]]
 - [[literature-notes/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]
 
 ## Source

@@ -23,9 +23,9 @@ For people who recognize this pattern in themselves, Joe suggests experimenting 
 
 ## Related Concepts
 
-- [[literature-notes/false-humility-as-defense|False humility as defense]] - Hedging as a form of false humility
-- [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]] - The alternative to hedging
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Why hiding prevents connection
+- [[literature-notes/false-humility-as-defense|False humility as defense]]
+- [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 
 ## Source
 

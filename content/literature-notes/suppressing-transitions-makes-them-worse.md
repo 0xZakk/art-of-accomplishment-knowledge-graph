@@ -22,8 +22,8 @@ He frames societal transitions as roughly 80-year cycles where institutions need
 
 ## Related Concepts
 
-- [[literature-notes/chaos-is-necessary-for-growth|Chaos is necessary for growth, like forest fires for forests]] - The positive function of disruption
-- [[literature-notes/resistance-creates-the-feared-outcome|Resisting an emotion creates the very outcome you fear]] - Same principle at the personal emotional level
+- [[literature-notes/chaos-is-necessary-for-growth|Chaos is necessary for growth, like forest fires for forests]]
+- [[literature-notes/resistance-creates-the-feared-outcome|Resisting an emotion creates the very outcome you fear]]
 - [[literature-notes/fear-of-stagnation-creates-stagnation|Fear of stagnation creates stagnation]]
 - [[literature-notes/feel-fear-to-see-opportunity|Feel the fear fully to see the opportunities in chaos]]
 - [[literature-notes/tension-is-required-for-healthy-systems|All living systems require tension to stay healthy]]

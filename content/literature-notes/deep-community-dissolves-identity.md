@@ -24,9 +24,9 @@ Joe's "island experiment" illustrates the pull: imagine 12 people who unconditio
 
 ## Related Concepts
 
-- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]] - Identity dissolution as part of growth
-- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - Why dissolving identity is freeing
-- [[literature-notes/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]] - The defense that community dissolves
+- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]]
+- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
+- [[literature-notes/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]]
 
 ## Source
 

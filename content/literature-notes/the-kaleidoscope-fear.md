@@ -20,9 +20,9 @@ You start choosing the projection that serves you best — the one that allows f
 
 ## Related Concepts
 
-- [[literature-notes/fear-of-losing-relatability-signals-transformation|Fear of losing relatability signals transformation]] - The fear that precedes breakthrough
-- [[literature-notes/the-abyss-is-where-you-dont-exist|The abyss is where you don't exist]] - Confronting the dissolution of fixed reality
-- [[literature-notes/stuckness-is-resistance-to-the-abyss|Stuckness is resistance to the abyss]] - Why we avoid this confrontation
+- [[literature-notes/fear-of-losing-relatability-signals-transformation|Fear of losing relatability signals transformation]]
+- [[literature-notes/the-abyss-is-where-you-dont-exist|The abyss is where you don't exist]]
+- [[literature-notes/stuckness-is-resistance-to-the-abyss|Stuckness is resistance to the abyss]]
 
 ## Source
 

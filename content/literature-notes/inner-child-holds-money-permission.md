@@ -20,9 +20,9 @@ The resolution doesn't come from arguing with the child or proving there's enoug
 
 ## Related Concepts
 
-- [[literature-notes/financial-safety-is-not-about-money|Financial safety is not actually about money]] - The broader insight
-- [[literature-notes/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood patterns]] - The general pattern
-- [[literature-notes/money-wounds-trace-to-parent-wounds|Money wounds trace to parent wounds]] - The childhood roots
+- [[literature-notes/financial-safety-is-not-about-money|Financial safety is not actually about money]]
+- [[literature-notes/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood patterns]]
+- [[literature-notes/money-wounds-trace-to-parent-wounds|Money wounds trace to parent wounds]]
 
 ## Source
 

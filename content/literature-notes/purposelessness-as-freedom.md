@@ -23,9 +23,9 @@ Joe puts his own life in the same frame: "I am dedicated to building this busine
 
 ## Related Concepts
 
-- [[literature-notes/searching-for-purpose-assumes-you-lack-it|Searching for purpose assumes you lack it]] - The paradox of seeking purpose
-- [[literature-notes/rudderlessness-is-freedom-in-disguise|Rudderlessness is freedom in disguise]] - A related reframe
-- [[literature-notes/nothing-is-required-for-freedom|Nothing is required for freedom]] - Freedom as recognition, not achievement
+- [[literature-notes/searching-for-purpose-assumes-you-lack-it|Searching for purpose assumes you lack it]]
+- [[literature-notes/rudderlessness-is-freedom-in-disguise|Rudderlessness is freedom in disguise]]
+- [[literature-notes/nothing-is-required-for-freedom|Nothing is required for freedom]]
 - [[literature-notes/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
 
 ## Source

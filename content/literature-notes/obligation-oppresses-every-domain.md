@@ -24,9 +24,9 @@ Obligation toward self is equally destructive. The inner critic creates obligati
 
 ## Related Concepts
 
-- [[literature-notes/money-blocks-are-safety-blocks|Money blocks are safety blocks]] - Money resistance has emotional roots
-- [[literature-notes/craving-pushes-away-what-you-want|Craving pushes away what you want]] - The pushing-away dynamic
-- [[literature-notes/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]] - Love as better motivator than obligation
+- [[literature-notes/money-blocks-are-safety-blocks|Money blocks are safety blocks]]
+- [[literature-notes/craving-pushes-away-what-you-want|Craving pushes away what you want]]
+- [[literature-notes/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]]
 - [[literature-notes/depersonalizing-money-creates-freedom|Depersonalizing money creates financial freedom]]
 - [[literature-notes/craving-versus-wanting|The difference between craving and wanting]]
 

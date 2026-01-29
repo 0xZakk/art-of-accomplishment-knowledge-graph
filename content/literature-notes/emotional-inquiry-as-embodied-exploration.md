@@ -19,9 +19,9 @@ This is fundamentally different from therapeutic approaches that ask "what does 
 
 ## Related Concepts
 
-- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]] - The simplicity underlying somatic inquiry
-- [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]] - Why we need to deliberately approach what we've been avoiding
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]] - The active stance toward feelings this technique cultivates
+- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]]
+- [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]]
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]]
 - [[literature-notes/emotions-respond-to-how-you-relate-to-them|Emotions respond dynamically to how you relate to them]]
 - [[literature-notes/curiosity-transforms-relationship-to-emotions|Curiosity transforms your relationship to difficult emotions]]
 

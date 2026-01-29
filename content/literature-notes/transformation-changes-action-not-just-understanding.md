@@ -20,9 +20,9 @@ The scariest transformations are the ones where you can't choose the old way any
 
 ## Related Concepts
 
-- [[literature-notes/transformation-is-experiments-not-epiphany|Transformation is experiments, not epiphany]] - Action over insight
-- [[literature-notes/transformation-requires-experience-not-information|Transformation requires experience, not information]] - Embodied knowledge
-- [[literature-notes/changing-behavior-changes-consciousness|Changing behavior changes consciousness]] - The bidirectional relationship
+- [[literature-notes/transformation-is-experiments-not-epiphany|Transformation is experiments, not epiphany]]
+- [[literature-notes/transformation-requires-experience-not-information|Transformation requires experience, not information]]
+- [[literature-notes/changing-behavior-changes-consciousness|Changing behavior changes consciousness]]
 
 ## Source
 

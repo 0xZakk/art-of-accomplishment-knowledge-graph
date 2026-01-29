@@ -23,10 +23,10 @@ The mechanism: when anger can't move outward — at the situation, at the illnes
 
 ## Related Concepts
 
-- [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]] - What anger becomes when fully expressed
-- [[literature-notes/holding-it-together-blocks-support|Holding it together blocks support]] - The pattern of self-sufficiency as defense
-- [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]] - The inward direction of unexpressed anger
-- [[literature-notes/caretaking-kills-desire|Caretaking kills desire]] - Another cost of chronic caretaking
+- [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]]
+- [[literature-notes/holding-it-together-blocks-support|Holding it together blocks support]]
+- [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]]
+- [[literature-notes/caretaking-kills-desire|Caretaking kills desire]]
 - [[literature-notes/anger-backlog-must-clear|There is often a backlog of anger that must clear before you can settle]]
 
 ## Source

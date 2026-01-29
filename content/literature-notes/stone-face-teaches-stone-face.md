@@ -20,9 +20,9 @@ Joe's crucial reframe: "All of their activity wasn't about you. It wasn't person
 
 ## Related Concepts
 
-- [[literature-notes/attunement-patterns-become-adult-cycles|Attunement patterns become adult cycles]] - How childhood attunement shapes adult relating
-- [[literature-notes/attuned-response-dissolves-trauma-patterns|Attuned response dissolves trauma patterns]] - Attunement as the antidote
-- [[literature-notes/demanding-composure-of-a-child-is-psychotic|Demanding composure of a child is psychotic]] - The impossibility of child emotional control
+- [[literature-notes/attunement-patterns-become-adult-cycles|Attunement patterns become adult cycles]]
+- [[literature-notes/attuned-response-dissolves-trauma-patterns|Attuned response dissolves trauma patterns]]
+- [[literature-notes/demanding-composure-of-a-child-is-psychotic|Demanding composure of a child is psychotic]]
 - [[literature-notes/eighty-percent-of-feared-rejection-is-internal|Eighty percent of feared rejection is internal self-talk]]
 - [[literature-notes/attunement-regulates-both-nervous-systems|Attunement regulates both nervous systems]]
 - [[literature-notes/containing-emotions-to-connect-disconnects-you|Containing emotions to connect actually disconnects you]]

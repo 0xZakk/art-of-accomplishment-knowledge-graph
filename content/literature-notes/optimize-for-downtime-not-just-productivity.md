@@ -25,10 +25,10 @@ The weightlifting analogy makes it intuitive: you can build significant muscle l
 
 ## Related Concepts
 
-- [[literature-notes/recovery-time-is-part-of-the-work|Recovery time is part of the work]] - Rest as productive activity
-- [[literature-notes/performance-and-play-cycle|Performance and play cycle]] - The natural rhythm of output and recovery
-- [[literature-notes/busyness-is-not-productivity|Busyness is not productivity]] - The illusion that activity equals progress
-- [[literature-notes/energy-management-over-time-management|Energy management over time management]] - Managing fuel, not hours
+- [[literature-notes/recovery-time-is-part-of-the-work|Recovery time is part of the work]]
+- [[literature-notes/performance-and-play-cycle|Performance and play cycle]]
+- [[literature-notes/busyness-is-not-productivity|Busyness is not productivity]]
+- [[literature-notes/energy-management-over-time-management|Energy management over time management]]
 
 ## Source
 

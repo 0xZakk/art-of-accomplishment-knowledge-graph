@@ -20,8 +20,8 @@ This requires a paradox: everyone must take personal responsibility for themselv
 
 ## Related Concepts
 
-- [[literature-notes/real-community-requires-non-judgmental-witnessing|Real community requires non-judgmental witnessing, not fixing]] - The container that makes community healing possible
-- [[literature-notes/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]] - What happens when people show up authentically in community
+- [[literature-notes/real-community-requires-non-judgmental-witnessing|Real community requires non-judgmental witnessing, not fixing]]
+- [[literature-notes/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]]
 
 ## Source
 

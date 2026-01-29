@@ -23,10 +23,10 @@ The key distinction Joe draws is between enduring pain and transforming pain. En
 
 ## Related Concepts
 
-- [[literature-notes/self-abandonment-in-communication|Self-abandonment in communication]] - The endurance mentality often manifests as bending to others' wants and suppressing your own
-- [[literature-notes/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms, unresisted stress enlivens]] - Endurance is a form of resistance to experience
-- [[literature-notes/managing-trauma-versus-resolving-it|Managing trauma versus resolving it]] - Enduring is managing; transformation is resolving
-- [[literature-notes/obligation-kills-love|Obligation kills love]] - Relationships viewed as endurance become obligations
+- [[literature-notes/self-abandonment-in-communication|Self-abandonment in communication]]
+- [[literature-notes/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms, unresisted stress enlivens]]
+- [[literature-notes/managing-trauma-versus-resolving-it|Managing trauma versus resolving it]]
+- [[literature-notes/obligation-kills-love|Obligation kills love]]
 - [[literature-notes/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
 
 ## Source

@@ -24,9 +24,9 @@ This is not positive thinking or affirmation. It's a lens shift that reveals wha
 
 ## Related Concepts
 
-- [[literature-notes/not-defending-reveals-inherent-goodness|Not defending reveals inherent goodness]] - The goodness that's already there
-- [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]] - Another angle on shame's distortion
-- [[literature-notes/wanting-requires-no-justification|Wanting requires no justification]] - Permission to want
+- [[literature-notes/not-defending-reveals-inherent-goodness|Not defending reveals inherent goodness]]
+- [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]]
+- [[literature-notes/wanting-requires-no-justification|Wanting requires no justification]]
 - [[literature-notes/shame-is-love-in-disguise|Shame is love in disguise—it shows you care]]
 - [[literature-notes/wants-are-evolutionary-strategies|Wants are strategies for essential human needs]]
 

@@ -21,9 +21,9 @@ Tara describes a young actress who had stage fright so debilitating she vomited 
 
 ## Related Concepts
 
-- [[literature-notes/social-anxiety-is-hiding-from-phantom-shame|Social anxiety is hiding from phantom shame]] - The broader pattern of shame-driven avoidance
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Why performing prevents being seen
-- [[literature-notes/imposter-syndrome-roots-in-conditional-love|Imposter syndrome roots in conditional love]] - Deeper roots of performance shame
+- [[literature-notes/social-anxiety-is-hiding-from-phantom-shame|Social anxiety is hiding from phantom shame]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
+- [[literature-notes/imposter-syndrome-roots-in-conditional-love|Imposter syndrome roots in conditional love]]
 
 ## Source
 

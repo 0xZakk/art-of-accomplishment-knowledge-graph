@@ -21,9 +21,9 @@ Scott's dying observation captures this perfectly: there are a million acts of g
 
 ## Related Concepts
 
-- [[literature-notes/generosity-is-being-not-giving|True generosity is being, not giving]] - The broader principle
-- [[literature-notes/being-seen-transforms-behavior|Being seen transforms behavior]] - The power of being witnessed
-- [[literature-notes/unconditional-listening-transforms-relationships|Unconditional listening transforms relationships]] - Listening as seeing
+- [[literature-notes/generosity-is-being-not-giving|True generosity is being, not giving]]
+- [[literature-notes/being-seen-transforms-behavior|Being seen transforms behavior]]
+- [[literature-notes/unconditional-listening-transforms-relationships|Unconditional listening transforms relationships]]
 
 ## Source
 

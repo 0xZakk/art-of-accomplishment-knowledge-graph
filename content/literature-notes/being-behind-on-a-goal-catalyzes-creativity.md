@@ -22,9 +22,9 @@ The key: this only works with aligned goals that you genuinely care about. Being
 
 ## Related Concepts
 
-- [[literature-notes/goals-generate-questions-not-destinations|Goals generate questions, not destinations]] - Goals as creative catalysts
-- [[literature-notes/goals-as-self-abuse-versus-creativity|Goals as self-abuse versus creativity]] - The source of the goal matters
-- [[literature-notes/do-the-uncomfortable-thing-first|Do the uncomfortable thing first]] - Pressure as productive discomfort
+- [[literature-notes/goals-generate-questions-not-destinations|Goals generate questions, not destinations]]
+- [[literature-notes/goals-as-self-abuse-versus-creativity|Goals as self-abuse versus creativity]]
+- [[literature-notes/do-the-uncomfortable-thing-first|Do the uncomfortable thing first]]
 
 ## Source
 

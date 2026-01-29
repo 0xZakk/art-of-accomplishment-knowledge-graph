@@ -20,9 +20,9 @@ The antidote isn't less intelligence—it's deliberately turning that same analy
 
 ## Related Concepts
 
-- [[literature-notes/perfectionism-is-the-critical-parents-voice|Perfectionism is the critical parent's voice]] - The source of the criticism
-- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]] - Why intelligence serves self-criticism
-- [[literature-notes/goals-as-self-abuse-versus-creativity|Goals as self-abuse versus creativity]] - Intelligent goal-setting as self-abuse
+- [[literature-notes/perfectionism-is-the-critical-parents-voice|Perfectionism is the critical parent's voice]]
+- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]]
+- [[literature-notes/goals-as-self-abuse-versus-creativity|Goals as self-abuse versus creativity]]
 
 ## Source
 

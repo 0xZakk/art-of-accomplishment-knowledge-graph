@@ -24,10 +24,10 @@ Critically, this isn't masochism. It's about freedom — "a place where I get to
 
 ## Related Concepts
 
-- [[literature-notes/openness-to-judgment-beats-defense|Openness to judgment beats defense]] - The broader principle
-- [[literature-notes/letting-judgment-break-your-heart-open|Letting judgment break your heart open]] - The emotional dimension
-- [[literature-notes/triggers-as-freedom-opportunities|Triggers as freedom opportunities]] - Triggers as doorways
-- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]] - What's behind the judgment
+- [[literature-notes/openness-to-judgment-beats-defense|Openness to judgment beats defense]]
+- [[literature-notes/letting-judgment-break-your-heart-open|Letting judgment break your heart open]]
+- [[literature-notes/triggers-as-freedom-opportunities|Triggers as freedom opportunities]]
+- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]]
 - [[literature-notes/intuition-sees-what-logic-cannot|Intuition sees what the logical mind cannot]]
 
 ## Source

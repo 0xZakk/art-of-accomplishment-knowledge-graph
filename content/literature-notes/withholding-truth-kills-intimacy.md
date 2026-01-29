@@ -23,10 +23,10 @@ The cruel irony is that both partners believe they're being compassionate by wit
 
 ## Related Concepts
 
-- [[literature-notes/truth-telling-revives-dead-relationships|Speaking your truth revives dead relationships]] - The antidote
-- [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]] - The broader pattern
-- [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]] - One side of the dynamic
-- [[literature-notes/resentment-is-stored-conflict|Resentment is stored conflict]] - What accumulates in the silence
+- [[literature-notes/truth-telling-revives-dead-relationships|Speaking your truth revives dead relationships]]
+- [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]]
+- [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]]
+- [[literature-notes/resentment-is-stored-conflict|Resentment is stored conflict]]
 
 ## Source
 

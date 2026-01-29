@@ -22,9 +22,9 @@ The resistance determines the suffering, not the transformation itself. "If you 
 
 ## Related Concepts
 
-- [[literature-notes/the-abyss-you-avoid-is-your-freedom|The abyss you avoid is your freedom]] - Direct teaching on this topic
-- [[literature-notes/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]] - The developmental arc
-- [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]] - Why this matters
+- [[literature-notes/the-abyss-you-avoid-is-your-freedom|The abyss you avoid is your freedom]]
+- [[literature-notes/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]]
+- [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
 
 ## Source
 

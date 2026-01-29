@@ -24,9 +24,9 @@ When the question finally dissolved, he realized "it wasn't even me asking the q
 
 ## Related Concepts
 
-- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - Why fixed identity is problematic
-- [[literature-notes/identity-stress-comes-from-defending-a-fixed-self|Identity stress comes from defending a fixed self]] - The cost of maintaining identity
-- [[literature-notes/question-the-assumption-as-self-inquiry|Question the assumption is self-inquiry, not skepticism]] - The practice that leads here
+- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
+- [[literature-notes/identity-stress-comes-from-defending-a-fixed-self|Identity stress comes from defending a fixed self]]
+- [[literature-notes/question-the-assumption-as-self-inquiry|Question the assumption is self-inquiry, not skepticism]]
 
 ## Source
 

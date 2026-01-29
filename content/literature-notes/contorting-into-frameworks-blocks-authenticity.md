@@ -22,10 +22,10 @@ The session ends with her apologizing to herself: "I'm so sorry for trying to fo
 
 ## Related Concepts
 
-- [[literature-notes/your-gifts-are-your-nature-not-a-framework|Your gifts are your nature, not a framework to discover]] - What's true instead
-- [[literature-notes/purpose-seeking-often-masks-approval-seeking|Purpose-seeking often masks approval-seeking]] - The hidden motive
-- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]] - The extreme version
-- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]] - Why frameworks constrict
+- [[literature-notes/your-gifts-are-your-nature-not-a-framework|Your gifts are your nature, not a framework to discover]]
+- [[literature-notes/purpose-seeking-often-masks-approval-seeking|Purpose-seeking often masks approval-seeking]]
+- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
+- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]]
 
 ## Source
 

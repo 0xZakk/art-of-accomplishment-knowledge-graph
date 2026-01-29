@@ -23,9 +23,9 @@ From source, she looks at a piece that's been waiting 15 years and immediately s
 
 ## Related Concepts
 
-- [[literature-notes/presence-is-pleasure|Presence is pleasure]] - What source feels like
-- [[literature-notes/you-cant-stop-being-present|You can't stop being present]] - Presence as default state
-- [[literature-notes/life-is-art-not-separate-from-it|Life is art, not separate from it]] - Creating from every moment
+- [[literature-notes/presence-is-pleasure|Presence is pleasure]]
+- [[literature-notes/you-cant-stop-being-present|You can't stop being present]]
+- [[literature-notes/life-is-art-not-separate-from-it|Life is art, not separate from it]]
 - [[literature-notes/creative-block-is-trying-to-get-somewhere|Creative block is trying to get somewhere]]
 - [[literature-notes/art-is-not-important-and-thats-freedom|Art is not important, and that's freedom]]
 

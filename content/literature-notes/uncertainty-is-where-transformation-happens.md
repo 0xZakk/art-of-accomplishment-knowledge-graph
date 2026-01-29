@@ -20,8 +20,8 @@ The frame shift is from "uncertainty is a problem to solve" to "uncertainty is f
 
 ## Related Concepts
 
-- [[literature-notes/ownership-of-the-adventure|Taking ownership of the adventure transforms crisis]] - How to orient within upheaval
-- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - What happens when you fight uncertainty
+- [[literature-notes/ownership-of-the-adventure|Taking ownership of the adventure transforms crisis]]
+- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
 
 ## Source
 

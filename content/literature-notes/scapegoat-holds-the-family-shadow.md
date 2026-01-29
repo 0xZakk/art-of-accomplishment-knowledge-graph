@@ -20,9 +20,9 @@ Yet the scapegoat role can also be a gift. Because the rebel is pushed outside t
 
 ## Related Concepts
 
-- [[literature-notes/rebellion-secretly-wants-connection|Rebellion secretly wants connection]] - The rebel's defiance is a distorted bid for love
-- [[literature-notes/childhood-freeze-becomes-adult-trap|Childhood freeze becomes adult trap]] - How childhood survival roles persist into adulthood
-- [[literature-notes/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]] - Family dynamics repeat in adult relationships
+- [[literature-notes/rebellion-secretly-wants-connection|Rebellion secretly wants connection]]
+- [[literature-notes/childhood-freeze-becomes-adult-trap|Childhood freeze becomes adult trap]]
+- [[literature-notes/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]]
 - [[literature-notes/rebellion-is-the-only-self-under-control|Rebellion becomes the only sense of self under suffocating control]]
 
 ## Source

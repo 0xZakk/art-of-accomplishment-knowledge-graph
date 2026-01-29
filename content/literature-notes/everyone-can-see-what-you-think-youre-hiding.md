@@ -22,9 +22,9 @@ The revelation: the energy spent hiding is wasted because it doesn't work. Every
 
 ## Related Concepts
 
-- [[literature-notes/hiding-makes-you-feel-more-like-an-imposter|Hiding makes you feel more like an imposter]] - The self-reinforcing cycle
-- [[literature-notes/compartmentalization-hides-your-full-self|Compartmentalization hides your full self]] - The cost of hiding
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - The deeper truth
+- [[literature-notes/hiding-makes-you-feel-more-like-an-imposter|Hiding makes you feel more like an imposter]]
+- [[literature-notes/compartmentalization-hides-your-full-self|Compartmentalization hides your full self]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[literature-notes/truth-lands-as-relief-in-the-body|Truth lands as relief in the body, not as attack]]
 - [[literature-notes/watching-a-leader-fail-teaches-more-than-success|Watching a leader fail openly teaches more than their success]]
 - [[literature-notes/leaders-vulnerability-cascades-through-the-team|A leader's vulnerability cascades through the entire team]]

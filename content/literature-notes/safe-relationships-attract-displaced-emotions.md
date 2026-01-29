@@ -21,9 +21,9 @@ The work is to honor the safety of the relationship by not using the partner as 
 
 ## Related Concepts
 
-- [[literature-notes/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]] - The deeper pattern of how relationships surface what needs healing
-- [[literature-notes/loved-ones-trigger-you-enough|Loved ones trigger you enough]] - Why close relationships are the most triggering
-- [[literature-notes/connection-is-the-core-of-parenting|Connection is the core of parenting]] - How children use parental safety for emotional processing
+- [[literature-notes/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]]
+- [[literature-notes/loved-ones-trigger-you-enough|Loved ones trigger you enough]]
+- [[literature-notes/connection-is-the-core-of-parenting|Connection is the core of parenting]]
 - [[literature-notes/safety-enables-productive-conflict|Safety enables productive conflict rather than preventing it]]
 - [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger—your own and others'—drives conflict avoidance]]
 

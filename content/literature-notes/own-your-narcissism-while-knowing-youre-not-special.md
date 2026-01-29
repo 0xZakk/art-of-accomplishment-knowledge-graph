@@ -22,9 +22,9 @@ This is especially critical when going from coaching (one-on-one) to facilitatio
 
 ## Related Concepts
 
-- [[literature-notes/narcissism-is-a-spectrum-we-are-all-on|Narcissism is a spectrum we are all on]] - The universal nature of narcissism
-- [[literature-notes/humility-is-not-making-yourself-small|Humility is not making yourself small]] - Real humility holds both power and ordinariness
-- [[literature-notes/authority-distorts-reality-for-leaders|Authority distorts reality for leaders]] - The distortion that comes with authority
+- [[literature-notes/narcissism-is-a-spectrum-we-are-all-on|Narcissism is a spectrum we are all on]]
+- [[literature-notes/humility-is-not-making-yourself-small|Humility is not making yourself small]]
+- [[literature-notes/authority-distorts-reality-for-leaders|Authority distorts reality for leaders]]
 
 ## Source
 

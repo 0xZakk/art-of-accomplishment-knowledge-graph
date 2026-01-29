@@ -24,10 +24,10 @@ This is the difference between venting (which often escalates) and genuine emoti
 
 ## Related Concepts
 
-- [[literature-notes/own-the-trigger-as-yours|Own the trigger as yours]] - Taking responsibility for the charge
-- [[literature-notes/triggers-are-past-living-through-present|Triggers are past living through present]] - Why the charge is so intense
-- [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]] - What anger becomes when allowed
-- [[literature-notes/fights-as-healing-opportunities-in-relationship|Fights as healing opportunities in relationship]] - The larger context
+- [[literature-notes/own-the-trigger-as-yours|Own the trigger as yours]]
+- [[literature-notes/triggers-are-past-living-through-present|Triggers are past living through present]]
+- [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]]
+- [[literature-notes/fights-as-healing-opportunities-in-relationship|Fights as healing opportunities in relationship]]
 - [[literature-notes/uncharged-truth-follows-moved-emotion|Speaking truth uncharged follows moved emotion]]
 
 ## Source

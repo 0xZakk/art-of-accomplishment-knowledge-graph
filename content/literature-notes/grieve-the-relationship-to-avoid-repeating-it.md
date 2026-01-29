@@ -23,9 +23,9 @@ Joe and Tara apply this even within their ongoing marriage. During their worst c
 
 ## Related Concepts
 
-- [[literature-notes/mourning-a-relationship-prevents-repeating-it|Mourning a relationship prevents repeating it]] - The same principle stated differently
-- [[literature-notes/grief-sustained-transforms-everything|Grief sustained transforms everything]] - Why grief works
-- [[literature-notes/grief-is-necessary-for-transformation|Grief is necessary for transformation]] - The broader role of grief
+- [[literature-notes/mourning-a-relationship-prevents-repeating-it|Mourning a relationship prevents repeating it]]
+- [[literature-notes/grief-sustained-transforms-everything|Grief sustained transforms everything]]
+- [[literature-notes/grief-is-necessary-for-transformation|Grief is necessary for transformation]]
 
 ## Source
 

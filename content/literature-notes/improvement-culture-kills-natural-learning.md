@@ -22,9 +22,9 @@ Companies that hook into authentic human desires—altruism, self-interest, team
 
 ## Related Concepts
 
-- [[literature-notes/your-nature-knows-what-you-need-next|Your nature knows what you need next]] - The individual version
-- [[literature-notes/goals-as-self-abuse-versus-creativity|Goals as self-abuse versus creativity]] - How improvement becomes punishment
-- [[literature-notes/internal-alignment-mirrors-organizational-alignment|Internal alignment mirrors organizational alignment]] - Personal and business transformation
+- [[literature-notes/your-nature-knows-what-you-need-next|Your nature knows what you need next]]
+- [[literature-notes/goals-as-self-abuse-versus-creativity|Goals as self-abuse versus creativity]]
+- [[literature-notes/internal-alignment-mirrors-organizational-alignment|Internal alignment mirrors organizational alignment]]
 
 ## Source
 

@@ -21,9 +21,9 @@ This connects to a deeper principle: the leader who understands themselves can s
 
 ## Related Concepts
 
-- [[literature-notes/anxiety-is-detrimental-to-productivity|Anxiety is detrimental to productivity]] - The flip side: anxiety destroys both effectiveness and quality of life
-- [[literature-notes/authority-distorts-reality-for-leaders|Authority distorts reality for leaders]] - Leaders need self-awareness to counteract the distortion their position creates
-- [[literature-notes/business-as-self-awareness-practice|Business as self-awareness practice]] - Business itself becomes a vehicle for personal development
+- [[literature-notes/anxiety-is-detrimental-to-productivity|Anxiety is detrimental to productivity]]
+- [[literature-notes/authority-distorts-reality-for-leaders|Authority distorts reality for leaders]]
+- [[literature-notes/business-as-self-awareness-practice|Business as self-awareness practice]]
 
 ## Source
 

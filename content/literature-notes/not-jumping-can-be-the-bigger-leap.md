@@ -22,9 +22,9 @@ This teaching applies broadly: sometimes the most courageous act is the one that
 
 ## Related Concepts
 
-- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]] - The social fear that drove the initial shame
-- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - The shame response that needed to be seen through
-- [[literature-notes/authenticity-is-a-path-not-destination|Authenticity is a path not a destination]] - Choosing authentically over performing courage
+- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
+- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
+- [[literature-notes/authenticity-is-a-path-not-destination|Authenticity is a path not a destination]]
 
 ## Source
 

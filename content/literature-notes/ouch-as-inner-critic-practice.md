@@ -22,9 +22,9 @@ Other responses Joe suggests: "I see that you're scared and I'm right here with 
 
 ## Related Concepts
 
-- [[literature-notes/inner-critic-as-guide|The inner critic as guide]] - Working with rather than against the critical voice
-- [[literature-notes/welcome-the-inner-critic|Welcome the inner critic]] - The practice of welcoming rather than resisting
-- [[literature-notes/inner-critic-is-not-your-voice|The inner critic is not your voice]] - Recognizing the critic as separate from self
+- [[literature-notes/inner-critic-as-guide|The inner critic as guide]]
+- [[literature-notes/welcome-the-inner-critic|Welcome the inner critic]]
+- [[literature-notes/inner-critic-is-not-your-voice|The inner critic is not your voice]]
 - [[literature-notes/ouch-technique-for-inner-critic|The 'ouch' technique silences the inner critic and creates genuine rest]]
 - [[literature-notes/respond-differently-to-the-inner-critic|Respond differently to the inner critic as a practice]]
 - [[literature-notes/speaking-truth-requires-open-heart-not-management|Speaking truth requires an open heart, not management of others' reactions]]

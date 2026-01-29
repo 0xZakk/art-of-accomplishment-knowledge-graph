@@ -22,9 +22,9 @@ The real work is seeing through the thoughts that create the stress, particularl
 
 ## Related Concepts
 
-- [[literature-notes/breath-regulates-the-nervous-system|Breath regulates the nervous system]] - The tool itself
-- [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]] - What happens when downregulation becomes avoidance
-- [[literature-notes/address-root-blockers-not-symptoms|Address root blockers, not symptoms]] - The principle at work
+- [[literature-notes/breath-regulates-the-nervous-system|Breath regulates the nervous system]]
+- [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]]
+- [[literature-notes/address-root-blockers-not-symptoms|Address root blockers, not symptoms]]
 
 ## Source
 

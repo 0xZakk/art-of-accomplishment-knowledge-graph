@@ -22,9 +22,9 @@ Empowerment is a feeling and a state, not a life condition. You can be in povert
 
 ## Related Concepts
 
-- [[literature-notes/empowerment-is-love-without-submission|Empowerment is love without submission]] - The relationship between empowerment and love
-- [[literature-notes/empowerment-and-unconditional-love-are-the-same|Empowerment and unconditional love are the same]] - Two sides of the same mountain
-- [[literature-notes/resourcefulness-over-resources|Resourcefulness over resources]] - Internal capacity vs. external assets
+- [[literature-notes/empowerment-is-love-without-submission|Empowerment is love without submission]]
+- [[literature-notes/empowerment-and-unconditional-love-are-the-same|Empowerment and unconditional love are the same]]
+- [[literature-notes/resourcefulness-over-resources|Resourcefulness over resources]]
 
 ## Source
 

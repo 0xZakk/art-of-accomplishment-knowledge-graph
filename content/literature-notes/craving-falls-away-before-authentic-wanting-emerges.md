@@ -26,10 +26,10 @@ Brett captures it well: "A lot of us have been used to associating wanting with 
 
 ## Related Concepts
 
-- [[literature-notes/craving-versus-wanting|Craving versus wanting]] - The fundamental distinction
-- [[literature-notes/craving-pushes-away-what-you-want|Craving pushes away what you want]] - Why craving is counterproductive
-- [[literature-notes/stagnation-may-be-wisdom|Stagnation may be wisdom]] - Sometimes not moving is the right move
-- [[literature-notes/burnout-is-sustained-adrenaline-depletion|Burnout is sustained adrenaline depletion]] - The nervous system needs recovery
+- [[literature-notes/craving-versus-wanting|Craving versus wanting]]
+- [[literature-notes/craving-pushes-away-what-you-want|Craving pushes away what you want]]
+- [[literature-notes/stagnation-may-be-wisdom|Stagnation may be wisdom]]
+- [[literature-notes/burnout-is-sustained-adrenaline-depletion|Burnout is sustained adrenaline depletion]]
 
 ## Source
 

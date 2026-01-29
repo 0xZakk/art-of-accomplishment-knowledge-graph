@@ -22,9 +22,9 @@ The insight lands somatically for the caller, whose body "explodes with joy" as 
 
 ## Related Concepts
 
-- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - The general principle that fighting something reinforces it
-- [[literature-notes/fear-of-stagnation-creates-stagnation|Fear of stagnation creates stagnation]] - Another instance of fear creating what it fears
-- [[literature-notes/self-care-actions-are-proof-of-self-care-capacity|Self-care actions are proof of self-care capacity]] - The antidote to this worry
+- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
+- [[literature-notes/fear-of-stagnation-creates-stagnation|Fear of stagnation creates stagnation]]
+- [[literature-notes/self-care-actions-are-proof-of-self-care-capacity|Self-care actions are proof of self-care capacity]]
 
 ## Source
 

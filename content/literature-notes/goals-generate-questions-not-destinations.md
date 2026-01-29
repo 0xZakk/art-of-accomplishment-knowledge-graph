@@ -22,9 +22,9 @@ Similarly, "How do we reach 100 people?" versus "How do we reach 100,000 people?
 
 ## Related Concepts
 
-- [[literature-notes/goals-as-self-abuse-versus-creativity|Goals as self-abuse versus creativity]] - Goals need to come from the right place
-- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]] - Goals as direction versus destination
-- [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - Goals as discovery tools
+- [[literature-notes/goals-as-self-abuse-versus-creativity|Goals as self-abuse versus creativity]]
+- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
+- [[literature-notes/discovery-not-improvement|Discovery, not improvement]]
 
 ## Source
 

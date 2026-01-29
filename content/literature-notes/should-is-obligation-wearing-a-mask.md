@@ -22,9 +22,9 @@ Joe also catches a subtler form: "I could do better." This is the same obligatio
 
 ## Related Concepts
 
-- [[literature-notes/should-creates-rebellion-or-submission|Should creates rebellion or submission]] - The binary trap of should
-- [[literature-notes/should-creates-stress-not-change|Should creates stress not change]] - Why should doesn't produce results
-- [[literature-notes/should-is-a-mechanism-of-shame|Should is a mechanism of shame]] - The shame underneath should
+- [[literature-notes/should-creates-rebellion-or-submission|Should creates rebellion or submission]]
+- [[literature-notes/should-creates-stress-not-change|Should creates stress not change]]
+- [[literature-notes/should-is-a-mechanism-of-shame|Should is a mechanism of shame]]
 - [[literature-notes/obligation-kills-love|Taking responsibility from obligation kills love]]
 
 ## Source

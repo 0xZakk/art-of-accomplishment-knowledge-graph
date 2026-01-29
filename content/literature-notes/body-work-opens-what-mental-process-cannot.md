@@ -20,9 +20,9 @@ This underscores that some trauma is stored as physical pattern rather than narr
 
 ## Related Concepts
 
-- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]] - The starting point
-- [[literature-notes/insight-requires-embodied-integration|Insight requires embodied integration]] - Why mind alone isn't enough
-- [[literature-notes/three-brains-of-transformation|Three brains of transformation]] - The intellectual, emotional, and somatic
+- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]]
+- [[literature-notes/insight-requires-embodied-integration|Insight requires embodied integration]]
+- [[literature-notes/three-brains-of-transformation|Three brains of transformation]]
 
 ## Source
 

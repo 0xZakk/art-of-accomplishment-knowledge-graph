@@ -22,9 +22,9 @@ The way out isn't forgiveness (which still assumes you did something wrong). It'
 
 ## Related Concepts
 
-- [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck in the patterns you regret]] - The broader pattern self-blame participates in
-- [[literature-notes/grief-of-self-abandonment|The grief of self-abandonment]] - What's really being mourned
-- [[literature-notes/regret-comes-from-not-being-yourself|Regret comes from not being yourself]] - The root cause of the relationship loss
+- [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck in the patterns you regret]]
+- [[literature-notes/grief-of-self-abandonment|The grief of self-abandonment]]
+- [[literature-notes/regret-comes-from-not-being-yourself|Regret comes from not being yourself]]
 - [[literature-notes/blame-is-an-unowned-want|Blame is an unowned want]]
 - [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 - [[literature-notes/you-are-already-doing-what-you-fear|You are already doing to yourself what you fear others will do]]

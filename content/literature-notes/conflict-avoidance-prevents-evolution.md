@@ -22,9 +22,9 @@ The key distinction: this isn't about creating conflict or using conflict as a m
 
 ## Related Concepts
 
-- [[literature-notes/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]] - One common pattern when conflict avoidance is present
-- [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]] - The root cause
-- [[literature-notes/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]] - Avoidance creates the feeling of being stuck
+- [[literature-notes/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]]
+- [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]]
+- [[literature-notes/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]]
 - [[literature-notes/resentment-is-stored-conflict|Resentment is stored conflict—the longer you avoid it, the bigger the explosion]]
 - [[literature-notes/allowing-conflict-not-creating-it|Healthy conflict is allowing what's there, not creating fights]]
 

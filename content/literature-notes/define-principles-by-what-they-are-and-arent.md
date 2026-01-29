@@ -21,8 +21,8 @@ This dual definition is what you run experiments against. It keeps principles ac
 
 ## Related Concepts
 
-- [[literature-notes/wrestle-with-principles-constantly|Wrestling with principles matters more than the principles]] - The experimental process
-- [[literature-notes/principles-need-somatic-grounding|Principles need somatic grounding]] - The felt sense of boundaries
+- [[literature-notes/wrestle-with-principles-constantly|Wrestling with principles matters more than the principles]]
+- [[literature-notes/principles-need-somatic-grounding|Principles need somatic grounding]]
 
 ## Source
 

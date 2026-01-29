@@ -20,9 +20,9 @@ The pattern Joe identified was that all of Ali's stated wants pointed toward con
 
 ## Related Concepts
 
-- [[literature-notes/connection-as-career-compass|Connection as a career compass]] - The reorientation this realization enables
-- [[literature-notes/the-enoughness-bar-always-moves|The enoughness bar always moves]] - Why achievement never satisfies
-- [[literature-notes/finish-line-illusion|Finish line illusion]] - The myth that arrival brings peace
+- [[literature-notes/connection-as-career-compass|Connection as a career compass]]
+- [[literature-notes/the-enoughness-bar-always-moves|The enoughness bar always moves]]
+- [[literature-notes/finish-line-illusion|Finish line illusion]]
 
 ## Source
 

@@ -22,9 +22,9 @@ Instead of grinding through a to-do list, ask: what are the three things that wo
 
 ## Related Concepts
 
-- [[literature-notes/busyness-is-not-productivity|Busyness is not productivity]] - What you do instead of the hard thing
-- [[literature-notes/fear-limits-optionality|Fear limits optionality]] - Fear as the barrier to high-leverage work
-- [[literature-notes/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]] - Approach matters
+- [[literature-notes/busyness-is-not-productivity|Busyness is not productivity]]
+- [[literature-notes/fear-limits-optionality|Fear limits optionality]]
+- [[literature-notes/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]]
 
 ## Source
 

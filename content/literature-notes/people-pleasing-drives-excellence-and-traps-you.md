@@ -23,10 +23,10 @@ The paradox intensifies with parenting: Aaron recognizes that what "worked" for 
 
 ## Related Concepts
 
-- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]] - The paradox of seeking approval
-- [[literature-notes/overachieving-is-survival-mode|Overachieving is survival mode]] - Achievement as coping mechanism
-- [[literature-notes/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]] - The trap of performance-based love
-- [[literature-notes/performing-for-connection-blocks-authentic-earning|Performing for connection blocks authentic earning]] - Performance prevents real connection
+- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
+- [[literature-notes/overachieving-is-survival-mode|Overachieving is survival mode]]
+- [[literature-notes/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]]
+- [[literature-notes/performing-for-connection-blocks-authentic-earning|Performing for connection blocks authentic earning]]
 
 ## Source
 

@@ -25,9 +25,9 @@ Brett experienced this directly: after feeling his anxiety with love, difficult 
 
 ## Related Concepts
 
-- [[literature-notes/joy-wont-enter-where-emotions-unwelcome|Joy won't enter where emotions are unwelcome]] - The broader principle of emotional openness
-- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - Why blocking joy blocks everything
-- [[literature-notes/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant]] - The fear of feeling good
+- [[literature-notes/joy-wont-enter-where-emotions-unwelcome|Joy won't enter where emotions are unwelcome]]
+- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
+- [[literature-notes/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant]]
 - [[literature-notes/peace-is-harder-to-allow-than-pain|Peace and joy are harder to allow than pain]]
 - [[literature-notes/joy-dissolves-identity|Joy dissolves identity and that's what makes it scary]]
 

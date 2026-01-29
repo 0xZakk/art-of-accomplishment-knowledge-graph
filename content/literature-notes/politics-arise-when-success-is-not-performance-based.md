@@ -19,8 +19,8 @@ Clear goals, principles, and behavioral norms create the kind of safety that eli
 
 ## Related Concepts
 
-- [[literature-notes/trust-is-the-universal-ingredient-of-functional-teams|Trust is the universal ingredient of functional teams]] - Clear criteria build trust
-- [[literature-notes/safety-is-tuned-not-maximized|Safety in teams is tuned not maximized]] - Clarity creates productive safety
+- [[literature-notes/trust-is-the-universal-ingredient-of-functional-teams|Trust is the universal ingredient of functional teams]]
+- [[literature-notes/safety-is-tuned-not-maximized|Safety in teams is tuned not maximized]]
 
 ## Source
 

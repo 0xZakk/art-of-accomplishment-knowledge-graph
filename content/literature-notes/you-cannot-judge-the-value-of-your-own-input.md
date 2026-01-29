@@ -24,9 +24,9 @@ The need to pre-evaluate your own worth before speaking is itself a form of arro
 
 ## Related Concepts
 
-- [[literature-notes/wanting-to-control-perception-is-absurd|Wanting to control others' perception of you is absurd]] - The deeper pattern underneath
-- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]] - Why we judge ourselves in the first place
-- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]] - Judgment as emotional avoidance
+- [[literature-notes/wanting-to-control-perception-is-absurd|Wanting to control others' perception of you is absurd]]
+- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]]
+- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]]
 - [[literature-notes/good-teachings-inevitably-get-corrupted|Good teachings inevitably get corrupted into new moralities]]
 - [[literature-notes/hearing-objections-before-deciding|Hearing objections before deciding — even if you decide the same thing — changes everything]]
 - [[literature-notes/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]

@@ -21,8 +21,8 @@ The trap has an ironic quality: if you're already burnt out, urgency-based motiv
 
 ## Related Concepts
 
-- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]] - Enjoyment is the sustainable alternative to urgency
-- [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]] - When work aligns with wants, external pressure becomes unnecessary
+- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]]
+- [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]]
 
 ## Source
 

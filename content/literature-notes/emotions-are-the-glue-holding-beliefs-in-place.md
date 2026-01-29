@@ -22,9 +22,9 @@ This is why intellectual understanding alone doesn't transform. A client who jum
 
 ## Related Concepts
 
-- [[literature-notes/insight-is-not-wisdom-until-embodied|Insight is not wisdom until embodied]] - The journey emotions are part of
-- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - Why partial emotional movement isn't enough
-- [[literature-notes/moving-emotions-dissolves-depression|Moving emotions dissolves depression]] - The power of letting emotions flow
+- [[literature-notes/insight-is-not-wisdom-until-embodied|Insight is not wisdom until embodied]]
+- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
+- [[literature-notes/moving-emotions-dissolves-depression|Moving emotions dissolves depression]]
 - [[literature-notes/emotions-are-glue-holding-beliefs|Emotions are the glue holding old beliefs in place]]
 - [[literature-notes/stories-and-emotions-are-bidirectional|Stories and emotions are bidirectional — each shapes the other]]
 - [[literature-notes/moving-emotions-dissolves-stories|Moving emotions dissolves stories and creates clarity]]

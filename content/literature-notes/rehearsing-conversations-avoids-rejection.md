@@ -19,9 +19,9 @@ The deeper pattern is that rehearsal builds anxiety rather than reducing it. By 
 
 ## Related Concepts
 
-- [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness, not the feeling]] - The rehearsal is the avoidance, not a solution to it
-- [[literature-notes/procrastination-is-emotional-avoidance|Procrastination is emotional avoidance]] - Both rehearsal and procrastination serve to avoid uncomfortable feelings
-- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - Rehearsing to avoid failure creates the conditions for failure
+- [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness, not the feeling]]
+- [[literature-notes/procrastination-is-emotional-avoidance|Procrastination is emotional avoidance]]
+- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
 - [[literature-notes/resistance-gives-the-inner-critic-its-power|Resistance gives the inner critic its power]]
 
 ## Source

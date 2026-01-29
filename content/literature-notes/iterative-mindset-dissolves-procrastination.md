@@ -22,9 +22,9 @@ This mindset also dramatically increases learning speed. Because you're not worr
 
 ## Related Concepts
 
-- [[literature-notes/iteration-beats-perfection|Iteration beats perfection]] - The core principle
-- [[literature-notes/iterative-mindset-prevents-failure|Iterative mindset prevents failure]] - How iteration reframes failure
-- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]] - Enjoyment as the engine
+- [[literature-notes/iteration-beats-perfection|Iteration beats perfection]]
+- [[literature-notes/iterative-mindset-prevents-failure|Iterative mindset prevents failure]]
+- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]]
 - [[literature-notes/creative-play-before-critical-editing|Create like a three-year-old playing, then edit like an expert]]
 
 ## Source

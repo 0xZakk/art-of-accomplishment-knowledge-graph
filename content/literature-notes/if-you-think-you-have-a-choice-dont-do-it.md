@@ -24,9 +24,9 @@ The distinction matters because coaching from a career-choice mindset versus a v
 
 ## Related Concepts
 
-- [[literature-notes/gentle-narcissism-in-the-call-to-coach|Gentle narcissism hides in the call to coach]] - What to examine if you feel called
-- [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]] - When the path is right, resistance dissolves
-- [[literature-notes/follow-your-migratory-path|Follow your migratory path]] - Trusting the direction life pulls you
+- [[literature-notes/gentle-narcissism-in-the-call-to-coach|Gentle narcissism hides in the call to coach]]
+- [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]]
+- [[literature-notes/follow-your-migratory-path|Follow your migratory path]]
 
 ## Source
 

@@ -21,9 +21,9 @@ This has profound implications for problem-solving: we often pour energy into fi
 
 ## Related Concepts
 
-- [[literature-notes/unfelt-emotions-create-physical-stress|Unfelt emotions create physical stress]] - Emotions that haven't moved through the body manifest as stress
-- [[literature-notes/you-are-wrong-about-your-problem|You are wrong about your problem]] - The general principle that our diagnosis of what's wrong is usually off
-- [[literature-notes/overwhelm-is-unfelt-emotions|Overwhelm is unfelt emotions]] - Work overwhelm is often emotional backlog in disguise
+- [[literature-notes/unfelt-emotions-create-physical-stress|Unfelt emotions create physical stress]]
+- [[literature-notes/you-are-wrong-about-your-problem|You are wrong about your problem]]
+- [[literature-notes/overwhelm-is-unfelt-emotions|Overwhelm is unfelt emotions]]
 - [[literature-notes/emotional-release-resolves-work-overwhelm|Emotional release resolves work overwhelm]]
 
 ## Source

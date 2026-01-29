@@ -22,9 +22,9 @@ You can see this everywhere, from news commentators making irrational arguments 
 
 ## Related Concepts
 
-- [[literature-notes/logical-vs-emotional-partner-dynamic|Logical vs emotional partner dynamic]] - The standard relational pattern this feeds into
-- [[literature-notes/all-decisions-are-emotional|All decisions are emotional]] - Even "logical" arguments are driven by emotional conviction
-- [[literature-notes/confirmation-bias-from-emotional-avoidance|Confirmation bias from emotional avoidance]] - How avoiding emotions creates intellectual blind spots
+- [[literature-notes/logical-vs-emotional-partner-dynamic|Logical vs emotional partner dynamic]]
+- [[literature-notes/all-decisions-are-emotional|All decisions are emotional]]
+- [[literature-notes/confirmation-bias-from-emotional-avoidance|Confirmation bias from emotional avoidance]]
 - [[literature-notes/no-right-or-wrong-only-perspectives|There is no right or wrong in a fight, only perspectives]]
 
 ## Source

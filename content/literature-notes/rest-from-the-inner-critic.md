@@ -22,9 +22,9 @@ This explains why doom-scrolling and social media never truly restore: they dist
 
 ## Related Concepts
 
-- [[literature-notes/self-attack-during-rest-prolongs-recovery|Self-attack during rest prolongs recovery]] - The mechanism in detail
-- [[literature-notes/ouch-technique-for-inner-critic|The ouch technique silences the inner critic]] - A practical tool
-- [[literature-notes/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]] - The same critic drives procrastination
+- [[literature-notes/self-attack-during-rest-prolongs-recovery|Self-attack during rest prolongs recovery]]
+- [[literature-notes/ouch-technique-for-inner-critic|The ouch technique silences the inner critic]]
+- [[literature-notes/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
 - [[literature-notes/inner-critic-prevents-nervous-system-rest|The inner critic prevents the rest needed for nervous system integration]]
 - [[literature-notes/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
 - [[literature-notes/stillness-is-always-available|There is a part of you that is always at rest]]

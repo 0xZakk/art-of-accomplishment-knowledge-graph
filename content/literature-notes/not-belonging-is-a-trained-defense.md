@@ -24,11 +24,11 @@ The resolution isn't finding the perfect place to belong—that doesn't exist. E
 
 ## Related Concepts
 
-- [[literature-notes/disappearing-as-survival-strategy|Disappearing is a strategy to avoid the pain of rejection]] - One of the three not-belonging strategies
-- [[literature-notes/putting-yourself-above-others-is-protection|Subtle superiority is a form of protection]] - Another not-belonging strategy
-- [[literature-notes/being-yourself-designs-your-life|Being yourself causes the world to arrange itself around you]] - The resolution to the belonging problem
-- [[literature-notes/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]] - The hiding strategy prevents connection
-- [[literature-notes/imposter-syndrome-means-not-being-yourself|Imposter syndrome means not being yourself]] - Related identity defense
+- [[literature-notes/disappearing-as-survival-strategy|Disappearing is a strategy to avoid the pain of rejection]]
+- [[literature-notes/putting-yourself-above-others-is-protection|Subtle superiority is a form of protection]]
+- [[literature-notes/being-yourself-designs-your-life|Being yourself causes the world to arrange itself around you]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]]
+- [[literature-notes/imposter-syndrome-means-not-being-yourself|Imposter syndrome means not being yourself]]
 
 ## Source
 

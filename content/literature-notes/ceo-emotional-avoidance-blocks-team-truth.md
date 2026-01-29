@@ -22,9 +22,9 @@ CEOs commonly believe they need to take care of everyone, handle everything alon
 
 ## Related Concepts
 
-- [[literature-notes/keeping-it-together-blocks-team-trust|Keeping it together blocks team trust]] - The same pattern from the CEO's perspective
-- [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]] - Why leaders can't see what's obvious
-- [[literature-notes/conflict-avoidant-managers-destroy-trust|Conflict-avoidant managers destroy trust]] - The broader pattern
+- [[literature-notes/keeping-it-together-blocks-team-trust|Keeping it together blocks team trust]]
+- [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]]
+- [[literature-notes/conflict-avoidant-managers-destroy-trust|Conflict-avoidant managers destroy trust]]
 
 ## Source
 

@@ -22,9 +22,9 @@ The real cost of trying not to offend: "It would look like I'm disappearing. Lik
 
 ## Related Concepts
 
-- [[literature-notes/wanting-to-control-perception-is-absurd|Wanting to control perception is absurd]] - The broader impossibility
-- [[literature-notes/controlling-reputation-is-unwinnable|Controlling reputation is unwinnable]] - Applied to reputation management
-- [[literature-notes/disappearing-as-survival-strategy|Disappearing as survival strategy]] - What happens when you try to never offend
+- [[literature-notes/wanting-to-control-perception-is-absurd|Wanting to control perception is absurd]]
+- [[literature-notes/controlling-reputation-is-unwinnable|Controlling reputation is unwinnable]]
+- [[literature-notes/disappearing-as-survival-strategy|Disappearing as survival strategy]]
 
 ## Source
 

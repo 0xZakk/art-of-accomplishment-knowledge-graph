@@ -22,9 +22,9 @@ Joe observes that generalized anxiety is perpetuated because people aren't getti
 
 ## Related Concepts
 
-- [[literature-notes/fear-as-road-map-not-enemy|Fear as road map not enemy]] - Fear as directional signal
-- [[literature-notes/owning-your-needs-is-not-selfish|Owning your needs is not selfish]] - Permission to have needs
-- [[literature-notes/resentment-signals-a-boundary-needed|Resentment signals a boundary needed]] - Related emotional signal
+- [[literature-notes/fear-as-road-map-not-enemy|Fear as road map not enemy]]
+- [[literature-notes/owning-your-needs-is-not-selfish|Owning your needs is not selfish]]
+- [[literature-notes/resentment-signals-a-boundary-needed|Resentment signals a boundary needed]]
 
 ## Source
 

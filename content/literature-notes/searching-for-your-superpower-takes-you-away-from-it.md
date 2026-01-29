@@ -22,10 +22,10 @@ This is a specific case of a general pattern: the mental search for something yo
 
 ## Related Concepts
 
-- [[literature-notes/your-gifts-are-your-nature-not-a-framework|Your gifts are your nature, not a framework to discover]] - What the search misses
-- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]] - The same pattern with purpose
-- [[literature-notes/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]] - Why the head can't get there
-- [[literature-notes/doubt-is-leaving-your-heart|Doubt is leaving your heart]] - The mechanism
+- [[literature-notes/your-gifts-are-your-nature-not-a-framework|Your gifts are your nature, not a framework to discover]]
+- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
+- [[literature-notes/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]]
+- [[literature-notes/doubt-is-leaving-your-heart|Doubt is leaving your heart]]
 
 ## Source
 

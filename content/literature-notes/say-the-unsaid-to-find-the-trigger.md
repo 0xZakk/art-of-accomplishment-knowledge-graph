@@ -20,9 +20,9 @@ The system has a natural way of revealing triggers in order of importance. Work 
 
 ## Related Concepts
 
-- [[literature-notes/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]] - The cost of not speaking
-- [[literature-notes/withholding-truth-kills-intimacy|Withholding truth kills intimacy]] - How silence erodes connection
-- [[literature-notes/speaking-truth-dissolves-approval-seeking|Speaking truth dissolves approval seeking]] - Freedom through honesty
+- [[literature-notes/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
+- [[literature-notes/withholding-truth-kills-intimacy|Withholding truth kills intimacy]]
+- [[literature-notes/speaking-truth-dissolves-approval-seeking|Speaking truth dissolves approval seeking]]
 
 ## Source
 

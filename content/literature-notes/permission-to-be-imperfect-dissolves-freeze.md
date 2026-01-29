@@ -21,9 +21,9 @@ The back end matters too: celebrating what happened — including what went wron
 
 ## Related Concepts
 
-- [[literature-notes/perfectionism-is-a-fear-response-that-creates-chaos|Perfectionism is a fear response that creates chaos]] - How perfectionism creates the very failures it fears
-- [[literature-notes/pray-for-an-accident-on-stage|Pray for an accident — real moments create magic]] - Taking imperfection even further
-- [[literature-notes/reward-failure-in-culture|Reward failure in culture]] - Organizational application of celebrating mistakes
+- [[literature-notes/perfectionism-is-a-fear-response-that-creates-chaos|Perfectionism is a fear response that creates chaos]]
+- [[literature-notes/pray-for-an-accident-on-stage|Pray for an accident — real moments create magic]]
+- [[literature-notes/reward-failure-in-culture|Reward failure in culture]]
 
 ## Source
 

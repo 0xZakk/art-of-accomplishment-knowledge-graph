@@ -24,9 +24,9 @@ The "something to do" isn't a dating strategy or more self-improvement. It's: le
 
 ## Related Concepts
 
-- [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]] - What annihilation actually means
-- [[literature-notes/control-is-the-trade-for-self-love|Control is the trade for self-love]] - What keeps us from surrendering
-- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]] - How matching actually works
+- [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
+- [[literature-notes/control-is-the-trade-for-self-love|Control is the trade for self-love]]
+- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]]
 - [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 - [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 - [[literature-notes/heartbreak-is-the-mechanism-of-boundaries|Heartbreak is the mechanism of healthy boundaries]]

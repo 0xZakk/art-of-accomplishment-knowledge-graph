@@ -22,9 +22,9 @@ The way through is to fully feel and love the emotional states you've been avoid
 
 ## Related Concepts
 
-- [[literature-notes/neediness-repels-what-you-want|Neediness repels what you want]] - The mechanism of pushing away
-- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]] - Why we choose unavailable partners
-- [[literature-notes/receiving-requires-vulnerability|Receiving requires vulnerability]] - The fear of actually getting what you want
+- [[literature-notes/neediness-repels-what-you-want|Neediness repels what you want]]
+- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]]
+- [[literature-notes/receiving-requires-vulnerability|Receiving requires vulnerability]]
 - [[literature-notes/beckoning-and-pushing-love-simultaneously|We beckon love consciously while pushing it away subconsciously]]
 - [[literature-notes/craving-pushes-away-what-you-want|Intense craving for something actually pushes it away]]
 - [[literature-notes/chaser-withdrawer-dynamic|The chaser-withdrawer dynamic makes both partners feel like they're dying]]

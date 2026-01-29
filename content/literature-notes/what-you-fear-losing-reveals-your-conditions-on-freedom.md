@@ -22,9 +22,9 @@ This isn't an argument for seeking loss. It's a diagnostic tool. Whatever you're
 
 ## Related Concepts
 
-- [[literature-notes/fear-as-road-map-not-enemy|Fear as road map, not enemy]] - Fear points to where growth is
-- [[literature-notes/anxiety-changes-form-not-substance|Anxiety changes form but not substance]] - The anxiety just shifts objects
-- [[literature-notes/nothing-is-required-for-freedom|Nothing is required for freedom]] - No condition is real
+- [[literature-notes/fear-as-road-map-not-enemy|Fear as road map, not enemy]]
+- [[literature-notes/anxiety-changes-form-not-substance|Anxiety changes form but not substance]]
+- [[literature-notes/nothing-is-required-for-freedom|Nothing is required for freedom]]
 - [[literature-notes/loss-can-deepen-freedom|Loss can deepen freedom]]
 
 ## Source

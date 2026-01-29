@@ -22,9 +22,9 @@ This pattern often traces back to childhood with emotionally volatile parents, w
 
 ## Related Concepts
 
-- [[literature-notes/inner-critic-is-not-your-voice|The inner critic is not your voice]] - The self-talk is inherited, not original
-- [[literature-notes/shame-creates-the-see-me-dont-see-me-double-bind|Shame creates the see-me-don't-see-me double bind]] - Wanting to be seen while hiding
-- [[literature-notes/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]] - How external anger becomes internal suppression
+- [[literature-notes/inner-critic-is-not-your-voice|The inner critic is not your voice]]
+- [[literature-notes/shame-creates-the-see-me-dont-see-me-double-bind|Shame creates the see-me-don't-see-me double bind]]
+- [[literature-notes/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]
 - [[literature-notes/containing-emotions-to-connect-disconnects-you|Containing emotions to connect actually disconnects you]]
 - [[literature-notes/not-responsible-for-others-emotions|Declaring 'I'm not responsible for how you feel' restores full expression]]
 - [[literature-notes/stone-face-teaches-stone-face|The stone-faced baby experiment shows how suppression is transmitted]]

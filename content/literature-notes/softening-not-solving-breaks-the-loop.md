@@ -22,9 +22,9 @@ This is the fundamental insight about self-imposed loops: they can't be solved a
 
 ## Related Concepts
 
-- [[literature-notes/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]] - The specific loop this addresses
-- [[literature-notes/love-the-resistance|Love the resistance]] - Softening toward what's resisting
-- [[literature-notes/trying-to-feel-is-resistance-too|Trying to feel is resistance too]] - The subtlety of forcing the solution
+- [[literature-notes/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[literature-notes/love-the-resistance|Love the resistance]]
+- [[literature-notes/trying-to-feel-is-resistance-too|Trying to feel is resistance too]]
 - [[literature-notes/letting-go-comes-from-seeing-the-pain-of-holding-on|Letting go comes from seeing the pain of holding on]]
 - [[literature-notes/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
 - [[literature-notes/you-cant-make-yourself-cry|You can't make yourself feel emotions by trying]]

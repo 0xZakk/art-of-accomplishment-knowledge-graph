@@ -20,8 +20,8 @@ The shift from perfectionism to connection is also a shift from arrogance to hum
 
 ## Related Concepts
 
-- [[literature-notes/connection-over-perfection|Connection over perfection]] - The broader principle
-- [[literature-notes/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]] - Enjoyment as orientation
+- [[literature-notes/connection-over-perfection|Connection over perfection]]
+- [[literature-notes/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]]
 
 ## Source
 

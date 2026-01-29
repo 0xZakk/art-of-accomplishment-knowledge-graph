@@ -18,8 +18,8 @@ Joe relates this to his own experience: "The work that I've done literally makes
 
 ## Related Concepts
 
-- [[literature-notes/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood patterns]] - How early family dynamics shape adult behavior
-- [[literature-notes/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic, not just intellectual]] - How emotional patterns are transmitted through the body
+- [[literature-notes/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood patterns]]
+- [[literature-notes/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic, not just intellectual]]
 
 ## Source
 

@@ -22,9 +22,9 @@ Maladaptive behavior in uncertainty assumes certainty where it doesn't exist ("I
 
 ## Related Concepts
 
-- [[literature-notes/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist neurologically]] - The neurological basis
-- [[literature-notes/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]] - How wonder opens perception
-- [[literature-notes/certainty-lives-in-how-you-want-to-be|The only real certainty is how you want to be]] - What wonder reveals
+- [[literature-notes/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist neurologically]]
+- [[literature-notes/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]]
+- [[literature-notes/certainty-lives-in-how-you-want-to-be|The only real certainty is how you want to be]]
 
 ## Source
 

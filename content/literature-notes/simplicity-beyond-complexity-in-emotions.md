@@ -20,9 +20,9 @@ This framework also explains why empathy can't be taught intellectually. Empathy
 
 ## Related Concepts
 
-- [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]] - The destination of this journey
-- [[literature-notes/experiential-learning-over-intellectual-understanding|Experiential learning over intellectual understanding]] - Why the journey requires practice, not theory
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting, emotions]] - The key to the far side of complexity
+- [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]]
+- [[literature-notes/experiential-learning-over-intellectual-understanding|Experiential learning over intellectual understanding]]
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting, emotions]]
 - [[literature-notes/naming-emotions-can-replace-feeling|Naming an emotion can become a way to avoid feeling it]]
 
 ## Source

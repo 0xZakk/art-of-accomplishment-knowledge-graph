@@ -22,9 +22,9 @@ The fear of stagnation shows up most intensely when you question your measuremen
 
 ## Related Concepts
 
-- [[literature-notes/fear-limits-optionality|Fear limits optionality]] - Fear as a constricting force
-- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]] - The "should improve" voice
-- [[literature-notes/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]] - Stagnation as felt experience
+- [[literature-notes/fear-limits-optionality|Fear limits optionality]]
+- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]]
+- [[literature-notes/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]]
 
 ## Source
 

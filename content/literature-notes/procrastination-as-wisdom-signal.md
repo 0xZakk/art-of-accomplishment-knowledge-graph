@@ -23,9 +23,9 @@ He illustrates with the parole board study: decisions made before lunch are sign
 
 ## Related Concepts
 
-- [[literature-notes/procrastination-has-wisdom|Procrastination has wisdom]] - The deeper principle
-- [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]] - When priorities align, procrastination vanishes
-- [[literature-notes/attunement-to-self-produces-intuition|Attunement to self produces intuition]] - Listening to the deeper signal
+- [[literature-notes/procrastination-has-wisdom|Procrastination has wisdom]]
+- [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]]
+- [[literature-notes/attunement-to-self-produces-intuition|Attunement to self produces intuition]]
 - [[literature-notes/first-domino-principle|People who don't procrastinate pick the right first domino]]
 - [[literature-notes/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
 - [[literature-notes/intuition-sees-what-logic-cannot|Intuition sees what the logical mind cannot]]

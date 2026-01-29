@@ -20,9 +20,9 @@ Joe validates how hard this is to execute, especially in the first years. He and
 
 ## Related Concepts
 
-- [[literature-notes/parent-self-relationship-shapes-child-relationship|Parent self-relationship shapes child relationship]] - Why self-care comes first
-- [[literature-notes/self-love-is-the-capacity-limit-for-loving-others|Self-love is the capacity limit for loving others]] - The underlying principle
-- [[literature-notes/marriage-as-dojo-for-self-development|Marriage as dojo for self-development]] - Marriage as practice
+- [[literature-notes/parent-self-relationship-shapes-child-relationship|Parent self-relationship shapes child relationship]]
+- [[literature-notes/self-love-is-the-capacity-limit-for-loving-others|Self-love is the capacity limit for loving others]]
+- [[literature-notes/marriage-as-dojo-for-self-development|Marriage as dojo for self-development]]
 
 ## Source
 

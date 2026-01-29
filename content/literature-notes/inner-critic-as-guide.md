@@ -18,8 +18,8 @@ Every topic the inner critic obsesses over—weight, productivity, worth, compet
 
 ## Related Concepts
 
-- [[literature-notes/triggers-reveal-self-judgment|Triggers reveal what we judge in ourselves]] - External triggers serve the same guiding function
-- [[literature-notes/discovery-not-improvement|This work is about discovery, not improvement]] - The orientation of curiosity rather than fixing
+- [[literature-notes/triggers-reveal-self-judgment|Triggers reveal what we judge in ourselves]]
+- [[literature-notes/discovery-not-improvement|This work is about discovery, not improvement]]
 
 ## Source
 

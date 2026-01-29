@@ -22,9 +22,9 @@ This is why diversification of stage matters in support groups and why hierarchy
 
 ## Related Concepts
 
-- [[literature-notes/experiential-learning-over-intellectual-understanding|Experiential learning over intellectual understanding]] - Embodied knowledge vs. conceptual
-- [[literature-notes/coaching-expression-must-be-yours-not-your-teachers|Coaching expression must be yours not your teachers]] - Authentic expression over imitation
-- [[literature-notes/community-is-more-important-than-the-teacher|Community is more important than the teacher]] - The group holds more wisdom than any individual
+- [[literature-notes/experiential-learning-over-intellectual-understanding|Experiential learning over intellectual understanding]]
+- [[literature-notes/coaching-expression-must-be-yours-not-your-teachers|Coaching expression must be yours not your teachers]]
+- [[literature-notes/community-is-more-important-than-the-teacher|Community is more important than the teacher]]
 
 ## Source
 

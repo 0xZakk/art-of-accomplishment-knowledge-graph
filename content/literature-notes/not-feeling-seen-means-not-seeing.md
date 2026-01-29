@@ -19,8 +19,8 @@ The hack breaks the symmetry: by choosing to see first, you drop the very defens
 
 ## Related Concepts
 
-- [[literature-notes/every-fight-is-about-feeling-unseen|Every fight is about feeling unseen]] - The underlying dynamic
-- [[literature-notes/triggers-are-projections-of-your-own-patterns|Every trigger in a partner is a projection of your own pattern]] - The projection principle applied
+- [[literature-notes/every-fight-is-about-feeling-unseen|Every fight is about feeling unseen]]
+- [[literature-notes/triggers-are-projections-of-your-own-patterns|Every trigger in a partner is a projection of your own pattern]]
 - [[literature-notes/seeing-others-is-the-exit-from-feeling-unseen|Seeing others is the counterintuitive exit from feeling unseen]]
 
 ## Source

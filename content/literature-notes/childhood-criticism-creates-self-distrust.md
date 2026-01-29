@@ -23,9 +23,9 @@ The solution mirrors the original wound: the parent's job was to listen deeply; 
 
 ## Related Concepts
 
-- [[literature-notes/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]] - The self-abuse that results
-- [[literature-notes/attunement-must-be-learned-if-not-modeled|Attunement must be learned if not modeled]] - Recovering the lost attunement
-- [[literature-notes/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]] - Why shoulds fail
+- [[literature-notes/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
+- [[literature-notes/attunement-must-be-learned-if-not-modeled|Attunement must be learned if not modeled]]
+- [[literature-notes/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]]
 - [[literature-notes/teach-children-self-referencing|Teaching children to reference themselves builds their internal compass]]
 - [[literature-notes/dont-shame-kids-love-yourself|To not harm your children, love yourself]]
 - [[literature-notes/attunement-patterns-become-adult-cycles|Attunement patterns in childhood become the emotional cycles of adult life]]

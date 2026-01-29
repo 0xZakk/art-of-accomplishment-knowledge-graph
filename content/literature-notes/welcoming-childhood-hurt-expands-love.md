@@ -25,9 +25,9 @@ The participant had been "tired of feeling the hurt" — it hit them randomly, u
 
 ## Related Concepts
 
-- [[literature-notes/love-yourself-how-you-wanted-to-be-loved|Love yourself how you wanted to be loved]] - The practice of reparenting
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming not just accepting emotions]] - The qualitative leap beyond tolerance
-- [[literature-notes/welcoming-is-self-love|Welcoming is self-love]] - Welcoming as the mechanism of self-love
+- [[literature-notes/love-yourself-how-you-wanted-to-be-loved|Love yourself how you wanted to be loved]]
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming not just accepting emotions]]
+- [[literature-notes/welcoming-is-self-love|Welcoming is self-love]]
 - [[literature-notes/seeing-parents-terror-dissolves-resentment|Seeing parents' terror dissolves resentment]]
 - [[literature-notes/love-the-resistance-to-the-thing|If you can't love the thing, love the resistance to the thing]]
 - [[literature-notes/open-heart-with-strong-boundaries|Loving parents requires both open heart and strong boundaries]]

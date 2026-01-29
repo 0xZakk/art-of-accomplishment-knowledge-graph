@@ -22,9 +22,9 @@ Joe prefers "poverty mentality" over "scarcity mindset" because it feels more gr
 
 ## Related Concepts
 
-- [[literature-notes/identity-of-lack-perpetuates-lack|Identity of lack perpetuates lack]] - The self-reinforcing nature of scarcity identity
-- [[literature-notes/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood emotional patterns]] - How childhood patterns land on money
-- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]] - How early love templates shape adult experience
+- [[literature-notes/identity-of-lack-perpetuates-lack|Identity of lack perpetuates lack]]
+- [[literature-notes/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood emotional patterns]]
+- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]]
 - [[literature-notes/money-beliefs-create-money-reality|Your beliefs about money create your financial reality]]
 - [[literature-notes/money-resistance-mirrors-childhood-wounds|Money resistance often mirrors childhood wounds around love and worth]]
 

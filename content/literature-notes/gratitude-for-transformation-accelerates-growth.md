@@ -23,10 +23,10 @@ This is the opposite of the self-improvement trap where we focus on the gap betw
 
 ## Related Concepts
 
-- [[literature-notes/gentleness-accelerates-growth|Gentleness accelerates growth]] - The broader principle
-- [[literature-notes/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]] - Seeing what's already working
-- [[literature-notes/self-attack-after-epiphany-slows-transformation|Self-attack after epiphany slows transformation]] - The opposite approach
-- [[literature-notes/felt-gratitude-not-performed-gratitude|Felt gratitude, not performed gratitude]] - Genuine vs forced gratitude
+- [[literature-notes/gentleness-accelerates-growth|Gentleness accelerates growth]]
+- [[literature-notes/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]]
+- [[literature-notes/self-attack-after-epiphany-slows-transformation|Self-attack after epiphany slows transformation]]
+- [[literature-notes/felt-gratitude-not-performed-gratitude|Felt gratitude, not performed gratitude]]
 
 ## Source
 

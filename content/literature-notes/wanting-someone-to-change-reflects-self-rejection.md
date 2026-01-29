@@ -22,9 +22,9 @@ Joe notes it's incredibly ineffective to try to change someone, comparing it to 
 
 ## Related Concepts
 
-- [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others exists in you]] - The mirror principle
-- [[literature-notes/relationship-triggers-are-yours|Relationship triggers are yours]] - Taking ownership of reactions
-- [[literature-notes/accepting-and-asking-are-not-opposites|Accepting and asking are not opposites]] - How acceptance and boundaries coexist
+- [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others exists in you]]
+- [[literature-notes/relationship-triggers-are-yours|Relationship triggers are yours]]
+- [[literature-notes/accepting-and-asking-are-not-opposites|Accepting and asking are not opposites]]
 - [[literature-notes/dont-do-emotions-at-people|Don't do emotions at people]]
 - [[literature-notes/dont-try-to-change-passive-aggression-in-others|Trying to change someone's passive aggression enters the same dynamic]]
 - [[literature-notes/heartbreak-is-the-mechanism-of-boundaries|Heartbreak is the mechanism of healthy boundaries]]

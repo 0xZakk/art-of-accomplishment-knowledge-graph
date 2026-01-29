@@ -21,9 +21,9 @@ Courage isn't overcoming fear or pushing through it. Even "feeling the fear and 
 
 ## Related Concepts
 
-- [[literature-notes/embracing-fear-versus-avoiding-fear|Embracing fear versus avoiding fear]] - The two paths
-- [[literature-notes/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]] - Why conquering is the wrong frame
-- [[literature-notes/flow-state-is-embodiment-applied-to-life|Flow state is embodiment applied to life]] - Flow as embodied presence
+- [[literature-notes/embracing-fear-versus-avoiding-fear|Embracing fear versus avoiding fear]]
+- [[literature-notes/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]]
+- [[literature-notes/flow-state-is-embodiment-applied-to-life|Flow state is embodiment applied to life]]
 
 ## Source
 

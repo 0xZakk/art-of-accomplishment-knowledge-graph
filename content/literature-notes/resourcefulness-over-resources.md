@@ -21,9 +21,9 @@ The critical shift is from "I need more resources" to "I need more resourcefulne
 
 ## Related Concepts
 
-- [[literature-notes/money-blocks-are-safety-blocks|Money blocks are safety blocks]] - The deeper emotional roots of resource-seeking
-- [[literature-notes/identity-of-lack-perpetuates-lack|Identity of lack perpetuates lack]] - How the belief in scarcity creates scarcity
-- [[literature-notes/financial-safety-is-not-about-money|Financial safety is not about money]] - Money can't provide the safety we're actually seeking
+- [[literature-notes/money-blocks-are-safety-blocks|Money blocks are safety blocks]]
+- [[literature-notes/identity-of-lack-perpetuates-lack|Identity of lack perpetuates lack]]
+- [[literature-notes/financial-safety-is-not-about-money|Financial safety is not about money]]
 
 ## Source
 

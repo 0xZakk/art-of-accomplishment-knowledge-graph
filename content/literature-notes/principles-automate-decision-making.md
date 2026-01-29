@@ -22,9 +22,9 @@ When principles are working, decisions become choices. The deliberation disappea
 
 ## Related Concepts
 
-- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]] - Joe's core principle in action
-- [[literature-notes/experiments-make-knowledge-embodied|Experimentation makes knowledge embodied]] - How to discover your principles
-- [[literature-notes/focus-on-few-high-leverage-principles|Focus on few high-leverage principles]] - Less is more with principles
+- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]]
+- [[literature-notes/experiments-make-knowledge-embodied|Experimentation makes knowledge embodied]]
+- [[literature-notes/focus-on-few-high-leverage-principles|Focus on few high-leverage principles]]
 - [[literature-notes/unconscious-principles-already-run-your-life|Unconscious principles already run your life]]
 - [[literature-notes/principles-make-decisions-for-you|Principles make decisions for you]]
 - [[literature-notes/wrestle-with-principles-constantly|The process of wrestling with principles matters more than the principles themselves]]

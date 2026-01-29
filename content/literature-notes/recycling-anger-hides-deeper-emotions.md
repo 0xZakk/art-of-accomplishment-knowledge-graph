@@ -20,8 +20,8 @@ Joe notes that once you get experienced with emotional movement, it stops feelin
 
 ## Related Concepts
 
-- [[literature-notes/helplessness-is-the-emotion-being-avoided|Helplessness is the emotion being avoided]] - Often what's under recycling anger
-- [[literature-notes/grief-is-necessary-for-transformation|Grief is necessary for transformation]] - Grief as the emotion beneath anger
+- [[literature-notes/helplessness-is-the-emotion-being-avoided|Helplessness is the emotion being avoided]]
+- [[literature-notes/grief-is-necessary-for-transformation|Grief is necessary for transformation]]
 - [[literature-notes/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuckness]]
 - [[literature-notes/feel-whats-underneath-the-shame|Feel what's underneath the shame to break stagnation]]
 - [[literature-notes/resistance-creates-the-feared-outcome|Resisting an emotion creates the very outcome you fear]]

@@ -22,9 +22,9 @@ The frustrating thing for the action-oriented mind is that this isn't really "do
 
 ## Related Concepts
 
-- [[literature-notes/awareness-not-action-plans-transforms|Awareness transforms behavior where action plans fail]] - The intellectual framing
-- [[literature-notes/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]] - The broader principle
-- [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness not the feeling]] - Why we don't feel patterns fully
+- [[literature-notes/awareness-not-action-plans-transforms|Awareness transforms behavior where action plans fail]]
+- [[literature-notes/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]]
+- [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness not the feeling]]
 - [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 - [[literature-notes/shame-locks-in-bad-habits|Shame locks in the very habits it punishes]]
 - [[literature-notes/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]

@@ -22,9 +22,9 @@ This is an important part of daily practice during the transition from composure
 
 ## Related Concepts
 
-- [[literature-notes/sensitivity-locked-down-for-safety|Extreme sensitivity gets locked down for safety]] - What this practice addresses
-- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]] - The mechanism
-- [[literature-notes/attention-alone-reduces-stress|Attention alone reduces stress]] - Why noticing works
+- [[literature-notes/sensitivity-locked-down-for-safety|Extreme sensitivity gets locked down for safety]]
+- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]]
+- [[literature-notes/attention-alone-reduces-stress|Attention alone reduces stress]]
 - [[literature-notes/expansiveness-underneath-resistance-to-love|The expansiveness underneath resistance to love is overwhelming and amazing]]
 
 ## Source

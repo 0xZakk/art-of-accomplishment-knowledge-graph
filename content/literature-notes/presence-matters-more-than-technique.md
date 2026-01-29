@@ -22,9 +22,9 @@ Technique without presence is dangerous. There are plenty of places to learn tec
 
 ## Related Concepts
 
-- [[literature-notes/highest-generosity-is-presence|The highest generosity is presence]] - Presence as the deepest gift
-- [[literature-notes/loving-presence-must-be-embodied|Loving presence must be embodied]] - Presence requires embodiment
-- [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]] - Listening as a transformative act
+- [[literature-notes/highest-generosity-is-presence|The highest generosity is presence]]
+- [[literature-notes/loving-presence-must-be-embodied|Loving presence must be embodied]]
+- [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]]
 
 ## Source
 

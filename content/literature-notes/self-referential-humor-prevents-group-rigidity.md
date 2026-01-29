@@ -20,9 +20,9 @@ This principle extends beyond personal development communities. Any group that c
 
 ## Related Concepts
 
-- [[literature-notes/cult-dynamics-are-universal-human-tendencies|Cult dynamics exist on a spectrum present in all human groups]] - The universal pattern that humor helps manage
-- [[literature-notes/community-is-more-important-than-the-teacher|Community is more important than the teacher]] - Healthy group dynamics decenter the leader
-- [[literature-notes/no-doctrine-leads-with-disagreement|No doctrine leads with disagreement]] - Another structural safeguard against cult dynamics
+- [[literature-notes/cult-dynamics-are-universal-human-tendencies|Cult dynamics exist on a spectrum present in all human groups]]
+- [[literature-notes/community-is-more-important-than-the-teacher|Community is more important than the teacher]]
+- [[literature-notes/no-doctrine-leads-with-disagreement|No doctrine leads with disagreement]]
 
 ## Source
 

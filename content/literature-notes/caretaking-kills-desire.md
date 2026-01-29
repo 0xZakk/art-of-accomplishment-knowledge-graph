@@ -22,9 +22,9 @@ This connects to the broader principle that taking someone's emotions away disem
 
 ## Related Concepts
 
-- [[literature-notes/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]] - The pattern that creates the caretaking dynamic
-- [[literature-notes/false-love-erodes-power-in-relationships|False love erodes power in relationships]] - How distorted love patterns destroy relational power
-- [[literature-notes/ceo-as-everyones-caretaker-is-unsustainable|CEO as everyone's caretaker is unsustainable]] - The same dynamic in organizational contexts
+- [[literature-notes/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
+- [[literature-notes/false-love-erodes-power-in-relationships|False love erodes power in relationships]]
+- [[literature-notes/ceo-as-everyones-caretaker-is-unsustainable|CEO as everyone's caretaker is unsustainable]]
 
 ## Source
 

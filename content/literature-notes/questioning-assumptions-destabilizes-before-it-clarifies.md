@@ -21,8 +21,8 @@ The litmus tests for genuine inquiry (versus intellectual posturing) are: it get
 
 ## Related Concepts
 
-- [[literature-notes/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]] - The broader pattern of productive disorientation
-- [[literature-notes/feeling-through-requires-letting-identity-restructure|Feeling through requires letting identity restructure]] - How transformation requires temporary groundlessness
+- [[literature-notes/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]]
+- [[literature-notes/feeling-through-requires-letting-identity-restructure|Feeling through requires letting identity restructure]]
 - [[literature-notes/integration-means-more-mystery-not-more-answers|Healthy integration means more mystery, not more answers]]
 - [[literature-notes/being-in-the-question-beats-finding-the-answer|Being in the question is more powerful than finding the answer]]
 - [[literature-notes/thinking-youre-deciding-means-youre-in-fear|If you think you're making a decision, you're in fear]]

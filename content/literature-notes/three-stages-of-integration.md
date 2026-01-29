@@ -19,9 +19,9 @@ Cutting any stage short prevents full integration. "Babies need to crawl for a w
 
 ## Related Concepts
 
-- [[literature-notes/transcend-and-include-previous-stages|Transcend and include previous stages]] - Integration preserves prior capacities
-- [[literature-notes/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]] - The necessity of the disorientation phase
-- [[literature-notes/insight-requires-embodied-integration|Insight requires embodied integration]] - Why understanding alone isn't enough
+- [[literature-notes/transcend-and-include-previous-stages|Transcend and include previous stages]]
+- [[literature-notes/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]]
+- [[literature-notes/insight-requires-embodied-integration|Insight requires embodied integration]]
 
 ## Source
 

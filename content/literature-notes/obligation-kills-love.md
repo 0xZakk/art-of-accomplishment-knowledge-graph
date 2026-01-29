@@ -22,9 +22,9 @@ Clint can get to acceptance — of himself, of others — but not to love. That'
 
 ## Related Concepts
 
-- [[literature-notes/replace-obligation-with-wanting|Replace obligation with wanting]] - The alternative to obligation
-- [[literature-notes/caretaking-kills-desire|Caretaking kills desire]] - How responsibility replaces connection
-- [[literature-notes/should-creates-rebellion-or-submission|Should creates rebellion or submission]] - The mechanics of should
+- [[literature-notes/replace-obligation-with-wanting|Replace obligation with wanting]]
+- [[literature-notes/caretaking-kills-desire|Caretaking kills desire]]
+- [[literature-notes/should-creates-rebellion-or-submission|Should creates rebellion or submission]]
 - [[literature-notes/inner-critic-mirrors-relationship-patterns|The inner critic mirrors your relationship patterns]]
 - [[literature-notes/acceptance-is-not-love|Getting to acceptance without love repeats the pattern]]
 - [[literature-notes/should-is-obligation-wearing-a-mask|Every should is obligation wearing a mask]]

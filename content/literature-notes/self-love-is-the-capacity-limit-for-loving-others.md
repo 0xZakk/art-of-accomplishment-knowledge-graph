@@ -21,9 +21,9 @@ Self-care is the priority in all relationship work. You can't treat others with 
 
 ## Related Concepts
 
-- [[literature-notes/self-compassion-before-external-success|Self-compassion before external success]] - Inner acceptance as foundation
-- [[literature-notes/welcoming-is-self-love|Welcoming is self-love]] - The practice of self-acceptance
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Authenticity enables love
+- [[literature-notes/self-compassion-before-external-success|Self-compassion before external success]]
+- [[literature-notes/welcoming-is-self-love|Welcoming is self-love]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[literature-notes/self-love-sets-the-capacity-limit-for-loving-others|Self-love sets the capacity limit for loving a partner]]
 - [[literature-notes/what-you-cant-love-in-your-partner-you-cant-love-in-yourself|What you can't love in your partner is what you can't love in yourself]]
 - [[literature-notes/you-get-the-love-you-can-accept|You only get the love you can let in]]

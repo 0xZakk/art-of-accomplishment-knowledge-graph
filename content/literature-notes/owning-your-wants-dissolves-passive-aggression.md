@@ -21,8 +21,8 @@ The companion practice is making upright apologies for past passive aggression. 
 
 ## Related Concepts
 
-- [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]] - The foundation of dissolving passive aggression
-- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]] - Not owning wants creates the dynamic passive aggression thrives in
+- [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]]
+- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
 
 ## Source
 

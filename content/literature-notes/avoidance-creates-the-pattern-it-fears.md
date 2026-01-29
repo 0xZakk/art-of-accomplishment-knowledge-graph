@@ -23,10 +23,10 @@ The solution is counterintuitive: fully embrace the avoided emotion rather than 
 
 ## Related Concepts
 
-- [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]] - The same principle applied to fear
-- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - Resistance as the mechanism
-- [[literature-notes/fully-feeling-stops-the-pattern|Fully feeling an emotion stops the pattern]] - The resolution
-- [[literature-notes/we-recreate-pain-to-finally-welcome-it|We recreate pain to finally welcome it]] - Why the body does this
+- [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
+- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
+- [[literature-notes/fully-feeling-stops-the-pattern|Fully feeling an emotion stops the pattern]]
+- [[literature-notes/we-recreate-pain-to-finally-welcome-it|We recreate pain to finally welcome it]]
 - [[literature-notes/feeling-the-held-back-emotion-ends-trauma-repetition|Feeling the held-back emotion ends trauma repetition]]
 - [[literature-notes/engineering-heartbreak-to-avoid-heartbreak|We engineer heartbreak to avoid the heartbreak we haven't felt]]
 - [[literature-notes/resisting-emotion-invites-it-back|Resisting an emotion is exactly what invites it back]]

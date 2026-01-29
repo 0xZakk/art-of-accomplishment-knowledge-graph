@@ -23,8 +23,8 @@ The shift is from outcomes to process: be grounded, be openhearted, speak what's
 
 ## Related Concepts
 
-- [[literature-notes/speaking-truth-dissolves-approval-seeking|Speaking your truth dissolves the need for approval]] - The broader practice
-- [[literature-notes/we-are-always-running-experiments|We are always running experiments]] - Life as ongoing experimentation
+- [[literature-notes/speaking-truth-dissolves-approval-seeking|Speaking your truth dissolves the need for approval]]
+- [[literature-notes/we-are-always-running-experiments|We are always running experiments]]
 
 ## Source
 

@@ -20,9 +20,9 @@ The word "selfish" is a trap. It conflates "knowing what you need" with "not car
 
 ## Related Concepts
 
-- [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]] - The deeper principle
-- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]] - What happens when you don't own needs
-- [[literature-notes/war-with-your-wants-creates-self-sabotage|War with your wants creates self-sabotage]] - Fighting your needs as self-sabotage
+- [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]]
+- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
+- [[literature-notes/war-with-your-wants-creates-self-sabotage|War with your wants creates self-sabotage]]
 
 ## Source
 

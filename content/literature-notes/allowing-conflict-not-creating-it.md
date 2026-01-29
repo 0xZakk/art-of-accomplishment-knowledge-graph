@@ -22,9 +22,9 @@ The reward of allowing conflict isn't winning. It's evolution—a solution or in
 
 ## Related Concepts
 
-- [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]] - What happens when you avoid
-- [[literature-notes/truth-over-comfort-in-relationships|Truth over comfort in relationships]] - The principle behind allowing conflict
-- [[literature-notes/dominate-dont-convince|Dominate, don't convince]] - Another approach to conflict as tool
+- [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]]
+- [[literature-notes/truth-over-comfort-in-relationships|Truth over comfort in relationships]]
+- [[literature-notes/dominate-dont-convince|Dominate, don't convince]]
 - [[literature-notes/peace-comes-from-dropping-the-war-not-avoiding-conflict|Peace comes from dropping the war not avoiding conflict]]
 
 ## Source

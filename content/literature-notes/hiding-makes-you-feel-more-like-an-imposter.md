@@ -20,8 +20,8 @@ Conversely, if he'd just said "I've literally never done this before, and I'm go
 
 ## Related Concepts
 
-- [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]] - Hiding amplifies the pattern
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Hiding prevents genuine connection
+- [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[literature-notes/vulnerability-cures-imposter-syndrome-faster-than-competence|Vulnerability cures imposter syndrome faster than competence]]
 - [[literature-notes/shame-blocks-self-promotion|Shame blocks self-promotion even when you have the skills]]
 

@@ -24,9 +24,9 @@ The old stories came up to serve us. Appreciating them, being gentle with themâ€
 
 ## Related Concepts
 
-- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - What happens when harshness replaces gentleness
-- [[literature-notes/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]] - The broader principle
-- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]] - The opposite of gentleness in growth
+- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
+- [[literature-notes/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]]
+- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
 - [[literature-notes/fear-of-losing-insight-blocks-integration|Fear of losing an insight blocks its integration]]
 - [[literature-notes/wisdom-is-when-you-dont-need-to-remember|Wisdom is when you don't need to remember the insight]]
 

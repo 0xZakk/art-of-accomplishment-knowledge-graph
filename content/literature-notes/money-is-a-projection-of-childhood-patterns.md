@@ -24,9 +24,9 @@ This is why people's money issues are rarely about money. The person who can't a
 
 ## Related Concepts
 
-- [[literature-notes/money-beliefs-create-money-reality|Money beliefs create money reality]] - How beliefs shape financial outcomes
-- [[literature-notes/money-resistance-mirrors-childhood-wounds|Money resistance mirrors childhood wounds]] - A specific example of this projection
-- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - The broader principle
+- [[literature-notes/money-beliefs-create-money-reality|Money beliefs create money reality]]
+- [[literature-notes/money-resistance-mirrors-childhood-wounds|Money resistance mirrors childhood wounds]]
+- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
 - [[literature-notes/money-wounds-trace-to-parent-wounds|Money wounds trace back to parent wounds]]
 - [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]]
 - [[literature-notes/financial-safety-is-not-about-money|Financial safety is not actually about money]]

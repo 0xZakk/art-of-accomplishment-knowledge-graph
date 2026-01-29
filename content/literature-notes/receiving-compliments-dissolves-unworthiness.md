@@ -22,9 +22,9 @@ The emotion that arises when you truly receive a compliment is evidence of trans
 
 ## Related Concepts
 
-- [[literature-notes/we-push-away-approval-we-seek|We push away the approval we seek]] - The pattern of deflection
-- [[literature-notes/pleasure-signals-safety|Pleasure signals safety]] - Receiving good feelings as safe
-- [[literature-notes/ego-resists-change-in-either-direction|The ego resists change in either direction]] - Why compliments feel uncomfortable
+- [[literature-notes/we-push-away-approval-we-seek|We push away the approval we seek]]
+- [[literature-notes/pleasure-signals-safety|Pleasure signals safety]]
+- [[literature-notes/ego-resists-change-in-either-direction|The ego resists change in either direction]]
 - [[literature-notes/receiving-requires-vulnerability|Receiving compliments requires the vulnerability we've been avoiding]]
 - [[literature-notes/expansiveness-underneath-resistance-to-love|The expansiveness underneath resistance to love is overwhelming and amazing]]
 

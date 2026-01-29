@@ -23,9 +23,9 @@ Kay's childhood reveals why: his parents' approval was tied to performance ("do 
 
 ## Related Concepts
 
-- [[literature-notes/self-trust-as-the-only-scorecard|Self-trust is the only scorecard that can't be taken away]] - The alternative to external metrics
-- [[literature-notes/goals-as-self-abuse-versus-creativity|Goals as self-abuse versus creativity]] - When goals become treadmills
-- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]] - The paradox of chasing validation
+- [[literature-notes/self-trust-as-the-only-scorecard|Self-trust is the only scorecard that can't be taken away]]
+- [[literature-notes/goals-as-self-abuse-versus-creativity|Goals as self-abuse versus creativity]]
+- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
 
 ## Source
 

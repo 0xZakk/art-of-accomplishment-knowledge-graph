@@ -22,9 +22,9 @@ This is a pattern Joe sees frequently: people frame their problem in a way that 
 
 ## Related Concepts
 
-- [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]] - Money as a container for deeper issues
-- [[literature-notes/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates stuckness]] - The fixing frame itself is the trap
-- [[literature-notes/address-root-blockers-not-symptoms|Address root blockers, not symptoms]] - Going beneath the presented problem
+- [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]]
+- [[literature-notes/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates stuckness]]
+- [[literature-notes/address-root-blockers-not-symptoms|Address root blockers, not symptoms]]
 
 ## Source
 

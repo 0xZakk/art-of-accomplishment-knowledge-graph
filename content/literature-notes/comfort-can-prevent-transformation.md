@@ -21,9 +21,9 @@ This doesn't mean suffering is required. But intensity — the kind that comes f
 
 ## Related Concepts
 
-- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]] - Intensity drives growth
-- [[literature-notes/business-prevents-spiritual-bypassing|Business prevents spiritual bypassing]] - Real stakes prevent avoidance
-- [[literature-notes/chaos-is-necessary-for-growth|Chaos is necessary for growth]] - Disruption catalyzes development
+- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]]
+- [[literature-notes/business-prevents-spiritual-bypassing|Business prevents spiritual bypassing]]
+- [[literature-notes/chaos-is-necessary-for-growth|Chaos is necessary for growth]]
 - [[literature-notes/loss-can-deepen-freedom|Loss can deepen freedom]]
 
 ## Source

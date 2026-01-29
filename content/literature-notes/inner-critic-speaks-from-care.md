@@ -18,8 +18,8 @@ When you can translate the inner critic's harsh words into the care underneath, 
 
 ## Related Concepts
 
-- [[literature-notes/welcome-the-inner-critic|Welcoming the inner critic dissolves its power]] - How to respond once you see the care
-- [[literature-notes/inner-critic-as-guide|The inner critic is a guide to unhealed parts]] - Using the voice for growth
+- [[literature-notes/welcome-the-inner-critic|Welcoming the inner critic dissolves its power]]
+- [[literature-notes/inner-critic-as-guide|The inner critic is a guide to unhealed parts]]
 
 ## Source
 

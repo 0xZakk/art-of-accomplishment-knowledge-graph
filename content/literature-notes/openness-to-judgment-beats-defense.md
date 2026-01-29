@@ -20,9 +20,9 @@ This parallels the two friends experiment: when your friend changes to please yo
 
 ## Related Concepts
 
-- [[literature-notes/not-defending-reveals-inherent-goodness|Not defending reveals inherent goodness]] - What's underneath defense
-- [[literature-notes/closing-heart-to-protect-traps-you|Closing heart to protect traps you]] - The trap of self-protection
-- [[literature-notes/opening-heart-to-what-you-resist|Opening heart to what you resist]] - The practice of staying open
+- [[literature-notes/not-defending-reveals-inherent-goodness|Not defending reveals inherent goodness]]
+- [[literature-notes/closing-heart-to-protect-traps-you|Closing heart to protect traps you]]
+- [[literature-notes/opening-heart-to-what-you-resist|Opening heart to what you resist]]
 - [[literature-notes/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
 
 ## Source

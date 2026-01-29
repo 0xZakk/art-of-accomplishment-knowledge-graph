@@ -23,10 +23,10 @@ The grief underneath is significant: purpose has been available the whole time. 
 
 ## Related Concepts
 
-- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]] - The paradox that searching creates distance
-- [[literature-notes/searching-for-purpose-assumes-you-lack-it|Searching for purpose assumes you lack it]] - The false premise of the search
-- [[literature-notes/receiving-requires-vulnerability|Receiving requires vulnerability]] - Why receiving is so hard
-- [[literature-notes/pleasure-requires-receiving-not-effort|Pleasure requires receiving not effort]] - The broader pattern of receiving vs. efforting
+- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
+- [[literature-notes/searching-for-purpose-assumes-you-lack-it|Searching for purpose assumes you lack it]]
+- [[literature-notes/receiving-requires-vulnerability|Receiving requires vulnerability]]
+- [[literature-notes/pleasure-requires-receiving-not-effort|Pleasure requires receiving not effort]]
 - [[literature-notes/asking-how-is-another-wall|Asking 'how do I do this' is itself the wall]]
 
 ## Source

@@ -20,9 +20,9 @@ The participant fears that surrendering to the longing would make them helpless,
 
 ## Related Concepts
 
-- [[literature-notes/loneliness-fully-felt-is-love|Loneliness fully felt is love]] - The same core insight from another angle
-- [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]] - Love rips away identity
-- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]] - Heartbreak increases capacity to love
+- [[literature-notes/loneliness-fully-felt-is-love|Loneliness fully felt is love]]
+- [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
+- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]]
 - [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 - [[literature-notes/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
 - [[literature-notes/love-requires-willingness-to-be-hurt|Love requires willingness to be hurt]]

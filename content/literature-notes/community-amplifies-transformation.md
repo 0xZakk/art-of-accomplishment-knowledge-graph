@@ -18,8 +18,8 @@ Joe observes that the only discount they offer is a community discount, because 
 
 ## Related Concepts
 
-- [[literature-notes/real-community-requires-non-judgmental-witnessing|Real community requires non-judgmental witnessing]] - What makes a group container safe enough for transformation
-- [[literature-notes/deep-community-dissolves-identity|Deep community dissolves identity]] - How deep relational work shifts who we think we are
+- [[literature-notes/real-community-requires-non-judgmental-witnessing|Real community requires non-judgmental witnessing]]
+- [[literature-notes/deep-community-dissolves-identity|Deep community dissolves identity]]
 
 ## Source
 

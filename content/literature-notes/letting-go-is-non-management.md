@@ -21,8 +21,8 @@ This distinction matters because people often confuse surrender with apathy or l
 
 ## Related Concepts
 
-- [[literature-notes/managing-yourself-kills-the-practice|Managing yourself kills the practice]] - Why management backfires
-- [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]] - What happens when we don't let go
+- [[literature-notes/managing-yourself-kills-the-practice|Managing yourself kills the practice]]
+- [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]]
 
 ## Source
 

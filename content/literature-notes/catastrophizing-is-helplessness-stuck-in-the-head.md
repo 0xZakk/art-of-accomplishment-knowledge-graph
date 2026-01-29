@@ -24,9 +24,9 @@ Joe also recommends doing this practice in both directions — visualizing the w
 
 ## Related Concepts
 
-- [[literature-notes/helplessness-is-the-cayenne-pepper-of-fear|Helplessness is the most potent ingredient of fear]] - The feeling being avoided in catastrophizing
-- [[literature-notes/naming-emotions-can-replace-feeling|Naming emotions can replace feeling]] - Another way the head replaces the body
-- [[literature-notes/unfelt-emotions-create-physical-stress|Unfelt emotions create physical stress]] - The consequence of staying in the head
+- [[literature-notes/helplessness-is-the-cayenne-pepper-of-fear|Helplessness is the most potent ingredient of fear]]
+- [[literature-notes/naming-emotions-can-replace-feeling|Naming emotions can replace feeling]]
+- [[literature-notes/unfelt-emotions-create-physical-stress|Unfelt emotions create physical stress]]
 
 ## Source
 

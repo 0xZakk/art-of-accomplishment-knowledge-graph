@@ -21,9 +21,9 @@ Joe emphasizes that if you're not directing emotions at anyone, "they're all app
 
 ## Related Concepts
 
-- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - The mechanism at work
-- [[literature-notes/shame-stagnates-emotional-fluidity|Shame stagnates emotional fluidity]] - How shame freezes the grief process
-- [[literature-notes/actor-technique-for-stuck-emotions|Actor technique for stuck emotions]] - A method for accessing blocked grief emotions
+- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
+- [[literature-notes/shame-stagnates-emotional-fluidity|Shame stagnates emotional fluidity]]
+- [[literature-notes/actor-technique-for-stuck-emotions|Actor technique for stuck emotions]]
 - [[literature-notes/feel-whats-underneath-the-shame|Feel what's underneath the shame to break stagnation]]
 - [[literature-notes/grief-is-necessary-for-transformation|Grief is necessary for transformation]]
 - [[literature-notes/emotional-titration-is-adaptive|Emotional titration is adaptive, not avoidant]]

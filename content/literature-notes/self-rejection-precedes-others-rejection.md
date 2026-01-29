@@ -22,9 +22,9 @@ The antidote isn't becoming better at gaming — it's recognizing that the game 
 
 ## Related Concepts
 
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - The impossibility of connection through a mask
-- [[literature-notes/imposter-syndrome-means-not-being-yourself|Imposter syndrome means not being yourself]] - Feeling fake because you are being fake
-- [[literature-notes/grief-of-self-abandonment|Grief of self-abandonment]] - The pain of leaving yourself behind
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
+- [[literature-notes/imposter-syndrome-means-not-being-yourself|Imposter syndrome means not being yourself]]
+- [[literature-notes/grief-of-self-abandonment|Grief of self-abandonment]]
 
 ## Source
 

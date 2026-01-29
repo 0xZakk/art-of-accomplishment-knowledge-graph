@@ -21,9 +21,9 @@ The antidote isn't to avoid groups but to maintain individual autonomy within th
 
 ## Related Concepts
 
-- [[literature-notes/compromise-builds-resentment|Compromise builds resentment]] - The same principle in relationships
-- [[literature-notes/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]] - Sacrificing authenticity for peace
-- [[literature-notes/boundaries-are-essential-with-mental-health|Boundaries are essential with mental health]] - What protects individuals in groups
+- [[literature-notes/compromise-builds-resentment|Compromise builds resentment]]
+- [[literature-notes/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
+- [[literature-notes/boundaries-are-essential-with-mental-health|Boundaries are essential with mental health]]
 
 ## Source
 

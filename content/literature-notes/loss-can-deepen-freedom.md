@@ -24,10 +24,10 @@ This isn't an argument for seeking suffering. But it reframes loss: the things w
 
 ## Related Concepts
 
-- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]] - Loss opens the heart
-- [[literature-notes/chaos-is-necessary-for-growth|Chaos is necessary for growth]] - Disruption catalyzes depth
-- [[literature-notes/comfort-can-prevent-transformation|Comfort can prevent transformation]] - What protects you may also limit you
-- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]] - Loss dissolves identities that constrain
+- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]]
+- [[literature-notes/chaos-is-necessary-for-growth|Chaos is necessary for growth]]
+- [[literature-notes/comfort-can-prevent-transformation|Comfort can prevent transformation]]
+- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]]
 - [[literature-notes/what-you-fear-losing-reveals-your-conditions-on-freedom|What you fear losing reveals your conditions on freedom]]
 
 ## Source

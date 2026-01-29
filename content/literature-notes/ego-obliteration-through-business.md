@@ -20,9 +20,9 @@ A crucial clarification: ego isn't "I'm the greatest and I know what decisions t
 
 ## Related Concepts
 
-- [[literature-notes/parenting-as-ego-dissolution|Parenting as ego dissolution]] - The parallel path in family life
-- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]] - Ego as self-definition
-- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]] - The broader pattern
+- [[literature-notes/parenting-as-ego-dissolution|Parenting as ego dissolution]]
+- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]]
+- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]]
 
 ## Source
 

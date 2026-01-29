@@ -21,9 +21,9 @@ One executive got so good at this—always stating her wants and supporting her 
 
 ## Related Concepts
 
-- [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]] - The prerequisite to stating wants cleanly
-- [[literature-notes/wanting-is-aliveness|Wanting is aliveness]] - Wants are the signal, not selfishness
-- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]] - Leaders who suppress wants create dependency
+- [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]]
+- [[literature-notes/wanting-is-aliveness|Wanting is aliveness]]
+- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
 
 ## Source
 

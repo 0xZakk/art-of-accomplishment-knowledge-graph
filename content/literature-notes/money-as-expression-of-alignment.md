@@ -22,9 +22,9 @@ Money in alignment isn't about having more or less—it's about whether the flow
 
 ## Related Concepts
 
-- [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]] - What shifts when money becomes a tool instead of a projection
-- [[literature-notes/money-beliefs-create-money-reality|Money beliefs create money reality]] - The belief system that precedes alignment
-- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - The broader principle money alignment reflects
+- [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]]
+- [[literature-notes/money-beliefs-create-money-reality|Money beliefs create money reality]]
+- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]]
 
 ## Source
 

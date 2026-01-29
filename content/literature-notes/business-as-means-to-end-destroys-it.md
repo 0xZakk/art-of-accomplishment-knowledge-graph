@@ -21,8 +21,8 @@ The same pattern appears whenever purpose is externalized: the pursuit of money,
 
 ## Related Concepts
 
-- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]] - Externalizing purpose in any domain
-- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]] - Purpose as process, not destination
+- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
+- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
 
 ## Source
 

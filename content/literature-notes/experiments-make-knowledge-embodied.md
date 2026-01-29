@@ -20,8 +20,8 @@ This is why experiments are more transformative than reading or thinking: they e
 
 ## Related Concepts
 
-- [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - Experiments are discovery processes
-- [[literature-notes/dissociation-removes-your-signals|Dissociation removes your body's learning signals]] - The body is the fastest pathway to knowledge
+- [[literature-notes/discovery-not-improvement|Discovery, not improvement]]
+- [[literature-notes/dissociation-removes-your-signals|Dissociation removes your body's learning signals]]
 
 ## Source
 

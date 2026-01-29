@@ -22,9 +22,9 @@ This pattern is self-perpetuating — by managing others' emotions, we never dev
 
 ## Related Concepts
 
-- [[literature-notes/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]] - The surface pattern this drives
-- [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]] - How avoiding emotions limits perception
-- [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]] - Specific pattern with anger
+- [[literature-notes/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
+- [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]]
+- [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]]
 - [[literature-notes/doing-emotions-at-people-avoids-feeling|Doing emotions at people means you're not actually feeling them]]
 - [[literature-notes/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others' emotions to avoid your own]]
 - [[literature-notes/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]

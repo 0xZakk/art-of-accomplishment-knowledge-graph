@@ -25,9 +25,9 @@ If your job description for a relationship is "make me not lonely," the relation
 
 ## Related Concepts
 
-- [[literature-notes/chasing-love-is-also-pushing-it-away|Chasing love is also pushing it away]] - The same dynamic in romantic pursuit
-- [[literature-notes/searching-for-love-cuts-off-love|Searching for love cuts off love]] - Searching prevents finding
-- [[literature-notes/neediness-repels-what-you-want|Neediness repels what you want]] - The repulsive quality of desperate seeking
+- [[literature-notes/chasing-love-is-also-pushing-it-away|Chasing love is also pushing it away]]
+- [[literature-notes/searching-for-love-cuts-off-love|Searching for love cuts off love]]
+- [[literature-notes/neediness-repels-what-you-want|Neediness repels what you want]]
 - [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 - [[literature-notes/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
 

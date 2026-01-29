@@ -20,9 +20,9 @@ The trap is seeing through a story intellectually without feeling the emotion. Y
 
 ## Related Concepts
 
-- [[literature-notes/anger-release-ends-in-clarity-and-determination|Anger release ends in clarity and determination]] - What follows emotional release
-- [[literature-notes/clarity-comes-after-feeling-not-before|Clarity comes after feeling not before]] - The sequence
-- [[literature-notes/fully-feeling-stops-the-pattern|Fully feeling stops the pattern]] - Ending repetitive cycles
+- [[literature-notes/anger-release-ends-in-clarity-and-determination|Anger release ends in clarity and determination]]
+- [[literature-notes/clarity-comes-after-feeling-not-before|Clarity comes after feeling not before]]
+- [[literature-notes/fully-feeling-stops-the-pattern|Fully feeling stops the pattern]]
 - [[literature-notes/stronger-stories-slow-emotional-movement|The stronger the story, the slower emotions move]]
 - [[literature-notes/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
 - [[literature-notes/progression-from-anger-to-deeper-emotions|The progression from anger reveals grief and fear underneath]]

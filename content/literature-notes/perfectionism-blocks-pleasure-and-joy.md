@@ -25,10 +25,10 @@ The antidote: instead of doing the process perfectly, deeply connect with it or 
 
 ## Related Concepts
 
-- [[literature-notes/pleasure-signals-safety|Pleasure signals safety]] - Why pleasure matters
-- [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]] - The emotional prerequisite for joy
-- [[literature-notes/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant]] - The hypervigilant relationship to good feelings
-- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]] - Enjoyment as the practical alternative
+- [[literature-notes/pleasure-signals-safety|Pleasure signals safety]]
+- [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]]
+- [[literature-notes/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant]]
+- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]]
 
 ## Source
 

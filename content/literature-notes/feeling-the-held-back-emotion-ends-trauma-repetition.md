@@ -22,9 +22,9 @@ Bessel confirms this through psychodrama work: you become the ten-year-old, put 
 
 ## Related Concepts
 
-- [[literature-notes/trauma-addiction-is-choosing-the-familiar|Trauma addiction is choosing what's familiar]] - What this resolves
-- [[literature-notes/helplessness-is-the-emotion-being-avoided|Helplessness is the emotion being avoided]] - The specific emotion
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming not just accepting emotions]] - The practice
+- [[literature-notes/trauma-addiction-is-choosing-the-familiar|Trauma addiction is choosing what's familiar]]
+- [[literature-notes/helplessness-is-the-emotion-being-avoided|Helplessness is the emotion being avoided]]
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming not just accepting emotions]]
 - [[literature-notes/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
 - [[literature-notes/avoidance-creates-the-pattern-it-fears|Emotional avoidance creates the very pattern it fears]]
 - [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]

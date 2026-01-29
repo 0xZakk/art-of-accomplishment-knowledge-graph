@@ -18,8 +18,8 @@ This connects to Joe's broader insight that structural changes are more effectiv
 
 ## Related Concepts
 
-- [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]] - When the environment aligns with your goals, resistance dissolves
-- [[literature-notes/structural-changes-beat-direct-interventions|Structural changes beat direct interventions]] - Changing the system is more effective than fighting yourself
+- [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]]
+- [[literature-notes/structural-changes-beat-direct-interventions|Structural changes beat direct interventions]]
 
 ## Source
 

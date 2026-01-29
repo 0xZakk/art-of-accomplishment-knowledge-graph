@@ -21,9 +21,9 @@ This isn't a philosophical exercise but a lived reality. Michael notices that mo
 
 ## Related Concepts
 
-- [[literature-notes/saying-yes-to-the-hardest-thing|Saying yes to the hardest thing transforms everything else]] - The cascade effect of radical acceptance
-- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]] - Leaning into what's most difficult
-- [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness, not the feeling]] - What happens when we stop avoiding
+- [[literature-notes/saying-yes-to-the-hardest-thing|Saying yes to the hardest thing transforms everything else]]
+- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]]
+- [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness, not the feeling]]
 
 ## Source
 

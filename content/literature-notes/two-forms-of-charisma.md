@@ -21,9 +21,9 @@ The Greek root of "charisma" means "God-given gift" — not that some have it an
 
 ## Related Concepts
 
-- [[literature-notes/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]] - What happens when you chase the first kind
-- [[literature-notes/internal-division-is-the-enemy-of-charisma|Internal division is the enemy of charisma]] - The core obstacle to authentic charisma
-- [[literature-notes/authenticity-is-a-path-not-destination|Authenticity is a path not destination]] - The ongoing nature of this work
+- [[literature-notes/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]]
+- [[literature-notes/internal-division-is-the-enemy-of-charisma|Internal division is the enemy of charisma]]
+- [[literature-notes/authenticity-is-a-path-not-destination|Authenticity is a path not destination]]
 
 ## Source
 

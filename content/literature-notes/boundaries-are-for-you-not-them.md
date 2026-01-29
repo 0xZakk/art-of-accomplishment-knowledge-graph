@@ -22,9 +22,9 @@ The ultimate boundary statement is: "I am okay if you need to pull your love awa
 
 ## Related Concepts
 
-- [[literature-notes/boundaries-open-your-heart|Boundaries must open your heart, not close it]] - How to draw them
-- [[literature-notes/boundaries-declare-your-action-not-theirs|Boundaries declare your action, not theirs]] - The structure of a proper boundary
-- [[literature-notes/knowing-yourself-is-the-only-safety|Knowing yourself is the only safety]] - The self-knowledge that boundaries build
+- [[literature-notes/boundaries-open-your-heart|Boundaries must open your heart, not close it]]
+- [[literature-notes/boundaries-declare-your-action-not-theirs|Boundaries declare your action, not theirs]]
+- [[literature-notes/knowing-yourself-is-the-only-safety|Knowing yourself is the only safety]]
 - [[literature-notes/boundary-firmness-eliminates-fear-of-attack|Boundary firmness eliminates fear of attack]]
 - [[literature-notes/boundaries-say-what-you-will-do-not-what-they-must|Boundaries say what you will do, not what they must do]]
 - [[literature-notes/boundaries-are-scariest-because-of-freedom|What's scariest about boundaries is the freedom on the other side]]

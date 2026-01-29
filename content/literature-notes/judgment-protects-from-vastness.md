@@ -22,9 +22,9 @@ Underneath the anxiety is sadness — a grief about purposelessness. "Where do y
 
 ## Related Concepts
 
-- [[literature-notes/fixing-avoids-being-present|Compulsive fixing avoids being present]] - The behavioral expression of this avoidance
-- [[literature-notes/anxiety-changes-form-not-substance|Anxiety changes form, not substance]] - Anxiety as shapeshifter
-- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]] - Identity as defense against vastness
+- [[literature-notes/fixing-avoids-being-present|Compulsive fixing avoids being present]]
+- [[literature-notes/anxiety-changes-form-not-substance|Anxiety changes form, not substance]]
+- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]]
 
 ## Source
 

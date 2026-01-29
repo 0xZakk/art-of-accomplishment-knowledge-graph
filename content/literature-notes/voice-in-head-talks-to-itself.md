@@ -19,9 +19,9 @@ Joe points out the irony: if your mother constantly told you to shave more, you'
 
 ## Related Concepts
 
-- [[literature-notes/inner-critic-is-not-your-voice|The inner critic is not your voice]] - The voice was programmed by others, not chosen by you
-- [[literature-notes/inner-critic-mirrors-relationship-patterns|The inner critic mirrors relationship patterns]] - The voice mimics important figures from your history
-- [[literature-notes/inner-critic-speaks-from-care|The inner critic speaks from care]] - Behind the projection is a scared part trying to protect you
+- [[literature-notes/inner-critic-is-not-your-voice|The inner critic is not your voice]]
+- [[literature-notes/inner-critic-mirrors-relationship-patterns|The inner critic mirrors relationship patterns]]
+- [[literature-notes/inner-critic-speaks-from-care|The inner critic speaks from care]]
 - [[literature-notes/inner-voice-mirrors-parenting|The inner critic mirrors how you were parented]]
 - [[literature-notes/the-voice-of-fakeness-is-intuition-not-pathology|The voice of fakeness is intuition, not pathology]]
 - [[literature-notes/inner-critic-uses-same-cult-dynamics|The inner critic uses the same dynamics as cults and political manipulation]]

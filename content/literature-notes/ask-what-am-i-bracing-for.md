@@ -22,10 +22,10 @@ The man in the session demonstrates this in real time: the moment Joe asks "what
 
 ## Related Concepts
 
-- [[literature-notes/bracing-removes-presence-not-chaos|Bracing removes presence, it doesn't prevent chaos]] - What bracing actually does
-- [[literature-notes/bracing-identity-of-being-needed|Bracing maintains the identity of being needed]] - What the inquiry reveals
-- [[literature-notes/question-the-assumption-as-self-inquiry|Question the assumption as self-inquiry]] - The broader practice of self-inquiry
-- [[literature-notes/punishing-the-remembering-slows-growth|Punishing the remembering slows growth]] - Why gentleness matters in the noticing
+- [[literature-notes/bracing-removes-presence-not-chaos|Bracing removes presence, it doesn't prevent chaos]]
+- [[literature-notes/bracing-identity-of-being-needed|Bracing maintains the identity of being needed]]
+- [[literature-notes/question-the-assumption-as-self-inquiry|Question the assumption as self-inquiry]]
+- [[literature-notes/punishing-the-remembering-slows-growth|Punishing the remembering slows growth]]
 
 ## Source
 

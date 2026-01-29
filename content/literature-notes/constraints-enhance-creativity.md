@@ -20,9 +20,9 @@ This applies to money specifically: you can see it as good and chase it, see it 
 
 ## Related Concepts
 
-- [[literature-notes/creative-block-is-trying-to-get-somewhere|Creative block is trying to get somewhere]] - How fighting constraints blocks creativity
-- [[literature-notes/being-behind-on-a-goal-catalyzes-creativity|Being behind on a goal catalyzes creativity]] - Another way constraints fuel creative output
-- [[literature-notes/acceptance-is-not-love|Acceptance is not love]] - The distinction between acceptance and passive approval
+- [[literature-notes/creative-block-is-trying-to-get-somewhere|Creative block is trying to get somewhere]]
+- [[literature-notes/being-behind-on-a-goal-catalyzes-creativity|Being behind on a goal catalyzes creativity]]
+- [[literature-notes/acceptance-is-not-love|Acceptance is not love]]
 
 ## Source
 

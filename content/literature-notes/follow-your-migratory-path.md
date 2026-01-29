@@ -22,9 +22,9 @@ Over time, Joe's relationship to experiments evolved: first rebellious sovereign
 
 ## Related Concepts
 
-- [[literature-notes/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]] - The conscious mind can't map the migratory path
-- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]] - Seeking intellectually misses the felt pull
-- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]] - The path unfolds now
+- [[literature-notes/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]]
+- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
+- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
 
 ## Source
 

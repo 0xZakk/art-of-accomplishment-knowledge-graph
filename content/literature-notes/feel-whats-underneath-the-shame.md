@@ -25,9 +25,9 @@ The practical approach: you don't have to worry too much about the nuance. Just 
 
 ## Related Concepts
 
-- [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]] - The approach
-- [[literature-notes/shame-locks-in-bad-habits|Shame locks in bad habits]] - Why shame must be moved through
-- [[literature-notes/helplessness-is-the-emotion-being-avoided|Helplessness is the emotion being avoided]] - A common emotion underneath
+- [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]]
+- [[literature-notes/shame-locks-in-bad-habits|Shame locks in bad habits]]
+- [[literature-notes/helplessness-is-the-emotion-being-avoided|Helplessness is the emotion being avoided]]
 - [[literature-notes/shame-about-grief-shuts-down-all-emotions|Shame about grief shuts down all emotions]]
 - [[literature-notes/being-undefended-erodes-narcissism|Being undefended erodes narcissism]]
 - [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]]

@@ -23,10 +23,10 @@ The key insight is that self-trust isn't something new to develop—it's an orie
 
 ## Related Concepts
 
-- [[literature-notes/external-scorecards-always-move|External scorecards always move the goalposts]] - Why external metrics never satisfy
-- [[literature-notes/knowing-yourself-is-the-only-safety|Knowing yourself is the only safety]] - Safety as an internal quality
-- [[literature-notes/chase-your-own-approval|Chase your own approval]] - The shift from external to internal validation
-- [[literature-notes/confidence-is-connection-to-yourself|Confidence is connection to yourself]] - Trust as self-connection
+- [[literature-notes/external-scorecards-always-move|External scorecards always move the goalposts]]
+- [[literature-notes/knowing-yourself-is-the-only-safety|Knowing yourself is the only safety]]
+- [[literature-notes/chase-your-own-approval|Chase your own approval]]
+- [[literature-notes/confidence-is-connection-to-yourself|Confidence is connection to yourself]]
 
 ## Source
 

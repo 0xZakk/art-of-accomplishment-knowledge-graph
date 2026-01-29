@@ -23,9 +23,9 @@ When people work on this fear directly — building boundary confidence, process
 
 ## Related Concepts
 
-- [[literature-notes/boundaries-increase-capacity-to-love|Boundaries increase capacity to love]] - Strong boundaries enable safe surrender into love
-- [[literature-notes/avoidance-creates-the-pattern-it-fears|Avoidance creates the pattern it fears]] - Avoiding intimacy creates the loneliness feared
-- [[literature-notes/codependent-cycling-avoids-heartbreak|Codependent cycling avoids heartbreak]] - Codependence as a specific pattern of self-loss avoidance
+- [[literature-notes/boundaries-increase-capacity-to-love|Boundaries increase capacity to love]]
+- [[literature-notes/avoidance-creates-the-pattern-it-fears|Avoidance creates the pattern it fears]]
+- [[literature-notes/codependent-cycling-avoids-heartbreak|Codependent cycling avoids heartbreak]]
 - [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 - [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 - [[literature-notes/love-requires-willingness-to-be-hurt|Love requires willingness to be hurt]]

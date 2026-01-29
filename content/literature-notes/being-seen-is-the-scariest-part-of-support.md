@@ -23,9 +23,9 @@ Fourth: letting go of hierarchy. If you're used to putting people on pedestals o
 
 ## Related Concepts
 
-- [[literature-notes/being-seen-is-a-survival-need-we-villainize|Being seen is a survival need we villainize]] - The paradox of needing and fearing visibility
-- [[literature-notes/shame-creates-the-see-me-dont-see-me-double-bind|Shame creates the see-me-dont-see-me double bind]] - Shame's role in visibility fear
-- [[literature-notes/holding-it-together-blocks-support|Holding it together blocks support]] - The cost of maintaining composure
+- [[literature-notes/being-seen-is-a-survival-need-we-villainize|Being seen is a survival need we villainize]]
+- [[literature-notes/shame-creates-the-see-me-dont-see-me-double-bind|Shame creates the see-me-dont-see-me double bind]]
+- [[literature-notes/holding-it-together-blocks-support|Holding it together blocks support]]
 
 ## Source
 

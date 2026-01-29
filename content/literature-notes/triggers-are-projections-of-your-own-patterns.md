@@ -22,9 +22,9 @@ The practical application: pay attention to your triggers first, before addressi
 
 ## Related Concepts
 
-- [[literature-notes/relationship-triggers-are-yours|Relationship triggers are yours]] - The same teaching in direct form
-- [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others exists in you]] - The broader principle
-- [[literature-notes/triggers-as-freedom-opportunities|Triggers as freedom opportunities]] - Every trigger is a chance at freedom
+- [[literature-notes/relationship-triggers-are-yours|Relationship triggers are yours]]
+- [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others exists in you]]
+- [[literature-notes/triggers-as-freedom-opportunities|Triggers as freedom opportunities]]
 - [[literature-notes/own-the-trigger-as-yours|Owning the trigger as yours dissolves the fight]]
 - [[literature-notes/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
 - [[literature-notes/triggers-reveal-unaccepted-parts-of-yourself|Every trigger reveals an unaccepted part of yourself]]

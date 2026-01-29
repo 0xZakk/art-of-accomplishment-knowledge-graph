@@ -22,9 +22,9 @@ The key insight is that grief, when allowed to complete itself, doesn't stay abo
 
 ## Related Concepts
 
-- [[literature-notes/moving-emotions-dissolves-depression|Moving emotions dissolves depression]] - The mechanism of emotional completion
-- [[literature-notes/feeling-through-requires-letting-identity-restructure|Feeling through requires letting identity restructure]] - Why sustained feeling changes everything
-- [[literature-notes/recovery-time-is-part-of-the-work|Recovery time is part of the work]] - Honoring the time grief needs
+- [[literature-notes/moving-emotions-dissolves-depression|Moving emotions dissolves depression]]
+- [[literature-notes/feeling-through-requires-letting-identity-restructure|Feeling through requires letting identity restructure]]
+- [[literature-notes/recovery-time-is-part-of-the-work|Recovery time is part of the work]]
 - [[literature-notes/mourning-a-relationship-prevents-repeating-it|Fully mourning a relationship prevents you from repeating it]]
 - [[literature-notes/grief-is-necessary-for-transformation|Grief is necessary for transformation]]
 - [[literature-notes/grief-of-self-abandonment|Grief of self-abandonment]]

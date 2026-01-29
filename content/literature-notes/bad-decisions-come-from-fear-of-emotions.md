@@ -22,8 +22,8 @@ The flip side is equally clear: when we stop being afraid of our emotions, we be
 
 ## Related Concepts
 
-- [[literature-notes/fear-limits-optionality|Fear limits optionality]] - Fear of emotions narrows available choices
-- [[literature-notes/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]] - Doubt is a mechanism to avoid emotional risk
+- [[literature-notes/fear-limits-optionality|Fear limits optionality]]
+- [[literature-notes/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]]
 - [[literature-notes/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]
 - [[literature-notes/indecision-means-unfelt-emotions|Indecision signals unfelt emotions about consequences]]
 - [[literature-notes/decisions-reveal-emotional-avoidance|Every decision is an attempt to avoid an emotion]]

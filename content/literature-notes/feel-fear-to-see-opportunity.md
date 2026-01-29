@@ -22,8 +22,8 @@ Going into the fear, the pain, the problem is "a form of purification" — it's 
 
 ## Related Concepts
 
-- [[literature-notes/feel-then-act|Feel the emotion first, then take the action]] - The personal version of this principle
-- [[literature-notes/feel-the-false-end-to-dissolve-overwhelm|Feel the false end to dissolve overwhelm]] - Feeling the worst case to dissolve paralysis
+- [[literature-notes/feel-then-act|Feel the emotion first, then take the action]]
+- [[literature-notes/feel-the-false-end-to-dissolve-overwhelm|Feel the false end to dissolve overwhelm]]
 - [[literature-notes/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]]
 - [[literature-notes/false-ends-keep-you-stuck|The brain creates false endings that paralyze action]]
 - [[literature-notes/fear-is-present-on-every-path|Fear is present on every path so face it directly]]

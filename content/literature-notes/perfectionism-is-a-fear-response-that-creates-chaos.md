@@ -24,9 +24,9 @@ The perfectionist sets up the same impossible game their parents set up: standar
 
 ## Related Concepts
 
-- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - The golden algorithm
-- [[literature-notes/fear-creates-binary-thinking-and-false-ends|Fear creates binary thinking and false ends]] - How fear distorts thinking
-- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - Self-reinforcing negative loops
+- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
+- [[literature-notes/fear-creates-binary-thinking-and-false-ends|Fear creates binary thinking and false ends]]
+- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
 - [[literature-notes/your-own-perfectionist-boss|You become your own oppressive boss]]
 - [[literature-notes/organizations-must-remove-fear-to-innovate|Organizations must remove fear to enable innovation]]
 

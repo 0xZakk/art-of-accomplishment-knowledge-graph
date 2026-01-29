@@ -19,9 +19,9 @@ This reframes boundary work from an interpersonal skill to a self-relationship p
 
 ## Related Concepts
 
-- [[literature-notes/boundaries-are-for-you-not-them|Boundaries are for you, not them]] - The principle that boundaries are about your own behavior
-- [[literature-notes/boundaries-open-your-heart|Boundaries open your heart]] - How boundaries create trust and safety
-- [[literature-notes/inner-critic-mirrors-relationship-patterns|Inner critic mirrors relationship patterns]] - How internal patterns become external ones
+- [[literature-notes/boundaries-are-for-you-not-them|Boundaries are for you, not them]]
+- [[literature-notes/boundaries-open-your-heart|Boundaries open your heart]]
+- [[literature-notes/inner-critic-mirrors-relationship-patterns|Inner critic mirrors relationship patterns]]
 - [[literature-notes/boundaries-are-scariest-because-of-freedom|What's scariest about boundaries is the freedom on the other side]]
 - [[literature-notes/being-yourself-gets-you-promoted-or-freed|Being yourself either gets you promoted or freed]]
 - [[literature-notes/boundaries-not-view-for-narcissists|Boundaries, not VIEW, are the tool for narcissists]]

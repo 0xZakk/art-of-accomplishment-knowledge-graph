@@ -22,9 +22,9 @@ Brett frames this as purpose being an emergent property of how you are being, ra
 
 ## Related Concepts
 
-- [[literature-notes/purpose-matures-into-choicelessness|Purpose matures into choicelessness]] - The stage that precedes non-personal purpose
-- [[literature-notes/humility-is-not-taking-life-personally|Humility is not taking life personally]] - The quality of ego-release
-- [[literature-notes/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]] - The identity shift underlying non-personal purpose
+- [[literature-notes/purpose-matures-into-choicelessness|Purpose matures into choicelessness]]
+- [[literature-notes/humility-is-not-taking-life-personally|Humility is not taking life personally]]
+- [[literature-notes/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]]
 
 ## Source
 

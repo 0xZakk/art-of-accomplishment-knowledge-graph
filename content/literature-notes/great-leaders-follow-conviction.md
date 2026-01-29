@@ -22,9 +22,9 @@ Martin Luther King exemplifies this: hard-headed about civil rights and equality
 
 ## Related Concepts
 
-- [[literature-notes/leadership-is-universal-not-assigned|Leadership is a universal quality, not an assigned role]] - The foundation
-- [[literature-notes/decentralized-leadership-outperforms-hierarchy|Decentralized leadership outperforms rigid hierarchy]] - The organizational implication
-- [[literature-notes/follow-your-calling-even-when-uncomfortable|Follow your calling even when uncomfortable]] - The personal dimension
+- [[literature-notes/leadership-is-universal-not-assigned|Leadership is a universal quality, not an assigned role]]
+- [[literature-notes/decentralized-leadership-outperforms-hierarchy|Decentralized leadership outperforms rigid hierarchy]]
+- [[literature-notes/follow-your-calling-even-when-uncomfortable|Follow your calling even when uncomfortable]]
 
 ## Source
 

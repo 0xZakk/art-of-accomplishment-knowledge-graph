@@ -23,10 +23,10 @@ This applies across domains: in leadership, inviting disagreement produces bette
 
 ## Related Concepts
 
-- [[literature-notes/every-no-is-new-information|Every no is new information]] - The fundamental principle that disagreement contains value
-- [[literature-notes/opening-heart-to-what-you-resist|Opening heart to what you resist]] - The broader practice of softening toward resistance
-- [[literature-notes/conflict-builds-trust|Conflict builds trust]] - How engaging with disagreement strengthens bonds
-- [[literature-notes/boundaries-open-your-heart|Boundaries open your heart]] - The paradox that limits create openness
+- [[literature-notes/every-no-is-new-information|Every no is new information]]
+- [[literature-notes/opening-heart-to-what-you-resist|Opening heart to what you resist]]
+- [[literature-notes/conflict-builds-trust|Conflict builds trust]]
+- [[literature-notes/boundaries-open-your-heart|Boundaries open your heart]]
 - [[literature-notes/relationship-control-mirrors-leadership-control|Relationship control mirrors leadership control]]
 
 ## Source

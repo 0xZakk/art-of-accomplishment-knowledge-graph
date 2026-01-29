@@ -24,9 +24,9 @@ Principled living also forces you to feel the emotions you'd rather avoid — th
 
 ## Related Concepts
 
-- [[literature-notes/decisions-as-portfolio-not-single-bet|Decisions as portfolio not single bet]] - Portfolio thinking applied to principles
-- [[literature-notes/only-work-with-great-people|Only work with great people]] - An example principle
-- [[literature-notes/connection-enables-accomplishment|Connection enables accomplishment]] - Connection-first as a principle
+- [[literature-notes/decisions-as-portfolio-not-single-bet|Decisions as portfolio not single bet]]
+- [[literature-notes/only-work-with-great-people|Only work with great people]]
+- [[literature-notes/connection-enables-accomplishment|Connection enables accomplishment]]
 - [[literature-notes/principles-differ-from-values|Principles drive action; values describe morality]]
 - [[literature-notes/principles-automate-decision-making|Principles automate decision-making into effortless choices]]
 - [[literature-notes/connection-as-the-bottom-line-principle|Connection is the most effective bottom-line principle for life]]

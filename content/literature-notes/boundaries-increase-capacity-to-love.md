@@ -21,9 +21,9 @@ The somatic test for a good boundary is expansion: you feel more love, more open
 
 ## Related Concepts
 
-- [[literature-notes/boundaries-say-what-you-will-do-not-what-they-must|Boundaries say what you will do, not what they must do]] - The structural principle of good boundaries
-- [[literature-notes/drawing-boundaries-dissolves-triggers|Drawing boundaries dissolves triggers]] - How boundaries become more nuanced over time
-- [[literature-notes/caretaking-kills-desire|Caretaking kills desire]] - What happens when love is confused with caretaking
+- [[literature-notes/boundaries-say-what-you-will-do-not-what-they-must|Boundaries say what you will do, not what they must do]]
+- [[literature-notes/drawing-boundaries-dissolves-triggers|Drawing boundaries dissolves triggers]]
+- [[literature-notes/caretaking-kills-desire|Caretaking kills desire]]
 - [[literature-notes/boundaries-open-your-heart|Boundaries must open your heart, not close it]]
 - [[literature-notes/boundary-versus-ultimatum|The difference between a boundary and an ultimatum is fear]]
 

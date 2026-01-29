@@ -22,9 +22,9 @@ Triggers can manifest as any emotional pattern: rage, shutdown, passive aggressi
 
 ## Related Concepts
 
-- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]] - Why we choose partners who trigger us
-- [[literature-notes/transformation-is-generational|Transformation is generational]] - How patterns repeat without conscious work
-- [[literature-notes/relationship-triggers-are-yours|Relationship triggers are yours]] - Owning rather than projecting triggers
+- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]]
+- [[literature-notes/transformation-is-generational|Transformation is generational]]
+- [[literature-notes/relationship-triggers-are-yours|Relationship triggers are yours]]
 
 ## Source
 

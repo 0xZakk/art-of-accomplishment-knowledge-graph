@@ -20,9 +20,9 @@ Most people who call themselves selfish are repeating what a parent said, and wh
 
 ## Related Concepts
 
-- [[literature-notes/self-interest-evolves-into-altruism|Self-interest evolves into altruism]] - The developmental arc of selfishness
-- [[literature-notes/owning-your-wants-dissolves-passive-aggression|Owning your wants dissolves passive aggression]] - Honest wanting prevents distortion
-- [[literature-notes/wanting-matters-more-than-what-you-want|Wanting matters more than what you want]] - The act of wanting itself matters
+- [[literature-notes/self-interest-evolves-into-altruism|Self-interest evolves into altruism]]
+- [[literature-notes/owning-your-wants-dissolves-passive-aggression|Owning your wants dissolves passive aggression]]
+- [[literature-notes/wanting-matters-more-than-what-you-want|Wanting matters more than what you want]]
 
 ## Source
 

@@ -20,9 +20,9 @@ This aligns with Joe's broader teaching that awareness transforms what shoulds c
 
 ## Related Concepts
 
-- [[literature-notes/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]] - The same principle: felt awareness, not willpower, drives change
-- [[literature-notes/shame-never-changes-behavior|Shame never changes behavior]] - Shaming yourself for the habit only reinforces the cycle
-- [[literature-notes/gentleness-accelerates-growth|Gentleness accelerates growth]] - Being gentle with yourself rather than disciplined paradoxically works better
+- [[literature-notes/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]]
+- [[literature-notes/shame-never-changes-behavior|Shame never changes behavior]]
+- [[literature-notes/gentleness-accelerates-growth|Gentleness accelerates growth]]
 
 ## Source
 

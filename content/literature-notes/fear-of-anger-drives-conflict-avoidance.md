@@ -22,9 +22,9 @@ The fear of losing love becomes a self-fulfilling prophecy. By avoiding conflict
 
 ## Related Concepts
 
-- [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]] - The consequence of this fear
-- [[literature-notes/fear-limits-optionality|Fear limits optionality]] - Fear of anger is one form of fear limiting your options
-- [[literature-notes/rage-as-gateway-to-healing|Rage as a gateway to healing]] - What happens when you let yourself feel the anger
+- [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]]
+- [[literature-notes/fear-limits-optionality|Fear limits optionality]]
+- [[literature-notes/rage-as-gateway-to-healing|Rage as a gateway to healing]]
 - [[literature-notes/safety-enables-productive-conflict|Safety enables productive conflict rather than preventing it]]
 - [[literature-notes/resentment-is-stored-conflict|Resentment is stored conflict—the longer you avoid it, the bigger the explosion]]
 - [[literature-notes/safe-relationships-attract-displaced-emotions|Safe relationships attract displaced emotions]]

@@ -23,9 +23,9 @@ Trust is both a prerequisite and a product of this approach. When teams go into 
 
 ## Related Concepts
 
-- [[literature-notes/open-the-drawer-as-cultural-practice|"Open the drawer" as cultural practice]] - The principle that enables running toward friction
-- [[literature-notes/fear-as-road-map-not-enemy|Fear as road map, not enemy]] - Friction as information
-- [[literature-notes/safety-comes-from-working-through-conflict|Safety comes from working through conflict]] - Trust built through difficulty
+- [[literature-notes/open-the-drawer-as-cultural-practice|"Open the drawer" as cultural practice]]
+- [[literature-notes/fear-as-road-map-not-enemy|Fear as road map, not enemy]]
+- [[literature-notes/safety-comes-from-working-through-conflict|Safety comes from working through conflict]]
 
 ## Source
 

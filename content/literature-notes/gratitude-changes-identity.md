@@ -22,9 +22,9 @@ Gratitude also speeds transformation by changing the internal narrative. Instead
 
 ## Related Concepts
 
-- [[literature-notes/self-concept-shapes-outer-reality|Self-concept shapes outer reality]] - The mechanism through which identity shapes behavior
-- [[literature-notes/identity-of-lack-perpetuates-lack|Identity of lack perpetuates lack]] - What gratitude dissolves
-- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]] - Gratitude is the antidote to shame-driven stagnation
+- [[literature-notes/self-concept-shapes-outer-reality|Self-concept shapes outer reality]]
+- [[literature-notes/identity-of-lack-perpetuates-lack|Identity of lack perpetuates lack]]
+- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]]
 
 ## Source
 

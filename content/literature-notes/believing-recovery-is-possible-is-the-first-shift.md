@@ -22,9 +22,9 @@ Will's advice echoes this: be open-minded, don't let ego prevent you from trying
 
 ## Related Concepts
 
-- [[literature-notes/habenula-and-learned-helplessness|Habenula and learned helplessness]] - The neurological mechanism of "nothing will work"
-- [[literature-notes/feeling-helplessness-creates-empowerment|Feeling helplessness creates empowerment]] - Feeling the helplessness rather than being stuck in it
-- [[literature-notes/sincerity-is-prerequisite-for-transformation|Sincerity is prerequisite for transformation]] - You must genuinely want to change
+- [[literature-notes/habenula-and-learned-helplessness|Habenula and learned helplessness]]
+- [[literature-notes/feeling-helplessness-creates-empowerment|Feeling helplessness creates empowerment]]
+- [[literature-notes/sincerity-is-prerequisite-for-transformation|Sincerity is prerequisite for transformation]]
 
 ## Source
 

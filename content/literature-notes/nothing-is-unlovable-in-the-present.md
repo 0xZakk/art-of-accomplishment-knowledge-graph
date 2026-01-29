@@ -22,9 +22,9 @@ Clint has already worked through the past and feels good about it despite mistak
 
 ## Related Concepts
 
-- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]] - Presence as the container for meaning
-- [[literature-notes/you-cant-stop-being-present|You can't stop being present]] - The impossibility of leaving now
-- [[literature-notes/self-compassion-before-external-success|Self-compassion before external success]] - Self-love as foundation
+- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
+- [[literature-notes/you-cant-stop-being-present|You can't stop being present]]
+- [[literature-notes/self-compassion-before-external-success|Self-compassion before external success]]
 
 ## Source
 

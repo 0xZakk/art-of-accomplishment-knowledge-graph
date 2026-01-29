@@ -19,7 +19,7 @@ This reframe removes all the preciousness around "running experiments." You're a
 
 ## Related Concepts
 
-- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - Our unconscious experiments create our reality patterns
+- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
 
 ## Source
 

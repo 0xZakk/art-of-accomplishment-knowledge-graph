@@ -22,9 +22,9 @@ The deeper root: a childhood pattern where happiness seemed dependent on managin
 
 ## Related Concepts
 
-- [[literature-notes/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]] - The impossibility of being seen while performing
-- [[literature-notes/disappearing-as-survival-strategy|Disappearing as survival strategy]] - The childhood roots of self-abandonment
-- [[literature-notes/listening-to-yourself-transforms-communication|Listening to yourself transforms communication]] - The antidote
+- [[literature-notes/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]]
+- [[literature-notes/disappearing-as-survival-strategy|Disappearing as survival strategy]]
+- [[literature-notes/listening-to-yourself-transforms-communication|Listening to yourself transforms communication]]
 
 ## Source
 

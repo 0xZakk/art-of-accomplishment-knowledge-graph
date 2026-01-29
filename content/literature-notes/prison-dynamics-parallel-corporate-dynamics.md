@@ -19,8 +19,8 @@ Joe's challenge to the listener: if Emile can refuse to play prison politics —
 
 ## Related Concepts
 
-- [[literature-notes/everyone-is-pretending-not-to-be-afraid|Everyone is pretending not to be afraid]] - The universal pretense driving both systems
-- [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]] - What breaks these dynamics
+- [[literature-notes/everyone-is-pretending-not-to-be-afraid|Everyone is pretending not to be afraid]]
+- [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]]
 
 ## Source
 

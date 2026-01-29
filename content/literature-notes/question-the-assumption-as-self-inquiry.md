@@ -22,9 +22,9 @@ The practice differs fundamentally from skepticism or debate. Skeptics question 
 
 ## Related Concepts
 
-- [[literature-notes/contrarian-thinking-is-still-controlled-by-the-system|Contrarian thinking is still controlled by the system]] - The trap of questioning as rebellion rather than genuine inquiry
-- [[literature-notes/wrong-question-keeps-you-stuck|Wrong question keeps you stuck]] - The general principle of examining premises
-- [[literature-notes/experiments-make-knowledge-embodied|Experimentation over dogma in self-development]] - A complementary practice of testing rather than believing
+- [[literature-notes/contrarian-thinking-is-still-controlled-by-the-system|Contrarian thinking is still controlled by the system]]
+- [[literature-notes/wrong-question-keeps-you-stuck|Wrong question keeps you stuck]]
+- [[literature-notes/experiments-make-knowledge-embodied|Experimentation over dogma in self-development]]
 
 ## Source
 

@@ -21,8 +21,8 @@ Joe and his wife Tara experimented with this extensively and found it useful, th
 
 ## Related Concepts
 
-- [[literature-notes/holding-space-requires-staying-in-yourself|Holding space requires staying in yourself]] - The skill underneath empathic acknowledgment
-- [[literature-notes/receiving-requires-vulnerability|Receiving requires vulnerability]] - The other side — allowing someone to be present with you
+- [[literature-notes/holding-space-requires-staying-in-yourself|Holding space requires staying in yourself]]
+- [[literature-notes/receiving-requires-vulnerability|Receiving requires vulnerability]]
 - [[literature-notes/upright-apology-changes-behavior|An upright apology actually changes behavior]]
 
 ## Source

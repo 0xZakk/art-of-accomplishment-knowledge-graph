@@ -19,9 +19,9 @@ This reflects Joe's consistent teaching that enjoyment is not a luxury but the a
 
 ## Related Concepts
 
-- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]] - Enjoyment eliminates the need for forced effort
-- [[literature-notes/enjoyment-is-the-orientation-for-transformation|Enjoyment is the orientation for transformation]] - Transformation happens through what you enjoy, not what you endure
-- [[literature-notes/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]] - The shame cycle is the opposite of the enjoyment approach
+- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]]
+- [[literature-notes/enjoyment-is-the-orientation-for-transformation|Enjoyment is the orientation for transformation]]
+- [[literature-notes/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]]
 
 ## Source
 

@@ -21,9 +21,9 @@ Without grief, we recreate cycles. Without grief, we relive trauma. Without grie
 
 ## Related Concepts
 
-- [[literature-notes/resentment-is-stored-conflict|Resentment is stored conflict]] - How unfelt grief becomes ongoing resentment
-- [[literature-notes/every-fight-is-about-feeling-unseen|Every fight is about feeling unseen]] - The identity dynamics in conflict
-- [[literature-notes/mourning-a-relationship-prevents-repeating-it|Mourning a relationship prevents repeating it]] - The practical implication for relationships
+- [[literature-notes/resentment-is-stored-conflict|Resentment is stored conflict]]
+- [[literature-notes/every-fight-is-about-feeling-unseen|Every fight is about feeling unseen]]
+- [[literature-notes/mourning-a-relationship-prevents-repeating-it|Mourning a relationship prevents repeating it]]
 
 ## Source
 

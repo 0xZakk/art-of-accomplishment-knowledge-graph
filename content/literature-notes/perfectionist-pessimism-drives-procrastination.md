@@ -20,9 +20,9 @@ The antidote isn't discipline—it's releasing the demand for perfection and con
 
 ## Related Concepts
 
-- [[literature-notes/perfectionism-is-the-critical-parents-voice|Perfectionism is the critical parent's voice]] - The source of the pessimism
-- [[literature-notes/do-the-uncomfortable-thing-first|Do the uncomfortable thing first]] - What perfectionist pessimism avoids
-- [[literature-notes/smart-identity-prevents-trying|The smart identity prevents trying]] - Another identity-based avoidance
+- [[literature-notes/perfectionism-is-the-critical-parents-voice|Perfectionism is the critical parent's voice]]
+- [[literature-notes/do-the-uncomfortable-thing-first|Do the uncomfortable thing first]]
+- [[literature-notes/smart-identity-prevents-trying|The smart identity prevents trying]]
 - [[literature-notes/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
 - [[literature-notes/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
 

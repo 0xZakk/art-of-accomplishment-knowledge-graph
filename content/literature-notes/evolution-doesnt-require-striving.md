@@ -23,9 +23,9 @@ This challenges the deeply held belief that effort and suffering are prerequisit
 
 ## Related Concepts
 
-- [[literature-notes/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]] - Ease as a growth strategy
-- [[literature-notes/nature-knows-what-you-need-next|Nature knows what you need next]] - Trusting the organic process
-- [[literature-notes/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]] - Growth without suffering
+- [[literature-notes/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]]
+- [[literature-notes/nature-knows-what-you-need-next|Nature knows what you need next]]
+- [[literature-notes/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]]
 
 ## Source
 

@@ -21,8 +21,8 @@ This extends beyond individuals. If a CEO pushes through, the company culture pu
 
 ## Related Concepts
 
-- [[literature-notes/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]] - The manner of doing shapes sustainability
-- [[literature-notes/busyness-is-not-productivity|Busyness is not productivity]] - More hours doesn't mean more output
+- [[literature-notes/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]]
+- [[literature-notes/busyness-is-not-productivity|Busyness is not productivity]]
 - [[literature-notes/enjoyment-is-more-efficient-than-pushing-through|Finding enjoyment in work is more efficient than pushing through]]
 - [[literature-notes/enjoyment-is-the-true-measure-of-efficiency|Enjoyment is the true measure of efficiency]]
 

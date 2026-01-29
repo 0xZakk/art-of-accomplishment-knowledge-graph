@@ -22,9 +22,9 @@ The grieving process itself contains many micro-insights—memories surface, con
 
 ## Related Concepts
 
-- [[literature-notes/insight-requires-embodied-integration|Insight requires embodied integration to become wisdom]] - The broader journey this is part of
-- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all emotions]] - Why the glue stays stuck
-- [[literature-notes/moving-emotions-dissolves-depression|Moving emotions dissolves depression]] - What happens when the glue releases
+- [[literature-notes/insight-requires-embodied-integration|Insight requires embodied integration to become wisdom]]
+- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all emotions]]
+- [[literature-notes/moving-emotions-dissolves-depression|Moving emotions dissolves depression]]
 - [[literature-notes/emotions-are-the-glue-holding-beliefs-in-place|Emotions are the glue holding beliefs in place]]
 - [[literature-notes/stories-and-emotions-are-bidirectional|Stories and emotions are bidirectional — each shapes the other]]
 - [[literature-notes/moving-emotions-dissolves-stories|Moving emotions dissolves stories and creates clarity]]

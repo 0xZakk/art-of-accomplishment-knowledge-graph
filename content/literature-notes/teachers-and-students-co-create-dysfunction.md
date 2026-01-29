@@ -24,9 +24,9 @@ The antidote: treat the teacher as human. When you know you're your own authorit
 
 ## Related Concepts
 
-- [[literature-notes/authority-distorts-reality-for-leaders|Authority distorts reality for leaders]] - How power isolates
-- [[literature-notes/gentle-narcissism-in-the-call-to-coach|Gentle narcissism in the call to coach]] - The pull toward assuming authority
-- [[literature-notes/good-teachings-inevitably-get-corrupted|Good teachings inevitably get corrupted]] - The inevitable drift
+- [[literature-notes/authority-distorts-reality-for-leaders|Authority distorts reality for leaders]]
+- [[literature-notes/gentle-narcissism-in-the-call-to-coach|Gentle narcissism in the call to coach]]
+- [[literature-notes/good-teachings-inevitably-get-corrupted|Good teachings inevitably get corrupted]]
 
 ## Source
 

@@ -24,9 +24,9 @@ Imposter syndrome is more prevalent in women because society more frequently wir
 
 ## Related Concepts
 
-- [[literature-notes/we-attract-what-we-learned-as-love|We're attracted to what we learned as love]] - Childhood love conditioning shapes adult patterns
-- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]] - The underlying shame of imposter syndrome prevents growth
-- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]] - Self-criticism is the internal expression of this conditioning
+- [[literature-notes/we-attract-what-we-learned-as-love|We're attracted to what we learned as love]]
+- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]]
+- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]]
 
 ## Source
 

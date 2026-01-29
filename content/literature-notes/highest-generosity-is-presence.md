@@ -22,9 +22,9 @@ This reframes generosity entirely. It's not fundamentally about transferring som
 
 ## Related Concepts
 
-- [[literature-notes/generosity-dissolves-ego|Generosity dissolves ego]] - The progressive dissolution that leads here
-- [[literature-notes/being-together-in-emotions-not-caretaking|Being together in emotions, not caretaking]] - Presence over fixing
-- [[literature-notes/welcoming-helplessness-not-managing-it|Welcoming helplessness, not managing it]] - Surrendering the need to fix
+- [[literature-notes/generosity-dissolves-ego|Generosity dissolves ego]]
+- [[literature-notes/being-together-in-emotions-not-caretaking|Being together in emotions, not caretaking]]
+- [[literature-notes/welcoming-helplessness-not-managing-it|Welcoming helplessness, not managing it]]
 
 ## Source
 

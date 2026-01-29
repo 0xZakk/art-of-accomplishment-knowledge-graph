@@ -22,9 +22,9 @@ Procrastination isn't a character flaw. It's feedback that something isn't align
 
 ## Related Concepts
 
-- [[literature-notes/wanting-is-aliveness|Wanting is aliveness]] - The energy source behind aligned action
-- [[literature-notes/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]] - Alignment shapes the how
-- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]] - Alignment happens now, not someday
+- [[literature-notes/wanting-is-aliveness|Wanting is aliveness]]
+- [[literature-notes/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]]
+- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
 - [[literature-notes/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
 
 ## Source

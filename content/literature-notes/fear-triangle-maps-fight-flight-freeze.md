@@ -24,8 +24,8 @@ Critically, each role also carries shame about being in that role. When Joe put 
 
 ## Related Concepts
 
-- [[literature-notes/drama-triangle-maps-to-fight-flight-freeze|Drama triangle maps to fight, flight, freeze]] - The same mapping explored in another context
-- [[literature-notes/acknowledging-fear-dissolves-power-dynamics|Acknowledging fear without judgment dissolves power dynamics]] - The exit from the triangle
+- [[literature-notes/drama-triangle-maps-to-fight-flight-freeze|Drama triangle maps to fight, flight, freeze]]
+- [[literature-notes/acknowledging-fear-dissolves-power-dynamics|Acknowledging fear without judgment dissolves power dynamics]]
 - [[literature-notes/savior-role-is-flight-from-self|The savior role is flight from yourself to control others]]
 - [[literature-notes/feeling-helplessness-creates-empowerment|Going through helplessness is what creates empowerment]]
 

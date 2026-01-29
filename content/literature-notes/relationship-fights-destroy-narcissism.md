@@ -22,9 +22,9 @@ Brett recognized the same pattern: after a similar crisis in his relationship, h
 
 ## Related Concepts
 
-- [[literature-notes/subtle-superiority-as-protection|Subtle superiority as protection]] - The pattern that gets destroyed
-- [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer together]] - Why even the worst fights can be gifts
-- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]] - Pain as the doorway to deeper connection
+- [[literature-notes/subtle-superiority-as-protection|Subtle superiority as protection]]
+- [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer together]]
+- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]]
 - [[literature-notes/you-must-know-you-can-leave-to-love|You must know you can leave to truly love]]
 
 ## Source

@@ -21,9 +21,9 @@ The meta-conversation — talking about the relationship itself — breaks the s
 
 ## Related Concepts
 
-- [[literature-notes/criticism-turns-family-into-obligation|Criticism turns family relationships into obligation]] - What the meta-conversation resolves
-- [[literature-notes/boundaries-and-openness-are-the-same-thing|Boundaries and openness are the same thing]] - Openness through honest conversation
-- [[literature-notes/bring-problems-to-teenagers-as-shared-challenges|Bring problems to teenagers as shared challenges]] - Practical application with teens
+- [[literature-notes/criticism-turns-family-into-obligation|Criticism turns family relationships into obligation]]
+- [[literature-notes/boundaries-and-openness-are-the-same-thing|Boundaries and openness are the same thing]]
+- [[literature-notes/bring-problems-to-teenagers-as-shared-challenges|Bring problems to teenagers as shared challenges]]
 
 ## Source
 

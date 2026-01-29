@@ -22,9 +22,9 @@ The fix isn't less empathy—it's empathy with a boundary. Feel what others feel
 
 ## Related Concepts
 
-- [[literature-notes/owning-your-needs-is-not-selfish|Owning your needs isn't selfish]] - The boundary that prevents depletion
-- [[literature-notes/holding-space-requires-staying-in-yourself|Holding space requires staying in yourself]] - Empathy with a center
-- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]] - What high EQ without boundaries becomes
+- [[literature-notes/owning-your-needs-is-not-selfish|Owning your needs isn't selfish]]
+- [[literature-notes/holding-space-requires-staying-in-yourself|Holding space requires staying in yourself]]
+- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
 
 ## Source
 

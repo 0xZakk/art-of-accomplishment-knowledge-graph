@@ -22,9 +22,9 @@ The insight is structural: if connection requires something external to happen f
 
 ## Related Concepts
 
-- [[literature-notes/chasing-connection-prevents-connection|Chasing connection prevents connection]] - Effort to get connection pushes it away
-- [[literature-notes/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]] - Gratitude reconnects you to what's here now
-- [[literature-notes/avoidance-creates-the-pattern-it-fears|Avoidance creates the pattern it fears]] - Avoiding present discomfort perpetuates disconnection
+- [[literature-notes/chasing-connection-prevents-connection|Chasing connection prevents connection]]
+- [[literature-notes/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]]
+- [[literature-notes/avoidance-creates-the-pattern-it-fears|Avoidance creates the pattern it fears]]
 
 ## Source
 

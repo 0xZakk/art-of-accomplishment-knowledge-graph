@@ -23,9 +23,9 @@ The reframe from improvement to awareness isn't semantic — it structurally rem
 
 ## Related Concepts
 
-- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]] - The deeper cost
-- [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - The alternative orientation
-- [[literature-notes/managing-yourself-kills-the-practice|Managing yourself kills the practice]] - The mechanism of tool failure
+- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
+- [[literature-notes/discovery-not-improvement|Discovery, not improvement]]
+- [[literature-notes/managing-yourself-kills-the-practice|Managing yourself kills the practice]]
 
 ## Source
 

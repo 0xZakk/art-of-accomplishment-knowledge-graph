@@ -23,10 +23,10 @@ The escape is counterintuitive: embrace the shame rather than avoid it. "If you 
 
 ## Related Concepts
 
-- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - The broader pattern of shame loops
-- [[literature-notes/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]] - Applied to habits
-- [[literature-notes/avoidance-creates-the-pattern-it-fears|Avoidance creates the pattern it fears]] - The general avoidance paradox
-- [[literature-notes/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]] - Why inauthenticity causes disconnection
+- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
+- [[literature-notes/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]]
+- [[literature-notes/avoidance-creates-the-pattern-it-fears|Avoidance creates the pattern it fears]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]]
 - [[literature-notes/shame-is-a-signal-of-disconnection|Shame is a signal of disconnection, not a problem to solve]]
 - [[literature-notes/self-attack-is-another-form-of-avoidance|Self-attack is another form of avoidance]]
 - [[literature-notes/shame-addiction-creates-empty-fulfillment|Shame becomes addictive and creates empty fulfillment]]

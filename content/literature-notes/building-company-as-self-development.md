@@ -22,9 +22,9 @@ Joe observes that anyone who genuinely pursues self-understanding eventually arr
 
 ## Related Concepts
 
-- [[literature-notes/business-as-self-awareness-practice|Business as self-awareness practice]] - Business as mirror for self-knowledge
-- [[literature-notes/ego-obliteration-through-business|Ego obliteration through business]] - How business dissolves ego
-- [[literature-notes/business-alignment-is-spiritual-alignment|Business alignment is spiritual alignment]] - Purpose and company purpose converging
+- [[literature-notes/business-as-self-awareness-practice|Business as self-awareness practice]]
+- [[literature-notes/ego-obliteration-through-business|Ego obliteration through business]]
+- [[literature-notes/business-alignment-is-spiritual-alignment|Business alignment is spiritual alignment]]
 
 ## Source
 

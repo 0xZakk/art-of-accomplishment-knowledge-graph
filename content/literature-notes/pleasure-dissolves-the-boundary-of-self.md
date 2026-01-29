@@ -22,9 +22,9 @@ This is why embracing intensity is essential to this work — not just the inten
 
 ## Related Concepts
 
-- [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]] - Both pleasure and love require letting go of the solid self
-- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]] - Pleasure is one of the most intense experiences to embrace
-- [[literature-notes/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]] - Pleasure is one mechanism through which this happens
+- [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
+- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]]
+- [[literature-notes/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]]
 - [[literature-notes/joy-dissolves-identity|Joy dissolves identity and that's what makes it scary]]
 - [[literature-notes/pleasure-is-available-in-every-emotion|Pleasure is available in every emotion when fully felt]]
 - [[literature-notes/expansiveness-underneath-resistance-to-love|The expansiveness underneath resistance to love is overwhelming and amazing]]

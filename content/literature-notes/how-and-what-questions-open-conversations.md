@@ -25,9 +25,9 @@ The payoff: executives report that 10-minute VIEW conversations are more product
 
 ## Related Concepts
 
-- [[literature-notes/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]] - The state behind the question
-- [[literature-notes/asking-questions-is-active-listening|Asking questions is active listening]] - Questions as the core of listening
-- [[literature-notes/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]] - Wonder dissolves the fear that blocks hearing
+- [[literature-notes/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]]
+- [[literature-notes/asking-questions-is-active-listening|Asking questions is active listening]]
+- [[literature-notes/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]]
 
 ## Source
 

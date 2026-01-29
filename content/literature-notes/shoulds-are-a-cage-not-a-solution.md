@@ -24,9 +24,9 @@ The cruelest irony: she turns every insight into another should. When Joe points
 
 ## Related Concepts
 
-- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]] - The broader principle
-- [[literature-notes/should-is-a-mechanism-of-shame|Should is a mechanism of shame]] - The shame underneath shoulds
-- [[literature-notes/procrastination-requires-self-abuse|Procrastination requires self-abuse]] - How shoulds drive procrastination
+- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]]
+- [[literature-notes/should-is-a-mechanism-of-shame|Should is a mechanism of shame]]
+- [[literature-notes/procrastination-requires-self-abuse|Procrastination requires self-abuse]]
 - [[literature-notes/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]
 - [[literature-notes/feeling-your-essential-nature-dissolves-avoidance|Feeling your essential nature dissolves avoidance behaviors]]
 

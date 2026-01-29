@@ -20,11 +20,11 @@ What makes this framework powerful is that all five patterns interlock. Superior
 
 ## Related Concepts
 
-- [[literature-notes/joy-is-the-matriarch|Joy is the matriarch]] - Joy only enters where all emotions are welcome
-- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - Repression can't be selective
-- [[literature-notes/gratitude-reveals-solutions-criticism-hides|Gratitude reveals solutions criticism hides]] - Gratitude as problem-solving tool
-- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]] - Judging others cuts off feeling
-- [[literature-notes/muscles-constrict-to-block-feeling|Muscles constrict to block feeling]] - Physical cost of repression
+- [[literature-notes/joy-is-the-matriarch|Joy is the matriarch]]
+- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
+- [[literature-notes/gratitude-reveals-solutions-criticism-hides|Gratitude reveals solutions criticism hides]]
+- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]]
+- [[literature-notes/muscles-constrict-to-block-feeling|Muscles constrict to block feeling]]
 
 ## Source
 

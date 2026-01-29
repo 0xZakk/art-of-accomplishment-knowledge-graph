@@ -18,7 +18,7 @@ Joe's own teenage rebellion was extreme — green mohawk, running away, getting 
 
 ## Related Concepts
 
-- [[literature-notes/rebellion-and-approval-seeking-are-same-coin|Rebellion and approval-seeking are the same coin]] - The deeper dynamics of pushing back
+- [[literature-notes/rebellion-and-approval-seeking-are-same-coin|Rebellion and approval-seeking are the same coin]]
 
 ## Source
 

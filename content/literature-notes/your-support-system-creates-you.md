@@ -24,9 +24,9 @@ Rather than fighting the world to sharpen a quality from within, you can create 
 
 ## Related Concepts
 
-- [[literature-notes/community-amplifies-transformation|Community amplifies transformation]] - Environment as the primary lever
-- [[literature-notes/self-reliance-is-an-illusion-at-every-level|Self-reliance is an illusion at every level]] - The myth of doing it alone
-- [[literature-notes/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]] - Seeing what was always there
+- [[literature-notes/community-amplifies-transformation|Community amplifies transformation]]
+- [[literature-notes/self-reliance-is-an-illusion-at-every-level|Self-reliance is an illusion at every level]]
+- [[literature-notes/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]]
 
 ## Source
 

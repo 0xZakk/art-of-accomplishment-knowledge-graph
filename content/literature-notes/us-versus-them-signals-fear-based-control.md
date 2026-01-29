@@ -22,9 +22,9 @@ The most robust companies, by contrast, are those with open debate where contrar
 
 ## Related Concepts
 
-- [[literature-notes/fear-creates-binary-thinking-and-false-ends|Fear creates binary thinking and false ends]] - Binary thinking as fear response
-- [[literature-notes/certainty-as-sign-of-dysfunction-in-teachings|Certainty as sign of dysfunction in teachings]] - Another red flag in teachings
-- [[literature-notes/inner-critic-uses-same-cult-dynamics|The inner critic uses the same cult dynamics]] - The internal version of this pattern
+- [[literature-notes/fear-creates-binary-thinking-and-false-ends|Fear creates binary thinking and false ends]]
+- [[literature-notes/certainty-as-sign-of-dysfunction-in-teachings|Certainty as sign of dysfunction in teachings]]
+- [[literature-notes/inner-critic-uses-same-cult-dynamics|The inner critic uses the same cult dynamics]]
 - [[literature-notes/seeding-authority-feels-like-belonging|Ceding authority to a group feels like belonging and safety]]
 
 ## Source

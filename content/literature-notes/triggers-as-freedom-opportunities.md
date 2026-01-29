@@ -22,9 +22,9 @@ This is a radical reorientation: rather than building better armor against judgm
 
 ## Related Concepts
 
-- [[literature-notes/triggers-reveal-self-judgment|Triggers reveal self-judgment]] - What bothers you shows you what you judge in yourself
-- [[literature-notes/fear-as-road-map-not-enemy|Fear as road map, not enemy]] - Using discomfort as navigation
-- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]] - Moving toward rather than away from what's hard
+- [[literature-notes/triggers-reveal-self-judgment|Triggers reveal self-judgment]]
+- [[literature-notes/fear-as-road-map-not-enemy|Fear as road map, not enemy]]
+- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]]
 
 ## Source
 

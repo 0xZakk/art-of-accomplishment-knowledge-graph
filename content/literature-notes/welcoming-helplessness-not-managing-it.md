@@ -24,9 +24,9 @@ Important safety note: deep helplessness work benefits greatly from a grounded s
 
 ## Related Concepts
 
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]] - The broader principle of genuine welcoming
-- [[literature-notes/helplessness-is-gateway-to-surrender|Helplessness is the gateway to surrender]] - What welcoming helplessness opens into
-- [[literature-notes/managing-yourself-kills-the-practice|Managing yourself kills the practice]] - Why strategic acceptance doesn't work
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]]
+- [[literature-notes/helplessness-is-gateway-to-surrender|Helplessness is the gateway to surrender]]
+- [[literature-notes/managing-yourself-kills-the-practice|Managing yourself kills the practice]]
 - [[literature-notes/control-patterns-reveal-hidden-helplessness|Your most controlling patterns reveal your hidden helplessness]]
 - [[literature-notes/helplessness-is-the-emotion-being-avoided|The feeling being avoided underneath 'I've got this' is helplessness]]
 - [[literature-notes/allowing-the-victim-creates-empowerment|Fully allowing the victim experience naturally creates empowerment]]

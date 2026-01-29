@@ -21,8 +21,8 @@ The key mental model: empowerment plus quality assurance, delivered through stru
 
 ## Related Concepts
 
-- [[literature-notes/structural-changes-beat-direct-interventions|Structural changes beat direct interventions]] - The delivery mechanism for empowerment
-- [[literature-notes/culture-dysfunction-two-questions|All cultural dysfunction comes from two questions]] - Empowerment answers "who's in charge"
+- [[literature-notes/structural-changes-beat-direct-interventions|Structural changes beat direct interventions]]
+- [[literature-notes/culture-dysfunction-two-questions|All cultural dysfunction comes from two questions]]
 
 ## Source
 

@@ -23,10 +23,10 @@ The practical instruction is simple but demanding: unconditionally love yourself
 
 ## Related Concepts
 
-- [[literature-notes/self-love-is-the-capacity-limit-for-loving-others|Self-love is the capacity limit for loving others]] - How self-love enables love of others
-- [[literature-notes/clarity-comes-after-feeling-not-before|Clarity comes after feeling, not before]] - Feeling precedes clear decisions
-- [[literature-notes/be-yourself-and-the-relationship-question-answers-itself|Be yourself and the relationship question answers itself]] - Authenticity as the answer
-- [[literature-notes/indecision-means-unfelt-emotions|Indecision means unfelt emotions]] - The emotional root of indecision
+- [[literature-notes/self-love-is-the-capacity-limit-for-loving-others|Self-love is the capacity limit for loving others]]
+- [[literature-notes/clarity-comes-after-feeling-not-before|Clarity comes after feeling, not before]]
+- [[literature-notes/be-yourself-and-the-relationship-question-answers-itself|Be yourself and the relationship question answers itself]]
+- [[literature-notes/indecision-means-unfelt-emotions|Indecision means unfelt emotions]]
 - [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
 - [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 - [[literature-notes/heartbreak-is-the-mechanism-of-boundaries|Heartbreak is the mechanism of healthy boundaries]]

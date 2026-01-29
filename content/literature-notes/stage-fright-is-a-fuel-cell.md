@@ -21,9 +21,9 @@ Tara describes the transformation as alchemical — "turning shit into gold." Yo
 
 ## Related Concepts
 
-- [[literature-notes/fear-is-excitement-without-the-breath|Fear is excitement without the breath]] - The physiological mechanism of the transformation
-- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]] - The broader principle of running toward intensity
-- [[literature-notes/embracing-intensity-curbs-addiction|Embracing intensity curbs addiction]] - How intensity-seeking replaces avoidance
+- [[literature-notes/fear-is-excitement-without-the-breath|Fear is excitement without the breath]]
+- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]]
+- [[literature-notes/embracing-intensity-curbs-addiction|Embracing intensity curbs addiction]]
 
 ## Source
 

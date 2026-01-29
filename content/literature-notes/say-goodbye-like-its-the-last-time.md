@@ -23,8 +23,8 @@ The practice applies to every relationship, not just those facing visible death 
 
 ## Related Concepts
 
-- [[literature-notes/acknowledging-death-compresses-life|Acknowledging death compresses and intensifies life]] - Saying goodbye this way is an application of death awareness
-- [[literature-notes/pre-grieving-loss-creates-resilience|Pre-grieving loss creates resilience]] - Processing potential loss in advance creates capacity for presence
+- [[literature-notes/acknowledging-death-compresses-life|Acknowledging death compresses and intensifies life]]
+- [[literature-notes/pre-grieving-loss-creates-resilience|Pre-grieving loss creates resilience]]
 
 ## Source
 

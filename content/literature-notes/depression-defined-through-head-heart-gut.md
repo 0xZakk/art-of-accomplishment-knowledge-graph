@@ -22,11 +22,11 @@ A fourth dimension is connection: depressed people isolate, either physically or
 
 ## Related Concepts
 
-- [[literature-notes/three-brains-of-transformation|Three brains of transformation]] - The head/heart/gut framework for understanding human experience
-- [[literature-notes/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuck]] - The heart-level intervention for depression
-- [[literature-notes/the-story-of-brokenness-is-the-problem|The story of brokenness is the problem]] - Trying to fix yourself from a premise of brokenness deepens depression
-- [[literature-notes/inner-critic-prevents-nervous-system-rest|The inner critic prevents nervous system rest]] - Head-level self-attack depletes the nervous system
-- [[literature-notes/burnout-is-sustained-adrenaline-depletion|Burnout is sustained adrenaline depletion]] - The gut-level mechanism of depression
+- [[literature-notes/three-brains-of-transformation|Three brains of transformation]]
+- [[literature-notes/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuck]]
+- [[literature-notes/the-story-of-brokenness-is-the-problem|The story of brokenness is the problem]]
+- [[literature-notes/inner-critic-prevents-nervous-system-rest|The inner critic prevents nervous system rest]]
+- [[literature-notes/burnout-is-sustained-adrenaline-depletion|Burnout is sustained adrenaline depletion]]
 
 ## Source
 

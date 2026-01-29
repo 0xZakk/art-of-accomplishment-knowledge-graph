@@ -22,9 +22,9 @@ This collapses the entire "once I do X, then Y" structure — once I graduate, o
 
 ## Related Concepts
 
-- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]] - Purpose isn't ahead of you
-- [[literature-notes/nothing-is-required-for-freedom|Nothing is required for freedom]] - Nothing needs to change first
-- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]] - The search is the avoidance
+- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
+- [[literature-notes/nothing-is-required-for-freedom|Nothing is required for freedom]]
+- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
 
 ## Source
 

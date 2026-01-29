@@ -22,9 +22,9 @@ The difference between "wonder" and "stuckness" is entirely about your relations
 
 ## Related Concepts
 
-- [[literature-notes/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]] - Staying in the 404 during identity dissolution
-- [[literature-notes/uncertainty-is-where-transformation-happens|Uncertainty is where transformation happens]] - The broader principle
-- [[literature-notes/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist]] - Wonder as the antidote to stuckness
+- [[literature-notes/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]]
+- [[literature-notes/uncertainty-is-where-transformation-happens|Uncertainty is where transformation happens]]
+- [[literature-notes/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist]]
 - [[literature-notes/stuckness-is-resistance-to-the-abyss|Stuckness is resistance to the abyss, not the abyss itself]]
 
 ## Source

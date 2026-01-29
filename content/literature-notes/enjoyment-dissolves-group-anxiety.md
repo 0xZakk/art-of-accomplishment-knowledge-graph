@@ -23,9 +23,9 @@ Brett adds that this shift involves moving from calculating what to say next to 
 
 ## Related Concepts
 
-- [[literature-notes/enjoyment-as-the-only-metric|Enjoyment as the only metric]] - The broader principle of enjoyment as compass
-- [[literature-notes/judgment-blocks-the-emotion-underneath|Judgment blocks the emotion underneath]] - Self-judgment in groups protects from deeper feelings
-- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]] - Wanting to be liked undermines connection
+- [[literature-notes/enjoyment-as-the-only-metric|Enjoyment as the only metric]]
+- [[literature-notes/judgment-blocks-the-emotion-underneath|Judgment blocks the emotion underneath]]
+- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
 - [[literature-notes/enjoyment-restructures-thought|Prioritizing enjoyment restructures how you think and speak]]
 
 ## Source

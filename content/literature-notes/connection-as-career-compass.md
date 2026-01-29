@@ -20,9 +20,9 @@ The insight is that connection isn't one goal among many—it's the meta-goal th
 
 ## Related Concepts
 
-- [[literature-notes/ten-percent-more-connected-as-practice|Ten percent more connected as a practice]] - The practical application of this compass
-- [[literature-notes/connection-enables-accomplishment|Connection enables accomplishment]] - Why connection and productivity aren't opposed
-- [[literature-notes/enjoyment-as-compass-for-surrender|Enjoyment as compass for surrender]] - A parallel compass for life decisions
+- [[literature-notes/ten-percent-more-connected-as-practice|Ten percent more connected as a practice]]
+- [[literature-notes/connection-enables-accomplishment|Connection enables accomplishment]]
+- [[literature-notes/enjoyment-as-compass-for-surrender|Enjoyment as compass for surrender]]
 - [[literature-notes/connection-as-the-bottom-line-principle|Connection is the most effective bottom-line principle for life]]
 
 ## Source

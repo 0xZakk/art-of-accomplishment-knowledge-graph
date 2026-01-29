@@ -22,9 +22,9 @@ This parallels childhood identity development — we naturally grow through micr
 
 ## Related Concepts
 
-- [[literature-notes/grief-is-identity-dissolution|Grief is identity dissolution]] - Identity loss as grief
-- [[literature-notes/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]] - Staying with disorientation
-- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]] - The shedding process
+- [[literature-notes/grief-is-identity-dissolution|Grief is identity dissolution]]
+- [[literature-notes/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]]
+- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]]
 - [[literature-notes/stronger-stories-slow-emotional-movement|The stronger the story, the slower emotions move]]
 
 ## Source

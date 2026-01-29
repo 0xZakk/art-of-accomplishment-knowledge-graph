@@ -21,9 +21,9 @@ When people consistently show up as themselves despite consequences, the part of
 
 ## Related Concepts
 
-- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - Authenticity as design principle
-- [[literature-notes/regret-comes-from-not-being-yourself|Regret comes from not being yourself]] - The long-term cost
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - The invisibility trap
+- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]]
+- [[literature-notes/regret-comes-from-not-being-yourself|Regret comes from not being yourself]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 
 ## Source
 

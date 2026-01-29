@@ -22,9 +22,9 @@ The practical step: pick one thing that matters to you and experiment to find th
 
 ## Related Concepts
 
-- [[literature-notes/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]] - Approach matters more than hours
-- [[literature-notes/self-attack-during-rest-prolongs-recovery|Self-attack during rest prolongs recovery]] - Why rest doesn't work when you're beating yourself up
-- [[literature-notes/extend-rest-beyond-readiness|Extend rest beyond readiness]] - The value of more rest than you think
+- [[literature-notes/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]]
+- [[literature-notes/self-attack-during-rest-prolongs-recovery|Self-attack during rest prolongs recovery]]
+- [[literature-notes/extend-rest-beyond-readiness|Extend rest beyond readiness]]
 
 ## Source
 

@@ -21,10 +21,10 @@ The resolution isn't less awareness but a different relationship to it. When she
 
 ## Related Concepts
 
-- [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]] - The binary filtering that awareness can collapse into
-- [[literature-notes/thinking-youre-deciding-means-youre-in-fear|If you think you're making a decision, you're in fear]] - The deeper issue beneath the paralysis
-- [[literature-notes/tools-can-keep-you-stuck|Tools can keep you stuck]] - How frameworks become prisons
-- [[literature-notes/insight-is-not-wisdom-until-embodied|Insight is not wisdom until embodied]] - Knowledge without integration
+- [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]]
+- [[literature-notes/thinking-youre-deciding-means-youre-in-fear|If you think you're making a decision, you're in fear]]
+- [[literature-notes/tools-can-keep-you-stuck|Tools can keep you stuck]]
+- [[literature-notes/insight-is-not-wisdom-until-embodied|Insight is not wisdom until embodied]]
 
 ## Source
 

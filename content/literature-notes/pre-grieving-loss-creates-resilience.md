@@ -23,9 +23,9 @@ Brett demonstrates this concretely with his business crisis: when a major client
 
 ## Related Concepts
 
-- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]] - How loss opens rather than closes
-- [[literature-notes/boundaries-are-scariest-because-of-freedom|Boundaries are scariest because of freedom]] - Why boundary-drawing triggers deep fear
-- [[literature-notes/feel-the-false-end-to-dissolve-overwhelm|Feel the false end to dissolve overwhelm]] - Feeling the worst case to move through it
+- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]]
+- [[literature-notes/boundaries-are-scariest-because-of-freedom|Boundaries are scariest because of freedom]]
+- [[literature-notes/feel-the-false-end-to-dissolve-overwhelm|Feel the false end to dissolve overwhelm]]
 - [[literature-notes/keeping-it-together-blocks-team-trust|Keeping it together as a leader blocks team trust]]
 - [[literature-notes/fear-of-consequences-is-fear-of-emotional-states|Fear of consequences is really fear of emotional states]]
 

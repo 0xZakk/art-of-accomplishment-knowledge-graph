@@ -26,9 +26,9 @@ Joe shares discovering this at a conference where the organizer was "so generous
 
 ## Related Concepts
 
-- [[literature-notes/we-deflect-what-we-crave|We deflect what we crave]] - The rejection pattern
-- [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others exists in you]] - Resentment as mirror
-- [[literature-notes/being-interested-not-interesting|Being interested rather than interesting creates connection]] - Generosity of attention
+- [[literature-notes/we-deflect-what-we-crave|We deflect what we crave]]
+- [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others exists in you]]
+- [[literature-notes/being-interested-not-interesting|Being interested rather than interesting creates connection]]
 
 ## Source
 

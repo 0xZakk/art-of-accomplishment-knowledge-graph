@@ -21,9 +21,9 @@ Signs of a healthy community include: vulnerability top to bottom, emotional flu
 
 ## Related Concepts
 
-- [[literature-notes/community-health-is-individual-health|Individual health is tied to community health]] - Why the community treats issues as collective
-- [[literature-notes/holding-space-requires-staying-in-yourself|Holding space requires staying in yourself]] - The skill underneath witnessing
-- [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]] - Listening with presence vs. fixing
+- [[literature-notes/community-health-is-individual-health|Individual health is tied to community health]]
+- [[literature-notes/holding-space-requires-staying-in-yourself|Holding space requires staying in yourself]]
+- [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]]
 - [[literature-notes/loneliness-epidemic-stems-from-bad-models|The loneliness epidemic stems from never seeing healthy community modeled]]
 
 ## Source

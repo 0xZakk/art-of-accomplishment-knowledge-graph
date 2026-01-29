@@ -22,9 +22,9 @@ The distinction also extends to anxiety funneling through anger—people getting
 
 ## Related Concepts
 
-- [[literature-notes/fear-is-excitement-without-the-breath|Fear is excitement without the breath]] - The somatic boundary between fear and excitement
-- [[literature-notes/fear-constricts-excitement-expands|Fear constricts, excitement expands]] - How these states manifest in the body
-- [[literature-notes/anxiety-is-constricted-life-force|Anxiety is constricted life force]] - Anxiety as trapped excitement
+- [[literature-notes/fear-is-excitement-without-the-breath|Fear is excitement without the breath]]
+- [[literature-notes/fear-constricts-excitement-expands|Fear constricts, excitement expands]]
+- [[literature-notes/anxiety-is-constricted-life-force|Anxiety is constricted life force]]
 
 ## Source
 

@@ -22,9 +22,9 @@ The pull toward authority is subconscious in most cases. Very few people conscio
 
 ## Related Concepts
 
-- [[literature-notes/us-versus-them-signals-fear-based-control|Us-versus-them signals fear-based control]] - How belonging gets weaponized
-- [[literature-notes/internal-authority-mirrors-external|Internal authority mirrors external]] - The inner version of authority delegation
-- [[literature-notes/deep-community-dissolves-identity|Deep community dissolves identity]] - Healthy community without authority ceding
+- [[literature-notes/us-versus-them-signals-fear-based-control|Us-versus-them signals fear-based control]]
+- [[literature-notes/internal-authority-mirrors-external|Internal authority mirrors external]]
+- [[literature-notes/deep-community-dissolves-identity|Deep community dissolves identity]]
 - [[literature-notes/we-are-each-a-cult-of-one|Each person is a 'cult of one' with internal belief structures they can't fully see]]
 - [[literature-notes/dismissing-deep-connection-as-cult-diminishes-life|Dismissing deep community as 'cult behavior' diminishes the possibility of authentic living]]
 - [[literature-notes/cult-dynamics-are-universal-human-tendencies|Cult dynamics exist on a spectrum present in all human groups]]

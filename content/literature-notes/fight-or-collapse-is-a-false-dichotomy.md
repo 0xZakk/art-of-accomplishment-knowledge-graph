@@ -22,9 +22,9 @@ The false dichotomy is self-reinforcing: if your only options are fight or colla
 
 ## Related Concepts
 
-- [[literature-notes/rebellion-empowers-the-authority|Rebellion empowers the authority figure just as compliance does]] - Both sides of the false dichotomy
-- [[literature-notes/empowerment-and-unconditional-love-are-the-same|Empowerment and unconditional love are the same]] - What exists beyond the dichotomy
-- [[literature-notes/empowerment-is-love-without-submission|Empowerment is love without submission or fight]] - The integrated stance
+- [[literature-notes/rebellion-empowers-the-authority|Rebellion empowers the authority figure just as compliance does]]
+- [[literature-notes/empowerment-and-unconditional-love-are-the-same|Empowerment and unconditional love are the same]]
+- [[literature-notes/empowerment-is-love-without-submission|Empowerment is love without submission or fight]]
 
 ## Source
 

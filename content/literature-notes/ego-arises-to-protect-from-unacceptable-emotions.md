@@ -22,9 +22,9 @@ Joe quotes an Irish mystic named Wu Wei Wu: "Fight your ego, try to destroy your
 
 ## Related Concepts
 
-- [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]] - How unfelt emotions shape perception
-- [[literature-notes/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]] - How the system tries to heal itself
-- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]] - How ego manifests as judgment
+- [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]]
+- [[literature-notes/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
+- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]]
 
 ## Source
 

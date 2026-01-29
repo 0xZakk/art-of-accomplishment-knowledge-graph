@@ -20,9 +20,9 @@ Importantly, Joe uses the word "intensity" rather than "difficulty" because once
 
 ## Related Concepts
 
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming not just accepting emotions]] - The quality of allowing rather than tolerating
-- [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness, not the feeling]] - What we resist persists
-- [[literature-notes/discomfort-is-the-resistance-not-the-emotion|The discomfort is the resistance, not the emotion itself]] - Why embracing changes the experience
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming not just accepting emotions]]
+- [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness, not the feeling]]
+- [[literature-notes/discomfort-is-the-resistance-not-the-emotion|The discomfort is the resistance, not the emotion itself]]
 - [[literature-notes/embrace-intensity-for-transformation|Embracing intensity is the leading indicator of transformation]]
 - [[literature-notes/embrace-intensity-in-business|Embracing intensity in business reveals what you're avoiding]]
 

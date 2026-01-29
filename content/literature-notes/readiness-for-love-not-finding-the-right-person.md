@@ -22,9 +22,9 @@ Joe also notes that the list of requirements people create ("here's the six thin
 
 ## Related Concepts
 
-- [[literature-notes/be-yourself-and-the-relationship-question-answers-itself|Be yourself and the relationship question answers itself]] - Authenticity is the readiness
-- [[literature-notes/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]] - The futility of becoming lovable instead of becoming ready
-- [[literature-notes/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]] - We attract people matched to our healing needs
+- [[literature-notes/be-yourself-and-the-relationship-question-answers-itself|Be yourself and the relationship question answers itself]]
+- [[literature-notes/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]]
+- [[literature-notes/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]]
 
 ## Source
 

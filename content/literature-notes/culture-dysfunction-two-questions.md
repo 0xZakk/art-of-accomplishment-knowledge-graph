@@ -22,9 +22,9 @@ This maps directly to Joe's relationship work: in personal conflicts, both peopl
 
 ## Related Concepts
 
-- [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]] - When the "love me" question gets answered
-- [[literature-notes/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]] - The same dynamic in relationships
-- [[literature-notes/authority-issues-are-not-seeing-humans|Authority issues are not seeing humans]] - The "who's in charge" question distorted
+- [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]]
+- [[literature-notes/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
+- [[literature-notes/authority-issues-are-not-seeing-humans|Authority issues are not seeing humans]]
 
 ## Source
 

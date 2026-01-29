@@ -25,10 +25,10 @@ The prescription is direct: move anger every day for a month — out loud, visce
 
 ## Related Concepts
 
-- [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]] - The direct mechanism
-- [[literature-notes/suppressing-anger-kills-your-fire|Suppressing anger kills your fire]] - The cost of anger suppression
-- [[literature-notes/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuck]] - The prescription
-- [[literature-notes/childhood-origins-of-anger-repression|Childhood origins of anger repression]] - Where this begins
+- [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]]
+- [[literature-notes/suppressing-anger-kills-your-fire|Suppressing anger kills your fire]]
+- [[literature-notes/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuck]]
+- [[literature-notes/childhood-origins-of-anger-repression|Childhood origins of anger repression]]
 - [[literature-notes/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
 - [[literature-notes/chronic-stuckness-leads-to-depression|Chronic stuckness leads to depression through self-oppression]]
 - [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]

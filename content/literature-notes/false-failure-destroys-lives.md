@@ -22,9 +22,9 @@ Neither failure was real. Both destroyed families. The story we tell about our e
 
 ## Related Concepts
 
-- [[literature-notes/failure-is-just-an-idea|Failure is just an idea, not a reality]] - The foundational insight
-- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - The mechanism of spiral
-- [[literature-notes/the-story-of-brokenness-is-the-problem|The story of brokenness is the problem]] - Same pattern, different frame
+- [[literature-notes/failure-is-just-an-idea|Failure is just an idea, not a reality]]
+- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
+- [[literature-notes/the-story-of-brokenness-is-the-problem|The story of brokenness is the problem]]
 
 ## Source
 

@@ -20,9 +20,9 @@ This non-personal awareness is available as a way of living, not just an occasio
 
 ## Related Concepts
 
-- [[literature-notes/dissociation-has-a-gift-when-body-stays-engaged|Dissociation has a gift when the body stays engaged]] - The gift inside the defense
-- [[literature-notes/humility-is-not-taking-life-personally|Humility is not taking life personally]] - The non-personal as a way of being
-- [[literature-notes/view-cannot-be-used-as-a-tool|View cannot be used as a tool]] - Awareness as being, not technique
+- [[literature-notes/dissociation-has-a-gift-when-body-stays-engaged|Dissociation has a gift when the body stays engaged]]
+- [[literature-notes/humility-is-not-taking-life-personally|Humility is not taking life personally]]
+- [[literature-notes/view-cannot-be-used-as-a-tool|View cannot be used as a tool]]
 - [[literature-notes/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]
 
 ## Source

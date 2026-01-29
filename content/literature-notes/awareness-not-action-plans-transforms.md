@@ -22,9 +22,9 @@ The apology connects to this when it functions as pure recognition rather than a
 
 ## Related Concepts
 
-- [[literature-notes/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]] - The broader principle
-- [[literature-notes/accomplishment-is-undoing-not-doing|Accomplishment is undoing not doing]] - Transformation through subtraction
-- [[literature-notes/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]] - The experiential version
+- [[literature-notes/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]]
+- [[literature-notes/accomplishment-is-undoing-not-doing|Accomplishment is undoing not doing]]
+- [[literature-notes/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
 - [[literature-notes/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
 - [[literature-notes/transformation-requires-experience-not-information|Transformation requires experience, not information]]
 - [[literature-notes/changing-behavior-changes-consciousness|Changing behavior is the most efficient way to change consciousness]]

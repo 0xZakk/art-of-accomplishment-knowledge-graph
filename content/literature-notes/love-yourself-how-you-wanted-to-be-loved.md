@@ -19,9 +19,9 @@ This is the practical antidote to confused love. Instead of trying to manufactur
 
 ## Related Concepts
 
-- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]] - The conditioning this practice undoes
-- [[literature-notes/love-is-the-antidote-to-shame|Love is the antidote to shame]] - Self-love dissolves shame
-- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion, not breaking]] - Another path to deeper love
+- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]]
+- [[literature-notes/love-is-the-antidote-to-shame|Love is the antidote to shame]]
+- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion, not breaking]]
 - [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 - [[literature-notes/self-love-sets-the-capacity-limit-for-loving-others|Self-love sets the capacity limit for loving a partner]]
 - [[literature-notes/self-love-dissolves-relationship-decisions|Self-love dissolves relationship decisions rather than answering them]]

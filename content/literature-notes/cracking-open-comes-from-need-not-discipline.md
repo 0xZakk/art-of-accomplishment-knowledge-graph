@@ -23,9 +23,9 @@ This mirrors a broader pattern in transformation work: intellectual understandin
 
 ## Related Concepts
 
-- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]] - Crisis as doorway to growth
-- [[literature-notes/should-creates-rebellion-or-submission|Should creates rebellion or submission]] - Why "should meditate" doesn't work
-- [[literature-notes/experiential-learning-over-intellectual-understanding|Experiential learning over intellectual understanding]] - Head to heart transition
+- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]]
+- [[literature-notes/should-creates-rebellion-or-submission|Should creates rebellion or submission]]
+- [[literature-notes/experiential-learning-over-intellectual-understanding|Experiential learning over intellectual understanding]]
 
 ## Source
 

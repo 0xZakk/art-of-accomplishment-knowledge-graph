@@ -22,9 +22,9 @@ Brett's insight complements this: any time he's stressed about a decision, it me
 
 ## Related Concepts
 
-- [[literature-notes/helplessness-is-gateway-to-surrender|Helplessness is gateway to surrender]] - The emotional path to surrender
-- [[literature-notes/intention-without-attachment-is-most-effective|Intention without attachment is most effective]] - The paradox of non-attached action
-- [[literature-notes/enjoyment-as-compass-for-surrender|Enjoyment as compass for surrender]] - How surrender connects to enjoyment
+- [[literature-notes/helplessness-is-gateway-to-surrender|Helplessness is gateway to surrender]]
+- [[literature-notes/intention-without-attachment-is-most-effective|Intention without attachment is most effective]]
+- [[literature-notes/enjoyment-as-compass-for-surrender|Enjoyment as compass for surrender]]
 - [[literature-notes/surrender-to-the-ineffable-not-a-person|Surrendering to the ineffable is fundamentally different from surrendering to a guru]]
 - [[literature-notes/good-decisions-feel-right-now-not-later|Good decisions feel right now, not in the imagined future]]
 - [[literature-notes/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]

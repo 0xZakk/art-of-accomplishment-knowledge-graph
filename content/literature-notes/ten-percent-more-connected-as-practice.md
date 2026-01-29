@@ -20,9 +20,9 @@ When Ali applied this 10% lens to his most dreaded task (filming sponsorship seg
 
 ## Related Concepts
 
-- [[literature-notes/connection-as-career-compass|Connection as a career compass]] - The broader principle this practice serves
-- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]] - The simplicity of the somatic component
-- [[literature-notes/presence-is-pleasure|Presence is pleasure]] - Why this practice feels good rather than effortful
+- [[literature-notes/connection-as-career-compass|Connection as a career compass]]
+- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]]
+- [[literature-notes/presence-is-pleasure|Presence is pleasure]]
 
 ## Source
 

@@ -22,9 +22,9 @@ The codependence trap is circular: you present a version of yourself to get love
 
 ## Related Concepts
 
-- [[literature-notes/authenticity-is-receiving-not-performing|Authenticity is receiving not performing]] - The alternative to presentation
-- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]] - The deeper root
-- [[literature-notes/performing-for-connection-blocks-authentic-earning|Performing for connection blocks authentic earning]] - Same mechanism in different context
+- [[literature-notes/authenticity-is-receiving-not-performing|Authenticity is receiving not performing]]
+- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
+- [[literature-notes/performing-for-connection-blocks-authentic-earning|Performing for connection blocks authentic earning]]
 - [[literature-notes/obligation-as-love-strategy-backfires|Using obligation as a strategy to get love always backfires]]
 
 ## Source

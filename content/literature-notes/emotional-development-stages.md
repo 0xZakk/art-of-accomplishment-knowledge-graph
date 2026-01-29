@@ -28,8 +28,8 @@ Each stage is an epiphany that eventually becomes a rut, requiring the next stag
 
 ## Related Concepts
 
-- [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]] - The destination of this journey
-- [[literature-notes/naming-emotions-can-replace-feeling|Naming an emotion can become a way to avoid feeling it]] - How Stage 1 becomes a trap
+- [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]]
+- [[literature-notes/naming-emotions-can-replace-feeling|Naming an emotion can become a way to avoid feeling it]]
 - [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]]
 - [[literature-notes/emotions-move-through-a-rainbow-not-discrete-categories|Emotions move through a rainbow rather than discrete categories]]
 - [[literature-notes/pleasure-as-emotional-fluidity-practice|Practicing pleasure is a powerful way to build emotional fluidity]]

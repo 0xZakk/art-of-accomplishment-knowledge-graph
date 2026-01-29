@@ -20,9 +20,9 @@ The antidote is gentleness. Joe points out that it requires enormous effort NOT 
 
 ## Related Concepts
 
-- [[literature-notes/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]] - Awareness as the agent of change
-- [[literature-notes/gentleness-accelerates-growth|Gentleness accelerates growth]] - Why forcing change backfires
-- [[literature-notes/you-have-already-changed-thousands-of-beliefs|You have already changed thousands of beliefs without noticing]] - Evidence that belief change is natural
+- [[literature-notes/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]]
+- [[literature-notes/gentleness-accelerates-growth|Gentleness accelerates growth]]
+- [[literature-notes/you-have-already-changed-thousands-of-beliefs|You have already changed thousands of beliefs without noticing]]
 
 ## Source
 

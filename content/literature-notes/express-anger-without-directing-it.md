@@ -21,8 +21,8 @@ The key insight is that anger needs to *move through the body* — it's energy t
 
 ## Related Concepts
 
-- [[literature-notes/anger-is-love-with-a-boundary|Unresisted anger is love expressing a clear boundary]] - The nature of unblocked anger
-- [[literature-notes/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]] - What happens after expression
+- [[literature-notes/anger-is-love-with-a-boundary|Unresisted anger is love expressing a clear boundary]]
+- [[literature-notes/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
 - [[literature-notes/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuckness]]
 - [[literature-notes/actor-technique-for-anger-release|The actor technique lets you release anger while maintaining awareness]]
 - [[literature-notes/dont-do-emotions-at-people|Don't do emotions at people]]

@@ -20,8 +20,8 @@ This is a perfect example of Joe's principle that every epiphany is the innocent
 
 ## Related Concepts
 
-- [[literature-notes/every-epiphany-becomes-the-next-rut|Every epiphany becomes the next rut]] - The cycle of liberation becoming limitation
-- [[literature-notes/insight-is-not-wisdom-until-embodied|Insight is not wisdom until embodied]] - Understanding vs. grokking
+- [[literature-notes/every-epiphany-becomes-the-next-rut|Every epiphany becomes the next rut]]
+- [[literature-notes/insight-is-not-wisdom-until-embodied|Insight is not wisdom until embodied]]
 - [[literature-notes/confusing-state-with-insight|Confusing state with insight]]
 - [[literature-notes/epiphany-is-the-tender-beginning-of-a-rut|Every epiphany is the tender beginning of a new rut]]
 - [[literature-notes/emotional-development-stages|Emotional development follows predictable stages]]

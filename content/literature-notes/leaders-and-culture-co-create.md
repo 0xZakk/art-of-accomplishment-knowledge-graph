@@ -22,7 +22,7 @@ The practical implication: authority figures who recognize this dance work with 
 
 ## Related Concepts
 
-- [[literature-notes/safety-comes-from-working-through-conflict|Safety is created by working through conflict, not avoiding it]] - Cultural safety emerges from the dance, not from top-down decree
+- [[literature-notes/safety-comes-from-working-through-conflict|Safety is created by working through conflict, not avoiding it]]
 
 ## Source
 

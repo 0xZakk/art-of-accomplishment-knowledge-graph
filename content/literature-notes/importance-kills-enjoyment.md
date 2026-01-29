@@ -23,10 +23,10 @@ The antidote isn't to convince yourself something doesn't matter. It's to priori
 
 ## Related Concepts
 
-- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]] - The positive flip side of this insight
-- [[literature-notes/procrastination-happens-when-its-personal|Procrastination happens when it's personal]] - Why we only procrastinate on things tied to our identity
-- [[literature-notes/perfectionism-is-a-fear-response-that-creates-chaos|Perfectionism is a fear response that creates chaos]] - How perfectionism operates as fear
-- [[literature-notes/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses love and awareness]] - The broader pattern of self-imposed pressure
+- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]]
+- [[literature-notes/procrastination-happens-when-its-personal|Procrastination happens when it's personal]]
+- [[literature-notes/perfectionism-is-a-fear-response-that-creates-chaos|Perfectionism is a fear response that creates chaos]]
+- [[literature-notes/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses love and awareness]]
 - [[literature-notes/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
 - [[literature-notes/falling-in-love-with-practice|Falling in love with practice beats forcing yourself to practice]]
 

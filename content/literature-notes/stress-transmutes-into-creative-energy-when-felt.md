@@ -25,9 +25,9 @@ The key realization: he started to feel *more alive* when stress came up, not le
 
 ## Related Concepts
 
-- [[literature-notes/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms, unresisted stress enlivens]] - The principle
-- [[literature-notes/activation-release-rest-cycle|Activation-release-rest cycle]] - The nervous system process
-- [[literature-notes/discomfort-is-the-resistance-not-the-emotion|Discomfort is the resistance, not the emotion]] - Why it works
+- [[literature-notes/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms, unresisted stress enlivens]]
+- [[literature-notes/activation-release-rest-cycle|Activation-release-rest cycle]]
+- [[literature-notes/discomfort-is-the-resistance-not-the-emotion|Discomfort is the resistance, not the emotion]]
 
 ## Source
 

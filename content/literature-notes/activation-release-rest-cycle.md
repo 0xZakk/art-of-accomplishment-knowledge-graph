@@ -22,9 +22,9 @@ Joe adds a crucial observation: when someone's inner critic is constantly runnin
 
 ## Related Concepts
 
-- [[literature-notes/recovery-time-is-part-of-the-work|Recovery time is part of the work]] - Rest as essential, not optional
-- [[literature-notes/extend-rest-beyond-readiness|Extend rest beyond readiness]] - The tendency to cut rest short
-- [[literature-notes/inner-critic-prevents-nervous-system-rest|The inner critic prevents the rest needed for nervous system integration]] - Why the critic blocks transformation
+- [[literature-notes/recovery-time-is-part-of-the-work|Recovery time is part of the work]]
+- [[literature-notes/extend-rest-beyond-readiness|Extend rest beyond readiness]]
+- [[literature-notes/inner-critic-prevents-nervous-system-rest|The inner critic prevents the rest needed for nervous system integration]]
 
 ## Source
 

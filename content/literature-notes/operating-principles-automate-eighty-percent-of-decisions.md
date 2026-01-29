@@ -22,9 +22,9 @@ The principles must be phrased so people can actually say them in daily conversa
 
 ## Related Concepts
 
-- [[literature-notes/alignment-beats-effort|Alignment always beats effort]] - Why principles outperform brute force
-- [[literature-notes/focus-on-few-high-leverage-principles|Focus on few high-leverage principles]] - Simplicity in principles
-- [[literature-notes/internal-alignment-mirrors-organizational-alignment|Internal alignment mirrors organizational alignment]] - Personal and organizational principles reflect each other
+- [[literature-notes/alignment-beats-effort|Alignment always beats effort]]
+- [[literature-notes/focus-on-few-high-leverage-principles|Focus on few high-leverage principles]]
+- [[literature-notes/internal-alignment-mirrors-organizational-alignment|Internal alignment mirrors organizational alignment]]
 
 ## Source
 

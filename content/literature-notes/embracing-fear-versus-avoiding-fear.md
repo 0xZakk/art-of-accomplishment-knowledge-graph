@@ -20,9 +20,9 @@ This distinction also explains why vulnerability is imprinted as dangerous. As c
 
 ## Related Concepts
 
-- [[literature-notes/vulnerability-is-truth-plus-fear|Vulnerability is speaking your truth even when it's scary]] - The definition
-- [[literature-notes/fear-as-road-map-not-enemy|Fear as road map, not enemy]] - Using fear as guidance
-- [[literature-notes/facing-fear-builds-empowerment|Facing fear builds empowerment]] - The empowerment cycle
+- [[literature-notes/vulnerability-is-truth-plus-fear|Vulnerability is speaking your truth even when it's scary]]
+- [[literature-notes/fear-as-road-map-not-enemy|Fear as road map, not enemy]]
+- [[literature-notes/facing-fear-builds-empowerment|Facing fear builds empowerment]]
 - [[literature-notes/fear-is-present-on-every-path|Fear is present on every path so face it directly]]
 
 ## Source

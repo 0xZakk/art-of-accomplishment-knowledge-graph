@@ -22,9 +22,9 @@ This applies directly to boundaries: the fear of drawing a boundary is the fear 
 
 ## Related Concepts
 
-- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - The broader principle
-- [[literature-notes/regret-comes-from-not-being-yourself|Regret comes from not being yourself]] - What you actually regret
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Why inauthenticity prevents real connection
+- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]]
+- [[literature-notes/regret-comes-from-not-being-yourself|Regret comes from not being yourself]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[literature-notes/boundary-firmness-eliminates-fear-of-attack|Boundary firmness eliminates fear of attack]]
 - [[literature-notes/boundaries-are-scariest-because-of-freedom|What's scariest about boundaries is the freedom on the other side]]
 

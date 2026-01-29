@@ -25,10 +25,10 @@ The practical impact: when you see your inherent goodness, the internal war ceas
 
 ## Related Concepts
 
-- [[literature-notes/not-defending-reveals-inherent-goodness|Not defending reveals inherent goodness]] - Why defense signals the absence of this recognition
-- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]] - The trap of trying to fix what isn't broken
-- [[literature-notes/flow-state-is-embodiment-applied-to-life|Flow state is embodiment applied to life]] - What becomes possible when friction ceases
-- [[literature-notes/connection-over-perfection|Connection over perfection]] - One of the limiting beliefs that dissolves
+- [[literature-notes/not-defending-reveals-inherent-goodness|Not defending reveals inherent goodness]]
+- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
+- [[literature-notes/flow-state-is-embodiment-applied-to-life|Flow state is embodiment applied to life]]
+- [[literature-notes/connection-over-perfection|Connection over perfection]]
 
 ## Source
 

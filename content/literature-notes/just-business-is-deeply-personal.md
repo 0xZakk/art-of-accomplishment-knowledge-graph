@@ -22,9 +22,9 @@ The principle extends beyond firing: any time we shut down emotionally in a busi
 
 ## Related Concepts
 
-- [[literature-notes/depersonalizing-money-creates-freedom|Depersonalizing money creates financial freedom]] - The broader principle of not making money personal
-- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]] - The shame underneath the hardening
-- [[literature-notes/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]] - How emotional walls backfire
+- [[literature-notes/depersonalizing-money-creates-freedom|Depersonalizing money creates financial freedom]]
+- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]]
+- [[literature-notes/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]]
 
 ## Source
 

@@ -22,9 +22,9 @@ The four components serve as both a description of the state and doorways to sin
 
 ## Related Concepts
 
-- [[literature-notes/communication-techniques-get-weaponized|Communication techniques get weaponized]] - Why technique-first approaches fail
-- [[literature-notes/presence-matters-more-than-technique|Presence matters more than technique]] - The primacy of being over doing
-- [[literature-notes/state-of-mind-determines-how-youre-heard|State of mind determines how you're heard]] - Internal state shapes external perception
+- [[literature-notes/communication-techniques-get-weaponized|Communication techniques get weaponized]]
+- [[literature-notes/presence-matters-more-than-technique|Presence matters more than technique]]
+- [[literature-notes/state-of-mind-determines-how-youre-heard|State of mind determines how you're heard]]
 
 ## Source
 

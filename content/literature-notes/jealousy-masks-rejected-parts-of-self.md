@@ -23,10 +23,10 @@ When the man opens his heart to the imperfection of capitalism — not as defeat
 
 ## Related Concepts
 
-- [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others exists in you]] - The projection mechanism underlying jealousy
-- [[literature-notes/what-you-cant-love-in-your-partner-you-cant-love-in-yourself|What you can't love in your partner you can't love in yourself]] - The mirror of relationship
-- [[literature-notes/envy-and-bragging-signal-disallowed-parts|Envy and bragging signal disallowed parts]] - How strong reactions point to shadow material
-- [[literature-notes/jealousy-is-control-disguised-as-love|Jealousy is control disguised as love]] - The control mechanism in jealousy
+- [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others exists in you]]
+- [[literature-notes/what-you-cant-love-in-your-partner-you-cant-love-in-yourself|What you can't love in your partner you can't love in yourself]]
+- [[literature-notes/envy-and-bragging-signal-disallowed-parts|Envy and bragging signal disallowed parts]]
+- [[literature-notes/jealousy-is-control-disguised-as-love|Jealousy is control disguised as love]]
 - [[literature-notes/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
 - [[literature-notes/opening-heart-to-what-you-resist|Opening your heart to what you resist dissolves rigidity]]
 

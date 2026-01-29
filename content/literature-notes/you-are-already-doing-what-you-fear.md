@@ -22,9 +22,9 @@ The strategy worked perfectly then. The problem is you're still running it. And 
 
 ## Related Concepts
 
-- [[literature-notes/self-abandonment-in-communication|Self-abandonment in communication]] - The specific mechanism of silencing yourself
-- [[literature-notes/control-is-the-trade-for-self-love|Control is the trade for self-love]] - The bargain underneath
-- [[literature-notes/grief-of-self-abandonment|Grief of self-abandonment]] - What surfaces when you see this clearly
+- [[literature-notes/self-abandonment-in-communication|Self-abandonment in communication]]
+- [[literature-notes/control-is-the-trade-for-self-love|Control is the trade for self-love]]
+- [[literature-notes/grief-of-self-abandonment|Grief of self-abandonment]]
 - [[literature-notes/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuckness]]
 - [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 - [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]

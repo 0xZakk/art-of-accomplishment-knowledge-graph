@@ -23,10 +23,10 @@ The insight is that authentic earning requires authentic being. When the service
 
 ## Related Concepts
 
-- [[literature-notes/money-patterns-replay-childhood-connection-patterns|Money patterns replay childhood connection patterns]] - The childhood root of this pattern
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Clients can't connect with a performance
-- [[literature-notes/imposter-syndrome-means-not-being-yourself|Imposter syndrome means not being yourself]] - The felt sense of inauthenticity
-- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - What opens when performance drops
+- [[literature-notes/money-patterns-replay-childhood-connection-patterns|Money patterns replay childhood connection patterns]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
+- [[literature-notes/imposter-syndrome-means-not-being-yourself|Imposter syndrome means not being yourself]]
+- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]]
 
 ## Source
 

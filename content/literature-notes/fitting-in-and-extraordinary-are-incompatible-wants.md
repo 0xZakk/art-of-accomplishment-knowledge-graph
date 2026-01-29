@@ -22,9 +22,9 @@ The resolution isn't choosing one over the other but recognizing the pattern. Wh
 
 ## Related Concepts
 
-- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - Authenticity as the resolution to performing for others
-- [[literature-notes/alignment-beats-effort|Alignment beats effort]] - Competing wants create misaligned effort
-- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]] - Defining yourself as "normal" or "extraordinary" both constrain
+- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]]
+- [[literature-notes/alignment-beats-effort|Alignment beats effort]]
+- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]]
 
 ## Source
 

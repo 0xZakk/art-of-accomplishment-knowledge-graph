@@ -26,9 +26,9 @@ The result is ego death — the false sense of self burns away through the proce
 
 ## Related Concepts
 
-- [[literature-notes/not-defending-reveals-inherent-goodness|Not defending reveals inherent goodness]] - The deeper truth accessed
-- [[literature-notes/openness-to-judgment-beats-defense|Openness to judgment beats defense]] - The principle in practice
-- [[literature-notes/welcome-shame-dont-push-through-it|Welcome shame, don't push through it]] - The approach to shame
+- [[literature-notes/not-defending-reveals-inherent-goodness|Not defending reveals inherent goodness]]
+- [[literature-notes/openness-to-judgment-beats-defense|Openness to judgment beats defense]]
+- [[literature-notes/welcome-shame-dont-push-through-it|Welcome shame, don't push through it]]
 - [[literature-notes/feel-whats-underneath-the-shame|Feel what's underneath the shame to break stagnation]]
 - [[literature-notes/shame-about-grief-shuts-down-all-emotions|Shame about grief shuts down all emotions]]
 - [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]]

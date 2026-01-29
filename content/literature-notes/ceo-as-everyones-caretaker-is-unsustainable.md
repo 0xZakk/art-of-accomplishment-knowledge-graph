@@ -22,9 +22,9 @@ The sustainable alternative isn't doing less—it's being willing to be seen as 
 
 ## Related Concepts
 
-- [[literature-notes/owning-your-needs-is-not-selfish|Owning your needs isn't selfish]] - The alternative to caretaking
-- [[literature-notes/holding-space-requires-staying-in-yourself|Holding space requires staying in yourself]] - Leading without losing yourself
-- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]] - Caretaking as codependence
+- [[literature-notes/owning-your-needs-is-not-selfish|Owning your needs isn't selfish]]
+- [[literature-notes/holding-space-requires-staying-in-yourself|Holding space requires staying in yourself]]
+- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
 
 ## Source
 

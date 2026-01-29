@@ -23,10 +23,10 @@ He offers a practical exercise: narrate your thoughts aloud for five minutes, th
 
 ## Related Concepts
 
-- [[literature-notes/inner-voice-mirrors-parenting|Inner voice mirrors parenting]] - The origin of the inner critic
-- [[literature-notes/inner-critic-as-guide|The inner critic can be related to in multiple ways]] - Different response options
-- [[literature-notes/welcome-the-inner-critic|Welcome the inner critic]] - The welcoming approach
-- [[literature-notes/self-criticism-intensifies-with-intelligence|Self-criticism intensifies with intelligence]] - Why smart people suffer more from this
+- [[literature-notes/inner-voice-mirrors-parenting|Inner voice mirrors parenting]]
+- [[literature-notes/inner-critic-as-guide|The inner critic can be related to in multiple ways]]
+- [[literature-notes/welcome-the-inner-critic|Welcome the inner critic]]
+- [[literature-notes/self-criticism-intensifies-with-intelligence|Self-criticism intensifies with intelligence]]
 - [[literature-notes/voice-in-head-talks-to-itself|The voice in the head talks to itself more than to you]]
 - [[literature-notes/respond-differently-to-the-inner-critic|Respond differently to the inner critic as a practice]]
 - [[literature-notes/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]

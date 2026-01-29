@@ -21,9 +21,9 @@ The practical indicator is shame: if stress leads to growth behaviors without sh
 
 ## Related Concepts
 
-- [[literature-notes/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms, unresisted stress enlivens]] - The foundational principle that resistance, not stress itself, causes harm
-- [[literature-notes/attention-alone-reduces-stress|Attention alone reduces stress]] - Simply attending to stress changes its quality
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]] - The same gentle orientation applied to all emotional experience
+- [[literature-notes/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms, unresisted stress enlivens]]
+- [[literature-notes/attention-alone-reduces-stress|Attention alone reduces stress]]
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]]
 
 ## Source
 

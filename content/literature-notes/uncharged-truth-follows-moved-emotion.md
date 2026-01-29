@@ -23,9 +23,9 @@ This is why just "communicating better" doesn't solve relationship conflict. If 
 
 ## Related Concepts
 
-- [[literature-notes/move-the-charge-not-the-story|Move the emotional charge without believing the story]] - The prerequisite
-- [[literature-notes/resentment-is-stored-conflict|Resentment is stored conflict]] - What builds when truth isn't spoken
-- [[literature-notes/asking-for-what-you-want-dissolves-resentment|Asking for what you want dissolves resentment]] - The other side
+- [[literature-notes/move-the-charge-not-the-story|Move the emotional charge without believing the story]]
+- [[literature-notes/resentment-is-stored-conflict|Resentment is stored conflict]]
+- [[literature-notes/asking-for-what-you-want-dissolves-resentment|Asking for what you want dissolves resentment]]
 
 ## Source
 

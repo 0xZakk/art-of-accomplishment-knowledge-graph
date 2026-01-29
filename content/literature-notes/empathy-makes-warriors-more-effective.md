@@ -24,9 +24,9 @@ This is a powerful counter-example to the assumption that emotions are liabiliti
 
 ## Related Concepts
 
-- [[literature-notes/empathy-transforms-business-interactions|Empathy transforms business interactions]] - Same principle in business context
-- [[literature-notes/calmness-as-leadership-superpower|Calmness as leadership superpower]] - Emotional regulation as practical advantage
-- [[literature-notes/genuine-empathy-prevents-manipulation|Genuine empathy prevents manipulation]] - Empathy improves judgment
+- [[literature-notes/empathy-transforms-business-interactions|Empathy transforms business interactions]]
+- [[literature-notes/calmness-as-leadership-superpower|Calmness as leadership superpower]]
+- [[literature-notes/genuine-empathy-prevents-manipulation|Genuine empathy prevents manipulation]]
 - [[literature-notes/hate-consumes-mental-bandwidth|Hate consumes mental bandwidth needed for flow]]
 
 ## Source

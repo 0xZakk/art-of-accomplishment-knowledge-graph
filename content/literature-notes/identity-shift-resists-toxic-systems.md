@@ -20,9 +20,9 @@ The power of chosen identity over assigned identity: when you become something m
 
 ## Related Concepts
 
-- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]] - The broader principle of identity evolution
-- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - Chosen identity shapes lived reality
-- [[literature-notes/refusing-worst-act-identity|Refusing to be defined by your worst act enables transformation]] - The companion insight
+- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]]
+- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]]
+- [[literature-notes/refusing-worst-act-identity|Refusing to be defined by your worst act enables transformation]]
 
 ## Source
 

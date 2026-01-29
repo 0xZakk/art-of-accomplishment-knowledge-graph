@@ -20,9 +20,9 @@ The practical implication is profound: if you want to access what you're feeling
 
 ## Related Concepts
 
-- [[literature-notes/muscles-constrict-to-block-feeling|Muscles constrict to block feeling]] - The broader principle of somatic emotional suppression
-- [[literature-notes/dissociation-as-double-edged-sword|Dissociation as double-edged sword]] - How cutting off feeling serves and limits us
-- [[literature-notes/interoception-makes-emotional-work-easier|Interoception makes emotional work easier]] - Building awareness of internal states
+- [[literature-notes/muscles-constrict-to-block-feeling|Muscles constrict to block feeling]]
+- [[literature-notes/dissociation-as-double-edged-sword|Dissociation as double-edged sword]]
+- [[literature-notes/interoception-makes-emotional-work-easier|Interoception makes emotional work easier]]
 - [[literature-notes/love-and-sorrow-share-the-same-body|Love and sorrow share the same body]]
 
 ## Source

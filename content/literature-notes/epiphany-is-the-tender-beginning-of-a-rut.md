@@ -20,10 +20,10 @@ This is why Joe distinguishes epiphany from transformation: epiphany is intellec
 
 ## Related Concepts
 
-- [[literature-notes/every-epiphany-becomes-the-next-rut|Every epiphany becomes the next rut]] - The same core teaching from another episode
-- [[literature-notes/every-epiphany-is-a-rut-waiting-to-happen|Every epiphany is a rut waiting to happen]] - Another articulation of this pattern
-- [[literature-notes/peak-experience-becomes-goal-trap|Peak experience becomes goal trap]] - How extraordinary states become things we chase
-- [[literature-notes/being-in-the-question-beats-finding-the-answer|Being in the question beats finding the answer]] - The alternative to grasping at epiphanies
+- [[literature-notes/every-epiphany-becomes-the-next-rut|Every epiphany becomes the next rut]]
+- [[literature-notes/every-epiphany-is-a-rut-waiting-to-happen|Every epiphany is a rut waiting to happen]]
+- [[literature-notes/peak-experience-becomes-goal-trap|Peak experience becomes goal trap]]
+- [[literature-notes/being-in-the-question-beats-finding-the-answer|Being in the question beats finding the answer]]
 - [[literature-notes/naming-emotions-can-replace-feeling|Naming an emotion can become a way to avoid feeling it]]
 
 ## Source

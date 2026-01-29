@@ -24,9 +24,9 @@ This is the difference between efficiency (doing things faster) and effectivenes
 
 ## Related Concepts
 
-- [[literature-notes/think-like-a-farmer-about-time|Think like a farmer — plant seeds for the future]] - Strategy one
-- [[literature-notes/take-the-30000-foot-view-regularly|Take the 30,000-foot view regularly to stay on course]] - Strategy three
-- [[literature-notes/busyness-is-not-productivity|Busyness is not productivity]] - The trap this solves
+- [[literature-notes/think-like-a-farmer-about-time|Think like a farmer — plant seeds for the future]]
+- [[literature-notes/take-the-30000-foot-view-regularly|Take the 30,000-foot view regularly to stay on course]]
+- [[literature-notes/busyness-is-not-productivity|Busyness is not productivity]]
 
 ## Source
 

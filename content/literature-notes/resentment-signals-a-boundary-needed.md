@@ -24,9 +24,9 @@ The chain is: care → anger → boundary → resolution. When the chain breaks 
 
 ## Related Concepts
 
-- [[literature-notes/resentment-is-stored-conflict|Resentment is stored conflict]] - The accumulation pattern
-- [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]] - Anger's positive function
-- [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]] - Why boundaries go undrawn
+- [[literature-notes/resentment-is-stored-conflict|Resentment is stored conflict]]
+- [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]]
+- [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]]
 - [[literature-notes/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]]
 - [[literature-notes/anger-is-love-with-a-boundary|Unresisted anger is love expressing a clear boundary]]
 - [[literature-notes/resentment-saturates-every-fight|Resentment saturates every fight]]

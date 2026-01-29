@@ -22,9 +22,9 @@ Joe asks her to turn the love she feels toward the self-consciousness itself —
 
 ## Related Concepts
 
-- [[literature-notes/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]] - The mechanism of suppression
-- [[literature-notes/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]] - Why pressure can't reach what's underneath
-- [[literature-notes/the-expansiveness-of-I-Am|The expansiveness of I Am]] - The awareness that's revealed when pressure drops
+- [[literature-notes/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[literature-notes/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]
+- [[literature-notes/the-expansiveness-of-I-Am|The expansiveness of I Am]]
 - [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
 - [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 - [[literature-notes/expansiveness-underneath-resistance-to-love|The expansiveness underneath resistance to love is overwhelming and amazing]]

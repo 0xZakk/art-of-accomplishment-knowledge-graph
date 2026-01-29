@@ -21,8 +21,8 @@ This echoes traditions from the Tibetan Book of Living and Dying to samurai prac
 
 ## Related Concepts
 
-- [[literature-notes/feel-the-false-end-to-dissolve-overwhelm|Feel the false end to dissolve overwhelm]] - Feeling the feared outcome dissolves its grip
-- [[literature-notes/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]] - The approach matters
+- [[literature-notes/feel-the-false-end-to-dissolve-overwhelm|Feel the false end to dissolve overwhelm]]
+- [[literature-notes/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]]
 
 ## Source
 

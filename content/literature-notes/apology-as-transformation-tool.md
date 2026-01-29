@@ -22,9 +22,9 @@ A practical cue: keep the word "you" out of the apology entirely. Make it about 
 
 ## Related Concepts
 
-- [[literature-notes/upright-apology-changes-behavior|An upright apology actually changes behavior]] - The behavioral result of empowered apology
-- [[literature-notes/shame-stagnates-emotional-fluidity|Shame stagnates emotional fluidity]] - Why shame-based apologies don't work
-- [[literature-notes/self-forgiveness-breaks-the-shame-loop|Self-forgiveness breaks the shame loop]] - The forgiveness mirror of the apology
+- [[literature-notes/upright-apology-changes-behavior|An upright apology actually changes behavior]]
+- [[literature-notes/shame-stagnates-emotional-fluidity|Shame stagnates emotional fluidity]]
+- [[literature-notes/self-forgiveness-breaks-the-shame-loop|Self-forgiveness breaks the shame loop]]
 - [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]]
 - [[literature-notes/habitual-apologies-increase-conflict|Habitual apologies increase rather than prevent conflict]]
 - [[literature-notes/apologies-in-power-struggles|Apologies in power struggles are surrogates for being seen]]

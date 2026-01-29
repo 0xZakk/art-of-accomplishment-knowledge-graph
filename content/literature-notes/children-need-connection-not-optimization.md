@@ -22,9 +22,9 @@ Brett names the deeper principle: Sanok wasn't concerned with how successful the
 
 ## Related Concepts
 
-- [[literature-notes/connection-is-the-core-of-parenting|Connection is the core of parenting]] - The foundational parenting principle
-- [[literature-notes/kids-need-to-feel-liked-not-just-loved|Kids need to feel liked not just loved]] - Emotional quality over quantity
-- [[literature-notes/connection-over-perfection|Connection over perfection]] - Broader application
+- [[literature-notes/connection-is-the-core-of-parenting|Connection is the core of parenting]]
+- [[literature-notes/kids-need-to-feel-liked-not-just-loved|Kids need to feel liked not just loved]]
+- [[literature-notes/connection-over-perfection|Connection over perfection]]
 
 ## Source
 

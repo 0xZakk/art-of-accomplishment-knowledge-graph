@@ -22,9 +22,9 @@ This applies far beyond adventure sports. A CEO who can name their fear ("I'm sc
 
 ## Related Concepts
 
-- [[literature-notes/fear-limits-optionality|Fear limits optionality]] - Fear that is resisted narrows our options; fear that is welcomed broadens them
-- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]] - Welcoming intense emotional states is the mechanism of growth
-- [[literature-notes/fear-hot-potato|Fear you refuse to feel gets handed to others]] - The organizational consequence of unwelcomed fear
+- [[literature-notes/fear-limits-optionality|Fear limits optionality]]
+- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]]
+- [[literature-notes/fear-hot-potato|Fear you refuse to feel gets handed to others]]
 - [[literature-notes/embracing-fear-produces-flow-state|Embracing fear produces flow state]]
 
 ## Source

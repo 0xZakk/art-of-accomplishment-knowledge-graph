@@ -22,9 +22,9 @@ This echoes Joe's teaching on purpose: purpose isn't in the what but in the how.
 
 ## Related Concepts
 
-- [[literature-notes/optimism-and-pessimism-both-avoid-reality|Optimism and pessimism both avoid reality]] - The traps that this approach avoids
-- [[literature-notes/purpose-is-in-the-how-not-the-what|Purpose is in the how, not the what]] - The same principle applied to purpose
-- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]] - Certainty and purpose both live in the now
+- [[literature-notes/optimism-and-pessimism-both-avoid-reality|Optimism and pessimism both avoid reality]]
+- [[literature-notes/purpose-is-in-the-how-not-the-what|Purpose is in the how, not the what]]
+- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
 
 ## Source
 

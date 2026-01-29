@@ -22,9 +22,9 @@ The key insight is that the boundary and the love practice start internally, not
 
 ## Related Concepts
 
-- [[literature-notes/boundaries-open-your-heart|Boundaries open your heart]] - The mechanism connecting boundaries and love
-- [[literature-notes/boundaries-increase-capacity-to-love|Boundaries increase capacity to love]] - Boundaries as expansion
-- [[literature-notes/boundaries-are-for-you-not-them|Boundaries are for you not them]] - Internal orientation of boundaries
+- [[literature-notes/boundaries-open-your-heart|Boundaries open your heart]]
+- [[literature-notes/boundaries-increase-capacity-to-love|Boundaries increase capacity to love]]
+- [[literature-notes/boundaries-are-for-you-not-them|Boundaries are for you not them]]
 - [[literature-notes/criticism-turns-family-into-obligation|Criticism turns family relationships into obligation]]
 - [[literature-notes/seeing-parents-terror-dissolves-resentment|Seeing parents' terror dissolves resentment]]
 - [[literature-notes/parenting-as-ego-dissolution|Parenting is one of the deepest ego dissolution practices available]]

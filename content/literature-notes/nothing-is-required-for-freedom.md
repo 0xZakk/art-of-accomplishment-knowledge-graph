@@ -25,9 +25,9 @@ This doesn't mean circumstances don't matter or that you shouldn't improve your 
 
 ## Related Concepts
 
-- [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - Freedom is discovered, not built
-- [[literature-notes/evolution-doesnt-require-striving|Evolution doesn't require striving]] - Growth happens without forcing
-- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]] - It's here, not ahead
+- [[literature-notes/discovery-not-improvement|Discovery, not improvement]]
+- [[literature-notes/evolution-doesnt-require-striving|Evolution doesn't require striving]]
+- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
 
 ## Source
 

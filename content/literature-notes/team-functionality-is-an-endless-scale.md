@@ -18,8 +18,8 @@ This reveals the artificial ceiling people place on team development. Revenue, m
 
 ## Related Concepts
 
-- [[literature-notes/functional-teams-are-measured-by-wanting-to-be-there|Functional teams are measured by wanting to be there]] - One metric for where you are on the scale
-- [[literature-notes/disconnection-precedes-company-decline|Disconnection precedes company decline]] - What happens when teams stop growing
+- [[literature-notes/functional-teams-are-measured-by-wanting-to-be-there|Functional teams are measured by wanting to be there]]
+- [[literature-notes/disconnection-precedes-company-decline|Disconnection precedes company decline]]
 
 ## Source
 

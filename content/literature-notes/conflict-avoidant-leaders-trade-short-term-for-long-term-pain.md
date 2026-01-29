@@ -20,9 +20,9 @@ The core trade is short-term discomfort for long-term discomfort. Leaders who ac
 
 ## Related Concepts
 
-- [[literature-notes/conflict-avoidant-managers-destroy-trust|Conflict-avoidant managers destroy trust]] - The broader pattern in management
-- [[literature-notes/safety-comes-from-working-through-conflict|Safety comes from working through conflict]] - Trust is built through conflict, not by avoiding it
-- [[literature-notes/nice-cultures-breed-passive-aggression|Nice cultures breed passive aggression]] - What happens when conflict is systemically avoided
+- [[literature-notes/conflict-avoidant-managers-destroy-trust|Conflict-avoidant managers destroy trust]]
+- [[literature-notes/safety-comes-from-working-through-conflict|Safety comes from working through conflict]]
+- [[literature-notes/nice-cultures-breed-passive-aggression|Nice cultures breed passive aggression]]
 - [[literature-notes/conflict-builds-trust|Conflict is necessary for building trust]]
 
 ## Source

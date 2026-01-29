@@ -22,9 +22,9 @@ This parallels metta meditation — no one can stop your internal experience of 
 
 ## Related Concepts
 
-- [[literature-notes/connection-starts-within-not-between|Connection starts within, not between]] - Connection's locus is internal
-- [[literature-notes/boundaries-open-your-heart|Boundaries open your heart]] - Boundaries protect without closing the heart
-- [[literature-notes/closing-heart-to-protect-traps-you|Closing heart to protect traps you]] - The cost of breaking your own connection
+- [[literature-notes/connection-starts-within-not-between|Connection starts within, not between]]
+- [[literature-notes/boundaries-open-your-heart|Boundaries open your heart]]
+- [[literature-notes/closing-heart-to-protect-traps-you|Closing heart to protect traps you]]
 - [[literature-notes/drawing-boundaries-dissolves-triggers|Drawing boundaries dissolves triggers]]
 - [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 - [[literature-notes/heartbreak-is-the-mechanism-of-boundaries|Heartbreak is the mechanism of healthy boundaries]]

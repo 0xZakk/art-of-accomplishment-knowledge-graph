@@ -23,9 +23,9 @@ Doubt persists because you can never make everyone happy—so there's always fue
 
 ## Related Concepts
 
-- [[literature-notes/doubt-is-leaving-your-heart|Doubt is leaving your heart]] - The somatic reality of doubt
-- [[literature-notes/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]] - Doubt's protective function
-- [[literature-notes/rebellion-and-approval-seeking-are-same-coin|Rebellion and approval seeking are the same coin]] - The other response pattern (anger outward)
+- [[literature-notes/doubt-is-leaving-your-heart|Doubt is leaving your heart]]
+- [[literature-notes/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]]
+- [[literature-notes/rebellion-and-approval-seeking-are-same-coin|Rebellion and approval seeking are the same coin]]
 - [[literature-notes/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]
 
 ## Source

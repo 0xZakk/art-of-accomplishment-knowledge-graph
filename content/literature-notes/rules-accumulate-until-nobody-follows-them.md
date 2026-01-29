@@ -23,8 +23,8 @@ Over the same 30-year period that perfectionism increased 33%, technology increa
 
 ## Related Concepts
 
-- [[literature-notes/organizations-must-remove-fear-to-innovate|Organizations must remove fear to enable innovation]] - The organizational version
-- [[literature-notes/structure-creates-safety-not-oppression|Structure creates safety, not oppression]] - When structure serves vs. constrains
+- [[literature-notes/organizations-must-remove-fear-to-innovate|Organizations must remove fear to enable innovation]]
+- [[literature-notes/structure-creates-safety-not-oppression|Structure creates safety, not oppression]]
 
 ## Source
 

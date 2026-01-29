@@ -24,9 +24,9 @@ The distinction is between the momentary experience and the long-term pattern. I
 
 ## Related Concepts
 
-- [[literature-notes/obligation-kills-love|Obligation kills love]] - The broader principle
-- [[literature-notes/caretaking-kills-desire|Caretaking kills desire]] - A parallel dynamic where managing someone's experience kills attraction
-- [[literature-notes/replace-obligation-with-wanting|Replace obligation with wanting]] - The antidote
+- [[literature-notes/obligation-kills-love|Obligation kills love]]
+- [[literature-notes/caretaking-kills-desire|Caretaking kills desire]]
+- [[literature-notes/replace-obligation-with-wanting|Replace obligation with wanting]]
 - [[literature-notes/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
 - [[literature-notes/obligation-as-love-strategy-backfires|Using obligation as a strategy to get love always backfires]]
 

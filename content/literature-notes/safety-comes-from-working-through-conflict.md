@@ -21,8 +21,8 @@ The practical implication: as a leader, be the example. Start meetings with "Wha
 
 ## Related Concepts
 
-- [[literature-notes/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]] - Avoidance of conflict creates its own destructive pattern
-- [[literature-notes/dominate-dont-convince|Dominate, don't convince]] - The "no doctrine" invites contradictory input
+- [[literature-notes/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]]
+- [[literature-notes/dominate-dont-convince|Dominate, don't convince]]
 
 ## Source
 

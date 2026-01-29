@@ -20,9 +20,9 @@ This isn't about blocking empathy — it's about maintaining the distinction bet
 
 ## Related Concepts
 
-- [[literature-notes/empathy-is-being-with-not-in|Empathy is being with someone's experience, not lost in it]] - The core definition this question supports
-- [[literature-notes/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]] - Another strategy for the same challenge
-- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]] - Physical grounding as complementary practice
+- [[literature-notes/empathy-is-being-with-not-in|Empathy is being with someone's experience, not lost in it]]
+- [[literature-notes/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]
+- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]]
 
 ## Source
 

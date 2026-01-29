@@ -21,8 +21,8 @@ Unwinding this requires somatic work, not just intellectual understanding. That'
 
 ## Related Concepts
 
-- [[literature-notes/we-attract-what-we-learned-as-love|We're attracted to what we learned as love]] - The attraction pattern operates somatically
-- [[literature-notes/dissociation-removes-your-signals|Dissociation removes your body's learning signals]] - The body holds patterns that thought can't reach
+- [[literature-notes/we-attract-what-we-learned-as-love|We're attracted to what we learned as love]]
+- [[literature-notes/dissociation-removes-your-signals|Dissociation removes your body's learning signals]]
 - [[literature-notes/what-we-do-for-love-erodes-power|What we do to maintain love erodes our power]]
 - [[literature-notes/we-cant-see-the-love-thats-available|We can't see the love that's already available to us]]
 - [[literature-notes/love-requires-willingness-to-be-hurt|Love requires willingness to be hurt]]

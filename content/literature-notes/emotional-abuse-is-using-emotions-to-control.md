@@ -23,9 +23,9 @@ The alternative in conflict is to see the other person, understand where they ar
 
 ## Related Concepts
 
-- [[literature-notes/dont-do-emotions-at-people|Don't do emotions at people]] - The practice of feeling emotions without directing them as weapons
-- [[literature-notes/doing-emotions-at-people-avoids-feeling|Doing emotions at people avoids feeling]] - How weaponizing emotions is itself an avoidance strategy
-- [[literature-notes/emotions-arent-bad-their-weaponization-is|Emotions aren't bad, their weaponization is]] - All emotions are welcome; their use as tools of control is not
+- [[literature-notes/dont-do-emotions-at-people|Don't do emotions at people]]
+- [[literature-notes/doing-emotions-at-people-avoids-feeling|Doing emotions at people avoids feeling]]
+- [[literature-notes/emotions-arent-bad-their-weaponization-is|Emotions aren't bad, their weaponization is]]
 - [[literature-notes/anger-at-without-permission-is-manipulation|Expressing anger at someone without permission is a bid for control]]
 - [[literature-notes/express-anger-without-directing-it|You can express anger without directing it at anyone]]
 - [[literature-notes/managing-emotions-prolongs-suffering|Managing emotions prolongs suffering]]

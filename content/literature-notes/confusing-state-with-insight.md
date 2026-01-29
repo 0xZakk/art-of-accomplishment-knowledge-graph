@@ -19,8 +19,8 @@ The state is gone, but the learning may still be metabolizing. Additionally, whe
 
 ## Related Concepts
 
-- [[literature-notes/insight-requires-embodied-integration|Insight requires embodied integration to become wisdom]] - The full integration journey
-- [[literature-notes/foreboding-joy-resists-gratitude|Foreboding joy resists gratitude]] - Another way we undermine positive experiences
+- [[literature-notes/insight-requires-embodied-integration|Insight requires embodied integration to become wisdom]]
+- [[literature-notes/foreboding-joy-resists-gratitude|Foreboding joy resists gratitude]]
 
 ## Source
 

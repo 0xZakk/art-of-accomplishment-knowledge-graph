@@ -23,9 +23,9 @@ For teenagers, the lane is simple: treat people with respect, contribute, and de
 
 ## Related Concepts
 
-- [[literature-notes/structure-creates-safety-not-oppression|Structure creates safety, not oppression]] - Why boundaries help
-- [[literature-notes/being-together-in-emotions-not-caretaking|Being together in emotions, not caretaking]] - The relational stance
-- [[literature-notes/be-available-dont-chase-teenagers|Be available, don't chase teenagers]] - Teenage approach
+- [[literature-notes/structure-creates-safety-not-oppression|Structure creates safety, not oppression]]
+- [[literature-notes/being-together-in-emotions-not-caretaking|Being together in emotions, not caretaking]]
+- [[literature-notes/be-available-dont-chase-teenagers|Be available, don't chase teenagers]]
 - [[literature-notes/model-emotions-for-children|Model emotions for children rather than managing them into feeling]]
 - [[literature-notes/weaponized-boundaries-are-control-in-disguise|Weaponized boundaries are control in disguise]]
 - [[literature-notes/parent-self-relationship-shapes-child-relationship|Your relationship with yourself shapes your relationship with your children]]

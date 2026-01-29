@@ -20,8 +20,8 @@ This is distinct from discernment, which is simply knowing a distinction without
 
 ## Related Concepts
 
-- [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others exists in you]] - The mirror of projection
-- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]] - Same mechanism turned inward
+- [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others exists in you]]
+- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]]
 - [[literature-notes/judgment-blocks-the-emotion-underneath|Judgment blocks the emotion underneath]]
 - [[literature-notes/judgment-repels-connection|Judgment repels the connection you actually want]]
 - [[literature-notes/welcome-judgment-as-freedom|Welcoming judgment creates freedom rather than fear]]

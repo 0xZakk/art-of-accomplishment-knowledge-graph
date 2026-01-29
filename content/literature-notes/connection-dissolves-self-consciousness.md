@@ -22,9 +22,9 @@ Joe asks her to name any performer she admires who holds back their emotions. Sh
 
 ## Related Concepts
 
-- [[literature-notes/connection-starts-within-not-between|Connection starts within not between]] - Self-connection is a direct antidote to self-consciousness
-- [[literature-notes/confidence-is-connection-to-yourself|Confidence is connection to yourself]] - Confidence and lack of self-consciousness share a root
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Performance mode prevents the very authenticity being sought
+- [[literature-notes/connection-starts-within-not-between|Connection starts within not between]]
+- [[literature-notes/confidence-is-connection-to-yourself|Confidence is connection to yourself]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[literature-notes/suppressing-authentic-expression-increases-self-consciousness|Suppressing authentic expression increases self-consciousness]]
 - [[literature-notes/welcoming-fear-cures-phobia|Welcoming fear cures phobia]]
 - [[literature-notes/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]

@@ -22,9 +22,9 @@ The same pattern replays in adult relationships. You can't control another perso
 
 ## Related Concepts
 
-- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]] - The root pattern
-- [[literature-notes/caretaking-creates-resentment-in-the-receiver|Caretaking creates resentment in the receiver]] - What managing others produces
-- [[literature-notes/being-with-emotions-beats-fixing-them|Being with someone's emotions beats fixing them]] - The alternative approach
+- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
+- [[literature-notes/caretaking-creates-resentment-in-the-receiver|Caretaking creates resentment in the receiver]]
+- [[literature-notes/being-with-emotions-beats-fixing-them|Being with someone's emotions beats fixing them]]
 - [[literature-notes/taking-responsibility-for-partners-emotions-breeds-resentment|Taking responsibility for your partner's emotions breeds resentment]]
 
 ## Source

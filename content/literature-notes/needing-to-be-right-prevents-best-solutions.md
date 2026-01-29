@@ -19,8 +19,8 @@ Joe compares it to a soccer team where one player insists on scoring all the goa
 
 ## Related Concepts
 
-- [[literature-notes/no-right-or-wrong-only-perspectives|No right or wrong, only perspectives]] - The deeper philosophical foundation
-- [[literature-notes/hearing-objections-before-deciding|Hearing objections before deciding]] - Practical application of integrating diverse perspectives
+- [[literature-notes/no-right-or-wrong-only-perspectives|No right or wrong, only perspectives]]
+- [[literature-notes/hearing-objections-before-deciding|Hearing objections before deciding]]
 
 ## Source
 

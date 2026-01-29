@@ -22,9 +22,9 @@ The question isn't how to become enough. The question is: who taught you that yo
 
 ## Related Concepts
 
-- [[literature-notes/self-improvement-guarantees-failure|Self-improvement guarantees failure]] - The structural impossibility of "enough"
-- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]] - What you lose in the chase
-- [[literature-notes/searching-for-purpose-assumes-you-lack-it|Searching for purpose assumes you lack it]] - The same trap in a different domain
+- [[literature-notes/self-improvement-guarantees-failure|Self-improvement guarantees failure]]
+- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
+- [[literature-notes/searching-for-purpose-assumes-you-lack-it|Searching for purpose assumes you lack it]]
 - [[literature-notes/saving-others-is-a-strategy-for-enoughness|Saving others is a strategy for enoughness]]
 - [[literature-notes/control-is-the-trade-for-self-love|Control is the trade for self-love]]
 - [[literature-notes/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]

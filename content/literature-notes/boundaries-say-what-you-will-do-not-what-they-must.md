@@ -21,9 +21,9 @@ The principle applies identically in work contexts. When boundaries are clear up
 
 ## Related Concepts
 
-- [[literature-notes/boundaries-increase-capacity-to-love|Effective boundaries increase your capacity to love]] - The love test for boundaries
-- [[literature-notes/stop-fixing-others-to-help-them-change|Stop fixing others to help them change]] - Why trying to change others is ineffective
-- [[literature-notes/owning-your-needs-is-not-selfish|Owning your needs is not selfish]] - Permission to state what you need
+- [[literature-notes/boundaries-increase-capacity-to-love|Effective boundaries increase your capacity to love]]
+- [[literature-notes/stop-fixing-others-to-help-them-change|Stop fixing others to help them change]]
+- [[literature-notes/owning-your-needs-is-not-selfish|Owning your needs is not selfish]]
 - [[literature-notes/boundary-versus-ultimatum|The difference between a boundary and an ultimatum is fear]]
 - [[literature-notes/boundaries-declare-your-action-not-theirs|Boundaries declare your action, not theirs]]
 - [[literature-notes/boundaries-are-for-you-not-them|Boundaries are primarily for you, not the other person]]

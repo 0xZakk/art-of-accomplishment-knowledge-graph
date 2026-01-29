@@ -25,9 +25,9 @@ Brett's personal example illustrates how fast this works. After years of playing
 
 ## Related Concepts
 
-- [[literature-notes/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]] - The orientation of acknowledgment vs. resistance
-- [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]] - Same principle applied to shame
-- [[literature-notes/embracing-fear-versus-avoiding-fear|Embracing fear versus avoiding fear]] - Embracing as the mechanism of dissolution
+- [[literature-notes/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]]
+- [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]]
+- [[literature-notes/embracing-fear-versus-avoiding-fear|Embracing fear versus avoiding fear]]
 - [[literature-notes/savior-role-is-flight-from-self|The savior role is flight from yourself to control others]]
 - [[literature-notes/drama-triangle-maps-to-fight-flight-freeze|The drama triangle maps to fight, flight, and freeze responses]]
 

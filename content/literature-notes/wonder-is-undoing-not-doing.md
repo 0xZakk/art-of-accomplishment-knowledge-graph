@@ -24,9 +24,9 @@ When wonder becomes a strategy — asking questions to avoid intimacy, or to cre
 
 ## Related Concepts
 
-- [[literature-notes/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]] - What wonder actually is
-- [[literature-notes/accomplishment-is-undoing-not-doing|Accomplishment is undoing not doing]] - The same principle applied broadly
-- [[literature-notes/wonder-as-antidote-to-fear|Wonder is an antidote to fear]] - One of wonder's natural gifts
+- [[literature-notes/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]]
+- [[literature-notes/accomplishment-is-undoing-not-doing|Accomplishment is undoing not doing]]
+- [[literature-notes/wonder-as-antidote-to-fear|Wonder is an antidote to fear]]
 
 ## Source
 

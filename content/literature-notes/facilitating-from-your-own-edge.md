@@ -21,8 +21,8 @@ This doesn't mean facilitation should be chaotic or unprepared. It means the mos
 
 ## Related Concepts
 
-- [[literature-notes/sincerity-is-prerequisite-for-transformation|Sincerity is prerequisite for transformation]] - The teacher's sincerity makes the container possible
-- [[literature-notes/authenticity-transforms-business|Authenticity transforms business]] - Teaching from authenticity rather than performance
+- [[literature-notes/sincerity-is-prerequisite-for-transformation|Sincerity is prerequisite for transformation]]
+- [[literature-notes/authenticity-transforms-business|Authenticity transforms business]]
 
 ## Source
 

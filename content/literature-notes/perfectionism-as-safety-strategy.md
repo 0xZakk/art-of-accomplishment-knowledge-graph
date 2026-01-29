@@ -23,10 +23,10 @@ The perfectionism shows up everywhere in the session: in how she frames her ques
 
 ## Related Concepts
 
-- [[literature-notes/perfectionism-is-a-fear-response-that-creates-chaos|Perfectionism is a fear response that creates chaos]] - How perfectionism generates what it tries to prevent
-- [[literature-notes/perfectionism-is-the-critical-parents-voice|Perfectionism is the critical parent's voice]] - The internalized origin
-- [[literature-notes/overachieving-is-survival-mode|Overachieving is survival mode]] - The same mechanism in achievement
-- [[literature-notes/childhood-criticism-creates-self-distrust|Childhood criticism creates self-distrust]] - The root wound
+- [[literature-notes/perfectionism-is-a-fear-response-that-creates-chaos|Perfectionism is a fear response that creates chaos]]
+- [[literature-notes/perfectionism-is-the-critical-parents-voice|Perfectionism is the critical parent's voice]]
+- [[literature-notes/overachieving-is-survival-mode|Overachieving is survival mode]]
+- [[literature-notes/childhood-criticism-creates-self-distrust|Childhood criticism creates self-distrust]]
 - [[literature-notes/repair-is-as-important-as-getting-it-right|Repair after mistakes is as important as getting it right]]
 - [[literature-notes/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
 

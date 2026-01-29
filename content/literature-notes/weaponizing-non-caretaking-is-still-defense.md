@@ -20,9 +20,9 @@ The people who truly embody caring — without caretaking or defensive withdrawa
 
 ## Related Concepts
 
-- [[literature-notes/tools-stop-working-when-weaponized|Tools stop working when weaponized]] - The general principle
-- [[literature-notes/weaponized-boundaries-are-control-in-disguise|Weaponized boundaries are control in disguise]] - A specific instance
-- [[literature-notes/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others' emotions to avoid your own]] - What you're trying to move past
+- [[literature-notes/tools-stop-working-when-weaponized|Tools stop working when weaponized]]
+- [[literature-notes/weaponized-boundaries-are-control-in-disguise|Weaponized boundaries are control in disguise]]
+- [[literature-notes/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others' emotions to avoid your own]]
 - [[literature-notes/thinking-they-cant-handle-it-means-youre-caretaking|Thinking they can't handle it means you're caretaking]]
 - [[literature-notes/resentment-is-the-indicator-of-caretaking|Resentment is the indicator of caretaking]]
 

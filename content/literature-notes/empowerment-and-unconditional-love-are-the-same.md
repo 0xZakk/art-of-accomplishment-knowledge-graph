@@ -22,9 +22,9 @@ The emptiness behind true empowerment is the humility itself. When there's no id
 
 ## Related Concepts
 
-- [[literature-notes/humility-is-not-taking-life-personally|Humility is not taking life personally]] - The dissolution of defended identity
-- [[literature-notes/humility-is-not-making-yourself-small|Humility is not making yourself small]] - Why disempowerment masquerades as humility
-- [[literature-notes/welcoming-is-self-love|Welcoming is self-love]] - Love as the foundation of transformation
+- [[literature-notes/humility-is-not-taking-life-personally|Humility is not taking life personally]]
+- [[literature-notes/humility-is-not-making-yourself-small|Humility is not making yourself small]]
+- [[literature-notes/welcoming-is-self-love|Welcoming is self-love]]
 
 ## Source
 

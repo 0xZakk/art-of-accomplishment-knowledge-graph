@@ -21,9 +21,9 @@ This mirrors Joe's broader teaching about loving all aspects of yourself. The pr
 
 ## Related Concepts
 
-- [[literature-notes/welcome-the-inner-critic|Welcome the inner critic]] - Same principle with the critic
-- [[literature-notes/hug-the-demon-dont-slay-it|Hug the demon, don't slay it]] - The broader framework
-- [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts creates more of them]] - Why forcing doesn't work
+- [[literature-notes/welcome-the-inner-critic|Welcome the inner critic]]
+- [[literature-notes/hug-the-demon-dont-slay-it|Hug the demon, don't slay it]]
+- [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts creates more of them]]
 
 ## Source
 

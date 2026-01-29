@@ -22,10 +22,10 @@ When you pause and feel genuine gratitude — "Oh, I'm so glad I just saw that" 
 
 ## Related Concepts
 
-- [[literature-notes/gratitude-is-a-full-body-sport|Gratitude is a full body sport]] - Gratitude as somatic experience
-- [[literature-notes/felt-gratitude-not-performed-gratitude|Felt gratitude not performed gratitude]] - The difference between real and performative gratitude
-- [[literature-notes/insight-requires-embodied-integration|Insight requires embodied integration]] - Why understanding isn't enough
-- [[literature-notes/every-epiphany-becomes-a-task|Every epiphany becomes a task]] - The trap of intellectualizing epiphanies
+- [[literature-notes/gratitude-is-a-full-body-sport|Gratitude is a full body sport]]
+- [[literature-notes/felt-gratitude-not-performed-gratitude|Felt gratitude not performed gratitude]]
+- [[literature-notes/insight-requires-embodied-integration|Insight requires embodied integration]]
+- [[literature-notes/every-epiphany-becomes-a-task|Every epiphany becomes a task]]
 - [[literature-notes/embodied-listening-improves-signal-to-noise|Embodied listening improves signal to noise]]
 
 ## Source

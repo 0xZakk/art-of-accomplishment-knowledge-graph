@@ -22,9 +22,9 @@ This means the gate question isn't "do you want to be a coach?" but "are you her
 
 ## Related Concepts
 
-- [[literature-notes/understanding-the-self-is-where-the-path-begins|Understanding the self is where the path begins]] - Self-understanding as the foundation
-- [[literature-notes/experiential-learning-over-intellectual-understanding|Experiential learning over intellectual understanding]] - Learning through experience, not information
-- [[literature-notes/facilitating-from-your-own-edge|Facilitating from your own edge]] - Using facilitation as self-discovery
+- [[literature-notes/understanding-the-self-is-where-the-path-begins|Understanding the self is where the path begins]]
+- [[literature-notes/experiential-learning-over-intellectual-understanding|Experiential learning over intellectual understanding]]
+- [[literature-notes/facilitating-from-your-own-edge|Facilitating from your own edge]]
 - [[literature-notes/coaching-expression-must-be-yours-not-your-teachers|Your coaching expression must be yours, not your teacher's]]
 - [[literature-notes/everyone-already-knows-the-way-home|Everyone already knows the way home]]
 - [[literature-notes/turning-insight-into-practice-can-backfire|Turning insight into practice can backfire]]

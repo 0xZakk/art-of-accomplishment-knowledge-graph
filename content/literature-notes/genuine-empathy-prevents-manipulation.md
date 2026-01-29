@@ -20,9 +20,9 @@ The person with true empathy says: "I can feel you, I can be with you, and whate
 
 ## Related Concepts
 
-- [[literature-notes/empathy-is-being-with-not-in|Empathy is being with someone's experience, not lost in it]] - The foundation that prevents merging
-- [[literature-notes/full-openness-is-the-real-protection|Full openness is the real protection]] - The broader principle at work
-- [[literature-notes/boundaries-are-for-you-not-them|Boundaries are for you, not them]] - Complementary protection
+- [[literature-notes/empathy-is-being-with-not-in|Empathy is being with someone's experience, not lost in it]]
+- [[literature-notes/full-openness-is-the-real-protection|Full openness is the real protection]]
+- [[literature-notes/boundaries-are-for-you-not-them|Boundaries are for you, not them]]
 
 ## Source
 

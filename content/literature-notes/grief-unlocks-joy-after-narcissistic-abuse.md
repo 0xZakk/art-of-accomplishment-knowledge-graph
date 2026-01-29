@@ -22,9 +22,9 @@ Joe even jokes: "You could be like, I need to go find another narcissist so I ca
 
 ## Related Concepts
 
-- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]] - The mechanism by which grief creates capacity
-- [[literature-notes/grief-sustained-transforms-everything|Grief sustained transforms everything]] - The transformative power of sustained grief
-- [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]] - Why blocking grief blocks joy
+- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]]
+- [[literature-notes/grief-sustained-transforms-everything|Grief sustained transforms everything]]
+- [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]]
 - [[literature-notes/mourning-a-relationship-prevents-repeating-it|Fully mourning a relationship prevents you from repeating it]]
 - [[literature-notes/full-openness-is-the-real-protection|Full openness is the real protection from narcissists]]
 - [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]

@@ -19,8 +19,8 @@ When he does speak, he's direct rather than skirting around. Many parents want t
 
 ## Related Concepts
 
-- [[literature-notes/kids-need-to-feel-liked-not-just-loved|Kids need to feel liked by their parents, not just loved]] - The deeper need behind connection
-- [[literature-notes/being-interested-not-interesting|Being interested rather than interesting creates connection]] - The same principle in any relationship
+- [[literature-notes/kids-need-to-feel-liked-not-just-loved|Kids need to feel liked by their parents, not just loved]]
+- [[literature-notes/being-interested-not-interesting|Being interested rather than interesting creates connection]]
 
 ## Source
 

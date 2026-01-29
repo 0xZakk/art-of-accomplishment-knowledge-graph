@@ -24,10 +24,10 @@ The conflict that results from truth-telling is necessary — but it has to happ
 
 ## Related Concepts
 
-- [[literature-notes/withholding-truth-kills-intimacy|Withholding truth kills intimacy from both sides]] - The mechanism of relationship death
-- [[literature-notes/safety-comes-from-working-through-conflict|Safety comes from working through conflict]] - Why the resulting conflict is healing
-- [[literature-notes/truth-over-comfort-in-relationships|Truth over comfort in relationships]] - The principle underneath
-- [[literature-notes/both-partners-must-want-better|Both partners must want better]] - Both must commit
+- [[literature-notes/withholding-truth-kills-intimacy|Withholding truth kills intimacy from both sides]]
+- [[literature-notes/safety-comes-from-working-through-conflict|Safety comes from working through conflict]]
+- [[literature-notes/truth-over-comfort-in-relationships|Truth over comfort in relationships]]
+- [[literature-notes/both-partners-must-want-better|Both partners must want better]]
 - [[literature-notes/measure-how-you-fight-not-how-often|Relationship health is measured by how you fight, not how often]]
 
 ## Source

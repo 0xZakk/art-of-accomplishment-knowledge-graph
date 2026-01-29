@@ -20,9 +20,9 @@ Joe's question "What makes progress external and not internal?" cuts to the hear
 
 ## Related Concepts
 
-- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]] - The same dynamic of performing for others that causes burnout also repels genuine connection
-- [[literature-notes/burnout-is-sustained-adrenaline-depletion|Burnout is sustained adrenaline depletion]] - The physiological mechanism behind burnout
-- [[literature-notes/chase-your-own-approval|Chase your own approval]] - The alternative to external validation
+- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
+- [[literature-notes/burnout-is-sustained-adrenaline-depletion|Burnout is sustained adrenaline depletion]]
+- [[literature-notes/chase-your-own-approval|Chase your own approval]]
 - [[literature-notes/progress-is-internal-not-external|Real progress is internal awareness, not external achievement]]
 
 ## Source

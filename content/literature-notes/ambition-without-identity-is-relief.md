@@ -24,9 +24,9 @@ Brett adds the key distinction: there's ambition that unfolds naturally and ambi
 
 ## Related Concepts
 
-- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]] - The "how do I enjoy this?" metric
-- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - How identity attachment creates pressure
-- [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]] - When ambition and action align naturally
+- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]]
+- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
+- [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]]
 
 ## Source
 

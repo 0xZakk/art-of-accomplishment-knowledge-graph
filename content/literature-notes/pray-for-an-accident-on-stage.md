@@ -20,9 +20,9 @@ The practical teaching: prepare thoroughly so your body knows the material. Then
 
 ## Related Concepts
 
-- [[literature-notes/reframe-failure-as-experimentation|Reframe failure as experimentation]] - Failure as information rather than identity
-- [[literature-notes/people-want-connection-not-perfection|People want connection, not perfection]] - What audiences actually want
-- [[literature-notes/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]] - Why showing humanity connects
+- [[literature-notes/reframe-failure-as-experimentation|Reframe failure as experimentation]]
+- [[literature-notes/people-want-connection-not-perfection|People want connection, not perfection]]
+- [[literature-notes/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]]
 
 ## Source
 

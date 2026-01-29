@@ -24,9 +24,9 @@ This explains why certain emotional patterns cycle endlessly — the emotion nev
 
 ## Related Concepts
 
-- [[literature-notes/dont-do-emotions-at-people|Don't do emotions at people]] - The core teaching this builds on
-- [[literature-notes/shame-hot-potato|Shame hot potato]] - Passing shame to others rather than feeling it
-- [[literature-notes/fear-hot-potato|Fear hot potato]] - Passing fear to others rather than feeling it
+- [[literature-notes/dont-do-emotions-at-people|Don't do emotions at people]]
+- [[literature-notes/shame-hot-potato|Shame hot potato]]
+- [[literature-notes/fear-hot-potato|Fear hot potato]]
 - [[literature-notes/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
 - [[literature-notes/managing-others-avoids-own-feelings|We manage others' emotions to avoid our own]]
 - [[literature-notes/empathy-is-being-with-not-in|Empathy is being with someone, not in someone]]

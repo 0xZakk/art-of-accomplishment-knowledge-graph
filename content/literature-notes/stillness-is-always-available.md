@@ -20,9 +20,9 @@ This shifts rest from something you have to earn or schedule into something you 
 
 ## Related Concepts
 
-- [[literature-notes/rest-from-the-inner-critic|What you really need is rest from your inner critic]] - Silencing what obscures the stillness
-- [[literature-notes/be-your-own-light|Be your own light]] - Self-sourced awareness
-- [[literature-notes/attunement-to-self-produces-intuition|Attunement to self produces intuition]] - Listening inward
+- [[literature-notes/rest-from-the-inner-critic|What you really need is rest from your inner critic]]
+- [[literature-notes/be-your-own-light|Be your own light]]
+- [[literature-notes/attunement-to-self-produces-intuition|Attunement to self produces intuition]]
 
 ## Source
 

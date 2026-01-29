@@ -22,9 +22,9 @@ Joe points out this is what our mind does with sadness generally — it tells us
 
 ## Related Concepts
 
-- [[literature-notes/bullying-yourself-creates-resistance|Bullying yourself creates resistance]] - The pressure IS the bullying
-- [[literature-notes/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]] - What the sadness is guarding
-- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - Why avoiding sadness blocks everything
+- [[literature-notes/bullying-yourself-creates-resistance|Bullying yourself creates resistance]]
+- [[literature-notes/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
+- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
 - [[literature-notes/softening-not-solving-breaks-the-loop|Softening, not solving, breaks self-imposed loops]]
 - [[literature-notes/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]
 - [[literature-notes/chronic-stuckness-leads-to-depression|Chronic stuckness leads to depression through self-oppression]]

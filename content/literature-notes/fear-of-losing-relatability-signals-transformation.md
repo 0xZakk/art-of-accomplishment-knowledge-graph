@@ -22,9 +22,9 @@ The disorientation period is real but temporary. Some people can't speak from th
 
 ## Related Concepts
 
-- [[literature-notes/uncertainty-is-where-transformation-happens|Uncertainty is where transformation happens]] - The broader principle
-- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - What happens on the other side
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Why the old way didn't work
+- [[literature-notes/uncertainty-is-where-transformation-happens|Uncertainty is where transformation happens]]
+- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[literature-notes/vulnerability-aligns-world-around-truth|Vulnerability aligns the world around your truth instead of your presentation]]
 
 ## Source

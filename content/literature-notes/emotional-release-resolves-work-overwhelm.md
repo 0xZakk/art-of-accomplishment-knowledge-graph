@@ -21,9 +21,9 @@ This is one of the most practical applications of emotional fluidity: when you f
 
 ## Related Concepts
 
-- [[literature-notes/overwhelm-is-unfelt-emotions|Overwhelm is unfelt emotions]] - The principle this example illustrates
-- [[literature-notes/moving-emotions-dissolves-depression|Moving emotions dissolves depression]] - The broader pattern of emotional movement creating relief
-- [[literature-notes/exhaustion-is-unexpressed-anger|Exhaustion is unexpressed anger]] - Another form of emotional backlog manifesting physically
+- [[literature-notes/overwhelm-is-unfelt-emotions|Overwhelm is unfelt emotions]]
+- [[literature-notes/moving-emotions-dissolves-depression|Moving emotions dissolves depression]]
+- [[literature-notes/exhaustion-is-unexpressed-anger|Exhaustion is unexpressed anger]]
 - [[literature-notes/unfelt-emotions-create-physical-stress|Unfelt emotions create physical stress through muscle tension]]
 
 ## Source

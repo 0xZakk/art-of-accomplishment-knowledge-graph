@@ -21,8 +21,8 @@ The insight: any tool used for self-management becomes self-management. Stay in 
 
 ## Related Concepts
 
-- [[literature-notes/loving-to-manage-stops-working|Loving something to make it go away stops working]] - Same principle applied to emotions
-- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]] - Management orientation toward the self
+- [[literature-notes/loving-to-manage-stops-working|Loving something to make it go away stops working]]
+- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
 - [[literature-notes/tools-stop-working-when-weaponized|Tools stop working when used for self-improvement]]
 
 ## Source

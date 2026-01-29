@@ -21,8 +21,8 @@ This also explains why leaders with a lot of self-shame create political culture
 
 ## Related Concepts
 
-- [[literature-notes/leaders-and-culture-co-create|Leaders and culture co-create]] - The bidirectional relationship
-- [[literature-notes/relationship-reflects-self-relationship|Your relationship with another reflects your relationship with yourself]] - The same principle in personal life
+- [[literature-notes/leaders-and-culture-co-create|Leaders and culture co-create]]
+- [[literature-notes/relationship-reflects-self-relationship|Your relationship with another reflects your relationship with yourself]]
 
 ## Source
 

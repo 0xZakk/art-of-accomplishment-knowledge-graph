@@ -22,9 +22,9 @@ This applies everywhere: in sales, connecting with customers beats perfecting pi
 
 ## Related Concepts
 
-- [[literature-notes/perfectionism-is-the-critical-parents-voice|Perfectionism is the critical parent's voice]] - Why we try to be perfect
-- [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - Iteration as discovery
-- [[literature-notes/busyness-is-not-productivity|Busyness is not productivity]] - Perfecting can be another form of busyness
+- [[literature-notes/perfectionism-is-the-critical-parents-voice|Perfectionism is the critical parent's voice]]
+- [[literature-notes/discovery-not-improvement|Discovery, not improvement]]
+- [[literature-notes/busyness-is-not-productivity|Busyness is not productivity]]
 
 ## Source
 

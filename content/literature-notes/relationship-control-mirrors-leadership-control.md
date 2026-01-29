@@ -23,10 +23,10 @@ The solution is also the same across domains: open your heart to the "no" instea
 
 ## Related Concepts
 
-- [[literature-notes/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]] - The core principle that patterns repeat across domains
-- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - Internal conflicts project outward
-- [[literature-notes/micromanaging-comes-from-feeling-out-of-control|Micromanaging comes from feeling out of control]] - Control as a response to inner discomfort
-- [[literature-notes/control-works-until-it-doesnt|Control works until it doesn't]] - The limitations of the control strategy
+- [[literature-notes/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
+- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
+- [[literature-notes/micromanaging-comes-from-feeling-out-of-control|Micromanaging comes from feeling out of control]]
+- [[literature-notes/control-works-until-it-doesnt|Control works until it doesn't]]
 - [[literature-notes/opening-heart-to-the-no-creates-better-outcomes|Opening your heart to the 'no' creates better outcomes]]
 - [[literature-notes/every-no-is-new-information|Every 'no' is new information that creates clarity]]
 

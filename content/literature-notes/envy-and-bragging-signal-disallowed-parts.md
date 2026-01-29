@@ -24,9 +24,9 @@ Perhaps most revealing: pushing away compliments. When someone gives a heartfelt
 
 ## Related Concepts
 
-- [[literature-notes/admire-what-you-crave-in-others|Admire what you crave in others]] - What we admire reveals what we've disallowed
-- [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others exists in you]] - Judgment of others reflects self
-- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]] - Judgment as pointer to unfelt material
+- [[literature-notes/admire-what-you-crave-in-others|Admire what you crave in others]]
+- [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others exists in you]]
+- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]]
 - [[literature-notes/compliments-pushed-away-reveal-disallowed-goodness|Pushing away compliments reveals disallowed goodness]]
 
 ## Source

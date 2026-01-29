@@ -22,9 +22,9 @@ The antidote is regularly asking: if I look back on this week, how much of what 
 
 ## Related Concepts
 
-- [[literature-notes/todo-lists-can-be-inner-critic|To-do lists can be the inner critic]] - Productivity tools as self-oppression
-- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]] - "I should be productive" as another should
-- [[literature-notes/do-the-uncomfortable-thing-first|The most productive thing is the most uncomfortable thing]] - What to do instead
+- [[literature-notes/todo-lists-can-be-inner-critic|To-do lists can be the inner critic]]
+- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]]
+- [[literature-notes/do-the-uncomfortable-thing-first|The most productive thing is the most uncomfortable thing]]
 - [[literature-notes/responding-is-not-doing|Responding feels like doing but often changes nothing]]
 
 ## Source

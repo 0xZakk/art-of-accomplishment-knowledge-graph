@@ -20,9 +20,9 @@ The problem wasn't empathy or adaptability. It was that she was leaving herself 
 
 ## Related Concepts
 
-- [[literature-notes/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]] - Chameleons are invisible
-- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]] - Adapting to everyone is a form of codependence
-- [[literature-notes/people-want-connection-not-perfection|People want connection, not perfection]] - What people actually want from leaders
+- [[literature-notes/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]]
+- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
+- [[literature-notes/people-want-connection-not-perfection|People want connection, not perfection]]
 
 ## Source
 

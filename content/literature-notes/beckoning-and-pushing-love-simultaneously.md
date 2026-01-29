@@ -22,9 +22,9 @@ The patterns are often multiple and overlapping, and they're typically wired in 
 
 ## Related Concepts
 
-- [[literature-notes/chasing-love-is-also-pushing-it-away|Chasing love is also pushing it away]] - The push-pull dynamic at the core of love avoidance
-- [[literature-notes/neediness-repels-what-you-want|Neediness repels what you want]] - Neediness as a specific push mechanism
-- [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]] - Fear-based avoidance creates what it fears
+- [[literature-notes/chasing-love-is-also-pushing-it-away|Chasing love is also pushing it away]]
+- [[literature-notes/neediness-repels-what-you-want|Neediness repels what you want]]
+- [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
 - [[literature-notes/fear-of-losing-yourself-blocks-intimacy|Fear of losing yourself is what blocks intimacy]]
 - [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 

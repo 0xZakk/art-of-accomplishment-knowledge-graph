@@ -20,9 +20,9 @@ David White's essay on denial captures this beautifully: "To deny denial is to i
 
 ## Related Concepts
 
-- [[literature-notes/love-the-resistance|Loving resistance is the path through it]] - The practical orientation toward resistance
-- [[literature-notes/chaos-is-necessary-for-growth|Chaos is necessary for growth]] - Disorder as prerequisite for new order
-- [[literature-notes/denial-has-a-functional-purpose|Denial has a functional purpose]] - Denial as a specific form of wise resistance
+- [[literature-notes/love-the-resistance|Loving resistance is the path through it]]
+- [[literature-notes/chaos-is-necessary-for-growth|Chaos is necessary for growth]]
+- [[literature-notes/denial-has-a-functional-purpose|Denial has a functional purpose]]
 - [[literature-notes/resisting-fear-leaks-it-sideways|Resisting fear doesn't eliminate it — it leaks out sideways]]
 
 ## Source

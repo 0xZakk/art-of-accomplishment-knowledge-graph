@@ -24,9 +24,9 @@ This mirrors a fundamental paradox in all contemplative traditions: the effort t
 
 ## Related Concepts
 
-- [[literature-notes/accomplishment-is-undoing-not-doing|Accomplishment is undoing, not doing]] - The broader principle
-- [[literature-notes/fixing-avoids-being-present|Compulsive fixing avoids being present]] - The pattern this question perpetuates
-- [[literature-notes/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]] - Change through seeing, not effort
+- [[literature-notes/accomplishment-is-undoing-not-doing|Accomplishment is undoing, not doing]]
+- [[literature-notes/fixing-avoids-being-present|Compulsive fixing avoids being present]]
+- [[literature-notes/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]]
 - [[literature-notes/feeling-of-failure-drives-fixing|The feeling that everything I touch fails drives compulsive fixing]]
 - [[literature-notes/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
 - [[literature-notes/feeling-your-essential-nature-dissolves-avoidance|Feeling your essential nature dissolves avoidance behaviors]]

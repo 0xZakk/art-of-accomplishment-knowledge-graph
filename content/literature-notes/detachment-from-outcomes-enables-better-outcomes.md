@@ -21,9 +21,9 @@ The path to genuine detachment typically requires enough experience to internali
 
 ## Related Concepts
 
-- [[literature-notes/intention-without-attachment-is-most-effective|Intention without attachment is most effective]] - The broader principle behind detachment
-- [[literature-notes/surrender-outcomes-to-decide-clearly|Surrender outcomes to decide clearly]] - How releasing attachment enables clearer decisions
-- [[literature-notes/craving-pushes-away-what-you-want|Craving pushes away what you want]] - The paradox of wanting too badly
+- [[literature-notes/intention-without-attachment-is-most-effective|Intention without attachment is most effective]]
+- [[literature-notes/surrender-outcomes-to-decide-clearly|Surrender outcomes to decide clearly]]
+- [[literature-notes/craving-pushes-away-what-you-want|Craving pushes away what you want]]
 - [[literature-notes/unstructured-meditation-is-transformational|Unstructured meditation is the transformational practice]]
 
 ## Source

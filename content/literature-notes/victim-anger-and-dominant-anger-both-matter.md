@@ -22,9 +22,9 @@ In the session, Joe models dominant anger himself â€” raw, profane, ferocious â€
 
 ## Related Concepts
 
-- [[literature-notes/exhaustion-is-unexpressed-anger|Exhaustion from caretaking is unexpressed anger]] - What happens when anger stays kinked
-- [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]] - The natural endpoint of expressed anger
-- [[literature-notes/dominate-dont-convince|Dominate don't convince]] - The power of dominant expression
+- [[literature-notes/exhaustion-is-unexpressed-anger|Exhaustion from caretaking is unexpressed anger]]
+- [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]]
+- [[literature-notes/dominate-dont-convince|Dominate don't convince]]
 
 ## Source
 

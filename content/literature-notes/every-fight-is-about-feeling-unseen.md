@@ -21,9 +21,9 @@ The trap most people fall into is reciprocal withholding: "I'm not going to open
 
 ## Related Concepts
 
-- [[literature-notes/defense-feels-like-attack|Defense feels like attack]] - How the defend-attack cycle perpetuates fights
-- [[literature-notes/wanting-someone-to-change-reflects-self-rejection|Wanting someone to change reflects self-rejection]] - Why the desire to change your partner points inward
-- [[literature-notes/unconditional-listening-transforms-relationships|Unconditional listening transforms relationships]] - The power of truly hearing someone
+- [[literature-notes/defense-feels-like-attack|Defense feels like attack]]
+- [[literature-notes/wanting-someone-to-change-reflects-self-rejection|Wanting someone to change reflects self-rejection]]
+- [[literature-notes/unconditional-listening-transforms-relationships|Unconditional listening transforms relationships]]
 - [[literature-notes/dropping-shame-is-prerequisite-for-seeing-your-partner|Dropping shame is the prerequisite for seeing your partner]]
 - [[literature-notes/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
 - [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer together]]

@@ -24,9 +24,9 @@ Most people have a dominant pattern, but the underlying mechanism is always the 
 
 ## Related Concepts
 
-- [[literature-notes/fear-hot-potato|Fear hot potato]] - How fear gets passed between people
-- [[literature-notes/fight-or-collapse-is-a-false-dichotomy|Fight or collapse is a false dichotomy]] - The false binary of fight/freeze
-- [[literature-notes/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others to avoid your feelings]] - Savior as flight from self
+- [[literature-notes/fear-hot-potato|Fear hot potato]]
+- [[literature-notes/fight-or-collapse-is-a-false-dichotomy|Fight or collapse is a false dichotomy]]
+- [[literature-notes/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others to avoid your feelings]]
 - [[literature-notes/fear-triangle-maps-fight-flight-freeze|The fear triangle maps bully, victim, and savior to fight, flight, and freeze]]
 - [[literature-notes/savior-role-is-flight-from-self|The savior role is flight from yourself to control others]]
 - [[literature-notes/acknowledging-fear-dissolves-power-dynamics|Acknowledging fear without judgment dissolves power dynamics]]

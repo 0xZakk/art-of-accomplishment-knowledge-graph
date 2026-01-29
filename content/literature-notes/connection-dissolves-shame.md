@@ -22,9 +22,9 @@ The isolation reinforces the shame — moved to a new city, no connections, no o
 
 ## Related Concepts
 
-- [[literature-notes/being-seen-transforms-behavior|Being seen transforms behavior]] - The power of being witnessed
-- [[literature-notes/real-community-requires-non-judgmental-witnessing|Real community requires non-judgmental witnessing]] - What makes community healing
-- [[literature-notes/we-cant-see-the-love-thats-available|We can't see the love that's available]] - The blindness shame creates
+- [[literature-notes/being-seen-transforms-behavior|Being seen transforms behavior]]
+- [[literature-notes/real-community-requires-non-judgmental-witnessing|Real community requires non-judgmental witnessing]]
+- [[literature-notes/we-cant-see-the-love-thats-available|We can't see the love that's available]]
 
 ## Source
 

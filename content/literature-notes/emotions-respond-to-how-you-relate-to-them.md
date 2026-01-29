@@ -19,9 +19,9 @@ Joe's specific progression is revealing. He ends the inquiry by asking you to lo
 
 ## Related Concepts
 
-- [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]] - How opposition transforms the felt experience
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]] - The active stance of invitation toward feelings
-- [[literature-notes/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]] - Approaching rather than defeating difficult feelings
+- [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]]
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]]
+- [[literature-notes/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]]
 - [[literature-notes/curiosity-transforms-relationship-to-emotions|Curiosity transforms your relationship to difficult emotions]]
 - [[literature-notes/emotional-inquiry-as-embodied-exploration|Emotional inquiry is embodied exploration, not intellectual analysis]]
 

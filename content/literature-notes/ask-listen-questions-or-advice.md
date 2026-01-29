@@ -27,9 +27,9 @@ The deeper realization was letting go of feeling responsible for his partner's h
 
 ## Related Concepts
 
-- [[literature-notes/fixing-avoids-being-present|Fixing avoids being present]] - Why the impulse to solve blocks connection
-- [[literature-notes/being-with-emotions-beats-fixing-them|Being with emotions beats fixing them]] - The power of presence over intervention
-- [[literature-notes/caretaking-kills-desire|Caretaking kills desire]] - Where unchecked fixing leads
+- [[literature-notes/fixing-avoids-being-present|Fixing avoids being present]]
+- [[literature-notes/being-with-emotions-beats-fixing-them|Being with emotions beats fixing them]]
+- [[literature-notes/caretaking-kills-desire|Caretaking kills desire]]
 
 ## Source
 

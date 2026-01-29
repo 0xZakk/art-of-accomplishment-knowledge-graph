@@ -22,9 +22,9 @@ The false end is a feature of binary thinking under fear—everything becomes pa
 
 ## Related Concepts
 
-- [[literature-notes/fear-limits-optionality|Fear limits optionality]] - False endings are one mechanism by which fear constrains perception
-- [[literature-notes/procrastination-happens-when-its-personal|Procrastination happens when the work feels personal]] - Personal stakes fuel the false endings
-- [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]] - False ends are a form of binary thinking
+- [[literature-notes/fear-limits-optionality|Fear limits optionality]]
+- [[literature-notes/procrastination-happens-when-its-personal|Procrastination happens when the work feels personal]]
+- [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]]
 - [[literature-notes/fear-creates-binary-thinking-and-false-ends|Fear creates binary thinking and false ends]]
 - [[literature-notes/feel-fear-to-see-opportunity|Feel the fear fully to see the opportunities in chaos]]
 - [[literature-notes/fear-in-the-head-creates-binary-thinking|Fear in the head creates binary thinking and false ends]]

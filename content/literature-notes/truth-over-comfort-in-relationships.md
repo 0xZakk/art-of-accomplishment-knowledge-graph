@@ -22,9 +22,9 @@ The alternative—making it "good right now" at the expense of truth—creates t
 
 ## Related Concepts
 
-- [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]] - What happens when comfort wins over truth
-- [[literature-notes/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]] - Truth-telling is how you show up as yourself
-- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - The broader principle
+- [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]]
+- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]]
 - [[literature-notes/truth-telling-revives-dead-relationships|Speaking your truth revives dead relationships]]
 - [[literature-notes/resentment-is-stored-conflict|Resentment is stored conflict—the longer you avoid it, the bigger the explosion]]
 - [[literature-notes/peace-comes-from-dropping-the-war-not-avoiding-conflict|Peace comes from dropping the war not avoiding conflict]]

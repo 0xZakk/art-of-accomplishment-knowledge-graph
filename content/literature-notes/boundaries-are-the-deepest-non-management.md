@@ -22,9 +22,9 @@ This reframes boundaries not as walls or restrictions, but as the foundation of 
 
 ## Related Concepts
 
-- [[literature-notes/boundaries-declare-your-action-not-theirs|Boundaries declare your action, not theirs]] - The core principle that boundaries are about your behavior
-- [[literature-notes/boundaries-and-openness-are-the-same-thing|Boundaries and openness are the same thing]] - Strong boundaries enable deeper openness
-- [[literature-notes/management-communicates-distrust|Management communicates distrust]] - Management assumes people can't be trusted to self-direct
+- [[literature-notes/boundaries-declare-your-action-not-theirs|Boundaries declare your action, not theirs]]
+- [[literature-notes/boundaries-and-openness-are-the-same-thing|Boundaries and openness are the same thing]]
+- [[literature-notes/management-communicates-distrust|Management communicates distrust]]
 - [[literature-notes/boundaries-are-for-you-not-them|Boundaries are primarily for you, not the other person]]
 - [[literature-notes/boundaries-say-what-you-will-do-not-what-they-must|Boundaries say what you will do, not what they must do]]
 

@@ -21,9 +21,9 @@ The sensation comes with a relief of pressure — ego pressure releasing — bec
 
 ## Related Concepts
 
-- [[literature-notes/felt-gratitude-not-performed-gratitude|Felt gratitude, not performed gratitude]] - The core distinction between embodied and intellectual gratitude
-- [[literature-notes/pleasure-is-noticing-sensations-moving|Pleasure is noticing sensations moving]] - Gratitude shares the somatic quality of pleasure
-- [[literature-notes/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]] - What the felt sensation opens up
+- [[literature-notes/felt-gratitude-not-performed-gratitude|Felt gratitude, not performed gratitude]]
+- [[literature-notes/pleasure-is-noticing-sensations-moving|Pleasure is noticing sensations moving]]
+- [[literature-notes/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]]
 
 ## Source
 

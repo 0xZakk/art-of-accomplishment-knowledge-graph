@@ -21,9 +21,9 @@ This reframes the entire project: it's not about becoming fearless, but about de
 
 ## Related Concepts
 
-- [[literature-notes/fear-as-road-map-not-enemy|Fear as road map not enemy]] - Fear as navigation tool
-- [[literature-notes/awakening-is-not-an-endpoint|Awakening is not an endpoint]] - The ongoing nature of transformation
-- [[literature-notes/edge-of-comfort-is-where-growth-happens|Edge of comfort is where growth happens]] - Growth at the boundary
+- [[literature-notes/fear-as-road-map-not-enemy|Fear as road map not enemy]]
+- [[literature-notes/awakening-is-not-an-endpoint|Awakening is not an endpoint]]
+- [[literature-notes/edge-of-comfort-is-where-growth-happens|Edge of comfort is where growth happens]]
 
 ## Source
 

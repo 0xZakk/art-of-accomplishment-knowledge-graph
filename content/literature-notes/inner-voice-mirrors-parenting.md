@@ -18,9 +18,9 @@ This means the inner critic isn't random—it has a specific origin and a specif
 
 ## Related Concepts
 
-- [[literature-notes/perfectionism-is-the-critical-parents-voice|Perfectionism is the critical parent's voice]] - The specific case of perfectionist self-talk
-- [[literature-notes/self-criticism-intensifies-with-intelligence|Self-criticism intensifies with intelligence]] - How smart people can amplify this pattern
-- [[literature-notes/love-yourself-how-you-wanted-to-be-loved|Love yourself how you wanted to be loved]] - The antidote to internalized parenting
+- [[literature-notes/perfectionism-is-the-critical-parents-voice|Perfectionism is the critical parent's voice]]
+- [[literature-notes/self-criticism-intensifies-with-intelligence|Self-criticism intensifies with intelligence]]
+- [[literature-notes/love-yourself-how-you-wanted-to-be-loved|Love yourself how you wanted to be loved]]
 - [[literature-notes/inner-critic-is-not-your-voice|The inner critic is not your voice — it's inherited]]
 - [[literature-notes/voice-in-head-talks-to-itself|The voice in the head talks to itself more than to you]]
 - [[literature-notes/external-patterns-mirror-internal-ones|External relationship patterns mirror internal ones]]

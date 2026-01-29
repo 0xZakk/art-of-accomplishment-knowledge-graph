@@ -22,9 +22,9 @@ This shows up in work, relationships, and creative pursuits — anywhere someone
 
 ## Related Concepts
 
-- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - Shame perpetuates the very patterns it claims to correct
-- [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]] - Feeling shame directly removes its grip
-- [[literature-notes/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant]] - Expansion can feel threatening
+- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
+- [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]]
+- [[literature-notes/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant]]
 - [[literature-notes/shame-after-feeling-good-pattern|Shame arises after feeling good as a learned pattern]]
 - [[literature-notes/shame-blocks-feeling-how-good-life-is|Shame blocks you from feeling how good life actually is]]
 - [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]]

@@ -23,10 +23,10 @@ The money block isn't about money at all — it's about the childhood equation: 
 
 ## Related Concepts
 
-- [[literature-notes/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood patterns]] - The broader principle
-- [[literature-notes/money-wounds-trace-to-parent-wounds|Money wounds trace to parent wounds]] - Same root, different expression
-- [[literature-notes/imposter-syndrome-roots-in-conditional-love|Imposter syndrome roots in conditional love]] - Conditional love creates the performer identity
-- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]] - Repeating familiar patterns unconsciously
+- [[literature-notes/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood patterns]]
+- [[literature-notes/money-wounds-trace-to-parent-wounds|Money wounds trace to parent wounds]]
+- [[literature-notes/imposter-syndrome-roots-in-conditional-love|Imposter syndrome roots in conditional love]]
+- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]]
 - [[literature-notes/performing-for-connection-blocks-authentic-earning|Performing for connection blocks authentic earning]]
 - [[literature-notes/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]]
 - [[literature-notes/relating-to-parents-mirrors-relating-to-god-and-money|How we relate to parents mirrors how we relate to God and money]]

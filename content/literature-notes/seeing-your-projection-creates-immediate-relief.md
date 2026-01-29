@@ -22,9 +22,9 @@ The culminating practice is the upright apology — apologizing to the person yo
 
 ## Related Concepts
 
-- [[literature-notes/triggers-reveal-unaccepted-parts-of-yourself|Every trigger reveals an unaccepted part of yourself]] - The foundation this relief builds on
-- [[literature-notes/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]] - Why seeing is enough
-- [[literature-notes/apology-as-transformation-tool|Apology as transformation tool]] - Upright apology as the completing step
+- [[literature-notes/triggers-reveal-unaccepted-parts-of-yourself|Every trigger reveals an unaccepted part of yourself]]
+- [[literature-notes/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]]
+- [[literature-notes/apology-as-transformation-tool|Apology as transformation tool]]
 
 ## Source
 

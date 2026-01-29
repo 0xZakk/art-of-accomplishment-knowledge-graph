@@ -22,9 +22,9 @@ The lesson isn't that anger is inherently destructive, but that using one emotio
 
 ## Related Concepts
 
-- [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]] - What anger can become when allowed rather than manufactured
-- [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]] - The broader pattern of avoiding emotions
-- [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]] - The flip side: suppressing anger out of fear
+- [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]]
+- [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]]
+- [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]]
 - [[literature-notes/self-loathing-as-accidental-doorway|Self-loathing can accidentally open a doorway to courage]]
 - [[literature-notes/fear-as-road-map-not-enemy|Fear is a road map, not an enemy to conquer]]
 - [[literature-notes/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]

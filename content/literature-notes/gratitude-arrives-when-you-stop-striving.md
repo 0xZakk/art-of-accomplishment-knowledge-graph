@@ -20,9 +20,9 @@ Joe then asked: if Ali actually spent time in deep gratitude for each person and
 
 ## Related Concepts
 
-- [[literature-notes/gratitude-arises-naturally-not-by-force|Gratitude arises naturally, not by force]] - Why gratitude can't be manufactured
-- [[literature-notes/felt-gratitude-not-performed-gratitude|Felt gratitude, not performed gratitude]] - The difference between real and performed gratitude
-- [[literature-notes/foreboding-joy-blocks-gratitude|Foreboding joy blocks gratitude]] - Another mechanism that prevents gratitude
+- [[literature-notes/gratitude-arises-naturally-not-by-force|Gratitude arises naturally, not by force]]
+- [[literature-notes/felt-gratitude-not-performed-gratitude|Felt gratitude, not performed gratitude]]
+- [[literature-notes/foreboding-joy-blocks-gratitude|Foreboding joy blocks gratitude]]
 
 ## Source
 

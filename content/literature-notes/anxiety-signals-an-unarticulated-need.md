@@ -25,9 +25,9 @@ The humor underscores the point: managing others at the expense of your own trut
 
 ## Related Concepts
 
-- [[literature-notes/anxiety-signals-unmet-needs-at-multiple-depths|Anxiety signals unmet needs at multiple depths]] - The deeper teaching
-- [[literature-notes/anxiety-as-constricted-life-force|Anxiety as constricted life force]] - The energetic view
-- [[literature-notes/emotions-have-intelligent-signals|Every emotion carries an intelligent signal]] - The broader principle
+- [[literature-notes/anxiety-signals-unmet-needs-at-multiple-depths|Anxiety signals unmet needs at multiple depths]]
+- [[literature-notes/anxiety-as-constricted-life-force|Anxiety as constricted life force]]
+- [[literature-notes/emotions-have-intelligent-signals|Every emotion carries an intelligent signal]]
 
 ## Source
 

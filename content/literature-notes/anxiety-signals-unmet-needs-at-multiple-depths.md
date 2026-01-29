@@ -21,9 +21,9 @@ Brett's experience demonstrates this layering: feeling anxiety in his throat led
 
 ## Related Concepts
 
-- [[literature-notes/fear-signals-unmet-needs|Fear signals unmet needs]] - The broader principle that fear points to what matters
-- [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]] - How acting from surface anxiety creates what you fear
-- [[literature-notes/address-root-blockers-not-symptoms|Address root blockers, not symptoms]] - Going deeper rather than fixing surface issues
+- [[literature-notes/fear-signals-unmet-needs|Fear signals unmet needs]]
+- [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
+- [[literature-notes/address-root-blockers-not-symptoms|Address root blockers, not symptoms]]
 
 ## Source
 

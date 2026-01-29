@@ -22,9 +22,9 @@ Joe illustrates this with the parable of the musk deer who searches its whole li
 
 ## Related Concepts
 
-- [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - The core distinction between these two orientations
-- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]] - What happens as authenticity evolves
-- [[literature-notes/the-expansiveness-of-I-Am|The expansiveness of I Am]] - Where the path ultimately leads
+- [[literature-notes/discovery-not-improvement|Discovery, not improvement]]
+- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]]
+- [[literature-notes/the-expansiveness-of-I-Am|The expansiveness of I Am]]
 
 ## Source
 

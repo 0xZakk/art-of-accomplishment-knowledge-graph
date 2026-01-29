@@ -20,8 +20,8 @@ The freedom comes from owning it: "Yep, I'm an imposter. I don't know everything
 
 ## Related Concepts
 
-- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - Being yourself is the only place you're not an imposter
-- [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - All meaningful work is discovery of the unknown
+- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]]
+- [[literature-notes/discovery-not-improvement|Discovery, not improvement]]
 
 ## Source
 

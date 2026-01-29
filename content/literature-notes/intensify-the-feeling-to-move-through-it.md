@@ -21,10 +21,10 @@ The approach is not about wallowing or being consumed. It's about discovering th
 
 ## Related Concepts
 
-- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - Resisting the feeling perpetuates it
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]] - Going beyond tolerance to active engagement
-- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]] - Intensity is the vehicle, not the obstacle
-- [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness, not the feeling]] - The avoidance *is* the trap
+- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]]
+- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]]
+- [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness, not the feeling]]
 - [[literature-notes/stuckness-is-resistance-to-the-abyss|Stuckness is resistance to the abyss, not the abyss itself]]
 - [[literature-notes/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
 - [[literature-notes/resistance-gives-the-inner-critic-its-power|Resistance gives the inner critic its power]]

@@ -22,8 +22,8 @@ Brett notices the same pattern on a smaller scale during week-long backpacking t
 
 ## Related Concepts
 
-- [[literature-notes/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant]] - Feeling good can trigger fear, cutting rest short
-- [[literature-notes/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]] - Gratitude wells up naturally from a rested state
+- [[literature-notes/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant]]
+- [[literature-notes/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]]
 
 ## Source
 

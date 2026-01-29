@@ -19,8 +19,8 @@ This approach treats the teenager as capable of participating in their own devel
 
 ## Related Concepts
 
-- [[literature-notes/be-available-dont-chase-teenagers|Be available to your teenager, don't chase them]] - The broader approach
-- [[literature-notes/name-the-problem-without-solving-it|Name the problem without solving it]] - Same principle in coaching
+- [[literature-notes/be-available-dont-chase-teenagers|Be available to your teenager, don't chase them]]
+- [[literature-notes/name-the-problem-without-solving-it|Name the problem without solving it]]
 
 ## Source
 

@@ -18,8 +18,8 @@ Most people believe the path to good decisions is better thinking and analysis. 
 
 ## Related Concepts
 
-- [[literature-notes/indecision-means-unfelt-emotions|Indecision means unfelt emotions]] - When emotions are blocked, decisions stall
-- [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]] - Fluid emotions enable clear decisions
+- [[literature-notes/indecision-means-unfelt-emotions|Indecision means unfelt emotions]]
+- [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]]
 - [[literature-notes/all-decisions-are-emotional|All decisions are emotional, never purely rational]]
 - [[literature-notes/suppressing-emotions-impairs-decision-making|Suppressing emotions impairs decision making]]
 

@@ -22,9 +22,9 @@ The distinction between dissociative regulation and embodied feeling is subtle b
 
 ## Related Concepts
 
-- [[literature-notes/tools-can-keep-you-stuck|Tools can keep you stuck]] - The broader pattern of spiritual tools reinforcing defense
-- [[literature-notes/downregulation-is-not-resolution|Downregulation is not resolution]] - Calming the nervous system vs. actually processing
-- [[literature-notes/managing-trauma-versus-resolving-it|Managing trauma versus resolving it]] - The same dynamic at a deeper level
+- [[literature-notes/tools-can-keep-you-stuck|Tools can keep you stuck]]
+- [[literature-notes/downregulation-is-not-resolution|Downregulation is not resolution]]
+- [[literature-notes/managing-trauma-versus-resolving-it|Managing trauma versus resolving it]]
 
 ## Source
 

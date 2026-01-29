@@ -23,9 +23,9 @@ When grief is fully processed, the defense becomes unnecessary. Narcissists beco
 
 ## Related Concepts
 
-- [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness not the feeling]] - The defense is the problem, not the feeling
-- [[literature-notes/fear-as-road-map-not-enemy|Fear as road map not enemy]] - Fear points to unfelt emotions
-- [[literature-notes/grief-unlocks-joy-after-narcissistic-abuse|Grief unlocks joy after narcissistic abuse]] - What happens when the grief is felt
+- [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness not the feeling]]
+- [[literature-notes/fear-as-road-map-not-enemy|Fear as road map not enemy]]
+- [[literature-notes/grief-unlocks-joy-after-narcissistic-abuse|Grief unlocks joy after narcissistic abuse]]
 
 ## Source
 

@@ -22,9 +22,9 @@ The woman in the coaching session described it perfectly: "I went into the hole 
 
 ## Related Concepts
 
-- [[literature-notes/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]] - Approaching fear with openness
-- [[literature-notes/helplessness-is-gateway-to-surrender|Helplessness is gateway to surrender]] - Surrender as doorway
-- [[literature-notes/fear-as-road-map-not-enemy|Fear as road map, not enemy]] - Following fear toward growth
+- [[literature-notes/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]]
+- [[literature-notes/helplessness-is-gateway-to-surrender|Helplessness is gateway to surrender]]
+- [[literature-notes/fear-as-road-map-not-enemy|Fear as road map, not enemy]]
 - [[literature-notes/stuckness-is-resistance-to-the-abyss|Stuckness is resistance to the abyss, not the abyss itself]]
 - [[literature-notes/fear-is-present-on-every-path|Fear is present on every path so face it directly]]
 - [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]

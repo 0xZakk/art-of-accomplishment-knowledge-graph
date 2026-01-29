@@ -23,10 +23,10 @@ Every superstar who was universally loved eventually fell from grace. Identity i
 
 ## Related Concepts
 
-- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - Fixed identity limits what's possible
-- [[literature-notes/identity-stress-comes-from-defending-a-fixed-self|Identity stress comes from defending a fixed self]] - The stress of protecting who you think you are
-- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]] - The paradox of trying to be liked
-- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - Authenticity as life design
+- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
+- [[literature-notes/identity-stress-comes-from-defending-a-fixed-self|Identity stress comes from defending a fixed self]]
+- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
+- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]]
 
 ## Source
 

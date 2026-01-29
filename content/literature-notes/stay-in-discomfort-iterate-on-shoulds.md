@@ -21,8 +21,8 @@ Learning the difference between productive discomfort (stay) and obligation-base
 
 ## Related Concepts
 
-- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]] - Shoulds signal the experiment needs redesigning
-- [[literature-notes/ego-resists-change-in-either-direction|Ego resists change in either direction]] - Discomfort may be the ego resisting growth
+- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]]
+- [[literature-notes/ego-resists-change-in-either-direction|Ego resists change in either direction]]
 
 ## Source
 

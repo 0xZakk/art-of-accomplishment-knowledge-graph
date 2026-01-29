@@ -24,9 +24,9 @@ This applies equally to families: Joe shares a moment with his daughter where th
 
 ## Related Concepts
 
-- [[literature-notes/fear-hot-potato|Fear hot potato]] - The same consolidation dynamic with fear
-- [[literature-notes/shame-hot-potato|Shame hot potato]] - The same dynamic with shame
-- [[literature-notes/burnout-is-sustained-adrenaline-depletion|Burnout is sustained adrenaline depletion]] - The consequence of avoiding helplessness
+- [[literature-notes/fear-hot-potato|Fear hot potato]]
+- [[literature-notes/shame-hot-potato|Shame hot potato]]
+- [[literature-notes/burnout-is-sustained-adrenaline-depletion|Burnout is sustained adrenaline depletion]]
 - [[literature-notes/helplessness-is-the-emotion-being-avoided|The feeling being avoided underneath 'I've got this' is helplessness]]
 - [[literature-notes/welcoming-helplessness-not-managing-it|The freedom is in wanting to feel helpless again]]
 - [[literature-notes/helplessness-is-the-cayenne-pepper-of-fear|Helplessness is the most potent ingredient of fear]]

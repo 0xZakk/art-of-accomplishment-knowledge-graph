@@ -23,10 +23,10 @@ Even "I've worked through so much shame" is part of the shame pattern — it ass
 
 ## Related Concepts
 
-- [[literature-notes/love-is-the-antidote-to-shame|Love is the antidote to shame]] - Hugging the monster is a form of love
-- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - Why fighting shame perpetuates it
-- [[literature-notes/the-story-of-brokenness-is-the-problem|The story of brokenness is the problem]] - The thought-level shame vs. the felt truth
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]] - The quality of attention that dissolves
+- [[literature-notes/love-is-the-antidote-to-shame|Love is the antidote to shame]]
+- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
+- [[literature-notes/the-story-of-brokenness-is-the-problem|The story of brokenness is the problem]]
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]]
 - [[literature-notes/being-loved-in-the-shame-dissolves-it|Being loved within the shame dissolves it]]
 - [[literature-notes/welcome-shame-dont-push-through-it|Welcome shame rather than pushing through it]]
 - [[literature-notes/shame-is-a-signal-of-disconnection|Shame is a signal of disconnection, not a problem to solve]]

@@ -22,9 +22,9 @@ The only way out is to see through it yourself. You can't make your partner see 
 
 ## Related Concepts
 
-- [[literature-notes/no-right-or-wrong-only-perspectives|There is no right or wrong, only perspectives]] - Why collapsing into right/wrong is the real problem
-- [[literature-notes/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]] - The equal matching principle
-- [[literature-notes/subtle-superiority-as-protection|Subtle superiority as protection]] - How one partner can hold themselves above
+- [[literature-notes/no-right-or-wrong-only-perspectives|There is no right or wrong, only perspectives]]
+- [[literature-notes/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]]
+- [[literature-notes/subtle-superiority-as-protection|Subtle superiority as protection]]
 - [[literature-notes/logical-conviction-hijacks-empathy|Logical conviction hijacks empathetic people]]
 - [[literature-notes/partners-teach-what-you-need-to-learn|Partners are attracted because they teach what you need to learn]]
 - [[literature-notes/logical-superiority-avoids-emotion|Feeling logically superior in a fight means you're avoiding an emotion]]

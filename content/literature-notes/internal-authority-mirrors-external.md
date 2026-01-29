@@ -20,8 +20,8 @@ The resolution of authority issues starts inside.
 
 ## Related Concepts
 
-- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - Internal relationship patterns create external ones
-- [[literature-notes/triggers-reveal-self-judgment|Triggers reveal what we judge in ourselves]] - External authority triggers mirror internal ones
+- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
+- [[literature-notes/triggers-reveal-self-judgment|Triggers reveal what we judge in ourselves]]
 - [[literature-notes/inner-critic-uses-same-cult-dynamics|The inner critic uses the same dynamics as cults and political manipulation]]
 - [[literature-notes/should-creates-rebellion-or-submission|Should creates either rebellion or submission, never empowerment]]
 - [[literature-notes/inner-critic-mirrors-relationship-patterns|The inner critic mirrors your relationship patterns]]

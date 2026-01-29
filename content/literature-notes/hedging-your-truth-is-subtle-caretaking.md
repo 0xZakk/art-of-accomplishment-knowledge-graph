@@ -22,9 +22,9 @@ This is the corkscrew: you peel away one layer of caretaking and find subtler on
 
 ## Related Concepts
 
-- [[literature-notes/thinking-they-cant-handle-it-means-youre-caretaking|Thinking they can't handle it means you're caretaking]] - The diagnostic
-- [[literature-notes/self-abandonment-in-communication|Self-abandonment in communication]] - The cost
-- [[literature-notes/speaking-truth-requires-open-heart-not-management|Speaking truth requires open heart not management]] - The alternative
+- [[literature-notes/thinking-they-cant-handle-it-means-youre-caretaking|Thinking they can't handle it means you're caretaking]]
+- [[literature-notes/self-abandonment-in-communication|Self-abandonment in communication]]
+- [[literature-notes/speaking-truth-requires-open-heart-not-management|Speaking truth requires open heart not management]]
 
 ## Source
 

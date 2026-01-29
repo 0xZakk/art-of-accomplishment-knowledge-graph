@@ -24,9 +24,9 @@ This applies personally too: constantly blaming yourself is less effective than 
 
 ## Related Concepts
 
-- [[literature-notes/shame-free-problem-solving|Shame-free problem solving]] - The organizational application
-- [[literature-notes/blame-blocks-leadership|Blame blocks leadership]] - What happens without this
-- [[literature-notes/calling-out-without-shame-works|Calling out without shame works]] - The complementary skill
+- [[literature-notes/shame-free-problem-solving|Shame-free problem solving]]
+- [[literature-notes/blame-blocks-leadership|Blame blocks leadership]]
+- [[literature-notes/calling-out-without-shame-works|Calling out without shame works]]
 
 ## Source
 

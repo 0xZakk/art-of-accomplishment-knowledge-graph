@@ -19,9 +19,9 @@ The underlying principle is that working with limiting beliefs is about constant
 
 ## Related Concepts
 
-- [[literature-notes/physical-constriction-signals-limiting-beliefs|Physical constriction signals limiting beliefs]] - The somatic marker that reveals a limiting belief
-- [[literature-notes/three-categories-of-limiting-beliefs|Three categories of beliefs keep all others stuck]] - The meta-beliefs that reinforce constriction
-- [[literature-notes/emotions-are-glue-holding-beliefs|Emotions are the glue holding beliefs in place]] - Why intellectual understanding alone doesn't dissolve constriction
+- [[literature-notes/physical-constriction-signals-limiting-beliefs|Physical constriction signals limiting beliefs]]
+- [[literature-notes/three-categories-of-limiting-beliefs|Three categories of beliefs keep all others stuck]]
+- [[literature-notes/emotions-are-glue-holding-beliefs|Emotions are the glue holding beliefs in place]]
 
 ## Source
 

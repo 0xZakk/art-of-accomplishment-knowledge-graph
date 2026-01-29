@@ -20,8 +20,8 @@ This applies beyond intensive courses. Any deep emotional or identity work requi
 
 ## Related Concepts
 
-- [[literature-notes/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]] - Staying in not-knowing is essential after transformation
-- [[literature-notes/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]] - Pushing through isn't always the answer
+- [[literature-notes/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]]
+- [[literature-notes/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]]
 
 ## Source
 

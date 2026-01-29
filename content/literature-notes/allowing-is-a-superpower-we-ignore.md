@@ -22,10 +22,10 @@ The critical distinction: allowing is not passivity or avoidance. It's an active
 
 ## Related Concepts
 
-- [[literature-notes/letting-go-is-non-management|Letting go is non-management]] - The mechanics of releasing
-- [[literature-notes/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]] - Ease as efficiency
-- [[literature-notes/flow-state-is-embodiment-applied-to-life|Flow state is embodiment applied to life]] - The embodied experience of allowing
-- [[literature-notes/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]] - What happens when we try too hard
+- [[literature-notes/letting-go-is-non-management|Letting go is non-management]]
+- [[literature-notes/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]]
+- [[literature-notes/flow-state-is-embodiment-applied-to-life|Flow state is embodiment applied to life]]
+- [[literature-notes/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]
 
 ## Source
 

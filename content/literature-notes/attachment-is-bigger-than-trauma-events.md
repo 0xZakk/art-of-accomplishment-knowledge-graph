@@ -22,9 +22,9 @@ These two dimensions — attachment quality and traumatic events — are related
 
 ## Related Concepts
 
-- [[literature-notes/attunement-patterns-become-adult-cycles|Attunement patterns become adult cycles]] - How attachment plays out
-- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]] - The repetition pattern
-- [[literature-notes/connection-is-the-core-of-parenting|Connection is the core of parenting]] - What kids actually need
+- [[literature-notes/attunement-patterns-become-adult-cycles|Attunement patterns become adult cycles]]
+- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]]
+- [[literature-notes/connection-is-the-core-of-parenting|Connection is the core of parenting]]
 - [[literature-notes/trauma-addiction-is-choosing-the-familiar|Trauma addiction is choosing what's familiar, not what's safe]]
 
 ## Source

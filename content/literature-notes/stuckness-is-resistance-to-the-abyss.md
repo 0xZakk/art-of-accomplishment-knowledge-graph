@@ -22,10 +22,10 @@ The participant's strategy had been to create perfect circumstances so they'd ne
 
 ## Related Concepts
 
-- [[literature-notes/the-abyss-you-avoid-is-your-freedom|The abyss you avoid is your freedom]] - The abyss is the gateway, not the trap
-- [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness, not the feeling]] - The resistance creates the problem
-- [[literature-notes/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]] - Distinguishing felt stuckness from actual stuckness
-- [[literature-notes/feeling-helplessness-creates-empowerment|Feeling helplessness creates empowerment]] - Going into helplessness creates its opposite
+- [[literature-notes/the-abyss-you-avoid-is-your-freedom|The abyss you avoid is your freedom]]
+- [[literature-notes/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness, not the feeling]]
+- [[literature-notes/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]]
+- [[literature-notes/feeling-helplessness-creates-empowerment|Feeling helplessness creates empowerment]]
 - [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 - [[literature-notes/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
 - [[literature-notes/fear-is-present-on-every-path|Fear is present on every path so face it directly]]

@@ -21,8 +21,8 @@ The implication is profound: perfectionism in parenting (or anywhere) denies oth
 
 ## Related Concepts
 
-- [[literature-notes/shame-never-changes-behavior|Shame never changes the behavior it targets]] - Why shame fails where repair succeeds
-- [[literature-notes/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]] - The mechanism behind why repair works
+- [[literature-notes/shame-never-changes-behavior|Shame never changes the behavior it targets]]
+- [[literature-notes/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]]
 - [[literature-notes/perfectionism-as-safety-strategy|Perfectionism originates as a childhood safety strategy]]
 - [[literature-notes/dont-shame-kids-love-yourself|To not harm your children, love yourself]]
 - [[literature-notes/parent-self-relationship-shapes-child-relationship|Your relationship with yourself shapes your relationship with your children]]

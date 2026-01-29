@@ -22,9 +22,9 @@ The world does react to how we are. Self-possession creates a gravitational fiel
 
 ## Related Concepts
 
-- [[literature-notes/speaking-truth-dissolves-approval-seeking|Speaking your truth dissolves the need for approval]] - The practice that creates self-possession
-- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - The broader life design implication
-- [[literature-notes/confidence-is-connection-to-yourself|Confidence is connection to yourself]] - The inner experience of self-possession
+- [[literature-notes/speaking-truth-dissolves-approval-seeking|Speaking your truth dissolves the need for approval]]
+- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]]
+- [[literature-notes/confidence-is-connection-to-yourself|Confidence is connection to yourself]]
 
 ## Source
 

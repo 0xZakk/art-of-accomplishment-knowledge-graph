@@ -24,9 +24,9 @@ The subtlety is that this isn't about forcing an emotion. It's an invitation —
 
 ## Related Concepts
 
-- [[literature-notes/exercises-need-body-emotion-and-voice|Exercises need body, emotion, and voice]] - The multi-dimensional nature of emotional work
-- [[literature-notes/feeling-through-requires-letting-identity-restructure|Feeling an emotion fully requires letting your identity restructure]] - What full feeling actually requires
-- [[literature-notes/experiments-make-knowledge-embodied|Experiments make knowledge embodied]] - Moving from concept to experience
+- [[literature-notes/exercises-need-body-emotion-and-voice|Exercises need body, emotion, and voice]]
+- [[literature-notes/feeling-through-requires-letting-identity-restructure|Feeling an emotion fully requires letting your identity restructure]]
+- [[literature-notes/experiments-make-knowledge-embodied|Experiments make knowledge embodied]]
 
 ## Source
 

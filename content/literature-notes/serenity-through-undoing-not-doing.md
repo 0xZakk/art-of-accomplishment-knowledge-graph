@@ -22,9 +22,9 @@ Animals never tell themselves to get things done, yet they're always productive.
 
 ## Related Concepts
 
-- [[literature-notes/accomplishment-is-undoing-not-doing|Accomplishment is undoing, not doing]] - The broader principle applied to achievement
-- [[literature-notes/not-trying-gets-more-done|Not trying gets more done]] - Effort-free action outperforms striving
-- [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - The orientation of uncovering vs. building
+- [[literature-notes/accomplishment-is-undoing-not-doing|Accomplishment is undoing, not doing]]
+- [[literature-notes/not-trying-gets-more-done|Not trying gets more done]]
+- [[literature-notes/discovery-not-improvement|Discovery, not improvement]]
 - [[literature-notes/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
 
 ## Source

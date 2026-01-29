@@ -22,9 +22,9 @@ The armor that protects you from abandonment also prevents connection. And witho
 
 ## Related Concepts
 
-- [[literature-notes/we-push-away-support-we-dont-trust|We push away support we don't trust]] - Independence as a form of pushing away
-- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]] - Learning independence as love
-- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]] - The other extreme of the same wound
+- [[literature-notes/we-push-away-support-we-dont-trust|We push away support we don't trust]]
+- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]]
+- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
 
 ## Source
 

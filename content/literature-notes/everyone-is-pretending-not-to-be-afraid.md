@@ -22,9 +22,9 @@ The tragedy is that each person's isolation — believing they alone are the fra
 
 ## Related Concepts
 
-- [[literature-notes/hiding-makes-you-feel-more-like-an-imposter|Hiding makes you feel more like an imposter]] - The recursive trap of performing
-- [[literature-notes/we-are-all-imposters-and-thats-fine|We are all imposters and that's fine]] - The liberating realization that nobody has it figured out
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - What hiding costs us
+- [[literature-notes/hiding-makes-you-feel-more-like-an-imposter|Hiding makes you feel more like an imposter]]
+- [[literature-notes/we-are-all-imposters-and-thats-fine|We are all imposters and that's fine]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 
 ## Source
 

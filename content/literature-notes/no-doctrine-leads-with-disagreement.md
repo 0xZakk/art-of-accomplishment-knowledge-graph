@@ -25,9 +25,9 @@ For Ant personally, the No Doctrine is a practice that directly addresses his co
 
 ## Related Concepts
 
-- [[literature-notes/vulnerability-transforms-business-performance|Vulnerability transforms business performance]] - The broader business case for honesty
-- [[literature-notes/conflict-avoidant-leaders-trade-short-term-for-long-term-pain|Conflict-avoidant leaders trade short-term for long-term pain]] - What happens without the No Doctrine
-- [[literature-notes/authenticity-transforms-business|Authenticity transforms business]] - The root principle
+- [[literature-notes/vulnerability-transforms-business-performance|Vulnerability transforms business performance]]
+- [[literature-notes/conflict-avoidant-leaders-trade-short-term-for-long-term-pain|Conflict-avoidant leaders trade short-term for long-term pain]]
+- [[literature-notes/authenticity-transforms-business|Authenticity transforms business]]
 
 ## Source
 

@@ -22,9 +22,9 @@ This isn't positive thinking — it's a physiological intervention. The electric
 
 ## Related Concepts
 
-- [[literature-notes/fear-constricts-excitement-expands|Fear constricts, excitement expands]] - The polarity between fear and excitement
-- [[literature-notes/breath-regulates-the-nervous-system|Breath regulates the nervous system]] - Breath as the primary regulation tool
-- [[literature-notes/stage-fright-is-a-fuel-cell|Stage fright is a fuel cell, not an obstacle]] - What happens when fear becomes fuel
+- [[literature-notes/fear-constricts-excitement-expands|Fear constricts, excitement expands]]
+- [[literature-notes/breath-regulates-the-nervous-system|Breath regulates the nervous system]]
+- [[literature-notes/stage-fright-is-a-fuel-cell|Stage fright is a fuel cell, not an obstacle]]
 - [[literature-notes/grounded-vs-ungrounded-excitement|Grounded excitement signals readiness; ungrounded excitement covers anxiety]]
 
 ## Source

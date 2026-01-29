@@ -20,9 +20,9 @@ This bridges the intellectual understanding of compassion with its embodied, ety
 
 ## Related Concepts
 
-- [[literature-notes/heartbreak-is-where-love-for-a-parent-lives|Heartbreak is where love for a parent lives]] - The love that compassion carries
-- [[literature-notes/three-brains-of-transformation|Three brains of transformation]] - Heart and gut as distinct centers
-- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]] - Attention directed to somatic experience
+- [[literature-notes/heartbreak-is-where-love-for-a-parent-lives|Heartbreak is where love for a parent lives]]
+- [[literature-notes/three-brains-of-transformation|Three brains of transformation]]
+- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]]
 
 ## Source
 

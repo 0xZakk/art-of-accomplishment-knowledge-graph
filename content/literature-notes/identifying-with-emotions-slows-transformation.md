@@ -24,9 +24,9 @@ The virtuous cycle: the less you identify with emotions, the more fully they mov
 
 ## Related Concepts
 
-- [[literature-notes/feeling-through-requires-letting-identity-restructure|Feeling an emotion fully requires letting your identity restructure]] - What full feeling requires
-- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]] - Identity as limitation
-- [[literature-notes/naming-emotions-can-replace-feeling|Naming emotions can replace feeling]] - Another way emotions get co-opted by mind
+- [[literature-notes/feeling-through-requires-letting-identity-restructure|Feeling an emotion fully requires letting your identity restructure]]
+- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]]
+- [[literature-notes/naming-emotions-can-replace-feeling|Naming emotions can replace feeling]]
 
 ## Source
 

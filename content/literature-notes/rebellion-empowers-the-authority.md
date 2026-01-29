@@ -19,8 +19,8 @@ This is the fundamental insight about power-over dynamics: any response that is 
 
 ## Related Concepts
 
-- [[literature-notes/fight-or-collapse-is-a-false-dichotomy|Fight or collapse is a false dichotomy born from power-over thinking]] - The binary that rebellion lives inside
-- [[literature-notes/internal-authority-mirrors-external|Internal authority mirrors external]] - How authority patterns replicate internally
+- [[literature-notes/fight-or-collapse-is-a-false-dichotomy|Fight or collapse is a false dichotomy born from power-over thinking]]
+- [[literature-notes/internal-authority-mirrors-external|Internal authority mirrors external]]
 - [[literature-notes/rebellion-is-the-only-self-under-control|Rebellion becomes the only sense of self under suffocating control]]
 - [[literature-notes/wanting-to-be-seen-prevents-seeing-others|Wanting to be seen prevents you from seeing others]]
 - [[literature-notes/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]

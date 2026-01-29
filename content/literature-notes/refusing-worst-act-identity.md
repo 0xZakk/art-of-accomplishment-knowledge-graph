@@ -23,9 +23,9 @@ Emile also challenges the prison practice of always leading with your crime — 
 
 ## Related Concepts
 
-- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - All fixed identities constrain
-- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - The recursive trap of shame-based identity
-- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]] - Transformation requires releasing old self-definitions
+- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
+- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
+- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]]
 
 ## Source
 

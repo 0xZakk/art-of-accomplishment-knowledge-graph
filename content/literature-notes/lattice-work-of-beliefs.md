@@ -19,9 +19,9 @@ The lattice can contain different emotions at different layers — anger in one 
 
 ## Related Concepts
 
-- [[literature-notes/three-categories-of-limiting-beliefs|Three categories of beliefs keep all others stuck]] - The core beliefs at the bottom of most lattice structures
-- [[literature-notes/suppressed-layers-beneath-the-presenting-issue|Suppressed layers beneath the presenting issue]] - How surface issues mask deeper structures
-- [[literature-notes/emotions-are-the-glue-holding-beliefs-in-place|Emotions are the glue holding beliefs in place]] - Why the lattice is emotional, not just cognitive
+- [[literature-notes/three-categories-of-limiting-beliefs|Three categories of beliefs keep all others stuck]]
+- [[literature-notes/suppressed-layers-beneath-the-presenting-issue|Suppressed layers beneath the presenting issue]]
+- [[literature-notes/emotions-are-the-glue-holding-beliefs-in-place|Emotions are the glue holding beliefs in place]]
 
 ## Source
 

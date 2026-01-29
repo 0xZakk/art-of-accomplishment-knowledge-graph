@@ -22,9 +22,9 @@ The distinction matters: skepticism and debate aim to prove yourself right. Genu
 
 ## Related Concepts
 
-- [[literature-notes/question-the-assumption-as-self-inquiry|Question the assumption is self-inquiry, not skepticism]] - The genuine version of the practice
-- [[literature-notes/ego-resists-change-in-either-direction|Ego resists change in either direction]] - How ego can co-opt any position
-- [[literature-notes/internal-authority-mirrors-external|Internal authority mirrors external]] - The deeper pattern of authority dynamics
+- [[literature-notes/question-the-assumption-as-self-inquiry|Question the assumption is self-inquiry, not skepticism]]
+- [[literature-notes/ego-resists-change-in-either-direction|Ego resists change in either direction]]
+- [[literature-notes/internal-authority-mirrors-external|Internal authority mirrors external]]
 
 ## Source
 

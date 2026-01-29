@@ -26,9 +26,9 @@ This is fundamentally different from "take the pressure off yourself," which is 
 
 ## Related Concepts
 
-- [[literature-notes/how-you-do-it-determines-if-you-do-it|How you do something determines whether you do it]] - Enjoyment determines sustainability
-- [[literature-notes/procrastination-happens-when-its-personal|Procrastination happens when the work feels personal]] - What makes work feel terrible in the first place
-- [[literature-notes/goals-as-self-abuse-versus-creativity|Goals can be self-abuse or creative expression]] - The difference between oppressive and joyful goals
+- [[literature-notes/how-you-do-it-determines-if-you-do-it|How you do something determines whether you do it]]
+- [[literature-notes/procrastination-happens-when-its-personal|Procrastination happens when the work feels personal]]
+- [[literature-notes/goals-as-self-abuse-versus-creativity|Goals can be self-abuse or creative expression]]
 - [[literature-notes/importance-kills-enjoyment|Making something important is what makes it not fun]]
 - [[literature-notes/enjoyment-as-the-only-metric|Making enjoyment the only metric paradoxically increases productivity]]
 - [[literature-notes/falling-in-love-with-practice|Falling in love with practice beats forcing yourself to practice]]

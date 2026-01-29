@@ -25,9 +25,9 @@ The exit is recognizing that the only person you can save is yourself. When Bret
 
 ## Related Concepts
 
-- [[literature-notes/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others to avoid your feelings]] - The savior's mechanism
-- [[literature-notes/saving-others-is-a-strategy-for-enoughness|Saving others is a strategy for enoughness]] - The underlying motivation
-- [[literature-notes/managing-others-avoids-own-feelings|Managing others avoids own feelings]] - Same dynamic from a different angle
+- [[literature-notes/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others to avoid your feelings]]
+- [[literature-notes/saving-others-is-a-strategy-for-enoughness|Saving others is a strategy for enoughness]]
+- [[literature-notes/managing-others-avoids-own-feelings|Managing others avoids own feelings]]
 - [[literature-notes/drama-triangle-maps-to-fight-flight-freeze|The drama triangle maps to fight, flight, and freeze responses]]
 - [[literature-notes/acknowledging-fear-dissolves-power-dynamics|Acknowledging fear without judgment dissolves power dynamics]]
 

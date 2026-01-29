@@ -22,9 +22,9 @@ The antidote is direct: every time you notice approval-seeking, feel the emotion
 
 ## Related Concepts
 
-- [[literature-notes/approval-seeking-pushes-people-away|Seeking approval pushes people away]] - The interpersonal consequence
-- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]] - Another way of avoiding feelings
-- [[literature-notes/presence-is-pleasure|Presence is pleasure]] - What becomes available when you stay in yourself
+- [[literature-notes/approval-seeking-pushes-people-away|Seeking approval pushes people away]]
+- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]]
+- [[literature-notes/presence-is-pleasure|Presence is pleasure]]
 - [[literature-notes/speaking-truth-dissolves-approval-seeking|Speaking your truth dissolves the need for external approval]]
 
 ## Source

@@ -22,9 +22,9 @@ The deeper reason companies don't track joy: most people believe joy must be ear
 
 ## Related Concepts
 
-- [[literature-notes/enjoyment-is-the-true-measure-of-efficiency|Enjoyment is the true measure of efficiency]] - The deeper principle
-- [[literature-notes/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]] - Applied to work
-- [[literature-notes/five-star-meetings-hack|Five-star meetings hack]] - Practical application to meetings
+- [[literature-notes/enjoyment-is-the-true-measure-of-efficiency|Enjoyment is the true measure of efficiency]]
+- [[literature-notes/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]]
+- [[literature-notes/five-star-meetings-hack|Five-star meetings hack]]
 
 ## Source
 

@@ -22,9 +22,9 @@ Joe's formula is elegant: the craving for alcohol is a signal that the heart is 
 
 ## Related Concepts
 
-- [[literature-notes/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]] - What puts the heart in the box
-- [[literature-notes/closing-heart-from-confused-love|Closing heart from confused love]] - Why the heart gets boxed up
-- [[literature-notes/believing-youre-broken-sustains-addiction|Believing you're broken sustains addiction]] - The deficiency frame that keeps the pattern going
+- [[literature-notes/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]]
+- [[literature-notes/closing-heart-from-confused-love|Closing heart from confused love]]
+- [[literature-notes/believing-youre-broken-sustains-addiction|Believing you're broken sustains addiction]]
 
 ## Source
 

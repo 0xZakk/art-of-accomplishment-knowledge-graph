@@ -21,9 +21,9 @@ This also explains why embracing intensity applies to positive emotions too. Pea
 
 ## Related Concepts
 
-- [[literature-notes/embracing-not-creating-intensity|Embracing not creating intensity]] - The practice of allowing
-- [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]] - Emotion transformed by welcome
-- [[literature-notes/joy-is-the-matriarch|Joy won't enter a house where her children aren't welcome]] - What happens when all emotions flow
+- [[literature-notes/embracing-not-creating-intensity|Embracing not creating intensity]]
+- [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]]
+- [[literature-notes/joy-is-the-matriarch|Joy won't enter a house where her children aren't welcome]]
 - [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming emotions is fundamentally different from accepting them]]
 - [[literature-notes/resistance-creates-the-feared-outcome|Resisting an emotion creates the very outcome you fear]]
 - [[literature-notes/resisting-emotion-invites-it-back|Resisting an emotion is exactly what invites it back]]

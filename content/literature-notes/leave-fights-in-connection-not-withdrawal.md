@@ -22,10 +22,10 @@ Joe describes how this shift completely changed his relationship with Tara. When
 
 ## Related Concepts
 
-- [[literature-notes/clean-exits-during-conflict|Clean exits during conflict]] - The mechanics of stepping away well
-- [[literature-notes/fights-are-always-about-being-seen-and-safe|Fights are always about being seen and safe]] - Why the way you leave matters so much
-- [[literature-notes/safety-comes-from-working-through-conflict|Safety comes from working through conflict]] - Safety as prerequisite for productive conflict
-- [[literature-notes/relationship-agreements-create-safe-conflict|Relationship agreements create safe conflict]] - Structural agreements that enable this
+- [[literature-notes/clean-exits-during-conflict|Clean exits during conflict]]
+- [[literature-notes/fights-are-always-about-being-seen-and-safe|Fights are always about being seen and safe]]
+- [[literature-notes/safety-comes-from-working-through-conflict|Safety comes from working through conflict]]
+- [[literature-notes/relationship-agreements-create-safe-conflict|Relationship agreements create safe conflict]]
 
 ## Source
 

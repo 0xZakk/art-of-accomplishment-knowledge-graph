@@ -19,8 +19,8 @@ The practical implication: working on yourself isn't selfish preparation for rel
 
 ## Related Concepts
 
-- [[literature-notes/self-love-is-the-capacity-limit-for-loving-others|Self-love is the capacity limit for loving others]] - The general principle
-- [[literature-notes/dropping-shame-is-prerequisite-for-seeing-your-partner|Dropping shame is the prerequisite for seeing your partner]] - The shame mechanism
+- [[literature-notes/self-love-is-the-capacity-limit-for-loving-others|Self-love is the capacity limit for loving others]]
+- [[literature-notes/dropping-shame-is-prerequisite-for-seeing-your-partner|Dropping shame is the prerequisite for seeing your partner]]
 - [[literature-notes/you-get-the-love-you-can-accept|You only get the love you can let in]]
 - [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 - [[literature-notes/love-yourself-how-you-wanted-to-be-loved|Love yourself the way you always wanted to be loved]]

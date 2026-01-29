@@ -24,9 +24,9 @@ This doesn't mean condoning harmful actions. It means refusing to dehumanize the
 
 ## Related Concepts
 
-- [[literature-notes/right-and-wrong-dissolve-into-embodied-morality|Right and wrong dissolve into embodied morality]] - The broader framework for moving past conceptual morality
-- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]] - What holding someone as "wrong" protects you from feeling
-- [[literature-notes/self-forgiveness-breaks-the-shame-loop|Self-forgiveness breaks the shame loop]] - The self-directed version of this healing
+- [[literature-notes/right-and-wrong-dissolve-into-embodied-morality|Right and wrong dissolve into embodied morality]]
+- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]]
+- [[literature-notes/self-forgiveness-breaks-the-shame-loop|Self-forgiveness breaks the shame loop]]
 - [[literature-notes/vulnerability-is-personal-not-moral|What's vulnerable is personal, not a universal morality]]
 
 ## Source

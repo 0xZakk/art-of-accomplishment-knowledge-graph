@@ -20,9 +20,9 @@ Animals naturally do this through shaking. Dogs shake twenty to thirty times a d
 
 ## Related Concepts
 
-- [[literature-notes/activation-release-rest-cycle|Activation release rest cycle]] - The natural rhythm of fear processing
-- [[literature-notes/recovery-time-is-part-of-the-work|Recovery time is part of the work]] - Why rest after intensity matters
-- [[literature-notes/managing-trauma-versus-resolving-it|Managing trauma versus resolving it]] - Compartmentalization vs. resolution
+- [[literature-notes/activation-release-rest-cycle|Activation release rest cycle]]
+- [[literature-notes/recovery-time-is-part-of-the-work|Recovery time is part of the work]]
+- [[literature-notes/managing-trauma-versus-resolving-it|Managing trauma versus resolving it]]
 
 ## Source
 

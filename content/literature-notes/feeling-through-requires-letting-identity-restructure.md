@@ -24,9 +24,9 @@ How do you know you've felt an emotion all the way through? You love it. "If you
 
 ## Related Concepts
 
-- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]] - Transformation requires releasing who you were
-- [[literature-notes/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]] - The identity restructuring process
-- [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]] - How holding on blocks the process
+- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]]
+- [[literature-notes/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]]
+- [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]]
 - [[literature-notes/moving-emotions-dissolves-stories|Moving emotions dissolves stories and creates clarity]]
 
 ## Source

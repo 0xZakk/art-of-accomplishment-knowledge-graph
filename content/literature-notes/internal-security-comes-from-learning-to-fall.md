@@ -24,9 +24,9 @@ The more internal security we develop, the less we need external conditions to b
 
 ## Related Concepts
 
-- [[literature-notes/confidence-comes-from-reps-not-reading|Confidence comes from reps, not reading]] - Embodied experience over theory
-- [[literature-notes/resourcefulness-over-resources|Resourcefulness over resources]] - Inner capacity matters more than external conditions
-- [[literature-notes/feeling-helplessness-creates-empowerment|Feeling helplessness creates empowerment]] - Moving through the feared state builds power
+- [[literature-notes/confidence-comes-from-reps-not-reading|Confidence comes from reps, not reading]]
+- [[literature-notes/resourcefulness-over-resources|Resourcefulness over resources]]
+- [[literature-notes/feeling-helplessness-creates-empowerment|Feeling helplessness creates empowerment]]
 
 ## Source
 

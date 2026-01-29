@@ -20,8 +20,8 @@ This is why Joe criticizes one-directional charity that denies recipients the op
 
 ## Related Concepts
 
-- [[literature-notes/generosity-is-being-not-giving|True generosity is being, not giving]] - The deeper principle
-- [[literature-notes/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]] - Abundance as orientation
+- [[literature-notes/generosity-is-being-not-giving|True generosity is being, not giving]]
+- [[literature-notes/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]]
 
 ## Source
 

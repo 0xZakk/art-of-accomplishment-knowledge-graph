@@ -22,9 +22,9 @@ Every emotion faces the same resistance from the mind: anger might destroy every
 
 ## Related Concepts
 
-- [[literature-notes/foreboding-joy-blocks-gratitude|Foreboding joy blocks gratitude]] - The pattern of undermining positive experience
-- [[literature-notes/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant]] - Why peace triggers fear
-- [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]] - The prerequisite for sustainable joy
+- [[literature-notes/foreboding-joy-blocks-gratitude|Foreboding joy blocks gratitude]]
+- [[literature-notes/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant]]
+- [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]]
 - [[literature-notes/unfelt-joy-as-source-of-anxiety|Unfelt joy is a hidden source of anxiety]]
 
 ## Source

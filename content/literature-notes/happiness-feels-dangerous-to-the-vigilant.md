@@ -22,9 +22,9 @@ But the opposite is true. Gratitude opens perception rather than narrowing it. A
 
 ## Related Concepts
 
-- [[literature-notes/fear-limits-optionality|Fear limits optionality]] - Fear as a perceptual narrower
-- [[literature-notes/pleasure-signals-safety|Pleasure signals safety]] - Allowing good feelings
-- [[literature-notes/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]] - Another form of self-protection through negativity
+- [[literature-notes/fear-limits-optionality|Fear limits optionality]]
+- [[literature-notes/pleasure-signals-safety|Pleasure signals safety]]
+- [[literature-notes/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]]
 - [[literature-notes/foreboding-joy-blocks-gratitude|Foreboding joy—fear of the other shoe dropping—blocks gratitude]]
 
 ## Source

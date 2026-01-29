@@ -19,8 +19,8 @@ Esme also observes that heavily micromanaged and criticized kids are more likely
 
 ## Related Concepts
 
-- [[literature-notes/helplessness-dissolves-false-self-reliance|Helplessness dissolves false self-reliance]] - The emotion underneath the need for control
-- [[literature-notes/authority-distorts-reality-for-leaders|Authority distorts reality for leaders]] - Control dynamics in organizations
+- [[literature-notes/helplessness-dissolves-false-self-reliance|Helplessness dissolves false self-reliance]]
+- [[literature-notes/authority-distorts-reality-for-leaders|Authority distorts reality for leaders]]
 
 ## Source
 

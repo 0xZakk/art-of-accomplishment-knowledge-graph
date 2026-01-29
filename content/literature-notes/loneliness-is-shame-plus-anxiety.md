@@ -25,9 +25,9 @@ What makes this particularly insidious is that loneliness has an addictive quali
 
 ## Related Concepts
 
-- [[literature-notes/shame-stagnates-emotional-fluidity|Shame stagnates emotional fluidity]] - Shame's stagnating quality is what makes loneliness chronic
-- [[literature-notes/social-anxiety-is-hiding-from-phantom-shame|Social anxiety is hiding from phantom shame]] - The anxiety component of loneliness is rooted in shame
-- [[literature-notes/connection-starts-within-not-between|Connection starts within, not between]] - The antidote begins with self-connection
+- [[literature-notes/shame-stagnates-emotional-fluidity|Shame stagnates emotional fluidity]]
+- [[literature-notes/social-anxiety-is-hiding-from-phantom-shame|Social anxiety is hiding from phantom shame]]
+- [[literature-notes/connection-starts-within-not-between|Connection starts within, not between]]
 - [[literature-notes/solitude-versus-loneliness|Solitude and loneliness are fundamentally different]]
 - [[literature-notes/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
 - [[literature-notes/chronic-loneliness-creates-threat-perception|Chronic loneliness shifts the world into a threat]]

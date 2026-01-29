@@ -23,8 +23,8 @@ The same applies to parenting: let toddlers set the table even if dishes break. 
 
 ## Related Concepts
 
-- [[literature-notes/iterative-mindset-prevents-failure|An iterative mindset makes failure impossible]] - The mindset being embedded
-- [[literature-notes/find-whats-working-and-spread-it|Find what's working and spread it]] - Complementary leadership approach
+- [[literature-notes/iterative-mindset-prevents-failure|An iterative mindset makes failure impossible]]
+- [[literature-notes/find-whats-working-and-spread-it|Find what's working and spread it]]
 
 ## Source
 

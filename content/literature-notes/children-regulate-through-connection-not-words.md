@@ -23,9 +23,9 @@ Kids are "full feeling machines in a dream state" until their intellect comes on
 
 ## Related Concepts
 
-- [[literature-notes/connection-is-the-core-of-parenting|Connection is the core of parenting]] - The foundational principle
-- [[literature-notes/attunement-regulates-both-nervous-systems|Attunement regulates both nervous systems]] - The mechanism at work
-- [[literature-notes/model-emotions-for-children|Model emotions for children]] - What they actually learn from
+- [[literature-notes/connection-is-the-core-of-parenting|Connection is the core of parenting]]
+- [[literature-notes/attunement-regulates-both-nervous-systems|Attunement regulates both nervous systems]]
+- [[literature-notes/model-emotions-for-children|Model emotions for children]]
 
 ## Source
 

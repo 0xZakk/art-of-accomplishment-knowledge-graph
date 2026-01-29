@@ -33,9 +33,9 @@ Joe's response is direct:
 The mental approach to purpose *is* the avoidance of purpose.
 ## Related Concepts
 
-- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]] - Where purpose actually lives
-- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]] - How the search becomes avoidance
-- [[literature-notes/doubt-is-leaving-your-heart|Doubt is leaving your heart]] - The mind's escape route
+- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
+- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
+- [[literature-notes/doubt-is-leaving-your-heart|Doubt is leaving your heart]]
 - [[literature-notes/doubt-protects-from-unwanted-emotions|Doubt protects you from emotions you don't want to feel]]
 - [[literature-notes/wanting-is-aliveness|Wanting is aliveness]]
 

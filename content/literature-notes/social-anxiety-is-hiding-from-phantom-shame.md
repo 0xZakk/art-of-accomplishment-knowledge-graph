@@ -23,9 +23,9 @@ The man says he "sits on this all the time" and knows he's ignoring it. Joe refr
 
 ## Related Concepts
 
-- [[literature-notes/shame-outlines-identity|Shame outlines identity]] - How shame shapes the self-concept
-- [[literature-notes/connection-dissolves-shame|Connection dissolves shame]] - What actually happens when shame meets presence
-- [[literature-notes/hiding-makes-you-feel-more-like-an-imposter|Hiding makes you feel more like an imposter]] - The reinforcing loop of concealment
+- [[literature-notes/shame-outlines-identity|Shame outlines identity]]
+- [[literature-notes/connection-dissolves-shame|Connection dissolves shame]]
+- [[literature-notes/hiding-makes-you-feel-more-like-an-imposter|Hiding makes you feel more like an imposter]]
 - [[literature-notes/what-youre-hiding-is-your-emotions|What you're hiding is your emotions, not a defect]]
 - [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]]
 - [[literature-notes/shame-about-anxiety-creates-more-anxiety|Shame about anxiety creates more anxiety]]

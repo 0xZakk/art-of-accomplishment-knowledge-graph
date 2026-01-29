@@ -20,9 +20,9 @@ The critical step is simply recognizing it: "All they have to do is recognize it
 
 ## Related Concepts
 
-- [[literature-notes/great-leaders-follow-conviction|Great leaders follow their conviction and the conviction of others]] - What leadership looks like in practice
-- [[literature-notes/blame-blocks-leadership|Blame prevents stepping into leadership]] - Why people avoid owning their leadership
-- [[literature-notes/empower-people-decentrally|Empower people decentrally]] - The organizational expression
+- [[literature-notes/great-leaders-follow-conviction|Great leaders follow their conviction and the conviction of others]]
+- [[literature-notes/blame-blocks-leadership|Blame prevents stepping into leadership]]
+- [[literature-notes/empower-people-decentrally|Empower people decentrally]]
 
 ## Source
 

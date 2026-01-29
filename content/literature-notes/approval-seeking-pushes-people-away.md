@@ -22,9 +22,9 @@ The people we actually trust and want to be around are the ones who show up as t
 
 ## Related Concepts
 
-- [[literature-notes/we-push-away-approval-we-seek|We push away the approval we seek]] - The same dynamic from the other side
-- [[literature-notes/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]] - Approval-seeking prevents authentic visibility
-- [[literature-notes/being-interested-not-interesting|Being interested, not interesting]] - The alternative to extracting approval
+- [[literature-notes/we-push-away-approval-we-seek|We push away the approval we seek]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]]
+- [[literature-notes/being-interested-not-interesting|Being interested, not interesting]]
 - [[literature-notes/unfelt-emotions-drive-you-into-others-opinions|Unfelt emotions drive you out of yourself and into others' opinions]]
 - [[literature-notes/speaking-truth-dissolves-approval-seeking|Speaking your truth dissolves the need for external approval]]
 - [[literature-notes/chase-your-own-approval|Chase your own approval instead of others'—do I approve of that?]]

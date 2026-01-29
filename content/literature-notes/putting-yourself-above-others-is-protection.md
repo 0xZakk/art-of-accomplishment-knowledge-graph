@@ -20,9 +20,9 @@ This pattern is especially insidious in helpers, coaches, and leaders who have d
 
 ## Related Concepts
 
-- [[literature-notes/helplessness-dissolves-false-self-reliance|Helplessness dissolves false self-reliance]] - What dissolves the above-others pattern
-- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - How identity as "the capable one" limits
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - The cost of performing instead of being
+- [[literature-notes/helplessness-dissolves-false-self-reliance|Helplessness dissolves false self-reliance]]
+- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[literature-notes/subtle-superiority-as-protection|Subtle superiority is a protection pattern that creates isolation]]
 - [[literature-notes/helplessness-is-the-emotion-being-avoided|The feeling being avoided underneath 'I've got this' is helplessness]]
 - [[literature-notes/superiority-and-shame-are-paired|Superiority and shame are two sides of the same coin]]

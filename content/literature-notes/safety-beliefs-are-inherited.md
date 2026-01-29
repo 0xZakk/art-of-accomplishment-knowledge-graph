@@ -24,9 +24,9 @@ This reveals how children inherit not just behaviors but beliefs about what's po
 
 ## Related Concepts
 
-- [[literature-notes/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood patterns]] - How childhood shapes financial behavior
-- [[literature-notes/parent-self-relationship-shapes-child-relationship|Parent-self relationship shapes child relationship]] - The inheritance of relational patterns
-- [[literature-notes/money-wounds-trace-to-parent-wounds|Money wounds trace to parent wounds]] - Financial patterns rooted in family
+- [[literature-notes/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood patterns]]
+- [[literature-notes/parent-self-relationship-shapes-child-relationship|Parent-self relationship shapes child relationship]]
+- [[literature-notes/money-wounds-trace-to-parent-wounds|Money wounds trace to parent wounds]]
 
 ## Source
 

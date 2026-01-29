@@ -21,10 +21,10 @@ The guest discovers this experientially through role-play. When Joe pretends to 
 
 ## Related Concepts
 
-- [[literature-notes/connection-dissolves-shame|Connection dissolves shame]] - What resolves shame when it arises
-- [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]] - The mechanism of resolution
-- [[literature-notes/being-loved-in-the-shame-dissolves-it|Being loved in the shame dissolves it]] - Relational healing of shame
-- [[literature-notes/shame-is-love-in-disguise|Shame is love in disguise]] - The deeper nature of shame
+- [[literature-notes/connection-dissolves-shame|Connection dissolves shame]]
+- [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]]
+- [[literature-notes/being-loved-in-the-shame-dissolves-it|Being loved in the shame dissolves it]]
+- [[literature-notes/shame-is-love-in-disguise|Shame is love in disguise]]
 - [[literature-notes/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
 - [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]]
 - [[literature-notes/welcome-shame-dont-push-through-it|Welcome shame rather than pushing through it]]

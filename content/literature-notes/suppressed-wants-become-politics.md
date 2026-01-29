@@ -26,10 +26,10 @@ The antidote is owning wants transparently while trusting others to do the same 
 
 ## Related Concepts
 
-- [[literature-notes/nice-cultures-breed-passive-aggression|Nice cultures breed passive aggression]] - Politeness as dysfunction
-- [[literature-notes/leaders-must-say-what-they-want-cleanly|Leaders must say what they want cleanly]] - Clarity as leadership practice
-- [[literature-notes/owning-your-wants-dissolves-passive-aggression|Owning your wants dissolves passive aggression]] - The direct path through
-- [[literature-notes/asking-for-what-you-want-dissolves-resentment|Asking for what you want dissolves resentment]] - Asking as resentment prevention
+- [[literature-notes/nice-cultures-breed-passive-aggression|Nice cultures breed passive aggression]]
+- [[literature-notes/leaders-must-say-what-they-want-cleanly|Leaders must say what they want cleanly]]
+- [[literature-notes/owning-your-wants-dissolves-passive-aggression|Owning your wants dissolves passive aggression]]
+- [[literature-notes/asking-for-what-you-want-dissolves-resentment|Asking for what you want dissolves resentment]]
 
 ## Source
 

@@ -22,9 +22,9 @@ What people are actually resisting isn't your message — it's being controlled.
 
 ## Related Concepts
 
-- [[literature-notes/communication-techniques-get-weaponized|Communication techniques get weaponized]] - NVC and other frameworks become control strategies
-- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]] - The same dynamic in seeking approval
-- [[literature-notes/state-of-mind-determines-how-youre-heard|State of mind determines how you're heard]] - Why the internal state matters more than word choice
+- [[literature-notes/communication-techniques-get-weaponized|Communication techniques get weaponized]]
+- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
+- [[literature-notes/state-of-mind-determines-how-youre-heard|State of mind determines how you're heard]]
 - [[literature-notes/seeking-understanding-is-seeking-connection|What we call being understood is really seeking connection]]
 
 ## Source

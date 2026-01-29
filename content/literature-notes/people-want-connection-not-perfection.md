@@ -22,9 +22,9 @@ Perfection is inherently disconnecting because it puts a polished surface betwee
 
 ## Related Concepts
 
-- [[literature-notes/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]] - Perfection hides the real you
-- [[literature-notes/being-interested-not-interesting|Being interested, not interesting]] - Connection through curiosity
-- [[literature-notes/approval-seeking-pushes-people-away|Seeking approval pushes people away]] - Performing perfection as approval-seeking
+- [[literature-notes/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]]
+- [[literature-notes/being-interested-not-interesting|Being interested, not interesting]]
+- [[literature-notes/approval-seeking-pushes-people-away|Seeking approval pushes people away]]
 
 ## Source
 

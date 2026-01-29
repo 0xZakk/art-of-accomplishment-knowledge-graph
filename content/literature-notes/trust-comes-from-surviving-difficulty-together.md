@@ -22,9 +22,9 @@ Johannes describes how council sessions — where leadership brought their trigg
 
 ## Related Concepts
 
-- [[literature-notes/safety-comes-from-working-through-conflict|Safety comes from working through conflict]] - The mechanism of trust-building
-- [[literature-notes/run-toward-friction-not-away|Run toward friction, not away from it]] - The practice that builds trust
-- [[literature-notes/open-the-drawer-as-cultural-practice|"Open the drawer" as cultural practice]] - The permission structure for honesty
+- [[literature-notes/safety-comes-from-working-through-conflict|Safety comes from working through conflict]]
+- [[literature-notes/run-toward-friction-not-away|Run toward friction, not away from it]]
+- [[literature-notes/open-the-drawer-as-cultural-practice|"Open the drawer" as cultural practice]]
 
 ## Source
 

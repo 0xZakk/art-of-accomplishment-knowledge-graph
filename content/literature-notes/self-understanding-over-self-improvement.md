@@ -23,10 +23,10 @@ This is the foundational reframe of Art of Accomplishment: stop trying to be bet
 
 ## Related Concepts
 
-- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]] - The deeper critique
-- [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - The paradigm shift
-- [[literature-notes/bullying-yourself-creates-resistance|Bullying yourself creates resistance]] - Why force backfires
-- [[literature-notes/inner-critic-is-not-your-voice|The inner critic is not your voice]] - The voice driving self-improvement
+- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
+- [[literature-notes/discovery-not-improvement|Discovery, not improvement]]
+- [[literature-notes/bullying-yourself-creates-resistance|Bullying yourself creates resistance]]
+- [[literature-notes/inner-critic-is-not-your-voice|The inner critic is not your voice]]
 
 ## Source
 

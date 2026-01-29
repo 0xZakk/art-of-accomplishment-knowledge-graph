@@ -22,9 +22,9 @@ Crucially, allowing sensations has no valence — it's not about allowing the po
 
 ## Related Concepts
 
-- [[literature-notes/presence-is-pleasure|Presence is pleasure]] - The connection between awareness and enjoyment
-- [[literature-notes/pleasure-as-emotional-fluidity-practice|Pleasure as emotional fluidity practice]] - Using pleasure as a path to fluidity
-- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]] - The simplicity of somatic awareness
+- [[literature-notes/presence-is-pleasure|Presence is pleasure]]
+- [[literature-notes/pleasure-as-emotional-fluidity-practice|Pleasure as emotional fluidity practice]]
+- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]]
 - [[literature-notes/pleasure-is-noticing-sensations-moving|Pleasure is simply noticing sensations moving in your body]]
 - [[literature-notes/pleasure-is-sensation-moving-through-the-body|Pleasure is the awareness of sensation moving through the body]]
 - [[literature-notes/pleasure-is-available-in-every-emotion|Pleasure is available in every emotion when fully felt]]

@@ -21,8 +21,8 @@ Structural changes work because they set the default behavior. People don't have
 
 ## Related Concepts
 
-- [[literature-notes/empower-people-decentrally|Empower people in a decentralized way]] - The principle behind good structural changes
-- [[literature-notes/address-root-blockers-not-symptoms|Address root blockers, not symptoms]] - Systems thinking applied
+- [[literature-notes/empower-people-decentrally|Empower people in a decentralized way]]
+- [[literature-notes/address-root-blockers-not-symptoms|Address root blockers, not symptoms]]
 
 ## Source
 

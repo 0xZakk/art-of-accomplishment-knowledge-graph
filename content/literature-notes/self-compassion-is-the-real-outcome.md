@@ -22,9 +22,9 @@ People who develop self-compassion become less reactive, less neurotic, less off
 
 ## Related Concepts
 
-- [[literature-notes/self-compassion-before-external-success|Self-compassion before external success]] - The prerequisite
-- [[literature-notes/managing-trauma-versus-resolving-it|Managing trauma versus resolving it]] - What resolution looks like
-- [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt not fought]] - The shame connection
+- [[literature-notes/self-compassion-before-external-success|Self-compassion before external success]]
+- [[literature-notes/managing-trauma-versus-resolving-it|Managing trauma versus resolving it]]
+- [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt not fought]]
 
 ## Source
 

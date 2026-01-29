@@ -24,9 +24,9 @@ This points to a paradox at the heart of connection practice: it requires both p
 
 ## Related Concepts
 
-- [[literature-notes/chasing-connection-prevents-connection|Chasing connection prevents connection]] - Effort to achieve connection creates separation
-- [[literature-notes/felt-gratitude-not-performed-gratitude|Felt gratitude, not performed gratitude]] - Genuine gratitude as the response to reconnection
-- [[literature-notes/gratitude-arrives-when-you-stop-striving|Gratitude arrives when you stop striving]] - Gratitude as the natural fruit of non-efforting
+- [[literature-notes/chasing-connection-prevents-connection|Chasing connection prevents connection]]
+- [[literature-notes/felt-gratitude-not-performed-gratitude|Felt gratitude, not performed gratitude]]
+- [[literature-notes/gratitude-arrives-when-you-stop-striving|Gratitude arrives when you stop striving]]
 
 ## Source
 

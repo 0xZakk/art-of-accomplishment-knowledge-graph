@@ -20,8 +20,8 @@ This doesn't make stories useless — they're what make us human. After a period
 
 ## Related Concepts
 
-- [[literature-notes/holding-opposing-viewpoints-creates-freedom|Holding opposing viewpoints creates freedom]] - The freedom of non-attachment to views
-- [[literature-notes/same-experience-different-interpretation|Same experience different interpretation]] - Multiple valid frames
+- [[literature-notes/holding-opposing-viewpoints-creates-freedom|Holding opposing viewpoints creates freedom]]
+- [[literature-notes/same-experience-different-interpretation|Same experience different interpretation]]
 
 ## Source
 

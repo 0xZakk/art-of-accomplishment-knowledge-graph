@@ -22,9 +22,9 @@ The antidote to fear of losing the insight is gratitude for having seen it: "Oh,
 
 ## Related Concepts
 
-- [[literature-notes/insight-is-not-wisdom-until-embodied|Insight is not wisdom until embodied]] - The larger journey this sabotages
-- [[literature-notes/foreboding-joy-blocks-gratitude|Foreboding joy blocks gratitude]] - A parallel pattern of fearing good things
-- [[literature-notes/tools-can-keep-you-stuck|Tools can keep you stuck]] - How even insights become defenses
+- [[literature-notes/insight-is-not-wisdom-until-embodied|Insight is not wisdom until embodied]]
+- [[literature-notes/foreboding-joy-blocks-gratitude|Foreboding joy blocks gratitude]]
+- [[literature-notes/tools-can-keep-you-stuck|Tools can keep you stuck]]
 - [[literature-notes/gentleness-accelerates-growth|Gentleness accelerates growth]]
 
 ## Source

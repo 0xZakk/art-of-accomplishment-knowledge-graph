@@ -20,9 +20,9 @@ Joe's daughter at nine years old reported regularly experiencing a sense of "som
 
 ## Related Concepts
 
-- [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]] - What fluid emotions look like
-- [[literature-notes/emotions-are-always-present|Emotions are always present]] - The continuous emotional stream
-- [[literature-notes/being-with-emotions-beats-fixing-them|Being with emotions beats fixing them]] - Presence over management
+- [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]]
+- [[literature-notes/emotions-are-always-present|Emotions are always present]]
+- [[literature-notes/being-with-emotions-beats-fixing-them|Being with emotions beats fixing them]]
 
 ## Source
 

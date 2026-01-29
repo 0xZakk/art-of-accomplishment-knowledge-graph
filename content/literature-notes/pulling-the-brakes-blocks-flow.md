@@ -24,9 +24,9 @@ The release doesn't mean abandoning practical care. You can plan reasonable inte
 
 ## Related Concepts
 
-- [[literature-notes/muscles-constrict-to-block-feeling|Muscles constrict to block feeling]] - The somatic mechanism of emotional suppression
-- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - Constriction affects all emotional experience
-- [[literature-notes/composure-is-self-imprisonment|Composure is self-imprisonment]] - Maintaining composure as self-limitation
+- [[literature-notes/muscles-constrict-to-block-feeling|Muscles constrict to block feeling]]
+- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
+- [[literature-notes/composure-is-self-imprisonment|Composure is self-imprisonment]]
 - [[literature-notes/chronic-pain-and-emotional-suppression|Chronic pain deepens when emotional expression is suppressed]]
 
 ## Source

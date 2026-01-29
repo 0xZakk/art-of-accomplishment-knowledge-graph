@@ -22,9 +22,9 @@ This is why both practitioners insist on in-person facilitation with high facili
 
 ## Related Concepts
 
-- [[literature-notes/confusing-state-with-insight|Confusing state with insight]] - The trap of mistaking experience for growth
-- [[literature-notes/insight-requires-embodied-integration|Insight requires embodied integration]] - Why experience alone isn't enough
-- [[literature-notes/deep-healing-has-a-regression-phase|Deep healing has a regression phase]] - The non-linear nature of integration
+- [[literature-notes/confusing-state-with-insight|Confusing state with insight]]
+- [[literature-notes/insight-requires-embodied-integration|Insight requires embodied integration]]
+- [[literature-notes/deep-healing-has-a-regression-phase|Deep healing has a regression phase]]
 
 ## Source
 

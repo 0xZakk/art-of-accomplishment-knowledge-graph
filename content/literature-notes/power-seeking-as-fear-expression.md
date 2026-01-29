@@ -24,8 +24,8 @@ The irony deepens when you realize that Harrison's entire teaching method is to 
 
 ## Related Concepts
 
-- [[literature-notes/seeking-power-is-an-expression-of-fear|Seeking power is an expression of fear]] - The core principle
-- [[literature-notes/control-is-the-trade-for-self-love|Control is the trade for self-love]] - What power seeking replaces
+- [[literature-notes/seeking-power-is-an-expression-of-fear|Seeking power is an expression of fear]]
+- [[literature-notes/control-is-the-trade-for-self-love|Control is the trade for self-love]]
 
 ## Source
 

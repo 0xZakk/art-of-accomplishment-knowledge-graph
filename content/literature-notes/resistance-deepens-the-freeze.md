@@ -22,9 +22,9 @@ This applies on a nervous system level specifically. The freeze response was ori
 
 ## Related Concepts
 
-- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - The broader pattern of resistance producing what you're trying to avoid
-- [[literature-notes/bullying-yourself-creates-resistance|Bullying yourself creates resistance]] - Self-pressure as the mechanism of deepening freeze
-- [[literature-notes/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]] - The same principle applied to fear specifically
+- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
+- [[literature-notes/bullying-yourself-creates-resistance|Bullying yourself creates resistance]]
+- [[literature-notes/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]]
 - [[literature-notes/childhood-freeze-becomes-adult-trap|The childhood freeze response becomes the adult trap]]
 - [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 

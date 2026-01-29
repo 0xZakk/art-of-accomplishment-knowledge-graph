@@ -24,9 +24,9 @@ The practical implication: let your mind do all the processing — the spreadshe
 
 ## Related Concepts
 
-- [[literature-notes/every-no-is-new-information|Every 'no' is new information that creates clarity]] - The no becomes valuable when you can hold both sides
-- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - Why we resist holding opposing views
-- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]] - The personality dissolves when we stop defending positions
+- [[literature-notes/every-no-is-new-information|Every 'no' is new information that creates clarity]]
+- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
+- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]]
 - [[literature-notes/opening-heart-to-what-you-resist|Opening your heart to what you resist dissolves rigidity]]
 
 ## Source

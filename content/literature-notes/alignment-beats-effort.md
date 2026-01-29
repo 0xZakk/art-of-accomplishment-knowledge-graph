@@ -22,9 +22,9 @@ This is why operating principles matter so much. They create alignment at the or
 
 ## Related Concepts
 
-- [[literature-notes/operating-principles-automate-eighty-percent-of-decisions|Operating principles automate 80% of decisions]] - The mechanism of organizational alignment
-- [[literature-notes/internal-alignment-mirrors-organizational-alignment|Internal alignment mirrors organizational alignment]] - Personal and org alignment reflect each other
-- [[literature-notes/connection-enables-accomplishment|Connection enables accomplishment]] - The foundation of effective collaboration
+- [[literature-notes/operating-principles-automate-eighty-percent-of-decisions|Operating principles automate 80% of decisions]]
+- [[literature-notes/internal-alignment-mirrors-organizational-alignment|Internal alignment mirrors organizational alignment]]
+- [[literature-notes/connection-enables-accomplishment|Connection enables accomplishment]]
 
 ## Source
 

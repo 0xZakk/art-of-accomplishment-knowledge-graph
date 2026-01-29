@@ -21,9 +21,9 @@ Brett names the deeper pattern: Sanok sits with his kids in the question "how do
 
 ## Related Concepts
 
-- [[literature-notes/repair-is-as-important-as-getting-it-right|Repair is as important as getting it right]] - The value of repair over prevention
-- [[literature-notes/model-emotions-for-children|Model emotions for children]] - Showing rather than telling
-- [[literature-notes/upright-apology-changes-behavior|Upright apology changes behavior]] - How genuine apology transforms
+- [[literature-notes/repair-is-as-important-as-getting-it-right|Repair is as important as getting it right]]
+- [[literature-notes/model-emotions-for-children|Model emotions for children]]
+- [[literature-notes/upright-apology-changes-behavior|Upright apology changes behavior]]
 
 ## Source
 

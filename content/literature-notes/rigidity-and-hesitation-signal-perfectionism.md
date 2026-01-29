@@ -22,9 +22,9 @@ If you want to know whether perfectionism is running you, check your body—not 
 
 ## Related Concepts
 
-- [[literature-notes/perfectionism-is-the-critical-parents-voice|Perfectionism is the critical parent's voice]] - What the body is expressing
-- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - Rigidity as identity expression
-- [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]] - Another somatic-cognitive indicator
+- [[literature-notes/perfectionism-is-the-critical-parents-voice|Perfectionism is the critical parent's voice]]
+- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
+- [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]]
 
 ## Source
 

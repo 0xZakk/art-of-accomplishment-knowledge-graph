@@ -22,9 +22,9 @@ Knowing is only relevant based on context, and context shifts constantly. "It's 
 
 ## Related Concepts
 
-- [[literature-notes/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]] - What to cultivate instead
-- [[literature-notes/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]] - How wonder dissolves the need to be right
-- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]] - Knowing as identity
+- [[literature-notes/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]]
+- [[literature-notes/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]]
+- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]]
 
 ## Source
 

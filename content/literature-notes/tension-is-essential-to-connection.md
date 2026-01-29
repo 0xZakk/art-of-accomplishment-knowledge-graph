@@ -22,9 +22,9 @@ Crucially, this means allowing tension that naturally arises rather than manufac
 
 ## Related Concepts
 
-- [[literature-notes/conflict-builds-trust|Conflict builds trust]] - Working through tension deepens trust
-- [[literature-notes/allowing-conflict-not-creating-it|Allowing conflict, not creating it]] - Embrace what arises rather than manufacturing difficulty
-- [[literature-notes/adversity-refines-rather-than-destroys|Adversity refines rather than destroys]] - Adversity through connection becomes refinement
+- [[literature-notes/conflict-builds-trust|Conflict builds trust]]
+- [[literature-notes/allowing-conflict-not-creating-it|Allowing conflict, not creating it]]
+- [[literature-notes/adversity-refines-rather-than-destroys|Adversity refines rather than destroys]]
 - [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 
 ## Source

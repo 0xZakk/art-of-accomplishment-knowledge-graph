@@ -22,9 +22,9 @@ The most insidious aspect: we often see obligation as the only thing maintaining
 
 ## Related Concepts
 
-- [[literature-notes/presenting-yourself-prevents-being-loved|Presenting yourself prevents being loved]] - The broader pattern of performing instead of being
-- [[literature-notes/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]] - Identity contortion for love
-- [[literature-notes/performing-for-connection-blocks-authentic-earning|Performing for connection blocks authentic earning]] - Performance as barrier
+- [[literature-notes/presenting-yourself-prevents-being-loved|Presenting yourself prevents being loved]]
+- [[literature-notes/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]]
+- [[literature-notes/performing-for-connection-blocks-authentic-earning|Performing for connection blocks authentic earning]]
 - [[literature-notes/obligation-cuts-off-love|Obligation cuts off the experience of love in the moment]]
 
 ## Source

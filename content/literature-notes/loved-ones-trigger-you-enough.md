@@ -22,9 +22,9 @@ The real work isn't seeking triggers — it's allowing peace. The hardest thing 
 
 ## Related Concepts
 
-- [[literature-notes/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]] - Why our closest relationships provide the perfect triggers
-- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]] - The golden algorithm of attraction
-- [[literature-notes/drawing-boundaries-dissolves-triggers|Drawing boundaries dissolves triggers]] - How boundaries end the cycle
+- [[literature-notes/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]]
+- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]]
+- [[literature-notes/drawing-boundaries-dissolves-triggers|Drawing boundaries dissolves triggers]]
 
 ## Source
 

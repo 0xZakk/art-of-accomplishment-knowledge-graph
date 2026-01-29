@@ -25,10 +25,10 @@ This isn't laziness dressed up as wisdom. It's recognizing that the energy spent
 
 ## Related Concepts
 
-- [[literature-notes/not-trying-gets-more-done|Not trying gets more done]] - The paradox of effort
-- [[literature-notes/perfectionism-as-safety-strategy|Perfectionism as safety strategy]] - Trying hard is a form of perfectionism
-- [[literature-notes/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]] - The root cause
-- [[literature-notes/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]] - Effort blocks what it seeks
+- [[literature-notes/not-trying-gets-more-done|Not trying gets more done]]
+- [[literature-notes/perfectionism-as-safety-strategy|Perfectionism as safety strategy]]
+- [[literature-notes/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]]
+- [[literature-notes/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]
 
 ## Source
 

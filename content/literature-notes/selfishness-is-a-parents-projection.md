@@ -23,10 +23,10 @@ This creates adults who suppress their wants, who feel guilty for having desires
 
 ## Related Concepts
 
-- [[literature-notes/owning-your-needs-is-not-selfish|Owning your needs is not selfish]] - Permission to want
-- [[literature-notes/wanting-requires-no-justification|Wanting requires no justification]] - Wants don't need defending
-- [[literature-notes/inner-voice-mirrors-parenting|Inner voice mirrors parenting]] - How parental messages become inner critic
-- [[literature-notes/should-is-a-mechanism-of-shame|Should is a mechanism of shame]] - Shoulds as internalized control
+- [[literature-notes/owning-your-needs-is-not-selfish|Owning your needs is not selfish]]
+- [[literature-notes/wanting-requires-no-justification|Wanting requires no justification]]
+- [[literature-notes/inner-voice-mirrors-parenting|Inner voice mirrors parenting]]
+- [[literature-notes/should-is-a-mechanism-of-shame|Should is a mechanism of shame]]
 
 ## Source
 

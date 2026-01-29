@@ -20,10 +20,10 @@ The quote Joe references captures this beautifully: "If you want to find out who
 
 ## Related Concepts
 
-- [[literature-notes/fear-patterns-reveal-identity|Fear patterns reveal identity]] - Fear patterns map to identity structures
-- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - Why identity needs protecting in the first place
-- [[literature-notes/sense-of-self-transforms-through-facing-the-abyss|Sense of self transforms through facing the abyss]] - What happens when we let identity dissolve
-- [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]] - The paradox of identity protection
+- [[literature-notes/fear-patterns-reveal-identity|Fear patterns reveal identity]]
+- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
+- [[literature-notes/sense-of-self-transforms-through-facing-the-abyss|Sense of self transforms through facing the abyss]]
+- [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
 
 ## Source
 

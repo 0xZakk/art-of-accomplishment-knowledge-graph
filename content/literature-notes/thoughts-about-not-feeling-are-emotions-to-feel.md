@@ -24,9 +24,9 @@ The metaphor of a river applies: sometimes it goes around a bend, through gentle
 
 ## Related Concepts
 
-- [[literature-notes/feeling-through-requires-letting-identity-restructure|Feeling an emotion fully requires letting your identity restructure]] - The broader process this enables
-- [[literature-notes/questioning-feeling-destroys-feeling|Questioning feeling destroys feeling]] - How thoughts about feeling interfere
-- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]] - Another pointer from thought to emotion
+- [[literature-notes/feeling-through-requires-letting-identity-restructure|Feeling an emotion fully requires letting your identity restructure]]
+- [[literature-notes/questioning-feeling-destroys-feeling|Questioning feeling destroys feeling]]
+- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]]
 
 ## Source
 

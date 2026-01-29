@@ -22,9 +22,9 @@ The path out isn't to attack, but to say what needs saying — directly, kindly,
 
 ## Related Concepts
 
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Why inauthenticity blocks love
-- [[literature-notes/resentment-signals-a-boundary-needed|Resentment signals a boundary needed]] - What resentment is pointing to
-- [[literature-notes/self-abandonment-in-communication|Self-abandonment in communication]] - Hiding yourself to keep the peace
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
+- [[literature-notes/resentment-signals-a-boundary-needed|Resentment signals a boundary needed]]
+- [[literature-notes/self-abandonment-in-communication|Self-abandonment in communication]]
 - [[literature-notes/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]]
 - [[literature-notes/compromise-builds-resentment|Compromise means neglecting yourself and it always builds resentment]]
 - [[literature-notes/not-sharing-hard-truths-prevents-real-love|Not sharing hard truths prevents real love]]

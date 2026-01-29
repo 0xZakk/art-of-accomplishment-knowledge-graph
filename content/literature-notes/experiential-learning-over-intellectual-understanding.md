@@ -21,9 +21,9 @@ This suggests that the most powerful learning isn't additive (gaining new inform
 
 ## Related Concepts
 
-- [[literature-notes/insight-is-not-wisdom-until-embodied|Insight is not wisdom until embodied]] - Knowledge only transforms when it becomes felt experience
-- [[literature-notes/experiments-make-knowledge-embodied|Experiments make knowledge embodied]] - The mechanism by which understanding moves from head to body
-- [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - The frame of the Master Class is revealing what's already there
+- [[literature-notes/insight-is-not-wisdom-until-embodied|Insight is not wisdom until embodied]]
+- [[literature-notes/experiments-make-knowledge-embodied|Experiments make knowledge embodied]]
+- [[literature-notes/discovery-not-improvement|Discovery, not improvement]]
 - [[literature-notes/the-best-teacher-just-went-through-it|The best teacher just went through it]]
 
 ## Source

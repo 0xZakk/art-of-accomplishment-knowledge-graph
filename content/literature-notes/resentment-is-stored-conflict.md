@@ -22,9 +22,9 @@ The practical antidote is a weekly check-in: where's the tension I'm not address
 
 ## Related Concepts
 
-- [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]] - Why the conflict exists in the first place
-- [[literature-notes/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]] - How stored conflict manifests in dynamics
-- [[literature-notes/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]] - Resentment creates the feeling of being stuck
+- [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]]
+- [[literature-notes/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]]
+- [[literature-notes/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]]
 - [[literature-notes/truth-over-comfort-in-relationships|Prioritizing truth over comfort creates lasting relationships]]
 - [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger—your own and others'—drives conflict avoidance]]
 - [[literature-notes/resentment-saturates-every-fight|Resentment saturates every fight]]

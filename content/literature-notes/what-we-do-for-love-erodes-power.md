@@ -22,10 +22,10 @@ The resentment that builds from self-abandonment eventually becomes aggression o
 
 ## Related Concepts
 
-- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]] - The conditioning that sets up the dynamic
-- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]] - Self-abandonment in relationships
-- [[literature-notes/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]] - One pattern this creates
-- [[literature-notes/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]] - The downstream effect
+- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]]
+- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
+- [[literature-notes/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]]
+- [[literature-notes/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]]
 - [[literature-notes/false-love-erodes-power-in-relationships|Maintaining false love erodes power and attraction in relationships]]
 - [[literature-notes/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
 - [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]

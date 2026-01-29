@@ -22,9 +22,9 @@ The disgust is actually pointing somewhere important: it's an emotion that, when
 
 ## Related Concepts
 
-- [[literature-notes/guilt-covers-deeper-emotions-about-family|Guilt covers deeper emotions about family]] - Disgust sits beneath guilt
-- [[literature-notes/parent-self-relationship-shapes-child-relationship|Parent-self relationship shapes child relationship]] - How parents shape our self-relationship
-- [[literature-notes/boundaries-are-for-you-not-them|Boundaries are for you not them]] - Self-care as boundary
+- [[literature-notes/guilt-covers-deeper-emotions-about-family|Guilt covers deeper emotions about family]]
+- [[literature-notes/parent-self-relationship-shapes-child-relationship|Parent-self relationship shapes child relationship]]
+- [[literature-notes/boundaries-are-for-you-not-them|Boundaries are for you not them]]
 - [[literature-notes/heartbreak-is-where-love-for-a-parent-lives|Heartbreak over the relationship you never had is where love for a parent lives]]
 
 ## Source

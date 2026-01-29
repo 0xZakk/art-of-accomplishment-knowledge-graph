@@ -20,8 +20,8 @@ This makes "fake it till you make it" counterproductive for imposter syndrome: y
 
 ## Related Concepts
 
-- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - Authenticity is the only ground for real confidence
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Being seen requires being yourself first
+- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[literature-notes/imposter-syndrome-means-not-being-yourself|Imposter syndrome is a sign you're not being yourself]]
 
 ## Source

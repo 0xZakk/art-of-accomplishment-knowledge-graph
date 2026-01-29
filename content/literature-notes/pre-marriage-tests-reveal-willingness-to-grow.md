@@ -21,8 +21,8 @@ Tara arrived at these by identifying what mattered most to her: someone who want
 
 ## Related Concepts
 
-- [[literature-notes/marriage-as-dojo-for-self-development|Marriage as a dojo for self-development]] - The marriage that these tests protected
-- [[literature-notes/sincerity-is-prerequisite-for-transformation|Sincerity is prerequisite for transformation]] - The underlying quality being tested
+- [[literature-notes/marriage-as-dojo-for-self-development|Marriage as a dojo for self-development]]
+- [[literature-notes/sincerity-is-prerequisite-for-transformation|Sincerity is prerequisite for transformation]]
 
 ## Source
 

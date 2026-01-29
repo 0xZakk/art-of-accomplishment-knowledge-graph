@@ -23,9 +23,9 @@ People often come to self-development thinking "if I do all this work, I'll be g
 
 ## Related Concepts
 
-- [[literature-notes/welcoming-is-self-love|Welcoming is self-love]] - The direct equation
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]] - The broader principle
-- [[literature-notes/loving-presence-must-be-embodied|Loving presence must be embodied]] - Why words aren't enough
+- [[literature-notes/welcoming-is-self-love|Welcoming is self-love]]
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]]
+- [[literature-notes/loving-presence-must-be-embodied|Loving presence must be embodied]]
 - [[literature-notes/everyone-already-knows-the-way-home|Everyone already knows the way home]]
 - [[literature-notes/love-the-resistance-to-the-thing|If you can't love the thing, love the resistance to the thing]]
 - [[literature-notes/love-yourself-how-you-wanted-to-be-loved|Love yourself the way you always wanted to be loved]]

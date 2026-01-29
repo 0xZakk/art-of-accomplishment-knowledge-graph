@@ -21,8 +21,8 @@ When they do the thing she judges — "obviously Joe, it is way worse than when 
 
 ## Related Concepts
 
-- [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others is something you don't like in yourself]] - The mirror principle
-- [[literature-notes/wanting-to-be-seen-prevents-seeing-others|Wanting to be seen prevents you from seeing others]] - How the wanting creates blindness
+- [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others is something you don't like in yourself]]
+- [[literature-notes/wanting-to-be-seen-prevents-seeing-others|Wanting to be seen prevents you from seeing others]]
 - [[literature-notes/wanting-to-control-perception-is-absurd|Wanting to control others' perception of you is absurd]]
 - [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
 

@@ -19,9 +19,9 @@ The only way to clear this is to address the resentment directly — the person 
 
 ## Related Concepts
 
-- [[literature-notes/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]] - The root cause
-- [[literature-notes/resentment-is-stored-conflict|Resentment is stored conflict]] - The accumulation pattern
-- [[literature-notes/safety-comes-from-working-through-conflict|Safety comes from working through conflict]] - The alternative
+- [[literature-notes/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]]
+- [[literature-notes/resentment-is-stored-conflict|Resentment is stored conflict]]
+- [[literature-notes/safety-comes-from-working-through-conflict|Safety comes from working through conflict]]
 - [[literature-notes/resentment-signals-a-boundary-needed|Resentment signals a boundary that needs to be drawn]]
 - [[literature-notes/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
 

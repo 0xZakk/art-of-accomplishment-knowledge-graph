@@ -21,10 +21,10 @@ Joe offers a paradoxical resolution: ultimately, you're NOT safe — you're goin
 
 ## Related Concepts
 
-- [[literature-notes/three-categories-of-limiting-beliefs|Three categories of beliefs keep all others stuck]] - The three foundational categories
-- [[literature-notes/knowing-yourself-is-the-only-safety|Knowing yourself is the only safety]] - The resolution to the safety paradox
-- [[literature-notes/fear-as-road-map-not-enemy|Fear as road map, not enemy]] - Reframing fear signals
-- [[literature-notes/fear-of-losing-relatability-signals-transformation|Fear of losing relatability signals transformation]] - Fear as a marker of growth
+- [[literature-notes/three-categories-of-limiting-beliefs|Three categories of beliefs keep all others stuck]]
+- [[literature-notes/knowing-yourself-is-the-only-safety|Knowing yourself is the only safety]]
+- [[literature-notes/fear-as-road-map-not-enemy|Fear as road map, not enemy]]
+- [[literature-notes/fear-of-losing-relatability-signals-transformation|Fear of losing relatability signals transformation]]
 - [[literature-notes/safety-can-disconnect-from-reality|The pursuit of safety can disconnect you from reality]]
 
 ## Source

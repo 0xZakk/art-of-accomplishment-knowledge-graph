@@ -22,9 +22,9 @@ The practical challenge is that not resisting feels like it will make you dysfun
 
 ## Related Concepts
 
-- [[literature-notes/resisting-inner-critic-strengthens-it|Resisting inner critic strengthens it]] - The same principle stated differently
-- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - The broader pattern
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting, emotions]] - The approach that works
+- [[literature-notes/resisting-inner-critic-strengthens-it|Resisting inner critic strengthens it]]
+- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting, emotions]]
 - [[literature-notes/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 - [[literature-notes/inner-critic-prevents-nervous-system-rest|The inner critic prevents the rest needed for nervous system integration]]
 - [[literature-notes/bullying-yourself-creates-resistance|Bullying yourself into action creates resistance]]

@@ -22,9 +22,9 @@ This maps to the epigenetic research Joe cites: anxious mice who aren't properly
 
 ## Related Concepts
 
-- [[literature-notes/muscles-constrict-to-block-feeling|Muscles constrict to block feeling]] - The physical mechanism of constriction
-- [[literature-notes/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms, unresisted stress enlivens]] - The relationship between resistance and harm
-- [[literature-notes/anxiety-changes-form-not-substance|Anxiety changes form, not substance]] - How anxiety shifts but persists
+- [[literature-notes/muscles-constrict-to-block-feeling|Muscles constrict to block feeling]]
+- [[literature-notes/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms, unresisted stress enlivens]]
+- [[literature-notes/anxiety-changes-form-not-substance|Anxiety changes form, not substance]]
 
 ## Source
 

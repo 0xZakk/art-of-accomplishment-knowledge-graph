@@ -24,9 +24,9 @@ The only exit is not doing presence *better* but dropping the frame of success a
 
 ## Related Concepts
 
-- [[literature-notes/fixing-avoids-being-present|Compulsive fixing avoids being present]] - What the failure feeling drives
-- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - The self-reinforcing dynamic
-- [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck]] - Doom loops of shame
+- [[literature-notes/fixing-avoids-being-present|Compulsive fixing avoids being present]]
+- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
+- [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck]]
 - [[literature-notes/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
 - [[literature-notes/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
 - [[literature-notes/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]

@@ -22,9 +22,9 @@ The key insight is that welcoming fear allows it to transform. You can stand on 
 
 ## Related Concepts
 
-- [[literature-notes/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]] - The foundational principle
-- [[literature-notes/embracing-fear-versus-avoiding-fear|Embracing fear versus avoiding fear]] - The broader framework
-- [[literature-notes/imposter-fear-is-excitement-without-breath|Imposter fear is excitement without breath]] - Another angle on fear-excitement overlap
+- [[literature-notes/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]]
+- [[literature-notes/embracing-fear-versus-avoiding-fear|Embracing fear versus avoiding fear]]
+- [[literature-notes/imposter-fear-is-excitement-without-breath|Imposter fear is excitement without breath]]
 
 ## Source
 

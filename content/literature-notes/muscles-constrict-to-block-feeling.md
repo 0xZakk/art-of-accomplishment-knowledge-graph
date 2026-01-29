@@ -22,9 +22,9 @@ Joe also references research on microexpressions showing that you can read a per
 
 ## Related Concepts
 
-- [[literature-notes/breath-regulates-the-nervous-system|Breath regulates the nervous system]] - The physiological mechanism
-- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]] - Noticing what's already there
-- [[literature-notes/emotions-are-always-present|Emotions are always present]] - What becomes available when muscles soften
+- [[literature-notes/breath-regulates-the-nervous-system|Breath regulates the nervous system]]
+- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]]
+- [[literature-notes/emotions-are-always-present|Emotions are always present]]
 - [[literature-notes/unfelt-emotions-create-physical-stress|Unfelt emotions create physical stress through muscle tension]]
 
 ## Source

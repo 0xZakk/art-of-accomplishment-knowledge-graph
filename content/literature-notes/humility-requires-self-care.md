@@ -20,9 +20,9 @@ The distinction: you protect yourself without being *defensive*. You're not defe
 
 ## Related Concepts
 
-- [[literature-notes/humility-is-not-making-yourself-small|Humility is not making yourself small]] - Smallness as false humility
-- [[literature-notes/owning-your-needs-is-not-selfish|Owning your needs is not selfish]] - Permission to prioritize self-care
-- [[literature-notes/disappearing-as-survival-strategy|Disappearing as a survival strategy]] - When hiding becomes the default
+- [[literature-notes/humility-is-not-making-yourself-small|Humility is not making yourself small]]
+- [[literature-notes/owning-your-needs-is-not-selfish|Owning your needs is not selfish]]
+- [[literature-notes/disappearing-as-survival-strategy|Disappearing as a survival strategy]]
 - [[literature-notes/follow-your-calling-even-when-uncomfortable|Following your calling requires humility even when it's uncomfortable]]
 - [[literature-notes/humility-is-not-taking-life-personally|Humility is not taking life personally]]
 - [[literature-notes/hollowing-out-is-a-perpetual-process|The hollowing out process never ends]]

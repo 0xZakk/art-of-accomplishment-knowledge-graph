@@ -22,9 +22,9 @@ The opposite of faithing is gripping — trying to control the outcome, prepare 
 
 ## Related Concepts
 
-- [[literature-notes/the-butler-is-always-there|The subconscious always has the answer on a platter]] - What you're faithing toward
-- [[literature-notes/surrender-outcomes-to-decide-clearly|Surrender outcomes to decide clearly]] - Letting go of control
-- [[literature-notes/helplessness-is-gateway-to-surrender|Helplessness is gateway to surrender]] - When faithing becomes necessary
+- [[literature-notes/the-butler-is-always-there|The subconscious always has the answer on a platter]]
+- [[literature-notes/surrender-outcomes-to-decide-clearly|Surrender outcomes to decide clearly]]
+- [[literature-notes/helplessness-is-gateway-to-surrender|Helplessness is gateway to surrender]]
 
 ## Source
 

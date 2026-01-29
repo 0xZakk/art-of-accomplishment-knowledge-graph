@@ -22,9 +22,9 @@ The man in the session keeps finding new things to fix: first procrastination, t
 
 ## Related Concepts
 
-- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - Internal oppression mirrors external
-- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]] - The inner critic replaces feeling
-- [[literature-notes/perfectionism-is-the-critical-parents-voice|Perfectionism is the internalized critical parent's voice]] - The origin of the pattern
+- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
+- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]]
+- [[literature-notes/perfectionism-is-the-critical-parents-voice|Perfectionism is the internalized critical parent's voice]]
 - [[literature-notes/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
 - [[literature-notes/perfectionism-is-a-fear-response-that-creates-chaos|Perfectionism is a fear response that creates the chaos it tries to prevent]]
 

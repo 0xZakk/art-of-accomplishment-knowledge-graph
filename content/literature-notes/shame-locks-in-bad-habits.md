@@ -22,9 +22,9 @@ The alternative is to fully feel the pattern without shame. Joe tells the story 
 
 ## Related Concepts
 
-- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shaming a behavior is the best way to guarantee it repeats]] - The same principle from a different angle
-- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior rather than changing it]] - Shame as behavioral stagnation
-- [[literature-notes/shame-never-changes-behavior|Shame never changes behavior]] - The broader principle
+- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shaming a behavior is the best way to guarantee it repeats]]
+- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior rather than changing it]]
+- [[literature-notes/shame-never-changes-behavior|Shame never changes behavior]]
 - [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck in the patterns you regret]]
 - [[literature-notes/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
 

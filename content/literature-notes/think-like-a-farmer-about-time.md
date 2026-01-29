@@ -23,10 +23,10 @@ This reframes time from a resource to be spent (transaction) into a medium for g
 
 ## Related Concepts
 
-- [[literature-notes/time-anxiety-grows-with-precision|Time anxiety grows as time measurement gets more precise]] - The problem this addresses
-- [[literature-notes/find-the-leverage-on-your-todo-list|Find the one thing that makes everything else easier or irrelevant]] - Strategy two
-- [[literature-notes/do-the-uncomfortable-thing-first|Do the uncomfortable thing first]] - The signal for high-yield seeds
-- [[literature-notes/energy-management-over-time-management|Energy management over time management]] - Related reframe
+- [[literature-notes/time-anxiety-grows-with-precision|Time anxiety grows as time measurement gets more precise]]
+- [[literature-notes/find-the-leverage-on-your-todo-list|Find the one thing that makes everything else easier or irrelevant]]
+- [[literature-notes/do-the-uncomfortable-thing-first|Do the uncomfortable thing first]]
+- [[literature-notes/energy-management-over-time-management|Energy management over time management]]
 
 ## Source
 

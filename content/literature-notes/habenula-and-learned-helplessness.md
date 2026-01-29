@@ -21,8 +21,8 @@ This is why reframing failure as iteration isn't just a mindset trick — it's w
 
 ## Related Concepts
 
-- [[literature-notes/failure-is-just-an-idea|Failure is just an idea, not a reality]] - The idea that triggers the habenula
-- [[literature-notes/moving-emotions-dissolves-depression|Moving emotions dissolves depression]] - Another pathway out of the helplessness loop
+- [[literature-notes/failure-is-just-an-idea|Failure is just an idea, not a reality]]
+- [[literature-notes/moving-emotions-dissolves-depression|Moving emotions dissolves depression]]
 
 ## Source
 

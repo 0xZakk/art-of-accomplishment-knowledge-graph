@@ -22,9 +22,9 @@ This is a common pattern: the gap between competence and visibility is almost al
 
 ## Related Concepts
 
-- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]] - How shame keeps us stuck in patterns
-- [[literature-notes/imposter-syndrome-roots-in-conditional-love|Imposter syndrome roots in conditional love]] - The childhood roots of feeling like a fraud
-- [[literature-notes/hiding-makes-you-feel-more-like-an-imposter|Hiding makes you feel more like an imposter]] - How avoidance reinforces the wound
+- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]]
+- [[literature-notes/imposter-syndrome-roots-in-conditional-love|Imposter syndrome roots in conditional love]]
+- [[literature-notes/hiding-makes-you-feel-more-like-an-imposter|Hiding makes you feel more like an imposter]]
 - [[literature-notes/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
 
 ## Source

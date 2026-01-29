@@ -24,9 +24,9 @@ The last cookie problem reveals how much group dysfunction comes not from too mu
 
 ## Related Concepts
 
-- [[literature-notes/suppressed-wants-become-politics|Suppressed wants become organizational politics]] - What happens when wants go underground
-- [[literature-notes/nice-cultures-breed-passive-aggression|Nice cultures breed passive aggression]] - The cost of excessive politeness
-- [[literature-notes/community-health-is-individual-health|Community health is individual health]] - Individual and collective needs are one
+- [[literature-notes/suppressed-wants-become-politics|Suppressed wants become organizational politics]]
+- [[literature-notes/nice-cultures-breed-passive-aggression|Nice cultures breed passive aggression]]
+- [[literature-notes/community-health-is-individual-health|Community health is individual health]]
 
 ## Source
 

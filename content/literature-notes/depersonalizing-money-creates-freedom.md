@@ -22,9 +22,9 @@ The least personal approach to a difficult money situation (like firing someone)
 
 ## Related Concepts
 
-- [[literature-notes/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood emotional patterns]] - Why we take money personally in the first place
-- [[literature-notes/money-beliefs-create-money-reality|Money beliefs create money reality]] - The downstream effects of personalized money
-- [[literature-notes/money-as-oppression-or-empowerment|Money as oppression or empowerment]] - The broader framing
+- [[literature-notes/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood emotional patterns]]
+- [[literature-notes/money-beliefs-create-money-reality|Money beliefs create money reality]]
+- [[literature-notes/money-as-oppression-or-empowerment|Money as oppression or empowerment]]
 - [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning your wants means being okay with having them]]
 - [[literature-notes/obligation-oppresses-every-domain|Obligation oppresses every domain it touches — money, work, relationships]]
 - [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]]

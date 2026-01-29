@@ -23,9 +23,9 @@ The mechanism is clear: should makes us think we're bad (otherwise, why would we
 
 ## Related Concepts
 
-- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - The self-reinforcing loop of shame-based motivation
-- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]] - Why shame locks habits in place rather than changing them
-- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]] - The broader pattern of should as counterproductive
+- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
+- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]]
+- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]]
 - [[literature-notes/shoulds-are-a-cage-not-a-solution|Shoulds are a cage that reinforces the problem they try to solve]]
 - [[literature-notes/shame-locks-in-bad-habits|Shame locks in the very habits it punishes]]
 - [[literature-notes/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]]

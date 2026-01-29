@@ -23,9 +23,9 @@ The difference is between bracing against the recognition (constricting, tighten
 
 ## Related Concepts
 
-- [[literature-notes/shame-stagnates-behavior|Shame stagnates rather than motivates behavior]] - Why closed-hearted recognition doesn't work
-- [[literature-notes/view-framework-for-listening|The VIEW framework for listening]] - The framework that defines open-hearted engagement
-- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment is a defense against feeling emotions]] - Why we default to shame instead of openness
+- [[literature-notes/shame-stagnates-behavior|Shame stagnates rather than motivates behavior]]
+- [[literature-notes/view-framework-for-listening|The VIEW framework for listening]]
+- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment is a defense against feeling emotions]]
 
 ## Source
 

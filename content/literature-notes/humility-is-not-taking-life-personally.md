@@ -22,10 +22,10 @@ Humility also means you can see your own darkness — the parts of you that coul
 
 ## Related Concepts
 
-- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]] - The ego includes both positive and negative self-concepts
-- [[literature-notes/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]] - What happens as identity loosens
-- [[literature-notes/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]] - The curious stance that replaces defended identity
-- [[literature-notes/shame-never-changes-behavior|Shame never changes behavior]] - Shame locks identity in place rather than dissolving it
+- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]]
+- [[literature-notes/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]]
+- [[literature-notes/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]]
+- [[literature-notes/shame-never-changes-behavior|Shame never changes behavior]]
 - [[literature-notes/humility-requires-self-care|Humility can require self-care]]
 
 ## Source

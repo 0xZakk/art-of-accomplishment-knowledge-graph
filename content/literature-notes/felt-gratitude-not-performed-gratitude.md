@@ -22,9 +22,9 @@ This mirrors the teaching on receiving compliments—the transformation happens 
 
 ## Related Concepts
 
-- [[literature-notes/gratitude-reveals-solutions-deficit-thinking-hides|Gratitude reveals solutions deficit thinking hides]] - What felt gratitude enables
-- [[literature-notes/presence-is-pleasure|Presence is pleasure]] - Felt gratitude as a form of presence
-- [[literature-notes/receiving-compliments-dissolves-unworthiness|Receiving compliments dissolves unworthiness]] - Same somatic principle
+- [[literature-notes/gratitude-reveals-solutions-deficit-thinking-hides|Gratitude reveals solutions deficit thinking hides]]
+- [[literature-notes/presence-is-pleasure|Presence is pleasure]]
+- [[literature-notes/receiving-compliments-dissolves-unworthiness|Receiving compliments dissolves unworthiness]]
 
 ## Source
 

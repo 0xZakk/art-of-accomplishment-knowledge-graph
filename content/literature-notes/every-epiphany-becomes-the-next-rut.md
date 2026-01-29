@@ -22,9 +22,9 @@ The healthy response isn't despair but lightness—holding each new identity mor
 
 ## Related Concepts
 
-- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]] - The ongoing process
-- [[literature-notes/ego-resists-change-in-either-direction|The ego resists change in either direction]] - Why new identities solidify
-- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]] - The identity trap in self-work
+- [[literature-notes/growth-means-shedding-identities|Growth means shedding identities]]
+- [[literature-notes/ego-resists-change-in-either-direction|The ego resists change in either direction]]
+- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
 
 ## Source
 

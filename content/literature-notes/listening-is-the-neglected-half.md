@@ -20,9 +20,9 @@ Pausing — which Tristan identifies as a core Ultra Speaking practice — is es
 
 ## Related Concepts
 
-- [[literature-notes/the-butler-is-always-there|The subconscious always has the answer on a platter]] - Slowing down reveals answers
-- [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]] - Listening determines reality
-- [[literature-notes/active-listening-is-asking-questions|Active listening is asking questions]] - Specific listening techniques
+- [[literature-notes/the-butler-is-always-there|The subconscious always has the answer on a platter]]
+- [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]]
+- [[literature-notes/active-listening-is-asking-questions|Active listening is asking questions]]
 
 ## Source
 

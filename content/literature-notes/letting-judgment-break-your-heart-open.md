@@ -22,9 +22,9 @@ This connects to the distinction between past shame and current shame. Past sham
 
 ## Related Concepts
 
-- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]] - The paradox of opening through pain
-- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]] - What's underneath judgment
-- [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]] - The mechanism of release
+- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]]
+- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]]
+- [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]]
 - [[literature-notes/being-undefended-erodes-narcissism|Being undefended erodes narcissism]]
 - [[literature-notes/heartbreak-opens-when-fear-is-felt|Heartbreak opens when fear is finally felt]]
 - [[literature-notes/judgment-blocks-the-emotion-underneath|Judgment blocks the emotion underneath]]

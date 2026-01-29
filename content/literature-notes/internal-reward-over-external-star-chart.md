@@ -22,9 +22,9 @@ This extends to his broader parenting philosophy: consent in physical touch (alw
 
 ## Related Concepts
 
-- [[literature-notes/external-scorecards-always-move|External scorecards always move]] - The trap of external validation
-- [[literature-notes/chase-your-own-approval|Chase your own approval]] - The internal alternative
-- [[literature-notes/teach-children-self-referencing|Teach children self-referencing]] - Applied to parenting
+- [[literature-notes/external-scorecards-always-move|External scorecards always move]]
+- [[literature-notes/chase-your-own-approval|Chase your own approval]]
+- [[literature-notes/teach-children-self-referencing|Teach children self-referencing]]
 - [[literature-notes/transcend-and-include-previous-stages|Transcend and include rather than reject previous stages]]
 
 ## Source

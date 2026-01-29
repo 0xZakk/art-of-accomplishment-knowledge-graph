@@ -22,9 +22,9 @@ The breakthrough isn't in finding the right words or the right somatic state. It
 
 ## Related Concepts
 
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - The fundamental paradox of performing authenticity
-- [[literature-notes/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]] - What actually happens when the performance drops
-- [[literature-notes/people-want-connection-not-perfection|People want connection, not perfection]] - What others are actually looking for
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
+- [[literature-notes/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]]
+- [[literature-notes/people-want-connection-not-perfection|People want connection, not perfection]]
 - [[literature-notes/the-pattern-is-happening-right-now|The defensive pattern is always visible in the present moment]]
 - [[literature-notes/everyone-already-knows-the-way-home|Everyone already knows the way home]]
 

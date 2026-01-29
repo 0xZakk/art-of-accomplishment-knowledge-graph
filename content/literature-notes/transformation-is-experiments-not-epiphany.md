@@ -22,9 +22,9 @@ This framing — transformation as accumulated experiments rather than a single 
 
 ## Related Concepts
 
-- [[literature-notes/experiments-make-knowledge-embodied|Experiments make knowledge embodied]] - Why experiments work
-- [[literature-notes/confidence-comes-from-reps-not-reading|Confidence comes from reps, not reading]] - The same principle
-- [[literature-notes/insight-requires-embodied-integration|Insight requires embodied integration]] - Why epiphany isn't enough
+- [[literature-notes/experiments-make-knowledge-embodied|Experiments make knowledge embodied]]
+- [[literature-notes/confidence-comes-from-reps-not-reading|Confidence comes from reps, not reading]]
+- [[literature-notes/insight-requires-embodied-integration|Insight requires embodied integration]]
 - [[literature-notes/watching-a-leader-fail-teaches-more-than-success|Watching a leader fail openly teaches more than their success]]
 
 ## Source

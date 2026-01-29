@@ -22,9 +22,9 @@ Training should optimize for this state, not for content mastery. Short reps, su
 
 ## Related Concepts
 
-- [[literature-notes/not-trying-gets-more-done|Not trying gets more done]] - Effort interferes with flow
-- [[literature-notes/flow-state-is-embodiment-applied-to-life|Flow state is embodiment applied to life]] - Flow as embodied presence
-- [[literature-notes/confidence-comes-from-reps-not-reading|Confidence comes from embodied reps not intellectual understanding]] - How to build toward flow
+- [[literature-notes/not-trying-gets-more-done|Not trying gets more done]]
+- [[literature-notes/flow-state-is-embodiment-applied-to-life|Flow state is embodiment applied to life]]
+- [[literature-notes/confidence-comes-from-reps-not-reading|Confidence comes from embodied reps not intellectual understanding]]
 
 ## Source
 

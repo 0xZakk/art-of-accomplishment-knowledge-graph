@@ -21,9 +21,9 @@ This reframe turns purpose from a destination to a quality of engagement. It's a
 
 ## Related Concepts
 
-- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]] - Purpose exists only in the now
-- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]] - The mental search itself blocks purpose
-- [[literature-notes/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]] - The intellect can't locate purpose
+- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
+- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
+- [[literature-notes/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]]
 - [[literature-notes/searching-for-purpose-assumes-you-lack-it|Searching for purpose assumes you don't already have it]]
 - [[literature-notes/say-yes-then-filter-for-joy|Say yes to what intrigues you, then filter for joy]]
 

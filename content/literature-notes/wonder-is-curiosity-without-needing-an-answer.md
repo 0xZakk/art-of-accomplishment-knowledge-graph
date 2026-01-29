@@ -23,9 +23,9 @@ In the age of Google, anyone can find answers. The real value is in asking the r
 
 ## Related Concepts
 
-- [[literature-notes/wonder-as-antidote-to-fear|Wonder is an antidote to fear]] - Fear and wonder cannot coexist
-- [[literature-notes/being-in-the-question-beats-finding-the-answer|Being in the question beats finding the answer]] - The power of staying in the question
-- [[literature-notes/experiments-make-knowledge-embodied|Experimentation over dogma]] - Another approach to staying open
+- [[literature-notes/wonder-as-antidote-to-fear|Wonder is an antidote to fear]]
+- [[literature-notes/being-in-the-question-beats-finding-the-answer|Being in the question beats finding the answer]]
+- [[literature-notes/experiments-make-knowledge-embodied|Experimentation over dogma]]
 - [[literature-notes/wonder-is-undoing-not-doing|Cultivating wonder is an undoing not a doing]]
 
 ## Source

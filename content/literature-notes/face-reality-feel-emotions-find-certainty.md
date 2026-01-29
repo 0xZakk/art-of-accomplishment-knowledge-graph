@@ -24,9 +24,9 @@ Brett demonstrates all three through his brother's cancer: facing the reality of
 
 ## Related Concepts
 
-- [[literature-notes/optimism-and-pessimism-both-avoid-reality|Optimism and pessimism both avoid reality]] - The traps this framework avoids
-- [[literature-notes/emotional-titration-is-adaptive|Emotional titration is adaptive, not avoidant]] - Step 2 in practice
-- [[literature-notes/certainty-lives-in-how-you-want-to-be|The only real certainty is how you want to be]] - Step 3 in depth
+- [[literature-notes/optimism-and-pessimism-both-avoid-reality|Optimism and pessimism both avoid reality]]
+- [[literature-notes/emotional-titration-is-adaptive|Emotional titration is adaptive, not avoidant]]
+- [[literature-notes/certainty-lives-in-how-you-want-to-be|The only real certainty is how you want to be]]
 
 ## Source
 

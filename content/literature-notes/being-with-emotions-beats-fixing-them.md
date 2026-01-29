@@ -23,9 +23,9 @@ Trying to fix someone's emotions communicates that they can't handle it themselv
 
 ## Related Concepts
 
-- [[literature-notes/their-happiness-is-not-your-happiness|Their happiness is not your happiness]] - Why fixing doesn't work
-- [[literature-notes/caretaking-creates-resentment-in-the-receiver|Caretaking creates resentment in the receiver]] - The cost of fixing
-- [[literature-notes/attunement-regulates-both-nervous-systems|Attunement regulates both nervous systems]] - The mechanism of "being with"
+- [[literature-notes/their-happiness-is-not-your-happiness|Their happiness is not your happiness]]
+- [[literature-notes/caretaking-creates-resentment-in-the-receiver|Caretaking creates resentment in the receiver]]
+- [[literature-notes/attunement-regulates-both-nervous-systems|Attunement regulates both nervous systems]]
 - [[literature-notes/taking-responsibility-for-partners-emotions-breeds-resentment|Taking responsibility for your partner's emotions breeds resentment]]
 
 ## Source

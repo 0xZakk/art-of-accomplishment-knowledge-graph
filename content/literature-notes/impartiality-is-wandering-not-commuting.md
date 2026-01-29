@@ -23,9 +23,9 @@ People resist telling a two-year-old what to do. Adults resist the same way when
 
 ## Related Concepts
 
-- [[literature-notes/detachment-from-outcomes-enables-better-outcomes|Detachment from outcomes enables better outcomes]] - Surrendering the how improves the what
-- [[literature-notes/alignment-beats-effort|Alignment beats effort]] - Going with the flow vs. forcing
-- [[literature-notes/sales-is-connecting-not-convincing|Sales is connecting not convincing]] - Authentic care outperforms technique
+- [[literature-notes/detachment-from-outcomes-enables-better-outcomes|Detachment from outcomes enables better outcomes]]
+- [[literature-notes/alignment-beats-effort|Alignment beats effort]]
+- [[literature-notes/sales-is-connecting-not-convincing|Sales is connecting not convincing]]
 
 ## Source
 

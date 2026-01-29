@@ -22,8 +22,8 @@ Writing requires believing you have time to revise. Art-making requires believin
 
 ## Related Concepts
 
-- [[literature-notes/grief-and-gratitude-coexist|Grief and gratitude coexist]] - The heart's parallel process alongside denial
-- [[literature-notes/accepting-death-enables-choice|Accepting death enables genuine choice]] - Where denial becomes dysfunctional
+- [[literature-notes/grief-and-gratitude-coexist|Grief and gratitude coexist]]
+- [[literature-notes/accepting-death-enables-choice|Accepting death enables genuine choice]]
 
 ## Source
 

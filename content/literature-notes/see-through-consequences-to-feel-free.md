@@ -22,9 +22,9 @@ Joe extends this to physical practice: standing on a cliff, he visualizes failur
 
 ## Related Concepts
 
-- [[literature-notes/feel-the-false-end-to-dissolve-overwhelm|Feel the false end to dissolve overwhelm]] - Feeling through imagined endings
-- [[literature-notes/fear-creates-binary-thinking-and-false-ends|Fear creates binary thinking and false ends]] - How fear constructs false endpoints
-- [[literature-notes/pre-grieving-loss-creates-resilience|Pre-grieving loss creates resilience]] - Anticipatory grief as preparation
+- [[literature-notes/feel-the-false-end-to-dissolve-overwhelm|Feel the false end to dissolve overwhelm]]
+- [[literature-notes/fear-creates-binary-thinking-and-false-ends|Fear creates binary thinking and false ends]]
+- [[literature-notes/pre-grieving-loss-creates-resilience|Pre-grieving loss creates resilience]]
 - [[literature-notes/feel-fear-to-see-opportunity|Feel the fear fully to see the opportunities in chaos]]
 - [[literature-notes/safety-can-disconnect-from-reality|The pursuit of safety can disconnect you from reality]]
 

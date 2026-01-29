@@ -25,10 +25,10 @@ This connects to Brett's observation that we often conflate connection with clin
 
 ## Related Concepts
 
-- [[literature-notes/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]] - The trajectory of identity in this work
-- [[literature-notes/loneliness-fully-felt-is-love|Loneliness fully felt is love]] - What happens when you feel aloneness completely
-- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - Why identity becoming transparent is freedom
-- [[literature-notes/the-abyss-is-where-you-dont-exist|The abyss is where you don't exist]] - The deeper territory of "what am I?"
+- [[literature-notes/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]]
+- [[literature-notes/loneliness-fully-felt-is-love|Loneliness fully felt is love]]
+- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
+- [[literature-notes/the-abyss-is-where-you-dont-exist|The abyss is where you don't exist]]
 - [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 - [[literature-notes/solitude-versus-loneliness|Solitude and loneliness are fundamentally different]]
 - [[literature-notes/the-expansiveness-of-I-Am|The expansiveness of I Am]]

@@ -22,9 +22,9 @@ Joe also notes that difficulty trusting after loss typically means the grief has
 
 ## Related Concepts
 
-- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]] - Every heartbreak increases capacity to love
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming not just accepting emotions]] - The energy needed to move through grief
-- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - Why blocking grief blocks everything
+- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]]
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming not just accepting emotions]]
+- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
 - [[literature-notes/grief-sustained-transforms-everything|Sustained grief transforms everything it touches]]
 - [[literature-notes/shame-about-grief-shuts-down-all-emotions|Shame about grief shuts down all emotions]]
 - [[literature-notes/heartbreak-opens-when-fear-is-felt|Heartbreak opens when fear is finally felt]]

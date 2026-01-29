@@ -23,10 +23,10 @@ The point isn't to fix the inner critic or make it go away. It's to stop taking 
 
 ## Related Concepts
 
-- [[literature-notes/experiment-with-your-inner-critic|Experiment with your inner critic]] - The broader practice of experimentation
-- [[literature-notes/welcome-the-inner-critic|Welcome the inner critic]] - Welcoming rather than fighting
-- [[literature-notes/respond-differently-to-the-inner-critic|Respond differently to the inner critic]] - Varying your response breaks the pattern
-- [[literature-notes/resisting-inner-critic-strengthens-it|Resisting inner critic strengthens it]] - Why fighting doesn't work
+- [[literature-notes/experiment-with-your-inner-critic|Experiment with your inner critic]]
+- [[literature-notes/welcome-the-inner-critic|Welcome the inner critic]]
+- [[literature-notes/respond-differently-to-the-inner-critic|Respond differently to the inner critic]]
+- [[literature-notes/resisting-inner-critic-strengthens-it|Resisting inner critic strengthens it]]
 - [[literature-notes/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
 
 ## Source

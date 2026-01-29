@@ -24,9 +24,9 @@ The practice isn't about grand acts of vulnerability. It's moment-to-moment: wit
 
 ## Related Concepts
 
-- [[literature-notes/self-abandonment-in-communication|Self-abandonment in communication]] - Abandoning your truth in conversation to manage others
-- [[literature-notes/suppressing-anger-kills-your-fire|Suppressing anger kills your fire]] - Suppressing anger extinguishes your life force
-- [[literature-notes/composure-is-self-imprisonment|Composure is self-imprisonment]] - Maintaining composure as a form of self-imprisonment
+- [[literature-notes/self-abandonment-in-communication|Self-abandonment in communication]]
+- [[literature-notes/suppressing-anger-kills-your-fire|Suppressing anger kills your fire]]
+- [[literature-notes/composure-is-self-imprisonment|Composure is self-imprisonment]]
 
 ## Source
 

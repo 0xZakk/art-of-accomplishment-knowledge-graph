@@ -21,8 +21,8 @@ The key insight is that anger moves faster when some part of you stays outside t
 
 ## Related Concepts
 
-- [[literature-notes/actor-technique-for-stuck-emotions|Actor technique for stuck emotions]] - The broader application of this approach
-- [[literature-notes/collapse-dysregulation-shame-in-anger-release|Collapse, dysregulation, and shame recreation]] - What this technique prevents
+- [[literature-notes/actor-technique-for-stuck-emotions|Actor technique for stuck emotions]]
+- [[literature-notes/collapse-dysregulation-shame-in-anger-release|Collapse, dysregulation, and shame recreation]]
 - [[literature-notes/express-anger-without-directing-it|You can express anger without directing it at anyone]]
 - [[literature-notes/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuckness]]
 - [[literature-notes/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]

@@ -26,10 +26,10 @@ This connects to why companies lose creativity. Once a team has a fixed identity
 
 ## Related Concepts
 
-- [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]] - The broader principle
-- [[literature-notes/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]] - The open quality needed for deep listening
-- [[literature-notes/knowing-is-the-opposite-of-wonder|Knowing is the opposite of wonder]] - How knowing closes perception
-- [[literature-notes/being-in-the-question-beats-finding-the-answer|Being in the question beats finding the answer]] - Staying open vs. closing on answers
+- [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]]
+- [[literature-notes/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]]
+- [[literature-notes/knowing-is-the-opposite-of-wonder|Knowing is the opposite of wonder]]
+- [[literature-notes/being-in-the-question-beats-finding-the-answer|Being in the question beats finding the answer]]
 
 ## Source
 

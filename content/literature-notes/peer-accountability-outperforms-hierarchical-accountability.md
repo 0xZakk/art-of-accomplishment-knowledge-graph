@@ -21,9 +21,9 @@ This also means avoiding social climbing in building support systems. If you onl
 
 ## Related Concepts
 
-- [[literature-notes/empower-people-decentrally|Empower people decentrally]] - Distributed power over centralized control
-- [[literature-notes/management-communicates-distrust|Management communicates distrust]] - Hierarchy signals lack of trust
-- [[literature-notes/functional-teams-are-measured-by-wanting-to-be-there|Functional teams are measured by wanting to be there]] - The litmus test for healthy teams
+- [[literature-notes/empower-people-decentrally|Empower people decentrally]]
+- [[literature-notes/management-communicates-distrust|Management communicates distrust]]
+- [[literature-notes/functional-teams-are-measured-by-wanting-to-be-there|Functional teams are measured by wanting to be there]]
 
 ## Source
 

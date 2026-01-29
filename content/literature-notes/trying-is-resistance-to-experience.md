@@ -22,9 +22,9 @@ When Brett notices he's trying, he finds there's usually something he doesn't wa
 
 ## Related Concepts
 
-- [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]] - How resistance transforms experience
-- [[literature-notes/helplessness-is-the-emotion-being-avoided|Helplessness is the emotion being avoided]] - The common emotion underneath trying
-- [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]] - What we miss when efforting
+- [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]]
+- [[literature-notes/helplessness-is-the-emotion-being-avoided|Helplessness is the emotion being avoided]]
+- [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]]
 - [[literature-notes/trying-to-feel-joy-pushes-it-away|Trying to feel joy is the resistance that pushes it away]]
 - [[literature-notes/discomfort-is-the-resistance-not-the-emotion|The discomfort of emotions is the resistance to them, not the emotions themselves]]
 

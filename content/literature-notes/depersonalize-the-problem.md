@@ -22,9 +22,9 @@ The metaphor captures something essential: the problem is separate from either p
 
 ## Related Concepts
 
-- [[literature-notes/listen-as-if-the-other-person-is-right|Listen as if the other person is right]] - The listening stance that enables depersonalization
-- [[literature-notes/no-right-or-wrong-only-perspectives|There is no right or wrong, only perspectives]] - Letting go of who's right
-- [[literature-notes/shame-free-problem-solving|Shame-free problem solving]] - Approaching problems without blame
+- [[literature-notes/listen-as-if-the-other-person-is-right|Listen as if the other person is right]]
+- [[literature-notes/no-right-or-wrong-only-perspectives|There is no right or wrong, only perspectives]]
+- [[literature-notes/shame-free-problem-solving|Shame-free problem solving]]
 - [[literature-notes/mirroring-reveals-how-much-we-misunderstand|Mirroring reveals how much we misunderstand each other]]
 - [[literature-notes/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
 - [[literature-notes/seeing-their-truth-not-finding-the-truth|Seeing their truth is different from finding 'the' truth]]

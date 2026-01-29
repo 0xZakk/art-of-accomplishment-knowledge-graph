@@ -22,9 +22,9 @@ Brett adds that the very perception of someone as an "asshole" points to where y
 
 ## Related Concepts
 
-- [[literature-notes/loved-ones-trigger-you-enough|Your loved ones trigger you enough — don't go seeking more]] - The broader principle about triggers
-- [[literature-notes/you-must-know-you-can-leave-to-love|You must know you can leave to truly love]] - Empowerment as prerequisite for love
-- [[literature-notes/knowing-yourself-is-the-only-safety|Knowing yourself is the only safety]] - The internal source of safety
+- [[literature-notes/loved-ones-trigger-you-enough|Your loved ones trigger you enough — don't go seeking more]]
+- [[literature-notes/you-must-know-you-can-leave-to-love|You must know you can leave to truly love]]
+- [[literature-notes/knowing-yourself-is-the-only-safety|Knowing yourself is the only safety]]
 - [[literature-notes/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]]
 - [[literature-notes/connection-cannot-be-broken-without-your-consent|No one can break your connection without your agreement]]
 - [[literature-notes/pleasure-dissolves-the-boundary-of-self|Deep pleasure dissolves the boundary of self]]

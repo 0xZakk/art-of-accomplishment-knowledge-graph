@@ -22,9 +22,9 @@ The implication: the feeling of not knowing what you're doing isn't a bug — it
 
 ## Related Concepts
 
-- [[literature-notes/we-are-all-imposters-and-thats-fine|We are all imposters and that's fine]] - The broader realization
-- [[literature-notes/iteration-beats-perfection|Iteration beats perfection]] - Why the experimental approach works
-- [[literature-notes/we-are-always-running-experiments|We are always running experiments]] - Life as continuous experimentation
+- [[literature-notes/we-are-all-imposters-and-thats-fine|We are all imposters and that's fine]]
+- [[literature-notes/iteration-beats-perfection|Iteration beats perfection]]
+- [[literature-notes/we-are-always-running-experiments|We are always running experiments]]
 
 ## Source
 

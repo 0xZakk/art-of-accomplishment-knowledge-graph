@@ -22,9 +22,9 @@ This reframe changes everything. If the problem were unclear communication, the 
 
 ## Related Concepts
 
-- [[literature-notes/connection-over-perfection|Connection over perfection]] - What really matters in communication
-- [[literature-notes/chasing-understanding-creates-control|Chasing understanding feels like control to others]] - Why the chase backfires
-- [[literature-notes/people-want-connection-not-perfection|People want connection not perfection]] - The universal need underneath
+- [[literature-notes/connection-over-perfection|Connection over perfection]]
+- [[literature-notes/chasing-understanding-creates-control|Chasing understanding feels like control to others]]
+- [[literature-notes/people-want-connection-not-perfection|People want connection not perfection]]
 
 ## Source
 

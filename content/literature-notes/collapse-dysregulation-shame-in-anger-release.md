@@ -19,8 +19,8 @@ For dysregulation, the antidote is the observer position — being "an actor pla
 
 ## Related Concepts
 
-- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - The self-reinforcing shame cycle
-- [[literature-notes/actor-technique-for-stuck-emotions|Actor technique for stuck emotions]] - The observer position for safe release
+- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
+- [[literature-notes/actor-technique-for-stuck-emotions|Actor technique for stuck emotions]]
 - [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]]
 - [[literature-notes/actor-technique-for-anger-release|The actor technique lets you release anger while maintaining awareness]]
 - [[literature-notes/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]

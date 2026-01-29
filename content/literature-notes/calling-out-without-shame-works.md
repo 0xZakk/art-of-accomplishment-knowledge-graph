@@ -22,9 +22,9 @@ He also shares the story of a woman who told a notorious yelling CEO: "I see how
 
 ## Related Concepts
 
-- [[literature-notes/shame-free-problem-solving|Shame-free problem solving]] - The structural approach
-- [[literature-notes/shame-never-changes-behavior|Shame never changes behavior]] - Why shaming doesn't work
-- [[literature-notes/connection-dissolves-shame|Connection dissolves shame]] - The mechanism behind the shift
+- [[literature-notes/shame-free-problem-solving|Shame-free problem solving]]
+- [[literature-notes/shame-never-changes-behavior|Shame never changes behavior]]
+- [[literature-notes/connection-dissolves-shame|Connection dissolves shame]]
 
 ## Source
 

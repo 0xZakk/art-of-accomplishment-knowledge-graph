@@ -22,9 +22,9 @@ The healing path isn't about money strategies — it's about untangling money fr
 
 ## Related Concepts
 
-- [[literature-notes/money-beliefs-create-money-reality|Money beliefs create money reality]] - How our unconscious beliefs about money shape our financial reality
-- [[literature-notes/identity-of-lack-perpetuates-lack|Identity of lack perpetuates lack]] - How an identity built on scarcity recreates scarcity
-- [[literature-notes/money-as-oppression-or-empowerment|Money as oppression or empowerment]] - The projections we place on money
+- [[literature-notes/money-beliefs-create-money-reality|Money beliefs create money reality]]
+- [[literature-notes/identity-of-lack-perpetuates-lack|Identity of lack perpetuates lack]]
+- [[literature-notes/money-as-oppression-or-empowerment|Money as oppression or empowerment]]
 - [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]]
 - [[literature-notes/money-wounds-trace-to-parent-wounds|Money wounds trace back to parent wounds]]
 - [[literature-notes/money-shame-creates-disconnection|Money shame creates disconnection]]

@@ -20,9 +20,9 @@ Joe drew the deeper connection: "I don't have time to feel because there's somet
 
 ## Related Concepts
 
-- [[literature-notes/overachieving-is-survival-mode|Overachieving is survival mode]] - The deeper pattern beneath compulsive achievement
-- [[literature-notes/stress-addiction-reproduces-childhood|Stress addiction reproduces childhood]] - How childhood urgency becomes adult lifestyle
-- [[literature-notes/busyness-is-not-productivity|Busyness is not productivity]] - The distinction between productive work and emotional avoidance
+- [[literature-notes/overachieving-is-survival-mode|Overachieving is survival mode]]
+- [[literature-notes/stress-addiction-reproduces-childhood|Stress addiction reproduces childhood]]
+- [[literature-notes/busyness-is-not-productivity|Busyness is not productivity]]
 
 ## Source
 

@@ -24,9 +24,9 @@ This extends beyond addiction. Any time you protect someone from the consequence
 
 ## Related Concepts
 
-- [[literature-notes/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others' emotions to avoid your own]] - The underlying dynamic
-- [[literature-notes/comfort-can-prevent-transformation|Comfort can prevent transformation]] - The broader principle
-- [[literature-notes/chaos-is-necessary-for-growth|Chaos is necessary for growth]] - Why challenges matter
+- [[literature-notes/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others' emotions to avoid your own]]
+- [[literature-notes/comfort-can-prevent-transformation|Comfort can prevent transformation]]
+- [[literature-notes/chaos-is-necessary-for-growth|Chaos is necessary for growth]]
 - [[literature-notes/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
 
 ## Source

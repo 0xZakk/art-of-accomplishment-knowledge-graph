@@ -22,9 +22,9 @@ This pattern extends beyond purpose. Whenever something lands in the body and th
 
 ## Related Concepts
 
-- [[literature-notes/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]] - The mind as obstacle to purpose
-- [[literature-notes/being-in-the-question-beats-finding-the-answer|Being in the question beats finding the answer]] - Staying in openness rather than seeking closure
-- [[literature-notes/purpose-arrives-through-receiving-not-searching|Purpose arrives through receiving not searching]] - The shift from seeking to receiving
+- [[literature-notes/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]]
+- [[literature-notes/being-in-the-question-beats-finding-the-answer|Being in the question beats finding the answer]]
+- [[literature-notes/purpose-arrives-through-receiving-not-searching|Purpose arrives through receiving not searching]]
 
 ## Source
 

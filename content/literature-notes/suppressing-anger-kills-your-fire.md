@@ -26,10 +26,10 @@ She was so committed to proving she didn't have anger that she found a neuroscie
 
 ## Related Concepts
 
-- [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]] - What anger becomes when allowed
-- [[literature-notes/exhaustion-is-unexpressed-anger|Exhaustion from caretaking is unexpressed anger]] - Another form of anger suppression
-- [[literature-notes/victim-anger-and-dominant-anger-both-matter|Both victim anger and dominant anger need expression]] - The forms anger expression can take
-- [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]] - The broader pattern
+- [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]]
+- [[literature-notes/exhaustion-is-unexpressed-anger|Exhaustion from caretaking is unexpressed anger]]
+- [[literature-notes/victim-anger-and-dominant-anger-both-matter|Both victim anger and dominant anger need expression]]
+- [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]]
 - [[literature-notes/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuckness]]
 - [[literature-notes/resistance-creates-the-feared-outcome|Resisting an emotion creates the very outcome you fear]]
 - [[literature-notes/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]

@@ -50,9 +50,9 @@ When we truly ask and truly listen, the answer is clear: the grief just is. It's
 
 ## Related Concepts
 
-- [[literature-notes/the-expansiveness-of-I-Am|The expansiveness of I Am]] - What we've been abandoning
-- [[literature-notes/doubt-is-leaving-your-heart|Doubt is leaving your heart]] - How we abandon ourselves
-- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]] - Where grief leads us back to
+- [[literature-notes/the-expansiveness-of-I-Am|The expansiveness of I Am]]
+- [[literature-notes/doubt-is-leaving-your-heart|Doubt is leaving your heart]]
+- [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
 - [[literature-notes/when-love-shows-up-unloved-parts-surface|When love shows up, unloved parts surface to be loved]]
 - [[literature-notes/grief-sustained-transforms-everything|Sustained grief transforms everything it touches]]
 - [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]]

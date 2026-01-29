@@ -24,9 +24,9 @@ The path to internal unity isn't performing wholeness but welcoming all emotions
 
 ## Related Concepts
 
-- [[literature-notes/two-forms-of-charisma|There are two forms of charisma]] - The framework this supports
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]] - The path to internal unity
-- [[literature-notes/inherent-goodness-eliminates-internal-friction|Inherent goodness eliminates internal friction]] - The endpoint of this work
+- [[literature-notes/two-forms-of-charisma|There are two forms of charisma]]
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]]
+- [[literature-notes/inherent-goodness-eliminates-internal-friction|Inherent goodness eliminates internal friction]]
 
 ## Source
 

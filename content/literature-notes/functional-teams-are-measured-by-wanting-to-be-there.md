@@ -18,8 +18,8 @@ A functional team also knows how to get the wrong people out quickly and the rig
 
 ## Related Concepts
 
-- [[literature-notes/enjoyment-as-the-only-metric|Enjoyment as the only metric]] - The same principle applied to individual life
-- [[literature-notes/trust-is-the-universal-ingredient-of-functional-teams|Trust is the universal ingredient of functional teams]] - What creates the environment people want to be in
+- [[literature-notes/enjoyment-as-the-only-metric|Enjoyment as the only metric]]
+- [[literature-notes/trust-is-the-universal-ingredient-of-functional-teams|Trust is the universal ingredient of functional teams]]
 - [[literature-notes/only-work-with-great-people|Only work with great people]]
 - [[literature-notes/team-functionality-is-an-endless-scale|Team functionality is an endless scale, not a binary]]
 

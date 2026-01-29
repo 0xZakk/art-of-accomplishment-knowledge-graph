@@ -22,10 +22,10 @@ The implication is profound: most of what we take to be "reality" — about love
 
 ## Related Concepts
 
-- [[literature-notes/attachment-is-bigger-than-trauma-events|Attachment is bigger than trauma events]] - The attachment bond creates the deepest programming
-- [[literature-notes/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic, not just intellectual]] - These patterns live in the body, not just the mind
-- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]] - We recreate what was programmed as "love"
-- [[literature-notes/knowing-patterns-doesnt-free-you|Knowing patterns doesn't free you]] - Intellectual understanding alone can't undo theta-level programming
+- [[literature-notes/attachment-is-bigger-than-trauma-events|Attachment is bigger than trauma events]]
+- [[literature-notes/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic, not just intellectual]]
+- [[literature-notes/we-attract-what-we-learned-as-love|We attract what we learned as love]]
+- [[literature-notes/knowing-patterns-doesnt-free-you|Knowing patterns doesn't free you]]
 - [[literature-notes/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood emotional patterns]]
 
 ## Source

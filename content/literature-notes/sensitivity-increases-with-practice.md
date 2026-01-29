@@ -19,8 +19,8 @@ This isn't something to rush toward. Joe, echoing David White, warns against try
 
 ## Related Concepts
 
-- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]] - The end point of wanting to be different
-- [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - The shift from improving to discovering
+- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
+- [[literature-notes/discovery-not-improvement|Discovery, not improvement]]
 
 ## Source
 

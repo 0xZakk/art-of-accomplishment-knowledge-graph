@@ -23,9 +23,9 @@ The principle operates as a heuristic: "Am I optimizing for being right or am I 
 
 ## Related Concepts
 
-- [[literature-notes/connection-enables-accomplishment|Connection enables accomplishment]] - Connection makes achievement easier, not harder
-- [[literature-notes/focus-on-few-high-leverage-principles|Focus on few high-leverage principles]] - Connection as the single highest-leverage principle
-- [[literature-notes/connection-as-career-compass|Connection as career compass]] - Connection applied to professional life
+- [[literature-notes/connection-enables-accomplishment|Connection enables accomplishment]]
+- [[literature-notes/focus-on-few-high-leverage-principles|Focus on few high-leverage principles]]
+- [[literature-notes/connection-as-career-compass|Connection as career compass]]
 - [[literature-notes/principles-make-decisions-for-you|Principles make decisions for you]]
 - [[literature-notes/principles-automate-decision-making|Principles automate decision-making into effortless choices]]
 

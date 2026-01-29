@@ -23,9 +23,9 @@ The two-week duration is key — avoidance is "the last thing that gets caught" 
 
 ## Related Concepts
 
-- [[literature-notes/functional-teams-are-measured-by-wanting-to-be-there|Functional teams are measured by wanting to be there]] - The underlying principle
-- [[literature-notes/enjoyment-as-the-only-metric|Enjoyment as the only metric]] - Using felt experience as the compass
-- [[literature-notes/lack-of-enjoyment-diagnoses-problems|Lack of enjoyment diagnoses problems]] - Depletion as diagnostic tool
+- [[literature-notes/functional-teams-are-measured-by-wanting-to-be-there|Functional teams are measured by wanting to be there]]
+- [[literature-notes/enjoyment-as-the-only-metric|Enjoyment as the only metric]]
+- [[literature-notes/lack-of-enjoyment-diagnoses-problems|Lack of enjoyment diagnoses problems]]
 
 ## Source
 

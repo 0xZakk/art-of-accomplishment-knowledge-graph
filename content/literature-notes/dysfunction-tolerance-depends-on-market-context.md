@@ -18,7 +18,7 @@ Innovation-dependent companies are the most vulnerable — dysfunction kills cre
 
 ## Related Concepts
 
-- [[literature-notes/team-functionality-is-an-endless-scale|Team functionality is an endless scale, not a binary]] - The continuous nature of the challenge
+- [[literature-notes/team-functionality-is-an-endless-scale|Team functionality is an endless scale, not a binary]]
 
 ## Source
 

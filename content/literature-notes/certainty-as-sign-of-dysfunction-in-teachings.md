@@ -23,10 +23,10 @@ The same pattern shows up when content creators must continuously produce — th
 
 ## Related Concepts
 
-- [[literature-notes/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist]] - Wonder holds what certainty cannot
-- [[literature-notes/knowing-is-the-opposite-of-wonder|Knowing is the opposite of wonder]] - The tension between knowing and openness
-- [[literature-notes/good-teachings-inevitably-get-corrupted|Good teachings inevitably get corrupted]] - How teachings drift toward dysfunction
-- [[literature-notes/internal-authority-mirrors-external|Internal authority mirrors external]] - Certainty from outside mirrors certainty of inner critic
+- [[literature-notes/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist]]
+- [[literature-notes/knowing-is-the-opposite-of-wonder|Knowing is the opposite of wonder]]
+- [[literature-notes/good-teachings-inevitably-get-corrupted|Good teachings inevitably get corrupted]]
+- [[literature-notes/internal-authority-mirrors-external|Internal authority mirrors external]]
 
 ## Source
 

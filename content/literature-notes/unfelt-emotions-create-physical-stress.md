@@ -22,9 +22,9 @@ The experiment of trying to stop all feeling makes this viscerally obvious — s
 
 ## Related Concepts
 
-- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - The cascade effect of emotional suppression
-- [[literature-notes/overwhelm-is-unfelt-emotions|Overwhelm is unfelt emotions]] - Overwhelm as a specific expression of stuck emotions
-- [[literature-notes/moving-emotions-dissolves-depression|Moving emotions dissolves depression]] - What happens when emotions start flowing again
+- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
+- [[literature-notes/overwhelm-is-unfelt-emotions|Overwhelm is unfelt emotions]]
+- [[literature-notes/moving-emotions-dissolves-depression|Moving emotions dissolves depression]]
 - [[literature-notes/muscles-constrict-to-block-feeling|We constrict muscles to suppress emotions — breathing reverses this]]
 - [[literature-notes/managing-emotions-prolongs-suffering|Managing emotions prolongs suffering]]
 - [[literature-notes/emotional-release-resolves-work-overwhelm|Emotional release resolves work overwhelm]]

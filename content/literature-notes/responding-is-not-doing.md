@@ -22,9 +22,9 @@ The distinction is between pressing enter (responding) and pressing forward (cre
 
 ## Related Concepts
 
-- [[literature-notes/busyness-is-not-productivity|Busyness is not productivity]] - The broader pattern
-- [[literature-notes/pace-and-spin-measure-real-productivity|Pace and spin measure real productivity]] - How to detect this trap
-- [[literature-notes/craving-versus-wanting|Craving versus wanting]] - Dopamine-driven responding versus genuine wanting
+- [[literature-notes/busyness-is-not-productivity|Busyness is not productivity]]
+- [[literature-notes/pace-and-spin-measure-real-productivity|Pace and spin measure real productivity]]
+- [[literature-notes/craving-versus-wanting|Craving versus wanting]]
 
 ## Source
 

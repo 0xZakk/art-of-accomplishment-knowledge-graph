@@ -19,9 +19,9 @@ Avoiding money doesn't eliminate cost—it shifts the cost from money to time, e
 
 ## Related Concepts
 
-- [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]] - Why we avoid money in the first place
-- [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]] - What happens when energy flows toward purpose
-- [[literature-notes/war-with-your-wants-creates-self-sabotage|War with your wants creates self-sabotage]] - The internal fight that creates the expense
+- [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]]
+- [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]]
+- [[literature-notes/war-with-your-wants-creates-self-sabotage|War with your wants creates self-sabotage]]
 
 ## Source
 

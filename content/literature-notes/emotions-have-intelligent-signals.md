@@ -26,9 +26,9 @@ The discomfort people associate with emotions comes from resisting them, not fro
 
 ## Related Concepts
 
-- [[literature-notes/anger-is-love-with-a-boundary|Anger is love with a boundary]] - The specific signal of anger
-- [[literature-notes/anxiety-signals-unmet-needs-at-multiple-depths|Anxiety signals unmet needs at multiple depths]] - The signal of anxiety
-- [[literature-notes/discomfort-is-the-resistance-not-the-emotion|Discomfort is the resistance, not the emotion]] - Why emotions feel bad
+- [[literature-notes/anger-is-love-with-a-boundary|Anger is love with a boundary]]
+- [[literature-notes/anxiety-signals-unmet-needs-at-multiple-depths|Anxiety signals unmet needs at multiple depths]]
+- [[literature-notes/discomfort-is-the-resistance-not-the-emotion|Discomfort is the resistance, not the emotion]]
 
 ## Source
 

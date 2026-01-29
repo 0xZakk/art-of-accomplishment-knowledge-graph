@@ -23,9 +23,9 @@ Intensity, properly met, actually helps — it prevents overthinking and keeps m
 
 ## Related Concepts
 
-- [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]] - The capacity to move through emotions quickly
-- [[literature-notes/overwhelm-is-unfelt-emotions|Overwhelm is unfelt emotions]] - What overwhelm actually is
-- [[literature-notes/embrace-intensity-in-business|Embrace intensity in business]] - Using intensity rather than avoiding it
+- [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]]
+- [[literature-notes/overwhelm-is-unfelt-emotions|Overwhelm is unfelt emotions]]
+- [[literature-notes/embrace-intensity-in-business|Embrace intensity in business]]
 
 ## Source
 

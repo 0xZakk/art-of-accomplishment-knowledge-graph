@@ -22,9 +22,9 @@ This isn't about sacrificing performance — over years and decades, the iterati
 
 ## Related Concepts
 
-- [[literature-notes/iterative-mindset-prevents-failure|An iterative mindset makes failure impossible]] - Play is where iteration lives
-- [[literature-notes/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]] - Why play outperforms grinding
-- [[literature-notes/play-tennis-in-life|Play tennis in life]] - Bringing play into everything
+- [[literature-notes/iterative-mindset-prevents-failure|An iterative mindset makes failure impossible]]
+- [[literature-notes/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]]
+- [[literature-notes/play-tennis-in-life|Play tennis in life]]
 
 ## Source
 

@@ -22,9 +22,9 @@ In product development, focus groups fail because they ask emotional questions t
 
 ## Related Concepts
 
-- [[literature-notes/all-decisions-are-emotional|All decisions are emotional]] - Why empathy matters in business
-- [[literature-notes/sales-is-connecting-not-convincing|Sales is connecting, not convincing]] - The empathetic sales approach
-- [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]] - What empathy creates in teams
+- [[literature-notes/all-decisions-are-emotional|All decisions are emotional]]
+- [[literature-notes/sales-is-connecting-not-convincing|Sales is connecting, not convincing]]
+- [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]]
 
 ## Source
 

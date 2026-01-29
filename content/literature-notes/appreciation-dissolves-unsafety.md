@@ -24,9 +24,9 @@ The instruction becomes: appreciate yourself in the midst of your unsafety. Not 
 
 ## Related Concepts
 
-- [[literature-notes/money-blocks-are-safety-blocks|Money blocks are often safety blocks]] - The wound this heals
-- [[literature-notes/felt-gratitude-not-performed-gratitude|Felt gratitude, not performed gratitude]] - Why the appreciation must be genuine
-- [[literature-notes/connection-enables-accomplishment|Connection enables accomplishment]] - The broader role of connection in transformation
+- [[literature-notes/money-blocks-are-safety-blocks|Money blocks are often safety blocks]]
+- [[literature-notes/felt-gratitude-not-performed-gratitude|Felt gratitude, not performed gratitude]]
+- [[literature-notes/connection-enables-accomplishment|Connection enables accomplishment]]
 - [[literature-notes/turning-insight-into-practice-can-backfire|Turning insight into practice can backfire]]
 - [[literature-notes/facing-fear-builds-empowerment|Facing the feeling you're avoiding is how empowerment comes]]
 - [[literature-notes/allowing-the-victim-creates-empowerment|Fully allowing the victim experience naturally creates empowerment]]

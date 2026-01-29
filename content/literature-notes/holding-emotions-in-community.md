@@ -21,8 +21,8 @@ This phenomenon also dissolves the sense of separate self. When you see your emo
 
 ## Related Concepts
 
-- [[literature-notes/deep-community-dissolves-identity|Deep community dissolves identity]] - How shared experience breaks down ego boundaries
-- [[literature-notes/community-health-is-individual-health|Community health is individual health]] - The systemic view of wellbeing
+- [[literature-notes/deep-community-dissolves-identity|Deep community dissolves identity]]
+- [[literature-notes/community-health-is-individual-health|Community health is individual health]]
 
 ## Source
 

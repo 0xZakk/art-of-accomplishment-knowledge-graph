@@ -23,10 +23,10 @@ The man's father showed the same pattern in his own failed entrepreneurial ventu
 
 ## Related Concepts
 
-- [[literature-notes/sales-is-connecting-not-convincing|Sales is connecting not convincing]] - The alternative to proving
-- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]] - Same dynamic in relationships
-- [[literature-notes/intrinsic-value-needs-no-earning|Intrinsic value needs no earning]] - The deeper truth about worth
-- [[literature-notes/imposter-syndrome-means-not-being-yourself|Imposter syndrome means not being yourself]] - Related identity pattern
+- [[literature-notes/sales-is-connecting-not-convincing|Sales is connecting not convincing]]
+- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
+- [[literature-notes/intrinsic-value-needs-no-earning|Intrinsic value needs no earning]]
+- [[literature-notes/imposter-syndrome-means-not-being-yourself|Imposter syndrome means not being yourself]]
 
 ## Source
 

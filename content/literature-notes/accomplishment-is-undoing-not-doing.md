@@ -22,9 +22,9 @@ The martial arts version: your whole body stays relaxed until the moment of impa
 
 ## Related Concepts
 
-- [[literature-notes/evolution-doesnt-require-striving|Evolution doesn't require striving]] - Growth as natural unfolding
-- [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - Finding what you are vs. fixing what you're not
-- [[literature-notes/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]] - The cost of forced effort
+- [[literature-notes/evolution-doesnt-require-striving|Evolution doesn't require striving]]
+- [[literature-notes/discovery-not-improvement|Discovery, not improvement]]
+- [[literature-notes/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]
 
 ## Source
 

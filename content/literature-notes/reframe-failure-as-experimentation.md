@@ -25,10 +25,10 @@ The key insight: write the full list *before* starting. When a painful setback o
 
 ## Related Concepts
 
-- [[literature-notes/iterative-mindset-prevents-failure|An iterative mindset makes failure impossible]] - The mindset this technique builds
-- [[literature-notes/experiments-make-knowledge-embodied|Experiments make knowledge embodied]] - Why experiments work better than theory
-- [[literature-notes/experiments-separate-identity-from-behavior|Experiments separate identity from behavior]] - Experiments protect identity from failure
-- [[literature-notes/dont-make-experiments-a-should|Don't make experiments a should]] - Critical: keep experiments as wants
+- [[literature-notes/iterative-mindset-prevents-failure|An iterative mindset makes failure impossible]]
+- [[literature-notes/experiments-make-knowledge-embodied|Experiments make knowledge embodied]]
+- [[literature-notes/experiments-separate-identity-from-behavior|Experiments separate identity from behavior]]
+- [[literature-notes/dont-make-experiments-a-should|Don't make experiments a should]]
 
 ## Source
 

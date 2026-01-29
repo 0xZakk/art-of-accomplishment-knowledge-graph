@@ -22,9 +22,9 @@ This illustrates a key principle: truth delivered from love lands differently th
 
 ## Related Concepts
 
-- [[literature-notes/somatic-test-for-truth-vs-conditioning|Somatic test for truth vs conditioning]] - How the body recognizes truth
-- [[literature-notes/calling-out-without-shame-works|Calling out without shame works]] - The facilitator's skill
-- [[literature-notes/ceo-emotional-avoidance-blocks-team-truth|CEO emotional avoidance blocks the team from finding truth]] - The organizational pattern
+- [[literature-notes/somatic-test-for-truth-vs-conditioning|Somatic test for truth vs conditioning]]
+- [[literature-notes/calling-out-without-shame-works|Calling out without shame works]]
+- [[literature-notes/ceo-emotional-avoidance-blocks-team-truth|CEO emotional avoidance blocks the team from finding truth]]
 - [[literature-notes/everyone-can-see-what-you-think-youre-hiding|Everyone can see what you think you're hiding]]
 - [[literature-notes/leaders-vulnerability-cascades-through-the-team|A leader's vulnerability cascades through the entire team]]
 

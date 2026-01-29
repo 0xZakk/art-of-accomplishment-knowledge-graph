@@ -22,9 +22,9 @@ You can hold a perspective passionately without thinking you're right: "This is 
 
 ## Related Concepts
 
-- [[literature-notes/view-framework-for-listening|VIEW framework for listening]] - The framework itself
-- [[literature-notes/boundaries-not-view-for-narcissists|Boundaries, not VIEW, are the tool for narcissists]] - When VIEW isn't the right approach
-- [[literature-notes/tools-can-keep-you-stuck|Tools can keep you stuck]] - The danger of making any tool into a requirement
+- [[literature-notes/view-framework-for-listening|VIEW framework for listening]]
+- [[literature-notes/boundaries-not-view-for-narcissists|Boundaries, not VIEW, are the tool for narcissists]]
+- [[literature-notes/tools-can-keep-you-stuck|Tools can keep you stuck]]
 
 ## Source
 

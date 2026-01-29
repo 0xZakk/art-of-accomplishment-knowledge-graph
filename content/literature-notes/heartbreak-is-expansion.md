@@ -24,9 +24,9 @@ Neuroscience research supports this: women in Western society tend to be more op
 
 ## Related Concepts
 
-- [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]] - The broader principle of welcoming difficult feelings
-- [[literature-notes/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]] - What happens when we refuse heartbreak
-- [[literature-notes/receiving-requires-vulnerability|Receiving requires vulnerability]] - Opening requires risk
+- [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]]
+- [[literature-notes/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]]
+- [[literature-notes/receiving-requires-vulnerability|Receiving requires vulnerability]]
 - [[literature-notes/heartbreak-opens-when-fear-is-felt|Heartbreak opens when fear is finally felt]]
 - [[literature-notes/love-requires-willingness-to-be-hurt|Love requires willingness to be hurt]]
 - [[literature-notes/mourning-a-relationship-prevents-repeating-it|Fully mourning a relationship prevents you from repeating it]]

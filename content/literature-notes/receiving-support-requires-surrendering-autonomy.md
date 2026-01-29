@@ -23,9 +23,9 @@ Yet underneath the discomfort is something profound: the experience of an infini
 
 ## Related Concepts
 
-- [[literature-notes/receiving-requires-vulnerability|Receiving requires vulnerability]] - The core mechanism at play
-- [[literature-notes/vulnerability-produces-love-not-rejection|Vulnerability produces love not rejection]] - What actually happens when we open
-- [[literature-notes/community-forms-spontaneously-around-vulnerability|Community forms spontaneously around vulnerability]] - How care organizes itself
+- [[literature-notes/receiving-requires-vulnerability|Receiving requires vulnerability]]
+- [[literature-notes/vulnerability-produces-love-not-rejection|Vulnerability produces love not rejection]]
+- [[literature-notes/community-forms-spontaneously-around-vulnerability|Community forms spontaneously around vulnerability]]
 
 ## Source
 

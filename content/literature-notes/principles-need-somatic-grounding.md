@@ -22,9 +22,9 @@ For transparency, there's a clear feeling when hiding something — a "sneaky" s
 
 ## Related Concepts
 
-- [[literature-notes/define-principles-by-what-they-are-and-arent|Define principles by what they are and aren't]] - The intellectual complement
-- [[literature-notes/somatic-test-for-truth-vs-conditioning|Somatic test for truth vs conditioning]] - Using the body as guide
-- [[literature-notes/all-decisions-are-emotional|All decisions are emotional]] - Why felt sense matters for decisions
+- [[literature-notes/define-principles-by-what-they-are-and-arent|Define principles by what they are and aren't]]
+- [[literature-notes/somatic-test-for-truth-vs-conditioning|Somatic test for truth vs conditioning]]
+- [[literature-notes/all-decisions-are-emotional|All decisions are emotional]]
 
 ## Source
 

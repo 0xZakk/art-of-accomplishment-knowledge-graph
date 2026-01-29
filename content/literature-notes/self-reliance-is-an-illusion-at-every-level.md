@@ -20,9 +20,9 @@ This extends to economics — a strong middle class makes everyone wealthier, bu
 
 ## Related Concepts
 
-- [[literature-notes/community-health-is-individual-health|Community health is individual health]] - The interdependence that self-reliance denies
-- [[literature-notes/selfishness-is-the-engine-of-unity|Selfishness is the engine of unity]] - How self-interest connects to the whole
-- [[literature-notes/self-reliance-is-a-defense-against-helplessness|Self-reliance is a defense against helplessness]] - The emotional root of the illusion
+- [[literature-notes/community-health-is-individual-health|Community health is individual health]]
+- [[literature-notes/selfishness-is-the-engine-of-unity|Selfishness is the engine of unity]]
+- [[literature-notes/self-reliance-is-a-defense-against-helplessness|Self-reliance is a defense against helplessness]]
 
 ## Source
 

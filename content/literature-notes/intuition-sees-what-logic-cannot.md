@@ -22,9 +22,9 @@ This applies directly to procrastination: sometimes the delay isn't resistance â
 
 ## Related Concepts
 
-- [[literature-notes/procrastination-has-wisdom|Procrastination contains wisdom worth listening to]] - Intuition is one of the three messages procrastination carries
-- [[literature-notes/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]] - Another domain where logic falls short
-- [[literature-notes/nature-knows-what-you-need-next|Nature knows what you need next]] - Trusting a deeper knowing
+- [[literature-notes/procrastination-has-wisdom|Procrastination contains wisdom worth listening to]]
+- [[literature-notes/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]]
+- [[literature-notes/nature-knows-what-you-need-next|Nature knows what you need next]]
 - [[literature-notes/three-brains-must-align-to-act|Three brains must align before you'll take action]]
 - [[literature-notes/your-nature-knows-what-you-need-next|Your nature knows what you need next]]
 - [[literature-notes/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]

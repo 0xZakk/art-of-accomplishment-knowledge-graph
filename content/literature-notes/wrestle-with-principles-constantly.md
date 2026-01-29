@@ -24,9 +24,9 @@ Joe's own "wonder" principle evolved from "what are you curious about right now?
 
 ## Related Concepts
 
-- [[literature-notes/experiments-make-knowledge-embodied|Experiments make knowledge embodied]] - Why experimentation is the mechanism
-- [[literature-notes/we-are-always-running-experiments|We are always running experiments]] - The broader frame
-- [[literature-notes/principles-differ-from-values|Principles drive action; values describe morality]] - What makes principles worth wrestling with
+- [[literature-notes/experiments-make-knowledge-embodied|Experiments make knowledge embodied]]
+- [[literature-notes/we-are-always-running-experiments|We are always running experiments]]
+- [[literature-notes/principles-differ-from-values|Principles drive action; values describe morality]]
 - [[literature-notes/principles-automate-decision-making|Principles automate decision-making into effortless choices]]
 - [[literature-notes/principles-rollout-must-be-bottom-up|Principles in organizations must emerge bottom-up through shared experimentation]]
 

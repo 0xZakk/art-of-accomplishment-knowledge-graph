@@ -22,9 +22,9 @@ Once the nervous system associates a partner's anger with genuine danger, the en
 
 ## Related Concepts
 
-- [[literature-notes/safe-agreements-make-conflict-transformative|Safe agreements make conflict transformative]] - The solution to this problem
-- [[literature-notes/safety-comes-from-working-through-conflict|Safety comes from working through conflict]] - Why conflict done right builds trust
-- [[literature-notes/allowing-conflict-not-creating-it|Allowing conflict, not creating it]] - The distinction between productive and destructive conflict
+- [[literature-notes/safe-agreements-make-conflict-transformative|Safe agreements make conflict transformative]]
+- [[literature-notes/safety-comes-from-working-through-conflict|Safety comes from working through conflict]]
+- [[literature-notes/allowing-conflict-not-creating-it|Allowing conflict, not creating it]]
 - [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer together]]
 - [[literature-notes/relationship-agreements-create-safe-conflict|Relationship agreements create a safe playing field for conflict]]
 - [[literature-notes/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]

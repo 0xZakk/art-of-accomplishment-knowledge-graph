@@ -22,9 +22,9 @@ The exhaustion isn't from doing too much — it's from the constant internal eff
 
 ## Related Concepts
 
-- [[literature-notes/composure-is-self-imprisonment|Forced composure is self-imprisonment]] - The underlying pattern
-- [[literature-notes/caretaking-creates-resentment-in-the-receiver|Caretaking creates resentment in the receiver]] - Related over-functioning pattern
-- [[literature-notes/obligation-kills-love|Taking responsibility from obligation kills love]] - Responsibility without heart
+- [[literature-notes/composure-is-self-imprisonment|Forced composure is self-imprisonment]]
+- [[literature-notes/caretaking-creates-resentment-in-the-receiver|Caretaking creates resentment in the receiver]]
+- [[literature-notes/obligation-kills-love|Taking responsibility from obligation kills love]]
 
 ## Source
 

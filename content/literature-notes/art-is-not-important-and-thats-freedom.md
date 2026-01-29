@@ -22,9 +22,9 @@ The moment she stops trying to make it important and drops into source, a piece 
 
 ## Related Concepts
 
-- [[literature-notes/life-is-art-not-separate-from-it|Life is art, not separate from it]] - Dissolving the art/life separation
-- [[literature-notes/freedom-is-recognized-not-achieved|Freedom is recognized, not achieved]] - Freedom as recognition
-- [[literature-notes/nothing-is-required-for-freedom|Nothing is required for freedom]] - The absence of prerequisites
+- [[literature-notes/life-is-art-not-separate-from-it|Life is art, not separate from it]]
+- [[literature-notes/freedom-is-recognized-not-achieved|Freedom is recognized, not achieved]]
+- [[literature-notes/nothing-is-required-for-freedom|Nothing is required for freedom]]
 - [[literature-notes/creative-block-is-trying-to-get-somewhere|Creative block is trying to get somewhere]]
 - [[literature-notes/source-is-always-there-just-drop-down|Source is always there — just drop down]]
 

@@ -22,9 +22,9 @@ Joe illustrates with his godson: a teenager who stole $50 and vaped in class was
 
 ## Related Concepts
 
-- [[literature-notes/wanting-is-aliveness|Wanting is aliveness]] - The deeper teaching on wanting
-- [[literature-notes/goals-generate-questions-not-destinations|Goals generate questions, not destinations]] - How goals serve us
-- [[literature-notes/craving-versus-wanting|Craving versus wanting]] - The distinction between healthy and unhealthy wanting
+- [[literature-notes/wanting-is-aliveness|Wanting is aliveness]]
+- [[literature-notes/goals-generate-questions-not-destinations|Goals generate questions, not destinations]]
+- [[literature-notes/craving-versus-wanting|Craving versus wanting]]
 - [[literature-notes/exploration-not-achievement-is-the-real-urge|Exploration not achievement is the real urge underneath potential anxiety]]
 
 ## Source

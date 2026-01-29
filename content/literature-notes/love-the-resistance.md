@@ -20,10 +20,10 @@ The key insight is that you cannot fight your way out of a war. Every layer of f
 
 ## Related Concepts
 
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting, emotions]] - Welcoming goes beyond acceptance to active embrace
-- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]] - Running toward intensity rather than away
-- [[literature-notes/hug-the-demon-dont-slay-it|Hug the demon, don't slay it]] - The same principle applied to inner demons
-- [[literature-notes/resistance-is-a-natural-step-in-transformation|Resistance is a natural step in transformation]] - Why resistance appears in the first place
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting, emotions]]
+- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]]
+- [[literature-notes/hug-the-demon-dont-slay-it|Hug the demon, don't slay it]]
+- [[literature-notes/resistance-is-a-natural-step-in-transformation|Resistance is a natural step in transformation]]
 - [[literature-notes/love-the-resistance-to-the-thing|If you can't love the thing, love the resistance to the thing]]
 - [[literature-notes/heartbreak-opens-when-fear-is-felt|Heartbreak opens when fear is finally felt]]
 - [[literature-notes/welcome-the-inner-critic|Welcoming the inner critic dissolves its power]]

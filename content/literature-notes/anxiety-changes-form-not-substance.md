@@ -20,9 +20,9 @@ This pattern applies to everything people attach their freedom to. The object ch
 
 ## Related Concepts
 
-- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - Fearing loss invites loss
-- [[literature-notes/external-scorecards-always-move|External scorecards always move]] - External targets never satisfy
-- [[literature-notes/fear-patterns-reveal-identity|Fear patterns reveal identity]] - What you fear reveals what identity you're holding
+- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
+- [[literature-notes/external-scorecards-always-move|External scorecards always move]]
+- [[literature-notes/fear-patterns-reveal-identity|Fear patterns reveal identity]]
 
 ## Source
 

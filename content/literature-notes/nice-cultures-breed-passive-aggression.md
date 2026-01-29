@@ -19,8 +19,8 @@ The more arbitrary social norms dictate what you can and can't express, the more
 
 ## Related Concepts
 
-- [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]] - Avoiding directness stagnates growth
-- [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]] - Authentic expression eliminates the need for indirect maneuvering
+- [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]]
+- [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]]
 
 ## Source
 

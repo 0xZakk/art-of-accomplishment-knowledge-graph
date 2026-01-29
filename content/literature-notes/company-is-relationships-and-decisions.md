@@ -23,8 +23,8 @@ Joe notes that culture doesn't require extra time or resources. You have to do t
 
 ## Related Concepts
 
-- [[literature-notes/culture-dysfunction-two-questions|All cultural dysfunction comes from two questions]] - What goes wrong in relationships and decisions
-- [[literature-notes/structural-changes-beat-direct-interventions|Structural changes beat direct interventions]] - How to improve the decision-making
+- [[literature-notes/culture-dysfunction-two-questions|All cultural dysfunction comes from two questions]]
+- [[literature-notes/structural-changes-beat-direct-interventions|Structural changes beat direct interventions]]
 - [[literature-notes/life-is-the-sum-of-decisions|Your life is the sum of the decisions you've made]]
 - [[literature-notes/hearing-objections-before-deciding|Hearing objections before deciding — even if you decide the same thing — changes everything]]
 

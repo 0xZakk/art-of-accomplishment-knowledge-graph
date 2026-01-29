@@ -20,8 +20,8 @@ This works with kids too: "Hey, I'm nagging and it feels terrible. How do we get
 
 ## Related Concepts
 
-- [[literature-notes/dominate-dont-convince|Dominate, don't convince]] - The "no doctrine" similarly invites group wisdom
-- [[literature-notes/discovery-not-improvement|Discovery, not improvement]] - Leading through exploration rather than fixing
+- [[literature-notes/dominate-dont-convince|Dominate, don't convince]]
+- [[literature-notes/discovery-not-improvement|Discovery, not improvement]]
 
 ## Source
 

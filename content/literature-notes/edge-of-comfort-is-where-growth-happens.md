@@ -21,9 +21,9 @@ Caroline now describes herself as "addicted" to this edge — interviewing New Y
 
 ## Related Concepts
 
-- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]] - Leaning into discomfort as a growth strategy
-- [[literature-notes/facilitating-from-your-own-edge|Facilitating from your own edge]] - Leading from where growth is happening for you
-- [[literature-notes/not-jumping-can-be-the-bigger-leap|Not jumping can be the bigger leap]] - Sometimes the edge is restraint, not action
+- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]]
+- [[literature-notes/facilitating-from-your-own-edge|Facilitating from your own edge]]
+- [[literature-notes/not-jumping-can-be-the-bigger-leap|Not jumping can be the bigger leap]]
 
 ## Source
 

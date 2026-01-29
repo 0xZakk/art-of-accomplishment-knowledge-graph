@@ -23,10 +23,10 @@ Joe points out that bad relationships with money, partners, or dreams are all re
 
 ## Related Concepts
 
-- [[literature-notes/wrong-question-keeps-you-stuck|Wrong question keeps you stuck]] - Asking the wrong question perpetuates the loop
-- [[literature-notes/relationship-reflects-self-relationship|Relationship reflects self-relationship]] - External mirrors internal
-- [[literature-notes/fixing-mindset-perpetuates-stuckness|Fixing mindset perpetuates stuckness]] - The "fix me" frame is part of the problem
-- [[literature-notes/address-root-blockers-not-symptoms|Address root blockers not symptoms]] - Going to the core
+- [[literature-notes/wrong-question-keeps-you-stuck|Wrong question keeps you stuck]]
+- [[literature-notes/relationship-reflects-self-relationship|Relationship reflects self-relationship]]
+- [[literature-notes/fixing-mindset-perpetuates-stuckness|Fixing mindset perpetuates stuckness]]
+- [[literature-notes/address-root-blockers-not-symptoms|Address root blockers not symptoms]]
 - [[literature-notes/self-relationship-is-the-core-issue|The relationship with yourself is always the core issue]]
 
 ## Source

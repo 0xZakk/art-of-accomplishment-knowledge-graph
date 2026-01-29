@@ -25,10 +25,10 @@ This reframes the entire moral framework around selfishness: there are no bad wa
 
 ## Related Concepts
 
-- [[literature-notes/wanting-matters-more-than-what-you-want|Wanting matters more than what you want]] - The primacy of wanting itself
-- [[literature-notes/war-with-your-wants-creates-self-sabotage|War with your wants creates self-sabotage]] - What happens when you fight desires
-- [[literature-notes/craving-versus-wanting|Craving versus wanting]] - Healthy versus addictive desire
-- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]] - Why we judge wants
+- [[literature-notes/wanting-matters-more-than-what-you-want|Wanting matters more than what you want]]
+- [[literature-notes/war-with-your-wants-creates-self-sabotage|War with your wants creates self-sabotage]]
+- [[literature-notes/craving-versus-wanting|Craving versus wanting]]
+- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]]
 - [[literature-notes/wanting-is-aliveness|Wanting is aliveness]]
 - [[literature-notes/self-interest-evolves-into-altruism|Self-interest naturally evolves into altruism]]
 - [[literature-notes/inherent-goodness-reframes-shameful-wants|Seeing yourself as inherently good reframes shameful wants]]

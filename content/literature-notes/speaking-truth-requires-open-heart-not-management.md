@@ -22,9 +22,9 @@ The truth itself isn't the problem. It's the fear wrapped around it that creates
 
 ## Related Concepts
 
-- [[literature-notes/communication-techniques-get-weaponized|Communication techniques get weaponized without the right state]] - Technique without openheartedness backfires
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Authentic expression requires dropping management
-- [[literature-notes/shame-hot-potato|Shame gets passed back and forth in fights]] - Managing reactions often perpetuates the shame cycle
+- [[literature-notes/communication-techniques-get-weaponized|Communication techniques get weaponized without the right state]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
+- [[literature-notes/shame-hot-potato|Shame gets passed back and forth in fights]]
 - [[literature-notes/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
 
 ## Source

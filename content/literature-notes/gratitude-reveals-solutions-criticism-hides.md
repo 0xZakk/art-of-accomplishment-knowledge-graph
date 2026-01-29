@@ -23,8 +23,8 @@ Critically, gratitude should be applied *to the problem itself*. If your product
 
 ## Related Concepts
 
-- [[literature-notes/find-whats-working-and-spread-it|Find what's already working and spread it]] - The practical application of gratitude-based problem solving
-- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]] - The self-critical voice that blocks gratitude
+- [[literature-notes/find-whats-working-and-spread-it|Find what's already working and spread it]]
+- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]]
 - [[literature-notes/negativity-bias-limits-intelligent-people|Negativity bias especially limits intelligent people]]
 - [[literature-notes/ungratitude-removes-half-your-solutions|Ungratitude removes half your solutions]]
 - [[literature-notes/gratitude-solves-problems-by-seeing-whats-right|Gratitude solves problems by seeing what's right and growing it]]

@@ -22,8 +22,8 @@ The key distinction is between conviction (I will engage with whatever comes) an
 
 ## Related Concepts
 
-- [[literature-notes/certainty-lives-in-how-you-want-to-be|The only real certainty is how you want to be]] - What to anchor to instead
-- [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]] - How fear collapses complexity into false binaries
+- [[literature-notes/certainty-lives-in-how-you-want-to-be|The only real certainty is how you want to be]]
+- [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]]
 
 ## Source
 

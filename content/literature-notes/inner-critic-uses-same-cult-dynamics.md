@@ -23,10 +23,10 @@ The liberation is the same in both cases: when you see through the inner critic'
 
 ## Related Concepts
 
-- [[literature-notes/inner-critic-is-not-your-voice|Inner critic is not your voice]] - Recognizing the critic as separate
-- [[literature-notes/us-versus-them-signals-fear-based-control|Us-versus-them signals fear-based control]] - The external version
-- [[literature-notes/internal-authority-mirrors-external|Internal authority mirrors external]] - The mirroring pattern
-- [[literature-notes/welcome-the-inner-critic|Welcome the inner critic]] - How to relate differently
+- [[literature-notes/inner-critic-is-not-your-voice|Inner critic is not your voice]]
+- [[literature-notes/us-versus-them-signals-fear-based-control|Us-versus-them signals fear-based control]]
+- [[literature-notes/internal-authority-mirrors-external|Internal authority mirrors external]]
+- [[literature-notes/welcome-the-inner-critic|Welcome the inner critic]]
 - [[literature-notes/inner-critic-mirrors-relationship-patterns|The inner critic mirrors your relationship patterns]]
 - [[literature-notes/voice-in-head-talks-to-itself|The voice in the head talks to itself more than to you]]
 - [[literature-notes/should-creates-rebellion-or-submission|Should creates either rebellion or submission, never empowerment]]

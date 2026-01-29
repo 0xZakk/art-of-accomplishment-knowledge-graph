@@ -26,8 +26,8 @@ This is different from trying to "fix" or "improve" the false identity. It must 
 
 ## Related Concepts
 
-- [[literature-notes/dominate-dont-convince|Dominate, don't convince]] - The energy needed for annihilation
-- [[literature-notes/victim-identity-transformation|Transforming victim identity]] - Moving beyond victimhood
+- [[literature-notes/dominate-dont-convince|Dominate, don't convince]]
+- [[literature-notes/victim-identity-transformation|Transforming victim identity]]
 
 ## Source
 

@@ -22,9 +22,9 @@ The lesson isn't that effort in relationships is wrong — it's that unilateral 
 
 ## Related Concepts
 
-- [[literature-notes/fixing-partner-is-manipulation|Fixing partner is manipulation]] - The shadow of optimization
-- [[literature-notes/stop-fixing-others-to-help-them-change|Stop fixing others to help them change]] - Letting go of the fix
-- [[literature-notes/caretaking-kills-desire|Caretaking kills desire]] - How over-functioning undermines relationships
+- [[literature-notes/fixing-partner-is-manipulation|Fixing partner is manipulation]]
+- [[literature-notes/stop-fixing-others-to-help-them-change|Stop fixing others to help them change]]
+- [[literature-notes/caretaking-kills-desire|Caretaking kills desire]]
 
 ## Source
 

@@ -23,10 +23,10 @@ The solution follows directly from the diagnosis: change the emotional state of 
 
 ## Related Concepts
 
-- [[literature-notes/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]] - The self-abuse requirement
-- [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]] - Broader pattern of avoidance
-- [[literature-notes/bad-decisions-come-from-fear-of-emotions|Bad decisions come from fear of emotions]] - Fear of feeling drives poor choices
-- [[literature-notes/procrastination-happens-when-its-personal|Procrastination happens when it's personal]] - Why certain tasks trigger it
+- [[literature-notes/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
+- [[literature-notes/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]]
+- [[literature-notes/bad-decisions-come-from-fear-of-emotions|Bad decisions come from fear of emotions]]
+- [[literature-notes/procrastination-happens-when-its-personal|Procrastination happens when it's personal]]
 - [[literature-notes/first-domino-principle|People who don't procrastinate pick the right first domino]]
 - [[literature-notes/procrastination-has-wisdom|Procrastination contains wisdom worth listening to]]
 - [[literature-notes/enjoyment-dissolves-procrastination|Making enjoyment the priority dissolves procrastination]]

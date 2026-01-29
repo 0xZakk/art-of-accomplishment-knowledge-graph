@@ -20,9 +20,9 @@ The friends' fight ended "in a relatively short period of time" precisely becaus
 
 ## Related Concepts
 
-- [[literature-notes/relationship-agreements-create-safe-conflict|Relationship agreements create safe conflict]] - The specific mechanism for shame-free fighting
-- [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer]] - How conflict becomes growth
-- [[literature-notes/shame-never-changes-behavior|Shame never changes behavior]] - Why shame-based approaches to conflict fail
+- [[literature-notes/relationship-agreements-create-safe-conflict|Relationship agreements create safe conflict]]
+- [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer]]
+- [[literature-notes/shame-never-changes-behavior|Shame never changes behavior]]
 - [[literature-notes/dropping-shame-is-prerequisite-for-seeing-your-partner|Dropping shame is the prerequisite for seeing your partner]]
 - [[literature-notes/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
 - [[literature-notes/measure-how-you-fight-not-how-often|Relationship health is measured by how you fight, not how often]]

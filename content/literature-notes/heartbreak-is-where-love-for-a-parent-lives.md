@@ -24,10 +24,10 @@ Joe promises that by continuing to feel through these layers, the man can reach 
 
 ## Related Concepts
 
-- [[literature-notes/guilt-covers-deeper-emotions-about-family|Guilt covers deeper emotions about family]] - The layers above heartbreak
-- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]] - Heartbreak as opening
-- [[literature-notes/grief-is-necessary-for-transformation|Grief is necessary for transformation]] - Grief as the mechanism
-- [[literature-notes/boundaries-increase-capacity-to-love|Boundaries increase capacity to love]] - Boundaries and love coexist
+- [[literature-notes/guilt-covers-deeper-emotions-about-family|Guilt covers deeper emotions about family]]
+- [[literature-notes/heartbreak-is-expansion|Heartbreak is expansion]]
+- [[literature-notes/grief-is-necessary-for-transformation|Grief is necessary for transformation]]
+- [[literature-notes/boundaries-increase-capacity-to-love|Boundaries increase capacity to love]]
 - [[literature-notes/seeing-parents-terror-dissolves-resentment|Seeing parents' terror dissolves resentment]]
 - [[literature-notes/disgust-at-a-parent-reflects-absent-self-care|Disgust at a parent reflects their absence of self-care]]
 - [[literature-notes/criticism-turns-family-into-obligation|Criticism turns family relationships into obligation]]

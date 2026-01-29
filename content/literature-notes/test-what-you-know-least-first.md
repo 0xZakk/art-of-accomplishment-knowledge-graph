@@ -17,7 +17,7 @@ Applied to self-discovery: don't start experiments with what you already believe
 
 ## Related Concepts
 
-- [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]] - The tendency to avoid the unknown is fear-driven
+- [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]]
 
 ## Source
 

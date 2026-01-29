@@ -23,8 +23,8 @@ The recommendation for developing this capacity is not to chase empathic skills 
 
 ## Related Concepts
 
-- [[literature-notes/attunement-is-listening-without-leaving-yourself|Attunement is listening without leaving yourself]] - The mechanics of deep listening
-- [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]] - How presence affects reception
+- [[literature-notes/attunement-is-listening-without-leaving-yourself|Attunement is listening without leaving yourself]]
+- [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]]
 - [[literature-notes/numbness-as-survival-gift|Emotional numbness can be a survival gift, not a deficit]]
 - [[literature-notes/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]
 - [[literature-notes/empathy-is-being-with-not-in|Empathy is being with someone, not in someone]]

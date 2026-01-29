@@ -20,9 +20,9 @@ This maps to the broader pattern across Joe's work: what you welcome moves, what
 
 ## Related Concepts
 
-- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]] - The same principle applied to general body awareness
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]] - Going beyond tolerance to genuine openness
-- [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]] - Why fighting stress creates more stress
+- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]]
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]]
+- [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]]
 - [[literature-notes/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms; unresisted stress enlivens]]
 - [[literature-notes/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]
 - [[literature-notes/pleasure-grounds-the-sensitive-system|Pleasure and bodily sensation ground the sensitive system as it opens]]

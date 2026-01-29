@@ -21,8 +21,8 @@ Joe's advice for someone who defaults to compassion: "Ask your compassion to be 
 
 ## Related Concepts
 
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming not just accepting emotions]] - True acceptance includes all emotions
-- [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]] - How bypassing distorts what we feel
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming not just accepting emotions]]
+- [[literature-notes/resistance-changes-the-emotion|Resistance changes the emotion]]
 - [[literature-notes/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
 - [[literature-notes/anger-release-ends-in-clarity-and-determination|Clean anger release ends in clarity and determination about yourself, not others]]
 

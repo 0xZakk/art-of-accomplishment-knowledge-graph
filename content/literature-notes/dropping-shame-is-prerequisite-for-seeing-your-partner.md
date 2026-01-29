@@ -22,9 +22,9 @@ This means that self-love isn't selfish preparation for relationship — it's th
 
 ## Related Concepts
 
-- [[literature-notes/shame-interrupts-openness|Shame interrupts openness]] - The mechanism by which shame blocks seeing
-- [[literature-notes/self-love-is-the-capacity-limit-for-loving-others|Self-love is the capacity limit for loving others]] - The broader principle
-- [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]] - What happens when seeing succeeds
+- [[literature-notes/shame-interrupts-openness|Shame interrupts openness]]
+- [[literature-notes/self-love-is-the-capacity-limit-for-loving-others|Self-love is the capacity limit for loving others]]
+- [[literature-notes/feeling-seen-dissolves-politics|Feeling seen dissolves politics]]
 - [[literature-notes/self-love-sets-the-capacity-limit-for-loving-others|Self-love sets the capacity limit for loving a partner]]
 - [[literature-notes/fighting-without-shame-transforms-conflict|Fighting without shame transforms conflict]]
 - [[literature-notes/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]

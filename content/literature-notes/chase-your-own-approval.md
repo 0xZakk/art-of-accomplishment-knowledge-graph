@@ -22,9 +22,9 @@ A life organized around your own approval feels empowered, grounded, and capable
 
 ## Related Concepts
 
-- [[literature-notes/approval-seeking-pushes-people-away|Seeking approval pushes people away]] - What external approval-chasing produces
-- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]] - Self-approval as life design
-- [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]] - Approving of your own wants
+- [[literature-notes/approval-seeking-pushes-people-away|Seeking approval pushes people away]]
+- [[literature-notes/being-yourself-designs-your-life|Being yourself designs your life]]
+- [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]]
 
 ## Source
 

@@ -20,9 +20,9 @@ This is a specific instance of a broader pattern Joe identifies: trying to get r
 
 ## Related Concepts
 
-- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]] - The general pattern of shame reinforcing what it targets
-- [[literature-notes/stress-about-stress-doubles-the-stress|Stress about stress doubles the stress]] - The same self-reinforcing dynamic
-- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - How resistance amplifies what's resisted
+- [[literature-notes/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
+- [[literature-notes/stress-about-stress-doubles-the-stress|Stress about stress doubles the stress]]
+- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
 - [[literature-notes/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
 - [[literature-notes/shame-is-anger-turned-inward|Shame is anger turned inward]]
 - [[literature-notes/social-anxiety-is-hiding-from-phantom-shame|Social anxiety is hiding from a shame that has no actual content]]

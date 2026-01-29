@@ -21,9 +21,9 @@ The cycle is self-reinforcing: as you burn out, you see things more pessimistica
 
 ## Related Concepts
 
-- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]] - The "should" mindset is one of the psychological drivers of burnout
-- [[literature-notes/overwhelm-is-unfelt-emotions|Overwhelm is unfelt emotions]] - Unfelt emotions are one of the three roots of burnout
-- [[literature-notes/anxiety-is-detrimental-to-productivity|Anxiety is detrimental to productivity]] - Anxiety-driven work is unsustainable
+- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]]
+- [[literature-notes/overwhelm-is-unfelt-emotions|Overwhelm is unfelt emotions]]
+- [[literature-notes/anxiety-is-detrimental-to-productivity|Anxiety is detrimental to productivity]]
 
 ## Source
 

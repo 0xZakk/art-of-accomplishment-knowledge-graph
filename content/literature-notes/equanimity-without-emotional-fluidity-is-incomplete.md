@@ -22,9 +22,9 @@ The implication is that meditation and contemplative practice can produce deep p
 
 ## Related Concepts
 
-- [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]] - What's needed alongside equanimity
-- [[literature-notes/downregulation-is-not-resolution|Downregulation is not resolution]] - Managing emotions vs. resolving them
-- [[literature-notes/somatic-bypass-domesticates-instead-of-liberates|Somatic bypass domesticates instead of liberates]] - When contemplative tools become management tools
+- [[literature-notes/emotional-fluidity-defined|Emotional fluidity defined]]
+- [[literature-notes/downregulation-is-not-resolution|Downregulation is not resolution]]
+- [[literature-notes/somatic-bypass-domesticates-instead-of-liberates|Somatic bypass domesticates instead of liberates]]
 
 ## Source
 

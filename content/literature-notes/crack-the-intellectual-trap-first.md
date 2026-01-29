@@ -21,8 +21,8 @@ The key principle: effective transformation works on all three systems (intellec
 
 ## Related Concepts
 
-- [[literature-notes/three-systems-intellect-emotion-nervous-system|Intellect, emotion, and nervous system are three interacting systems]] - The full framework
-- [[literature-notes/experiential-learning-over-intellectual-understanding|Experiential learning over intellectual understanding]] - Why eventually the work must go beyond intellect
+- [[literature-notes/three-systems-intellect-emotion-nervous-system|Intellect, emotion, and nervous system are three interacting systems]]
+- [[literature-notes/experiential-learning-over-intellectual-understanding|Experiential learning over intellectual understanding]]
 - [[literature-notes/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]
 
 ## Source

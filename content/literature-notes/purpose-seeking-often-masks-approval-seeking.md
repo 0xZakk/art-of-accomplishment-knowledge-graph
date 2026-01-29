@@ -22,9 +22,9 @@ The flip is from approval to recognition: doing what hurts too much not to do, e
 
 ## Related Concepts
 
-- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]] - The dynamic at play
-- [[literature-notes/searching-for-purpose-assumes-you-lack-it|Searching for purpose assumes you don't already have it]] - The flawed question
-- [[literature-notes/chase-your-own-approval|Chase your own approval]] - The alternative orientation
+- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
+- [[literature-notes/searching-for-purpose-assumes-you-lack-it|Searching for purpose assumes you don't already have it]]
+- [[literature-notes/chase-your-own-approval|Chase your own approval]]
 - [[literature-notes/purpose-is-recognition-not-decision|Purpose is recognition, not decision]]
 
 ## Source

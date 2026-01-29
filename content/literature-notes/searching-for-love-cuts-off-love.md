@@ -24,9 +24,9 @@ The key distinction: "seeing the love that's there" is not the same as "looking 
 
 ## Related Concepts
 
-- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]] - The same paradox applied to purpose
-- [[literature-notes/craving-is-the-pushing-away|Craving is the pushing away]] - Wanting creates distance from having
-- [[literature-notes/freedom-is-recognized-not-achieved|Freedom is recognized, not achieved]] - Recognition vs. achievement
+- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
+- [[literature-notes/craving-is-the-pushing-away|Craving is the pushing away]]
+- [[literature-notes/freedom-is-recognized-not-achieved|Freedom is recognized, not achieved]]
 
 ## Source
 

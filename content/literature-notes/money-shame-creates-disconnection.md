@@ -21,9 +21,9 @@ The empowered stance toward money is: "I will be me no matter what the money sit
 
 ## Related Concepts
 
-- [[literature-notes/shame-drives-compulsive-avoidance|Shame drives compulsive avoidance]] - How shame around money drives avoidant behavior
-- [[literature-notes/connection-dissolves-shame|Connection dissolves shame]] - The antidote to money shame
-- [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]] - Money as a surface for our deeper patterns
+- [[literature-notes/shame-drives-compulsive-avoidance|Shame drives compulsive avoidance]]
+- [[literature-notes/connection-dissolves-shame|Connection dissolves shame]]
+- [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]]
 - [[literature-notes/money-resistance-mirrors-childhood-wounds|Money resistance often mirrors childhood wounds around love and worth]]
 - [[literature-notes/money-beliefs-create-money-reality|Your beliefs about money create your financial reality]]
 

@@ -20,9 +20,9 @@ The devastating consequence is that victimhood tells you "I don't have the power
 
 ## Related Concepts
 
-- [[literature-notes/being-yourself-gets-you-promoted-or-freed|Being yourself gets you promoted or freed]] - Authenticity creates natural selection for fit
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Hiding prevents the connection you crave
-- [[literature-notes/allowing-the-victim-creates-empowerment|Allowing the victim creates empowerment]] - Feeling the victim dissolves it
+- [[literature-notes/being-yourself-gets-you-promoted-or-freed|Being yourself gets you promoted or freed]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
+- [[literature-notes/allowing-the-victim-creates-empowerment|Allowing the victim creates empowerment]]
 
 ## Source
 

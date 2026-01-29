@@ -22,9 +22,9 @@ This also has a nervous system benefit: placing attention in your body during co
 
 ## Related Concepts
 
-- [[literature-notes/attunement-to-self-produces-intuition|Attunement to self produces intuition]] - Self-attunement as the foundation for clear perception
-- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]] - The simplicity of placing attention in the body
-- [[literature-notes/breath-regulates-the-nervous-system|Breath regulates the nervous system]] - Another body-based tool for maintaining center
+- [[literature-notes/attunement-to-self-produces-intuition|Attunement to self produces intuition]]
+- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]]
+- [[literature-notes/breath-regulates-the-nervous-system|Breath regulates the nervous system]]
 - [[literature-notes/body-awareness-prevents-empathic-merging|Maintaining body awareness prevents empathic merging]]
 - [[literature-notes/emptiness-is-the-source-of-empathic-attunement|Emptiness is the source of empathic attunement]]
 - [[literature-notes/embodied-listening-improves-signal-to-noise|Embodied listening improves signal to noise]]

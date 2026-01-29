@@ -23,8 +23,8 @@ The practice: every time you make an immediate decision, notice how your body fe
 
 ## Related Concepts
 
-- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]] - The prerequisite skill
-- [[literature-notes/doubt-is-leaving-your-heart|Doubt is leaving your heart]] - Another somatic marker
+- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]]
+- [[literature-notes/doubt-is-leaving-your-heart|Doubt is leaving your heart]]
 
 ## Source
 

@@ -25,9 +25,9 @@ The same progression applies to stress: create separation (sleep, vacation), won
 
 ## Related Concepts
 
-- [[literature-notes/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist neurologically]] - Wonder is the gateway that makes the progression possible
-- [[literature-notes/loving-to-manage-stops-working|Loving something to make it go away stops working]] - A common trap in this progression
-- [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]] - Love includes welcoming what's uncomfortable
+- [[literature-notes/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist neurologically]]
+- [[literature-notes/loving-to-manage-stops-working|Loving something to make it go away stops working]]
+- [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]]
 - [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 
 ## Source

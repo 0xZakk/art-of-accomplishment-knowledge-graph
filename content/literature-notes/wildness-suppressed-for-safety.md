@@ -22,9 +22,9 @@ The wildness isn't something to be created or cultivated — it's what's already
 
 ## Related Concepts
 
-- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - Suppression is non-selective
-- [[literature-notes/anger-is-love-with-a-boundary|Anger is love with a boundary]] - Anger as life force
-- [[literature-notes/grief-is-necessary-for-transformation|Grief is necessary for transformation]] - Grief as gateway to the suppressed self
+- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
+- [[literature-notes/anger-is-love-with-a-boundary|Anger is love with a boundary]]
+- [[literature-notes/grief-is-necessary-for-transformation|Grief is necessary for transformation]]
 
 ## Source
 

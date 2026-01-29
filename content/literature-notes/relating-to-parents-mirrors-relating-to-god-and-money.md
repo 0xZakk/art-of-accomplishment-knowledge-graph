@@ -22,10 +22,10 @@ This insight reveals that our deepest relational templates — formed before we 
 
 ## Related Concepts
 
-- [[literature-notes/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood patterns]] - The money dimension of this projection
-- [[literature-notes/money-wounds-trace-to-parent-wounds|Money wounds trace to parent wounds]] - How financial patterns replay attachment patterns
-- [[literature-notes/authority-issues-are-not-seeing-humans|Authority issues are not seeing humans]] - How parent projections land on authority figures
-- [[literature-notes/internal-authority-mirrors-external|Internal authority mirrors external]] - The internal-external authority loop
+- [[literature-notes/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood patterns]]
+- [[literature-notes/money-wounds-trace-to-parent-wounds|Money wounds trace to parent wounds]]
+- [[literature-notes/authority-issues-are-not-seeing-humans|Authority issues are not seeing humans]]
+- [[literature-notes/internal-authority-mirrors-external|Internal authority mirrors external]]
 - [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]]
 - [[literature-notes/money-patterns-replay-childhood-connection-patterns|Money patterns replay childhood connection patterns]]
 

@@ -19,8 +19,8 @@ Joe's guiding principle from early on: treat your kid the way you'd treat an adu
 
 ## Related Concepts
 
-- [[literature-notes/being-seen-transforms-behavior|Being genuinely seen and interested in transforms behavior]] - What happens when someone truly sees you
-- [[literature-notes/imposter-syndrome-roots-in-conditional-love|Imposter syndrome roots in conditional love]] - The long-term cost of conditional liking
+- [[literature-notes/being-seen-transforms-behavior|Being genuinely seen and interested in transforms behavior]]
+- [[literature-notes/imposter-syndrome-roots-in-conditional-love|Imposter syndrome roots in conditional love]]
 
 ## Source
 

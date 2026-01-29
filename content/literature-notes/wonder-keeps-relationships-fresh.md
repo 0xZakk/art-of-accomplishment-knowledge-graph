@@ -22,9 +22,9 @@ People who live past 100 consistently share this quality — a sense of wonder a
 
 ## Related Concepts
 
-- [[literature-notes/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]] - The foundation of relational wonder
-- [[literature-notes/knowing-is-the-opposite-of-wonder|Knowing is the opposite of wonder]] - What kills relationships
-- [[literature-notes/being-interested-not-interesting|Being interested not interesting]] - A related relational stance
+- [[literature-notes/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]]
+- [[literature-notes/knowing-is-the-opposite-of-wonder|Knowing is the opposite of wonder]]
+- [[literature-notes/being-interested-not-interesting|Being interested not interesting]]
 
 ## Source
 

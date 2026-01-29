@@ -22,9 +22,9 @@ The principle: before reaching for a boundary, first express what you want. Ther
 
 ## Related Concepts
 
-- [[literature-notes/resentment-signals-a-boundary-needed|Resentment signals a boundary needed]] - When resentment does point to boundaries
-- [[literature-notes/asking-for-what-you-want-dissolves-resentment|Asking for what you want dissolves resentment]] - The primary tool
-- [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]] - Permission to want
+- [[literature-notes/resentment-signals-a-boundary-needed|Resentment signals a boundary needed]]
+- [[literature-notes/asking-for-what-you-want-dissolves-resentment|Asking for what you want dissolves resentment]]
+- [[literature-notes/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]]
 - [[literature-notes/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]]
 
 ## Source

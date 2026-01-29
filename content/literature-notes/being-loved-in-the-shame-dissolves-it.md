@@ -25,10 +25,10 @@ This is why 12-step programs work, why group therapy works, why vulnerability in
 
 ## Related Concepts
 
-- [[literature-notes/connection-dissolves-shame|Connection dissolves shame]] - The foundational principle
-- [[literature-notes/love-is-the-antidote-to-shame|Love is the antidote to shame]] - The core mechanism
-- [[literature-notes/real-community-requires-non-judgmental-witnessing|Real community requires non-judgmental witnessing]] - What the container needs
-- [[literature-notes/being-seen-transforms-behavior|Being seen transforms behavior]] - The transformative power of being witnessed
+- [[literature-notes/connection-dissolves-shame|Connection dissolves shame]]
+- [[literature-notes/love-is-the-antidote-to-shame|Love is the antidote to shame]]
+- [[literature-notes/real-community-requires-non-judgmental-witnessing|Real community requires non-judgmental witnessing]]
+- [[literature-notes/being-seen-transforms-behavior|Being seen transforms behavior]]
 - [[literature-notes/shame-is-a-signal-of-disconnection|Shame is a signal of disconnection, not a problem to solve]]
 - [[literature-notes/welcome-shame-dont-push-through-it|Welcome shame rather than pushing through it]]
 - [[literature-notes/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]]

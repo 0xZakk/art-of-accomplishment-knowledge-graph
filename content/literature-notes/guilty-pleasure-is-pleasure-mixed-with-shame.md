@@ -22,9 +22,9 @@ This also explains how shame gets culturally attached to pleasure — sex, self-
 
 ## Related Concepts
 
-- [[literature-notes/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]] - Guilty pleasure is an example of this cycle
-- [[literature-notes/pleasure-is-noticing-sensations-moving|Pleasure is noticing sensations moving in the body]] - Real pleasure versus the shame-pleasure composite
-- [[literature-notes/shame-locks-in-bad-habits|Shame locks in bad habits]] - Shame makes guilty pleasures sticky
+- [[literature-notes/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]]
+- [[literature-notes/pleasure-is-noticing-sensations-moving|Pleasure is noticing sensations moving in the body]]
+- [[literature-notes/shame-locks-in-bad-habits|Shame locks in bad habits]]
 
 ## Source
 

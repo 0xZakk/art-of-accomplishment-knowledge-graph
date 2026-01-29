@@ -22,9 +22,9 @@ This mirrors the Art of Accomplishment approach to the inner critic and other pr
 
 ## Related Concepts
 
-- [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts creates more of them]] - Why fighting defenses strengthens them
-- [[literature-notes/numbness-as-survival-gift|Numbness as survival gift]] - Another example of honoring protective mechanisms
-- [[literature-notes/welcome-the-inner-critic|Welcome the inner critic]] - The same approach applied to self-criticism
+- [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts creates more of them]]
+- [[literature-notes/numbness-as-survival-gift|Numbness as survival gift]]
+- [[literature-notes/welcome-the-inner-critic|Welcome the inner critic]]
 - [[literature-notes/self-loathing-as-accidental-doorway|Self-loathing can accidentally open a doorway to courage]]
 
 ## Source

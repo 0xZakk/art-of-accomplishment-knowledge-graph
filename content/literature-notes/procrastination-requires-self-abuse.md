@@ -23,10 +23,10 @@ This reframes the entire problem. Instead of asking "How do I stop procrastinati
 
 ## Related Concepts
 
-- [[literature-notes/procrastination-is-emotional-avoidance|Procrastination is the avoidance of an emotional state]] - The emotional mechanism underneath
-- [[literature-notes/self-criticism-intensifies-with-intelligence|Self-criticism intensifies with intelligence]] - Why smart people procrastinate more
-- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]] - The antidote
-- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]] - The defensive function of self-judgment
+- [[literature-notes/procrastination-is-emotional-avoidance|Procrastination is the avoidance of an emotional state]]
+- [[literature-notes/self-criticism-intensifies-with-intelligence|Self-criticism intensifies with intelligence]]
+- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]]
+- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against emotions]]
 - [[literature-notes/procrastination-is-not-who-you-are|Procrastination is not who you are — and knowing that is the real pain]]
 - [[literature-notes/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
 - [[literature-notes/avoidance-chain-from-essence-to-addiction|The avoidance chain runs from essential self through thinking to addiction]]

@@ -22,9 +22,9 @@ Creative flow isn't somewhere you arrive. It's what happens when you stop trying
 
 ## Related Concepts
 
-- [[literature-notes/source-is-always-there-just-drop-down|Source is always there — just drop down]] - Where creation actually comes from
-- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]] - Play over obligation
-- [[literature-notes/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]] - How effort blocks results
+- [[literature-notes/source-is-always-there-just-drop-down|Source is always there — just drop down]]
+- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]]
+- [[literature-notes/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]
 - [[literature-notes/art-is-not-important-and-thats-freedom|Art is not important, and that's freedom]]
 - [[literature-notes/life-is-art-not-separate-from-it|Life is art, not separate from it]]
 

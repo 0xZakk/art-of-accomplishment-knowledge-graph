@@ -21,8 +21,8 @@ This is not brokenness — it was brilliant survival strategy. But the cost is t
 
 ## Related Concepts
 
-- [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]] - The broader principle
-- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses access to all emotions]] - The mechanism behind this
+- [[literature-notes/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]]
+- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses access to all emotions]]
 - [[literature-notes/joy-is-the-matriarch|Joy is the matriarch of the emotional family]]
 - [[literature-notes/numbness-as-survival-gift|Emotional numbness can be a survival gift, not a deficit]]
 - [[literature-notes/joy-is-the-sign-of-emotional-health|Joy is the sign that emotional fluidity is working]]

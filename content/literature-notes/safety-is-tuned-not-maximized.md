@@ -18,8 +18,8 @@ Joe also warns that people weaponize safety as control: "I don't feel safe" beco
 
 ## Related Concepts
 
-- [[literature-notes/trust-is-the-universal-ingredient-of-functional-teams|Trust is the universal ingredient of functional teams]] - Trust over safety as organizing principle
-- [[literature-notes/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms, unresisted stress enlivens]] - The productive role of challenge
+- [[literature-notes/trust-is-the-universal-ingredient-of-functional-teams|Trust is the universal ingredient of functional teams]]
+- [[literature-notes/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms, unresisted stress enlivens]]
 
 ## Source
 

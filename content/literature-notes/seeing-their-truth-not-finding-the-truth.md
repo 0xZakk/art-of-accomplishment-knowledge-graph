@@ -24,10 +24,10 @@ This doesn't mean compromising yourself or changing your actions. It means sayin
 
 ## Related Concepts
 
-- [[literature-notes/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]] - The underlying want in every fight
-- [[literature-notes/being-seen-transforms-behavior|Being seen transforms behavior]] - What happens when people feel seen
-- [[literature-notes/seeking-understanding-is-seeking-connection|Seeking understanding is seeking connection]] - Understanding as the path to connection
-- [[literature-notes/never-compromise-find-solutions-for-both|Never compromise — find solutions that work for both]] - Seeing truth without compromising yourself
+- [[literature-notes/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
+- [[literature-notes/being-seen-transforms-behavior|Being seen transforms behavior]]
+- [[literature-notes/seeking-understanding-is-seeking-connection|Seeking understanding is seeking connection]]
+- [[literature-notes/never-compromise-find-solutions-for-both|Never compromise — find solutions that work for both]]
 - [[literature-notes/no-right-or-wrong-only-perspectives|There is no right or wrong in a fight, only perspectives]]
 - [[literature-notes/mirroring-reveals-how-much-we-misunderstand|Mirroring reveals how much we misunderstand each other]]
 - [[literature-notes/relationship-is-not-a-courtroom|A relationship is not a courtroom]]

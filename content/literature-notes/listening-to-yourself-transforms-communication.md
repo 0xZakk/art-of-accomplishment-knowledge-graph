@@ -23,9 +23,9 @@ The hack is absurdly simple: put your attention in your inner ear. That's it. Jo
 
 ## Related Concepts
 
-- [[literature-notes/state-of-mind-determines-how-youre-heard|State of mind determines how you're heard]] - The broader principle
-- [[literature-notes/self-abandonment-in-communication|Self-abandonment makes communication impossible]] - What happens when you stop listening to yourself
-- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]] - The simplicity of tuning in
+- [[literature-notes/state-of-mind-determines-how-youre-heard|State of mind determines how you're heard]]
+- [[literature-notes/self-abandonment-in-communication|Self-abandonment makes communication impossible]]
+- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]]
 - [[literature-notes/deep-listening-requires-self-listening|Deep listening requires listening to yourself simultaneously]]
 
 ## Source

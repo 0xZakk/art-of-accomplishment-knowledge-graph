@@ -23,8 +23,8 @@ The James Webb Space Telescope succeeded not through perfectionism but through i
 
 ## Related Concepts
 
-- [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]] - The binary distortion in detail
-- [[literature-notes/feel-the-false-end-to-dissolve-overwhelm|Feel the false end to dissolve overwhelm]] - Working through false endpoints
+- [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]]
+- [[literature-notes/feel-the-false-end-to-dissolve-overwhelm|Feel the false end to dissolve overwhelm]]
 - [[literature-notes/false-ends-keep-you-stuck|The brain creates false endings that paralyze action]]
 
 ## Source

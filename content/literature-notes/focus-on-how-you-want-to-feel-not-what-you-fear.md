@@ -23,10 +23,10 @@ As Aaron frames it: "Fear is a misuse of the imagination." The same imagination 
 
 ## Related Concepts
 
-- [[literature-notes/fear-is-excitement-without-the-breath|Fear is excitement without the breath]] - The somatic relationship between fear and excitement
-- [[literature-notes/fear-constricts-excitement-expands|Fear constricts excitement expands]] - The directional difference
-- [[literature-notes/stage-fright-is-a-fuel-cell|Stage fright is a fuel cell]] - Reframing performance anxiety as energy
-- [[literature-notes/embracing-fear-versus-avoiding-fear|Embracing fear versus avoiding fear]] - The choice point with fear
+- [[literature-notes/fear-is-excitement-without-the-breath|Fear is excitement without the breath]]
+- [[literature-notes/fear-constricts-excitement-expands|Fear constricts excitement expands]]
+- [[literature-notes/stage-fright-is-a-fuel-cell|Stage fright is a fuel cell]]
+- [[literature-notes/embracing-fear-versus-avoiding-fear|Embracing fear versus avoiding fear]]
 - [[literature-notes/feel-your-way-to-freedom|Feel your way to freedom]]
 - [[literature-notes/confidence-comes-from-authenticity-not-achievement|Confidence comes from authenticity not achievement]]
 

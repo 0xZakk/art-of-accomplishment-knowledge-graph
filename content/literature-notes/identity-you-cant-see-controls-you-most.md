@@ -20,9 +20,9 @@ The only way to see invisible identity is through its effects: the places where 
 
 ## Related Concepts
 
-- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]] - Visible and invisible identity both limit
-- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - Others reflect your hidden identity
-- [[literature-notes/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]] - Doubt as identity protection
+- [[literature-notes/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
+- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
+- [[literature-notes/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]]
 
 ## Source
 

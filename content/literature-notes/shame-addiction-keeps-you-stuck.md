@@ -24,9 +24,9 @@ The antidote isn't willpower or better self-discipline. It's love. When you can 
 
 ## Related Concepts
 
-- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior rather than changing it]] - Shame never produces the change it promises
-- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment is a defense against feeling emotions]] - Shame is a form of self-judgment that blocks real feeling
-- [[literature-notes/self-blame-holds-onto-what-you-lost|Self-blame is a way of holding onto what you've lost]] - One function of shame addiction
+- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior rather than changing it]]
+- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment is a defense against feeling emotions]]
+- [[literature-notes/self-blame-holds-onto-what-you-lost|Self-blame is a way of holding onto what you've lost]]
 - [[literature-notes/shame-creates-the-behaviors-it-punishes|Shaming a behavior is the best way to guarantee it repeats]]
 - [[literature-notes/shame-addiction-creates-empty-fulfillment|Shame becomes addictive and creates empty fulfillment]]
 - [[literature-notes/embracing-intensity-curbs-addiction|Embracing intensity removes the need for addictive escape]]

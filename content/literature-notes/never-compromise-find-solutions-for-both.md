@@ -22,9 +22,9 @@ When both partners adopt this stance — working on themselves rather than each 
 
 ## Related Concepts
 
-- [[literature-notes/both-partners-must-want-better|Both partners must want better]] - The prerequisite
-- [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer]] - Friction as growth
-- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]] - Don't carve yourself away
+- [[literature-notes/both-partners-must-want-better|Both partners must want better]]
+- [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer]]
+- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
 - [[literature-notes/compromise-builds-resentment|Compromise means neglecting yourself and it always builds resentment]]
 
 ## Source

@@ -20,9 +20,9 @@ This is why relationships built on control — whether through anger, sadness, g
 
 ## Related Concepts
 
-- [[literature-notes/alignment-beats-effort|Alignment beats effort]] - The broader principle that working with natural flow outperforms force
-- [[literature-notes/control-works-until-it-doesnt|Control works until it doesn't]] - Control as an inherently unsustainable strategy
-- [[literature-notes/never-compromise-find-solutions-for-both|Never compromise, find solutions for both]] - The alternative to control in relationships
+- [[literature-notes/alignment-beats-effort|Alignment beats effort]]
+- [[literature-notes/control-works-until-it-doesnt|Control works until it doesn't]]
+- [[literature-notes/never-compromise-find-solutions-for-both|Never compromise, find solutions for both]]
 
 ## Source
 

@@ -19,8 +19,8 @@ This is a powerful metaphor for all passive aggression: it's a strategy that hur
 
 ## Related Concepts
 
-- [[literature-notes/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]] - The protective withdrawal becomes its own trap
-- [[literature-notes/what-we-do-for-love-erodes-power|What we do for love erodes power]] - Manipulating through love dynamics erodes both parties
+- [[literature-notes/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]]
+- [[literature-notes/what-we-do-for-love-erodes-power|What we do for love erodes power]]
 
 ## Source
 

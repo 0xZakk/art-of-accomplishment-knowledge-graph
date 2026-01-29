@@ -25,9 +25,9 @@ This is why movements built on empowerment (Gandhi, Martin Luther King) succeed,
 
 ## Related Concepts
 
-- [[literature-notes/boundary-versus-ultimatum|The difference between a boundary and an ultimatum is fear]] - How fear distorts boundaries
-- [[literature-notes/passive-aggression-is-unowned-aggression|Passive aggression is unowned aggression]] - The subtle forms of the aggressive victim
-- [[literature-notes/communication-techniques-get-weaponized|Communication techniques get weaponized]] - The broader pattern of tools becoming weapons
+- [[literature-notes/boundary-versus-ultimatum|The difference between a boundary and an ultimatum is fear]]
+- [[literature-notes/passive-aggression-is-unowned-aggression|Passive aggression is unowned aggression]]
+- [[literature-notes/communication-techniques-get-weaponized|Communication techniques get weaponized]]
 - [[literature-notes/boundaries-with-children-require-closeness-and-respect|Boundaries with children require closeness, gentleness, and mutual respect]]
 - [[literature-notes/facing-fear-builds-empowerment|Facing the feeling you're avoiding is how empowerment comes]]
 - [[literature-notes/boundaries-not-view-for-narcissists|Boundaries, not VIEW, are the tool for narcissists]]

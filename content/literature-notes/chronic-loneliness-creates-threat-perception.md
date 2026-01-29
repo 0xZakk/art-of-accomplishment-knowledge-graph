@@ -24,9 +24,9 @@ This creates a vicious cycle: loneliness → threat perception → withdrawal �
 
 ## Related Concepts
 
-- [[literature-notes/loneliness-is-shame-plus-anxiety|Loneliness is shame plus anxiety about interaction]] - The shame foundation that chronic loneliness builds on
-- [[literature-notes/avoidance-creates-the-pattern-it-fears|Avoidance creates the pattern it fears]] - Avoiding connection to avoid rejection creates more isolation
-- [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck]] - The stagnating quality shared with chronic loneliness
+- [[literature-notes/loneliness-is-shame-plus-anxiety|Loneliness is shame plus anxiety about interaction]]
+- [[literature-notes/avoidance-creates-the-pattern-it-fears|Avoidance creates the pattern it fears]]
+- [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck]]
 
 ## Source
 

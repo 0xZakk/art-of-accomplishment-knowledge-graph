@@ -25,9 +25,9 @@ Michael arrives at a surprising place: "It's so fun even the parts that I hate a
 
 ## Related Concepts
 
-- [[literature-notes/accepting-death-enables-choice|Accepting death enables genuine choice]] - The precondition for this yes
-- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]] - The principle behind leaning in
-- [[literature-notes/embracing-not-creating-intensity|Embracing not creating intensity]] - Important distinction in application
+- [[literature-notes/accepting-death-enables-choice|Accepting death enables genuine choice]]
+- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]]
+- [[literature-notes/embracing-not-creating-intensity|Embracing not creating intensity]]
 
 ## Source
 

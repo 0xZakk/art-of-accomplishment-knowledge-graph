@@ -23,10 +23,10 @@ This is the relief both partners were seeking. Not more capacity to hold, not be
 
 ## Related Concepts
 
-- [[literature-notes/holding-space-requires-staying-in-yourself|Holding space requires staying in yourself]] - The difference between presence and caretaking
-- [[literature-notes/holding-it-together-blocks-support|Holding it together blocks support]] - What happens when one partner always manages
-- [[literature-notes/shoulding-yourself-to-hold-space-prevents-it|Telling yourself you should hold space prevents holding space]] - The self-imposed obligation that blocks genuine connection
-- [[literature-notes/empathic-acknowledgment-is-presence|Empathic acknowledgment is presence]] - Presence as the core of support
+- [[literature-notes/holding-space-requires-staying-in-yourself|Holding space requires staying in yourself]]
+- [[literature-notes/holding-it-together-blocks-support|Holding it together blocks support]]
+- [[literature-notes/shoulding-yourself-to-hold-space-prevents-it|Telling yourself you should hold space prevents holding space]]
+- [[literature-notes/empathic-acknowledgment-is-presence|Empathic acknowledgment is presence]]
 - [[literature-notes/empathy-is-being-with-not-in|Empathy is being with someone, not in someone]]
 
 ## Source

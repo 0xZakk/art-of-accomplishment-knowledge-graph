@@ -24,10 +24,10 @@ This is the identity of lack — if you define yourself as broken, every action 
 
 ## Related Concepts
 
-- [[literature-notes/the-story-of-brokenness-is-the-problem|The story of brokenness is the problem]] - The narrative itself is the trap
-- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]] - Trying to fix what isn't broken
-- [[literature-notes/not-defending-reveals-inherent-goodness|Not defending reveals inherent goodness]] - The alternative to the brokenness narrative
-- [[literature-notes/identity-of-lack-perpetuates-lack|Identity of lack perpetuates lack]] - How identity creates reality
+- [[literature-notes/the-story-of-brokenness-is-the-problem|The story of brokenness is the problem]]
+- [[literature-notes/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
+- [[literature-notes/not-defending-reveals-inherent-goodness|Not defending reveals inherent goodness]]
+- [[literature-notes/identity-of-lack-perpetuates-lack|Identity of lack perpetuates lack]]
 
 ## Source
 

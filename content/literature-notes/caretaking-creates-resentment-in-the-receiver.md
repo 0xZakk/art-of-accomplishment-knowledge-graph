@@ -20,9 +20,9 @@ The receiver feels disempowered but often can't express anger because the careta
 
 ## Related Concepts
 
-- [[literature-notes/caretaking-kills-desire|Caretaking kills desire]] - Another consequence of the same dynamic
-- [[literature-notes/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]] - What's actually happening underneath
-- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]] - The structural pattern
+- [[literature-notes/caretaking-kills-desire|Caretaking kills desire]]
+- [[literature-notes/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]]
+- [[literature-notes/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
 - [[literature-notes/resentment-is-the-indicator-of-caretaking|Resentment is the indicator of caretaking]]
 - [[literature-notes/resentment-signals-a-boundary-needed|Resentment signals a boundary that needs to be drawn]]
 - [[literature-notes/taking-responsibility-for-partners-emotions-breeds-resentment|Taking responsibility for your partner's emotions breeds resentment]]

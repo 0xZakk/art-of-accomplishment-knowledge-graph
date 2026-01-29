@@ -22,8 +22,8 @@ Joe frames this as part of a broader societal pattern: more forms of avoidance, 
 
 ## Related Concepts
 
-- [[literature-notes/loneliness-epidemic-stems-from-bad-models|Loneliness epidemic stems from bad models]] - The structural forces creating the loneliness epidemic
-- [[literature-notes/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]] - What social media lacks
+- [[literature-notes/loneliness-epidemic-stems-from-bad-models|Loneliness epidemic stems from bad models]]
+- [[literature-notes/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]]
 
 ## Source
 

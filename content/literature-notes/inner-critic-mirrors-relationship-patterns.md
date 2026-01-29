@@ -22,9 +22,9 @@ When Joe points this out, Clint says he gets it with his wife but has trouble se
 
 ## Related Concepts
 
-- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - The principle of inner-outer mirroring
-- [[literature-notes/inner-critic-is-not-your-voice|Inner critic is not your voice]] - Understanding the critic's origin
-- [[literature-notes/inner-voice-mirrors-parenting|Inner voice mirrors parenting]] - Where the inner voice comes from
+- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
+- [[literature-notes/inner-critic-is-not-your-voice|Inner critic is not your voice]]
+- [[literature-notes/inner-voice-mirrors-parenting|Inner voice mirrors parenting]]
 - [[literature-notes/obligation-kills-love|Taking responsibility from obligation kills love]]
 - [[literature-notes/inner-critic-uses-same-cult-dynamics|The inner critic uses the same dynamics as cults and political manipulation]]
 - [[literature-notes/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]

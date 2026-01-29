@@ -24,9 +24,9 @@ When you acknowledge that consciousness is part of the equation, work becomes ar
 
 ## Related Concepts
 
-- [[literature-notes/purpose-is-in-the-how-not-the-what|Purpose is in the how, not the what]] - How matters more than what
-- [[literature-notes/business-as-self-awareness-practice|Business as self-awareness practice]] - Business as consciousness development
-- [[literature-notes/just-business-is-deeply-personal|'Just business' is deeply personal]] - The excuse that hides from this truth
+- [[literature-notes/purpose-is-in-the-how-not-the-what|Purpose is in the how, not the what]]
+- [[literature-notes/business-as-self-awareness-practice|Business as self-awareness practice]]
+- [[literature-notes/just-business-is-deeply-personal|'Just business' is deeply personal]]
 
 ## Source
 

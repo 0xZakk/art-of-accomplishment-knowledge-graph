@@ -20,8 +20,8 @@ Both sides lose: the rebel doesn't get mentorship, wisdom, or support. The peopl
 
 ## Related Concepts
 
-- [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others is something you don't like in yourself]] - Authority projection is a form of triggering
-- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - How we relate to external authority mirrors internal authority
+- [[literature-notes/what-triggers-you-in-others-exists-in-you|What triggers you in others is something you don't like in yourself]]
+- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
 - [[literature-notes/rebellion-and-approval-seeking-are-same-coin|Rebelling against authority and seeking its approval are two sides of the same coin]]
 
 ## Source

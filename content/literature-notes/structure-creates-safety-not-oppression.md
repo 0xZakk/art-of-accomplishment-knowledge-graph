@@ -23,8 +23,8 @@ This isn't oppression—it's the container that allows freedom to flourish.
 
 ## Related Concepts
 
-- [[literature-notes/name-the-problem-without-solving-it|Name the problem without solving it]] - Structure without micromanagement
-- [[literature-notes/leaders-must-say-what-they-want-cleanly|Leaders must say what they want cleanly]] - Clear communication creates safety
+- [[literature-notes/name-the-problem-without-solving-it|Name the problem without solving it]]
+- [[literature-notes/leaders-must-say-what-they-want-cleanly|Leaders must say what they want cleanly]]
 
 ## Source
 

@@ -19,9 +19,9 @@ The practical implication is that pleasure is always available. A deep breath, w
 
 ## Related Concepts
 
-- [[literature-notes/pleasure-is-noticing-sensations-moving|Pleasure is noticing sensations moving]] - The same insight from another context
-- [[literature-notes/presence-is-pleasure|Presence is pleasure]] - How presence and pleasure connect
-- [[literature-notes/pleasure-capacity-is-trainable|Pleasure capacity is trainable]] - Expanding the ability to feel pleasure
+- [[literature-notes/pleasure-is-noticing-sensations-moving|Pleasure is noticing sensations moving]]
+- [[literature-notes/presence-is-pleasure|Presence is pleasure]]
+- [[literature-notes/pleasure-capacity-is-trainable|Pleasure capacity is trainable]]
 - [[literature-notes/pleasure-requires-receiving-not-effort|Pleasure requires receiving not effort]]
 
 ## Source

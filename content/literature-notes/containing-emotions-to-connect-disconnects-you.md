@@ -21,9 +21,9 @@ The containment pattern typically originates in childhood—learning from emotio
 
 ## Related Concepts
 
-- [[literature-notes/compartmentalization-hides-your-full-self|Compartmentalization hides your full self]] - The broader pattern of hiding parts of yourself
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - You can't be truly seen while performing
-- [[literature-notes/composure-is-self-imprisonment|Composure is self-imprisonment]] - Maintaining composure traps you
+- [[literature-notes/compartmentalization-hides-your-full-self|Compartmentalization hides your full self]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
+- [[literature-notes/composure-is-self-imprisonment|Composure is self-imprisonment]]
 - [[literature-notes/eighty-percent-of-feared-rejection-is-internal|Eighty percent of feared rejection is internal self-talk]]
 - [[literature-notes/not-responsible-for-others-emotions|Declaring 'I'm not responsible for how you feel' restores full expression]]
 - [[literature-notes/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]

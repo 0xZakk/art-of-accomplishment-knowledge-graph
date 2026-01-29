@@ -25,9 +25,9 @@ Before feeling his fear: over-promise, under-deliver, speak only to positives. A
 
 ## Related Concepts
 
-- [[literature-notes/vulnerability-transforms-business-performance|Vulnerability transforms business performance]] - The broader business case
-- [[literature-notes/chameleon-leadership-creates-uncertainty|Chameleon leadership creates uncertainty]] - What inauthenticity does to teams
-- [[literature-notes/organizations-must-remove-fear-to-innovate|Organizations must remove fear to innovate]] - The organizational level
+- [[literature-notes/vulnerability-transforms-business-performance|Vulnerability transforms business performance]]
+- [[literature-notes/chameleon-leadership-creates-uncertainty|Chameleon leadership creates uncertainty]]
+- [[literature-notes/organizations-must-remove-fear-to-innovate|Organizations must remove fear to innovate]]
 - [[literature-notes/pre-grieving-loss-creates-resilience|Pre-grieving potential loss creates resilience and the courage to draw boundaries]]
 
 ## Source

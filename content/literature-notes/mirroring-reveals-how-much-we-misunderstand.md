@@ -22,9 +22,9 @@ It's really hard to be mad at not understanding. It's really easy to be mad at "
 
 ## Related Concepts
 
-- [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]] - The broader principle
-- [[literature-notes/listen-as-if-the-other-person-is-right|Listen as if the other person is right]] - The stance that makes mirroring work
-- [[literature-notes/no-right-or-wrong-only-perspectives|There is no right or wrong, only perspectives]] - Why both perspectives have truth
+- [[literature-notes/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]]
+- [[literature-notes/listen-as-if-the-other-person-is-right|Listen as if the other person is right]]
+- [[literature-notes/no-right-or-wrong-only-perspectives|There is no right or wrong, only perspectives]]
 - [[literature-notes/depersonalize-the-problem|Depersonalize the problem — it's a patient on the table]]
 - [[literature-notes/seeing-their-truth-not-finding-the-truth|Seeing their truth is different from finding 'the' truth]]
 - [[literature-notes/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]

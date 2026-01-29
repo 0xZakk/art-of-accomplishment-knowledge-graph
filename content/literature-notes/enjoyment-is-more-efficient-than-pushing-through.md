@@ -21,8 +21,8 @@ This applies to negotiation too: Joe recommends starting with "how do you want t
 
 ## Related Concepts
 
-- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]] - When work is enjoyable, force becomes unnecessary
-- [[literature-notes/leaders-and-culture-co-create|Leaders and culture co-create]] - A leader's relationship to their own energy shapes company culture
+- [[literature-notes/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]]
+- [[literature-notes/leaders-and-culture-co-create|Leaders and culture co-create]]
 - [[literature-notes/energy-management-over-time-management|Energy management matters more than time management]]
 - [[literature-notes/not-trying-gets-more-done|Not trying gets more done than trying]]
 

@@ -21,8 +21,8 @@ The critical internal shift is moving from feeling stuck to recognizing choice. 
 
 ## Related Concepts
 
-- [[literature-notes/relationship-triggers-are-yours|Relationship triggers are yours]] - Being triggered by passive aggression means it's yours too
-- [[literature-notes/communication-techniques-get-weaponized|Communication techniques get weaponized]] - Even good tools become manipulation in the fear triangle
+- [[literature-notes/relationship-triggers-are-yours|Relationship triggers are yours]]
+- [[literature-notes/communication-techniques-get-weaponized|Communication techniques get weaponized]]
 - [[literature-notes/passive-aggression-is-unowned-aggression|Passive aggression is aggression that isn't being owned as aggression]]
 - [[literature-notes/wanting-someone-to-change-reflects-self-rejection|Wanting someone to change reflects a part of yourself you can't love]]
 - [[literature-notes/anger-at-without-permission-is-manipulation|Expressing anger at someone without permission is a bid for control]]

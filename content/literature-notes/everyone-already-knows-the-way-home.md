@@ -22,9 +22,9 @@ This also carries a profound implication for self-work: you don't need to acquir
 
 ## Related Concepts
 
-- [[literature-notes/follow-your-migratory-path|Follow your migratory path]] - Trusting the innate sense of direction
-- [[literature-notes/your-nature-knows-what-you-need-next|Your nature knows what you need next]] - Nature's intelligence
-- [[literature-notes/transformation-is-archaeology-not-invention|Transformation is archaeology, not invention]] - Uncovering rather than building
+- [[literature-notes/follow-your-migratory-path|Follow your migratory path]]
+- [[literature-notes/your-nature-knows-what-you-need-next|Your nature knows what you need next]]
+- [[literature-notes/transformation-is-archaeology-not-invention|Transformation is archaeology, not invention]]
 - [[literature-notes/self-love-is-somatic-welcoming-not-affirmation|Self-love is somatic welcoming, not affirmation]]
 - [[literature-notes/love-the-resistance-to-the-thing|If you can't love the thing, love the resistance to the thing]]
 - [[literature-notes/welcoming-is-self-love|Welcoming whatever arises is self-love]]

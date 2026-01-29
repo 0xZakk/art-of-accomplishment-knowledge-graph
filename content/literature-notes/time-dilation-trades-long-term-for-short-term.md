@@ -21,9 +21,9 @@ People often think they're being strategic when they're actually avoiding — gi
 
 ## Related Concepts
 
-- [[literature-notes/avoidance-creates-the-pattern-it-fears|Avoidance creates the pattern it fears]] - The core mechanism this time dilation enables
-- [[literature-notes/good-decisions-feel-right-now-not-later|Good decisions feel right now, not later]] - The counterpoint: aligned decisions don't require suffering now for future gain
-- [[literature-notes/urgency-as-motivation-is-a-trap|Urgency as motivation is a trap]] - Another form of short-term override
+- [[literature-notes/avoidance-creates-the-pattern-it-fears|Avoidance creates the pattern it fears]]
+- [[literature-notes/good-decisions-feel-right-now-not-later|Good decisions feel right now, not later]]
+- [[literature-notes/urgency-as-motivation-is-a-trap|Urgency as motivation is a trap]]
 
 ## Source
 

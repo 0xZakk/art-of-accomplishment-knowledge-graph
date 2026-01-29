@@ -21,8 +21,8 @@ Their surprise: when both kids left for the first time, they expected it to be d
 
 ## Related Concepts
 
-- [[literature-notes/marriage-as-dojo-for-self-development|Marriage as a dojo for self-development]] - The framework that makes cycles productive
-- [[literature-notes/chaos-is-necessary-for-growth|Chaos is necessary for growth]] - The broader principle
+- [[literature-notes/marriage-as-dojo-for-self-development|Marriage as a dojo for self-development]]
+- [[literature-notes/chaos-is-necessary-for-growth|Chaos is necessary for growth]]
 
 ## Source
 

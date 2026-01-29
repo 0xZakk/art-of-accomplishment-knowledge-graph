@@ -22,9 +22,9 @@ The inability to receive compliments is fundamentally about not being able to ho
 
 ## Related Concepts
 
-- [[literature-notes/receiving-compliments-dissolves-unworthiness|Receiving compliments dissolves unworthiness]] - Letting in compliments as a practice
-- [[literature-notes/let-compliments-move-through-you|Let compliments move through you]] - Allowing rather than deflecting
-- [[literature-notes/we-deflect-what-we-crave|We deflect what we crave]] - The pattern of pushing away what we most want
+- [[literature-notes/receiving-compliments-dissolves-unworthiness|Receiving compliments dissolves unworthiness]]
+- [[literature-notes/let-compliments-move-through-you|Let compliments move through you]]
+- [[literature-notes/we-deflect-what-we-crave|We deflect what we crave]]
 - [[literature-notes/envy-and-bragging-signal-disallowed-parts|Envy and bragging signal disallowed parts wanting to be seen]]
 - [[literature-notes/shame-creates-the-see-me-dont-see-me-double-bind|Shame creates the see-me-don't-see-me double bind]]
 - [[literature-notes/we-push-away-approval-we-seek|We push away the approval we seek]]

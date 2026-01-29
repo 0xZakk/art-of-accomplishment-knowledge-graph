@@ -22,9 +22,9 @@ The champagne metaphor captures both the initial intensity and the eventual calm
 
 ## Related Concepts
 
-- [[literature-notes/anger-backlog-must-clear|Anger backlog must clear]] - The broader principle of emotional backlogs
-- [[literature-notes/repressed-anger-kinks-into-symptoms|Repressed anger kinks into depression, self-criticism, and rage]] - What's been building up
-- [[literature-notes/express-anger-without-directing-it|You can express anger without directing it at anyone]] - How to safely release the backlog
+- [[literature-notes/anger-backlog-must-clear|Anger backlog must clear]]
+- [[literature-notes/repressed-anger-kinks-into-symptoms|Repressed anger kinks into depression, self-criticism, and rage]]
+- [[literature-notes/express-anger-without-directing-it|You can express anger without directing it at anyone]]
 
 ## Source
 

@@ -25,9 +25,9 @@ When it works, principles become decision-making shorthand: "What does this prin
 
 ## Related Concepts
 
-- [[literature-notes/wrestle-with-principles-constantly|Wrestling with principles matters more than the principles]] - The core requirement
-- [[literature-notes/transparency-is-the-antidote-to-politics|Transparency is the antidote to politics]] - Example of a principle in practice
-- [[literature-notes/goals-and-culture-are-experiments-not-mandates|Goals and culture are experiments not mandates]] - Same philosophy applied broadly
+- [[literature-notes/wrestle-with-principles-constantly|Wrestling with principles matters more than the principles]]
+- [[literature-notes/transparency-is-the-antidote-to-politics|Transparency is the antidote to politics]]
+- [[literature-notes/goals-and-culture-are-experiments-not-mandates|Goals and culture are experiments not mandates]]
 
 ## Source
 

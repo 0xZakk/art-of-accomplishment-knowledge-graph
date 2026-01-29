@@ -22,9 +22,9 @@ The reframe is liberating: you don't need to know your potential or your purpose
 
 ## Related Concepts
 
-- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]] - Why looking for purpose prevents finding it
-- [[literature-notes/wanting-is-aliveness|Wanting is aliveness]] - The connection between desire and vitality
-- [[literature-notes/goals-generate-questions-not-destinations|Goals generate questions not destinations]] - Goals as starting points not endpoints
+- [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
+- [[literature-notes/wanting-is-aliveness|Wanting is aliveness]]
+- [[literature-notes/goals-generate-questions-not-destinations|Goals generate questions not destinations]]
 - [[literature-notes/clarity-comes-after-feeling-not-before|Clarity comes after feeling the emotion not before]]
 - [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
 - [[literature-notes/wanting-matters-more-than-what-you-want|Wanting matters more than what you want]]

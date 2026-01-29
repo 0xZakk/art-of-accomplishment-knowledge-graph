@@ -22,10 +22,10 @@ The shift from scarcity to abundance isn't intellectual—it's somatic. When you
 
 ## Related Concepts
 
-- [[literature-notes/money-wounds-trace-to-parent-wounds|Money wounds trace to parent wounds]] - The underlying dynamic: we project parental relationships onto money
-- [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]] - Money becomes whatever we need it to represent
-- [[literature-notes/money-beliefs-create-money-reality|Money beliefs create money reality]] - Believing money is dirty makes it unavailable
-- [[literature-notes/depersonalizing-money-creates-freedom|Depersonalizing money creates freedom]] - Separating money from personal identity
+- [[literature-notes/money-wounds-trace-to-parent-wounds|Money wounds trace to parent wounds]]
+- [[literature-notes/money-is-a-screen-for-projection|Money is a screen for projection]]
+- [[literature-notes/money-beliefs-create-money-reality|Money beliefs create money reality]]
+- [[literature-notes/depersonalizing-money-creates-freedom|Depersonalizing money creates freedom]]
 
 ## Source
 

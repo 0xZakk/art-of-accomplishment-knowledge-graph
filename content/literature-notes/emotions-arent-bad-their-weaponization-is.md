@@ -23,9 +23,9 @@ This distinction is crucial for families. Children learn that anger is dangerous
 
 ## Related Concepts
 
-- [[literature-notes/move-the-charge-not-the-story|Move the emotional charge without believing the story]] - The practice that makes this visible
-- [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]] - What anger becomes when not resisted
-- [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]] - What happens when anger seems dangerous
+- [[literature-notes/move-the-charge-not-the-story|Move the emotional charge without believing the story]]
+- [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]]
+- [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]]
 - [[literature-notes/express-anger-without-directing-it|You can express anger without directing it at anyone]]
 
 ## Source

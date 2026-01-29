@@ -25,8 +25,8 @@ Trying to have the perfect marriage is hell. Trying to have a loving marriage is
 
 ## Related Concepts
 
-- [[literature-notes/find-what-already-works-and-amplify-it|Find what already works and amplify it]] - Leverage through amplification
-- [[literature-notes/connection-over-perfection|Connection over perfection]] - The deeper priority
+- [[literature-notes/find-what-already-works-and-amplify-it|Find what already works and amplify it]]
+- [[literature-notes/connection-over-perfection|Connection over perfection]]
 
 ## Source
 

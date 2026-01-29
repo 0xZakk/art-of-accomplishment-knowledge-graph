@@ -22,9 +22,9 @@ This isn't the beginning of the journey. The maturation goes: discovery and figh
 
 ## Related Concepts
 
-- [[literature-notes/purpose-is-recognition-not-decision|Purpose is recognition, not decision]] - The earlier stage of this arc
-- [[literature-notes/follow-your-calling-even-when-uncomfortable|Follow your calling even when uncomfortable]] - The practice that builds toward choicelessness
-- [[literature-notes/purpose-becomes-non-personal|Living your purpose becomes non-personal]] - What choicelessness eventually yields
+- [[literature-notes/purpose-is-recognition-not-decision|Purpose is recognition, not decision]]
+- [[literature-notes/follow-your-calling-even-when-uncomfortable|Follow your calling even when uncomfortable]]
+- [[literature-notes/purpose-becomes-non-personal|Living your purpose becomes non-personal]]
 - [[literature-notes/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
 - [[literature-notes/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
 

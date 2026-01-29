@@ -23,10 +23,10 @@ The trap is that judgment gives a short-term high — like scrolling — of feel
 
 ## Related Concepts
 
-- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals an unfelt emotion underneath]] - The emotion driving the judgment
-- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against feeling deeper emotions]] - The internal version
-- [[literature-notes/connection-over-perfection|Connection over perfection]] - What to optimize for instead
-- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]] - Similar repelling dynamic
+- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals an unfelt emotion underneath]]
+- [[literature-notes/self-judgment-defends-against-emotions|Self-judgment defends against feeling deeper emotions]]
+- [[literature-notes/connection-over-perfection|Connection over perfection]]
+- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
 - [[literature-notes/judgment-blocks-the-emotion-underneath|Judgment blocks the emotion underneath]]
 
 ## Source

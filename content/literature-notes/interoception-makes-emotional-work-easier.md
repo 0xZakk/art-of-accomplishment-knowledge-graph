@@ -20,9 +20,9 @@ Joe outlines the phases of emotional work: identification (naming), somatic expe
 
 ## Related Concepts
 
-- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]] - The simplicity of developing interoception
-- [[literature-notes/emotional-inquiry-as-embodied-exploration|Emotional inquiry as embodied exploration]] - Interoception applied to emotional work
-- [[literature-notes/pleasure-is-noticing-sensations-moving|Pleasure is noticing sensations moving]] - The natural reward of interoceptive awareness
+- [[literature-notes/body-awareness-is-just-attention|Body awareness is just attention]]
+- [[literature-notes/emotional-inquiry-as-embodied-exploration|Emotional inquiry as embodied exploration]]
+- [[literature-notes/pleasure-is-noticing-sensations-moving|Pleasure is noticing sensations moving]]
 
 ## Source
 

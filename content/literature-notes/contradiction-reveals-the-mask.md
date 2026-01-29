@@ -21,10 +21,10 @@ The contradiction itself is diagnostic. When you notice it in yourself—saying 
 
 ## Related Concepts
 
-- [[literature-notes/presenting-yourself-prevents-being-loved|Presenting yourself prevents being loved]] - The mask blocks the very connection it seeks
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Authenticity is prerequisite for being truly seen
-- [[literature-notes/body-lies-as-much-as-mind|Body lies as much as mind]] - The body can perform inauthenticity too
-- [[literature-notes/imposter-syndrome-means-not-being-yourself|Imposter syndrome means not being yourself]] - The mask creates the imposter feeling
+- [[literature-notes/presenting-yourself-prevents-being-loved|Presenting yourself prevents being loved]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
+- [[literature-notes/body-lies-as-much-as-mind|Body lies as much as mind]]
+- [[literature-notes/imposter-syndrome-means-not-being-yourself|Imposter syndrome means not being yourself]]
 - [[literature-notes/authenticity-is-receiving-not-performing|Authenticity is receiving yourself not performing yourself]]
 - [[literature-notes/suppressing-authentic-expression-increases-self-consciousness|Suppressing authentic expression increases self-consciousness]]
 

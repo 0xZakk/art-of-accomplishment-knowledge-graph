@@ -24,9 +24,9 @@ When you figure out empowerment internally, "you have no choice but to act it ex
 
 ## Related Concepts
 
-- [[literature-notes/principles-make-decisions-for-you|Principles make decisions for you]] - How principles simplify choice
-- [[literature-notes/principles-automate-decision-making|Principles automate decision-making]] - The automation effect
-- [[literature-notes/unconscious-principles-already-run-your-life|Unconscious principles already run your life]] - Default principles
+- [[literature-notes/principles-make-decisions-for-you|Principles make decisions for you]]
+- [[literature-notes/principles-automate-decision-making|Principles automate decision-making]]
+- [[literature-notes/unconscious-principles-already-run-your-life|Unconscious principles already run your life]]
 
 ## Source
 

@@ -20,9 +20,9 @@ The distinction matters because information-seeking can masquerade as growth. Wa
 
 ## Related Concepts
 
-- [[literature-notes/experiments-make-knowledge-embodied|Experiments make knowledge embodied]] - Making ideas real through practice
-- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]] - Welcoming discomfort as the mechanism of change
-- [[literature-notes/sincerity-is-prerequisite-for-transformation|Sincerity is prerequisite for transformation]] - You have to actually mean it
+- [[literature-notes/experiments-make-knowledge-embodied|Experiments make knowledge embodied]]
+- [[literature-notes/embrace-intensity-for-transformation|Embrace intensity for transformation]]
+- [[literature-notes/sincerity-is-prerequisite-for-transformation|Sincerity is prerequisite for transformation]]
 - [[literature-notes/awareness-not-action-plans-transforms|Awareness transforms behavior where action plans fail]]
 - [[literature-notes/changing-behavior-changes-consciousness|Changing behavior is the most efficient way to change consciousness]]
 

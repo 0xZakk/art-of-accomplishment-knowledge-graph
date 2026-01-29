@@ -22,9 +22,9 @@ This isn't moral relativism — it's a deeper morality. Conceptual right and wro
 
 ## Related Concepts
 
-- [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]] - Why right/wrong thinking indicates fear
-- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]] - What's underneath moral judgment
-- [[literature-notes/making-someone-wrong-prevents-healing|Making someone wrong prevents healing]] - A direct consequence of rigid right/wrong
+- [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]]
+- [[literature-notes/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]]
+- [[literature-notes/making-someone-wrong-prevents-healing|Making someone wrong prevents healing]]
 
 ## Source
 

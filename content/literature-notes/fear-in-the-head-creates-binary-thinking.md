@@ -20,10 +20,10 @@ Once the fear moves, the next most obvious thing becomes clear. You can't see th
 
 ## Related Concepts
 
-- [[literature-notes/fear-creates-binary-thinking-and-false-ends|Fear creates binary thinking and false ends]] - The core pattern
-- [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]] - Using binary thinking as a diagnostic
-- [[literature-notes/bad-decisions-come-from-fear-of-emotions|Bad decisions come from fear of emotions]] - How fear corrupts decision-making
-- [[literature-notes/do-the-next-most-obvious-thing|Do the next most obvious thing]] - What becomes available after feeling fear
+- [[literature-notes/fear-creates-binary-thinking-and-false-ends|Fear creates binary thinking and false ends]]
+- [[literature-notes/binary-thinking-signals-fear|Binary thinking signals fear]]
+- [[literature-notes/bad-decisions-come-from-fear-of-emotions|Bad decisions come from fear of emotions]]
+- [[literature-notes/do-the-next-most-obvious-thing|Do the next most obvious thing]]
 - [[literature-notes/false-ends-keep-you-stuck|The brain creates false endings that paralyze action]]
 - [[literature-notes/thinking-youre-deciding-means-youre-in-fear|If you think you're making a decision, you're in fear]]
 

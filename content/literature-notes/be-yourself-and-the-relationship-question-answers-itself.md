@@ -21,9 +21,9 @@ Even if being authentic doesn't save the relationship, it teaches you how to be 
 
 ## Related Concepts
 
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - Why authenticity is prerequisite for connection
-- [[literature-notes/authenticity-is-a-path-not-destination|Authenticity is a path, not a destination]] - The ongoing journey of being real
-- [[literature-notes/being-yourself-gets-you-promoted-or-freed|Being yourself gets you promoted or freed]] - Authenticity resolves career questions too
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
+- [[literature-notes/authenticity-is-a-path-not-destination|Authenticity is a path, not a destination]]
+- [[literature-notes/being-yourself-gets-you-promoted-or-freed|Being yourself gets you promoted or freed]]
 
 ## Source
 

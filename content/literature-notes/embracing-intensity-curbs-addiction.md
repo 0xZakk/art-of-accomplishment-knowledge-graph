@@ -19,9 +19,9 @@ This applies beyond substance addiction to any behavioral pattern driven by emot
 
 ## Related Concepts
 
-- [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck]] - The shame layer on top of addiction
-- [[literature-notes/believing-youre-broken-sustains-addiction|Believing you're broken sustains addiction]] - Identity-level avoidance
-- [[literature-notes/fully-feeling-stops-the-pattern|Fully feeling stops the pattern]] - The broader mechanism
+- [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck]]
+- [[literature-notes/believing-youre-broken-sustains-addiction|Believing you're broken sustains addiction]]
+- [[literature-notes/fully-feeling-stops-the-pattern|Fully feeling stops the pattern]]
 - [[literature-notes/shame-addiction-creates-empty-fulfillment|Shame becomes addictive and creates empty fulfillment]]
 - [[literature-notes/avoidance-chain-from-essence-to-addiction|The avoidance chain runs from essential self through thinking to addiction]]
 - [[literature-notes/shame-drives-compulsive-avoidance|Shame drives compulsive avoidance behaviors]]

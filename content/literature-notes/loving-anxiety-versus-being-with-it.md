@@ -23,9 +23,9 @@ This parallels a deep tissue massage metaphor: if you're distracted during a dee
 
 ## Related Concepts
 
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]] - The broader principle of welcoming vs. tolerating
-- [[literature-notes/management-is-war-with-yourself|Management is war with yourself]] - Why managing emotions backfires
-- [[literature-notes/curiosity-transforms-relationship-to-emotions|Curiosity transforms relationship to emotions]] - Another approach that shifts the relationship
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]]
+- [[literature-notes/management-is-war-with-yourself|Management is war with yourself]]
+- [[literature-notes/curiosity-transforms-relationship-to-emotions|Curiosity transforms relationship to emotions]]
 - [[literature-notes/attention-alone-reduces-stress|Paying attention to stress without trying to change it reduces it]]
 
 ## Source

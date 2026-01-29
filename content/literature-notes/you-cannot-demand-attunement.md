@@ -22,9 +22,9 @@ This parallels a broader pattern in Joe's teaching: the thing you most want from
 
 ## Related Concepts
 
-- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]] - The dynamic of demanding what you want
-- [[literature-notes/neediness-repels-what-you-want|Neediness repels what you want]] - Why demand doesn't create resonance
-- [[literature-notes/we-push-away-approval-we-seek|We push away the approval we seek]] - The paradox of wanting what you resist offering
+- [[literature-notes/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
+- [[literature-notes/neediness-repels-what-you-want|Neediness repels what you want]]
+- [[literature-notes/we-push-away-approval-we-seek|We push away the approval we seek]]
 
 ## Source
 

@@ -19,8 +19,8 @@ We're born with aggression, and life gives us things to be angry about. If that 
 
 ## Related Concepts
 
-- [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]] - When anger flows freely, it becomes constructive force
-- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]] - Forbidding anger distorts the entire emotional system
+- [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]]
+- [[literature-notes/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
 - [[literature-notes/passive-aggression-is-unowned-aggression|Passive aggression is aggression that isn't being owned as aggression]]
 - [[literature-notes/passive-aggression-invites-active-aggression|Passive aggression invites active aggression from others]]
 

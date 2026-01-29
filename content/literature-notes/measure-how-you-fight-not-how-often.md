@@ -21,10 +21,10 @@ The shift from "don't fight" to "fight well" transforms conflict from a sign of 
 
 ## Related Concepts
 
-- [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer]] - Fights as opportunities for deepening
-- [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]] - Avoiding fights kills the relationship
-- [[literature-notes/fights-can-heal-or-retraumatize|Fights can heal or retraumatize]] - How you fight determines the outcome
-- [[literature-notes/safe-agreements-make-conflict-transformative|Safe agreements make conflict transformative]] - Structure for fighting well
+- [[literature-notes/every-fight-can-bring-you-closer|Every fight can bring you closer]]
+- [[literature-notes/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]]
+- [[literature-notes/fights-can-heal-or-retraumatize|Fights can heal or retraumatize]]
+- [[literature-notes/safe-agreements-make-conflict-transformative|Safe agreements make conflict transformative]]
 - [[literature-notes/disdain-signals-relationship-death|Disdain, not fighting, signals a dead relationship]]
 - [[literature-notes/fighting-without-shame-transforms-conflict|Fighting without shame transforms conflict]]
 - [[literature-notes/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]

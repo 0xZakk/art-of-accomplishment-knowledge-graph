@@ -23,10 +23,10 @@ This means that trying to stop the surface behavior (the addiction or procrastin
 
 ## Related Concepts
 
-- [[literature-notes/procrastination-is-emotional-avoidance|Procrastination is emotional avoidance]] - Procrastination as avoidance of underlying emotions
-- [[literature-notes/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]] - The self-reinforcing shame cycle
-- [[literature-notes/shame-drives-compulsive-avoidance|Shame drives compulsive avoidance]] - How shame creates the compulsion to numb
-- [[literature-notes/crack-the-intellectual-trap-first|Crack the intellectual trap first]] - Thinking as the first line of defense
+- [[literature-notes/procrastination-is-emotional-avoidance|Procrastination is emotional avoidance]]
+- [[literature-notes/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]]
+- [[literature-notes/shame-drives-compulsive-avoidance|Shame drives compulsive avoidance]]
+- [[literature-notes/crack-the-intellectual-trap-first|Crack the intellectual trap first]]
 - [[literature-notes/procrastination-is-not-who-you-are|Procrastination is not who you are — and knowing that is the real pain]]
 - [[literature-notes/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck in the patterns you regret]]
 - [[literature-notes/embracing-intensity-curbs-addiction|Embracing intensity removes the need for addictive escape]]

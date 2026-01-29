@@ -22,9 +22,9 @@ Joe demonstrates this live: the moment the man stops trying to force connection 
 
 ## Related Concepts
 
-- [[literature-notes/rebellion-is-the-only-self-under-control|Rebellion becomes the only sense of self under suffocating control]] - How rebellion forms as identity
-- [[literature-notes/children-bid-for-connection-not-defiance|Children bid for connection not defiance]] - The same dynamic in children
-- [[literature-notes/closing-heart-to-protect-traps-you|Closing heart to protect traps you]] - The trap of protective closure
+- [[literature-notes/rebellion-is-the-only-self-under-control|Rebellion becomes the only sense of self under suffocating control]]
+- [[literature-notes/children-bid-for-connection-not-defiance|Children bid for connection not defiance]]
+- [[literature-notes/closing-heart-to-protect-traps-you|Closing heart to protect traps you]]
 - [[literature-notes/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 
 ## Source

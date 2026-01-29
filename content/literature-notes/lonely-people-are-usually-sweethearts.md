@@ -25,9 +25,9 @@ Meanwhile, the lonely person contorts themselves trying to be acceptable, which 
 
 ## Related Concepts
 
-- [[literature-notes/inherent-goodness-eliminates-internal-friction|Inherent goodness eliminates internal friction]] - Seeing your inherent goodness dissolves the shame that drives loneliness
-- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]] - The mechanism by which sweethearts stay lonely
-- [[literature-notes/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]] - Contorting yourself prevents the very love you seek
+- [[literature-notes/inherent-goodness-eliminates-internal-friction|Inherent goodness eliminates internal friction]]
+- [[literature-notes/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
+- [[literature-notes/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]]
 - [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 
 ## Source

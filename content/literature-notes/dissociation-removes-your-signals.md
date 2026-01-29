@@ -21,8 +21,8 @@ The body is the fastest pathway to self-knowledge. Intellectualizing is the slow
 
 ## Related Concepts
 
-- [[literature-notes/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]] - Dissociation creates the experience of stuckness
-- [[literature-notes/moving-emotions-dissolves-depression|Moving emotions dissolves depression]] - Reconnecting with body sensations moves stagnant emotions
+- [[literature-notes/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]]
+- [[literature-notes/moving-emotions-dissolves-depression|Moving emotions dissolves depression]]
 
 ## Source
 

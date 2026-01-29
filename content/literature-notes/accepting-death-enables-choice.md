@@ -23,9 +23,9 @@ When he accepts the possibility of death, choice becomes real. He's not a captiv
 
 ## Related Concepts
 
-- [[literature-notes/grief-is-necessary-for-transformation|Grief is necessary for transformation]] - Pre-grieving as liberation
-- [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]] - Fear-driven non-choice
-- [[literature-notes/saying-yes-to-the-hardest-thing|Saying yes to the hardest thing transforms everything else]] - The power of chosen yes
+- [[literature-notes/grief-is-necessary-for-transformation|Grief is necessary for transformation]]
+- [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
+- [[literature-notes/saying-yes-to-the-hardest-thing|Saying yes to the hardest thing transforms everything else]]
 - [[literature-notes/community-forms-spontaneously-around-vulnerability|Community forms spontaneously around genuine vulnerability]]
 
 ## Source

@@ -23,9 +23,9 @@ The dysfunctional pattern: "I'm going to manage my emotional experience so that 
 
 ## Related Concepts
 
-- [[literature-notes/heartbreak-is-the-mechanism-of-boundaries|Heartbreak is the mechanism of healthy boundaries]] - How this works in practice
-- [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]] - The prerequisite
-- [[literature-notes/being-held-requires-dropping-the-performance|Being held requires dropping the performance]] - A related principle
+- [[literature-notes/heartbreak-is-the-mechanism-of-boundaries|Heartbreak is the mechanism of healthy boundaries]]
+- [[literature-notes/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
+- [[literature-notes/being-held-requires-dropping-the-performance|Being held requires dropping the performance]]
 - [[literature-notes/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
 - [[literature-notes/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 - [[literature-notes/obligation-kills-love|Taking responsibility from obligation kills love]]

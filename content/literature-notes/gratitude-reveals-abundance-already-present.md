@@ -22,9 +22,9 @@ This isn't magical thinking—it's perceptual. A mind fixated on lack literally 
 
 ## Related Concepts
 
-- [[literature-notes/felt-gratitude-not-performed-gratitude|Felt gratitude, not performed gratitude]] - The difference between genuine and performative gratitude
-- [[literature-notes/gratitude-reveals-solutions-criticism-hides|Gratitude reveals solutions, criticism hides them]] - The perceptual mechanism
-- [[literature-notes/identity-of-lack-perpetuates-lack|Identity of lack perpetuates lack]] - What the gratitude practice dissolves
+- [[literature-notes/felt-gratitude-not-performed-gratitude|Felt gratitude, not performed gratitude]]
+- [[literature-notes/gratitude-reveals-solutions-criticism-hides|Gratitude reveals solutions, criticism hides them]]
+- [[literature-notes/identity-of-lack-perpetuates-lack|Identity of lack perpetuates lack]]
 
 ## Source
 

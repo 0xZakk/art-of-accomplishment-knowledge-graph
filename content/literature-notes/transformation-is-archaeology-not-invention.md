@@ -22,9 +22,9 @@ The alternative: acknowledge you're channeling something that's been flowing thr
 
 ## Related Concepts
 
-- [[literature-notes/the-butler-is-always-there|The subconscious always has the answer on a platter]] - The impersonal nature of wisdom
-- [[literature-notes/discovery-not-improvement|Discovery not improvement]] - Finding what's already there
-- [[literature-notes/transformation-is-generational|Transformation is generational]] - The ripple through generations
+- [[literature-notes/the-butler-is-always-there|The subconscious always has the answer on a platter]]
+- [[literature-notes/discovery-not-improvement|Discovery not improvement]]
+- [[literature-notes/transformation-is-generational|Transformation is generational]]
 
 ## Source
 

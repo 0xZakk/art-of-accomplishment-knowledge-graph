@@ -19,8 +19,8 @@ In their latest marriage cycle, this pattern fully dissolved. Joe says it's no l
 
 ## Related Concepts
 
-- [[literature-notes/superiority-and-shame-are-paired|Superiority and shame are paired]] - The general principle
-- [[literature-notes/subtle-superiority-as-protection|Subtle superiority as protection]] - The defense mechanism detailed
+- [[literature-notes/superiority-and-shame-are-paired|Superiority and shame are paired]]
+- [[literature-notes/subtle-superiority-as-protection|Subtle superiority as protection]]
 - [[literature-notes/logical-superiority-avoids-emotion|Feeling logically superior in a fight means you're avoiding an emotion]]
 - [[literature-notes/dropping-shame-is-prerequisite-for-seeing-your-partner|Dropping shame is the prerequisite for seeing your partner]]
 

@@ -22,9 +22,9 @@ The alternative isn't coldness or indifference — it's presence without fixing.
 
 ## Related Concepts
 
-- [[literature-notes/obligation-kills-love|Taking responsibility from obligation kills love]] - The obligation trap
-- [[literature-notes/caretaking-creates-resentment-in-the-receiver|Caretaking creates resentment in the receiver]] - The receiver's experience
-- [[literature-notes/being-together-in-emotions-not-caretaking|Being together in emotions, not caretaking]] - The alternative
+- [[literature-notes/obligation-kills-love|Taking responsibility from obligation kills love]]
+- [[literature-notes/caretaking-creates-resentment-in-the-receiver|Caretaking creates resentment in the receiver]]
+- [[literature-notes/being-together-in-emotions-not-caretaking|Being together in emotions, not caretaking]]
 - [[literature-notes/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
 - [[literature-notes/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
 - [[literature-notes/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]

@@ -22,9 +22,9 @@ Aligned internal goals feel effortless to track—you naturally know where you s
 
 ## Related Concepts
 
-- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]] - The company-to-self mapping
-- [[literature-notes/goals-as-self-abuse-versus-creativity|Goals as self-abuse versus creativity]] - What misaligned goals produce
-- [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]] - The feel of aligned goals
+- [[literature-notes/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
+- [[literature-notes/goals-as-self-abuse-versus-creativity|Goals as self-abuse versus creativity]]
+- [[literature-notes/alignment-eliminates-procrastination|Alignment eliminates procrastination]]
 
 ## Source
 

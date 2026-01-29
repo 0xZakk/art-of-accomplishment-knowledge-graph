@@ -23,8 +23,8 @@ Joe uses the Walgreens example: while other drugstores measured sales per store,
 
 ## Related Concepts
 
-- [[literature-notes/experiments-make-knowledge-embodied|Experimentation over dogma in self-development]] - The same experimental ethos applied personally
-- [[literature-notes/operating-principles-automate-eighty-percent-of-decisions|Operating principles automate eighty percent of decisions]] - How principles function in practice
+- [[literature-notes/experiments-make-knowledge-embodied|Experimentation over dogma in self-development]]
+- [[literature-notes/operating-principles-automate-eighty-percent-of-decisions|Operating principles automate eighty percent of decisions]]
 
 ## Source
 

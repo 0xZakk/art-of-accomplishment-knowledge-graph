@@ -22,9 +22,9 @@ This doesn't mean no one is responsible—it means responsibility is handled sep
 
 ## Related Concepts
 
-- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]] - Why blame kills problem-solving
-- [[literature-notes/see-whats-right-and-build-on-it|See what's right and build on it]] - Another blame-free approach
-- [[literature-notes/gratitude-reveals-solutions-deficit-thinking-hides|Gratitude reveals solutions deficit thinking hides]] - Curiosity over blame
+- [[literature-notes/shame-stagnates-behavior|Shame stagnates behavior]]
+- [[literature-notes/see-whats-right-and-build-on-it|See what's right and build on it]]
+- [[literature-notes/gratitude-reveals-solutions-deficit-thinking-hides|Gratitude reveals solutions deficit thinking hides]]
 
 ## Source
 

@@ -23,10 +23,10 @@ The thought experiment is simple: take all the love you feel for what you love m
 
 ## Related Concepts
 
-- [[literature-notes/you-cant-earn-being|You can't earn being]] - The impossibility of earning what you already are
-- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]] - Shoulds arise from needing to be valuable
-- [[literature-notes/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic]] - How earned-love patterns live in the body
-- [[literature-notes/authority-distorts-reality-for-leaders|Authority distorts reality for leaders]] - How value-seeking cascades through organizations
+- [[literature-notes/you-cant-earn-being|You can't earn being]]
+- [[literature-notes/should-creates-stress-not-change|Should creates stress, not change]]
+- [[literature-notes/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic]]
+- [[literature-notes/authority-distorts-reality-for-leaders|Authority distorts reality for leaders]]
 
 ## Source
 

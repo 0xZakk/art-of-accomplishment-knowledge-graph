@@ -23,10 +23,10 @@ The inverse relationship between enjoyment and vigilance explains why letting yo
 
 ## Related Concepts
 
-- [[literature-notes/pleasure-as-emotional-fluidity-practice|Pleasure as emotional fluidity practice]] - Pleasure as a vehicle for emotional development
-- [[literature-notes/pleasure-grounds-the-sensitive-system|Pleasure grounds the sensitive system]] - Pleasure stabilizes the nervous system
-- [[literature-notes/foreboding-joy-blocks-gratitude|Foreboding joy blocks gratitude]] - Anticipating loss prevents experiencing joy
-- [[literature-notes/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant]] - Why pleasure triggers the alarm system
+- [[literature-notes/pleasure-as-emotional-fluidity-practice|Pleasure as emotional fluidity practice]]
+- [[literature-notes/pleasure-grounds-the-sensitive-system|Pleasure grounds the sensitive system]]
+- [[literature-notes/foreboding-joy-blocks-gratitude|Foreboding joy blocks gratitude]]
+- [[literature-notes/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant]]
 - [[literature-notes/pleasure-is-available-in-every-emotion|Pleasure is available in every emotion when fully felt]]
 
 ## Source

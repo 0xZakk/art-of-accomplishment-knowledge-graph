@@ -22,9 +22,9 @@ This echoes the broader teaching that transformation is not building something n
 
 ## Related Concepts
 
-- [[literature-notes/transformation-is-archaeology-not-invention|Transformation is archaeology not invention]] - The core principle behind this experience
-- [[literature-notes/discovery-not-improvement|Discovery not improvement]] - You're not improving yourself, you're finding yourself
-- [[literature-notes/freedom-is-recognized-not-achieved|Freedom is recognized not achieved]] - The freedom was always there, buried under armor
+- [[literature-notes/transformation-is-archaeology-not-invention|Transformation is archaeology not invention]]
+- [[literature-notes/discovery-not-improvement|Discovery not improvement]]
+- [[literature-notes/freedom-is-recognized-not-achieved|Freedom is recognized not achieved]]
 
 ## Source
 

@@ -20,9 +20,9 @@ This isn't selfish — it's honest about the relational nature of transformation
 
 ## Related Concepts
 
-- [[literature-notes/community-amplifies-transformation|Community amplifies transformation]] - How community accelerates the work
-- [[literature-notes/community-health-is-individual-health|Community health is individual health]] - The collective dimension
-- [[literature-notes/emotional-depth-can-create-loneliness|Being raised with emotional depth can create loneliness]] - Why community is essential
+- [[literature-notes/community-amplifies-transformation|Community amplifies transformation]]
+- [[literature-notes/community-health-is-individual-health|Community health is individual health]]
+- [[literature-notes/emotional-depth-can-create-loneliness|Being raised with emotional depth can create loneliness]]
 
 ## Source
 

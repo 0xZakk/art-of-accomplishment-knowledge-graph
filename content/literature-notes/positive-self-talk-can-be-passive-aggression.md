@@ -21,8 +21,8 @@ Joe identifies another form of internal passive aggression: the undermining inne
 
 ## Related Concepts
 
-- [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts creates more of them]] - Fighting negative feelings with forced positivity strengthens them
-- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]] - The alternative to internal passive aggression
+- [[literature-notes/resisting-parts-creates-more-of-them|Resisting parts creates more of them]]
+- [[literature-notes/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]]
 - [[literature-notes/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
 - [[literature-notes/moving-emotions-dissolves-depression|Moving the emotion dissolves depression]]
 - [[literature-notes/external-patterns-mirror-internal-ones|External relationship patterns mirror internal ones]]

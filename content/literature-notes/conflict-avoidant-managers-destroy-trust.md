@@ -22,9 +22,9 @@ Trust is built by having difficult conversations, not avoiding them. Not doing w
 
 ## Related Concepts
 
-- [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]] - The emotional root of avoidance
-- [[literature-notes/nice-cultures-breed-passive-aggression|Nice cultures breed passive aggression]] - What avoidance creates organizationally
-- [[literature-notes/trust-is-the-universal-ingredient-of-functional-teams|Trust is the universal ingredient of functional teams]] - What avoidance destroys
+- [[literature-notes/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]]
+- [[literature-notes/nice-cultures-breed-passive-aggression|Nice cultures breed passive aggression]]
+- [[literature-notes/trust-is-the-universal-ingredient-of-functional-teams|Trust is the universal ingredient of functional teams]]
 - [[literature-notes/conflict-builds-trust|Conflict is necessary for building trust]]
 - [[literature-notes/conflict-avoidant-leaders-trade-short-term-for-long-term-pain|Conflict-avoidant leaders trade short-term comfort for long-term pain]]
 

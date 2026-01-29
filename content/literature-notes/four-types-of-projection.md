@@ -25,10 +25,10 @@ Joe distinguishes four types of projection, each operating at a different level:
 
 ## Related Concepts
 
-- [[literature-notes/triggers-reveal-self-judgment|Triggers reveal self-judgment]] - How psychological projection manifests
-- [[literature-notes/theta-programming-shapes-adult-reality|Theta programming shapes adult reality]] - The childhood origin of world projections
-- [[literature-notes/self-concept-shapes-outer-reality|Self-concept shapes outer reality]] - How self-projection creates reality
-- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]] - The limitation of the "I" projection
+- [[literature-notes/triggers-reveal-self-judgment|Triggers reveal self-judgment]]
+- [[literature-notes/theta-programming-shapes-adult-reality|Theta programming shapes adult reality]]
+- [[literature-notes/self-concept-shapes-outer-reality|Self-concept shapes outer reality]]
+- [[literature-notes/any-self-definition-limits-you|Any self-definition limits you]]
 - [[literature-notes/triggers-reveal-disowned-parts-of-self|Triggers and admiration both reveal disowned parts of yourself]]
 - [[literature-notes/we-create-our-world-not-just-see-it|We create our projected world through attraction, manipulation, and selective evidence]]
 

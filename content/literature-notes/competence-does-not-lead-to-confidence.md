@@ -23,8 +23,8 @@ The practical approach: fail. Just fail. It's faster and dirtier than trying to 
 
 ## Related Concepts
 
-- [[literature-notes/vulnerability-cures-imposter-syndrome-faster-than-competence|Vulnerability cures imposter syndrome faster than competence]] - Another angle on the same insight
-- [[literature-notes/facing-fear-builds-empowerment|Facing fear builds empowerment]] - The mechanism underneath
+- [[literature-notes/vulnerability-cures-imposter-syndrome-faster-than-competence|Vulnerability cures imposter syndrome faster than competence]]
+- [[literature-notes/facing-fear-builds-empowerment|Facing fear builds empowerment]]
 
 ## Source
 

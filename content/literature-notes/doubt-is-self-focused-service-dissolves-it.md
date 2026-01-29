@@ -22,9 +22,9 @@ The practical application: when imposter syndrome shows up, ask "How do I do thi
 
 ## Related Concepts
 
-- [[literature-notes/doubt-is-leaving-your-heart|Doubt is leaving your heart]] - Doubt signals disconnection from the heart
-- [[literature-notes/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]] - Doubt as emotional defense
-- [[literature-notes/fear-of-success-creates-doubt-too|Fear of success creates doubt too]] - Both success and failure fears produce doubt
+- [[literature-notes/doubt-is-leaving-your-heart|Doubt is leaving your heart]]
+- [[literature-notes/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]]
+- [[literature-notes/fear-of-success-creates-doubt-too|Fear of success creates doubt too]]
 
 ## Source
 

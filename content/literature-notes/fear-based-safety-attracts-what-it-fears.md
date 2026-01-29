@@ -21,9 +21,9 @@ This applies well beyond AI. Any domain where fear drives the "safety" response 
 
 ## Related Concepts
 
-- [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]] - The general principle at work
-- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]] - Why fighting against something gives it power
-- [[literature-notes/fear-creates-binary-thinking-and-false-ends|Fear creates binary thinking and false ends]] - How fear narrows the solution space
+- [[literature-notes/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
+- [[literature-notes/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
+- [[literature-notes/fear-creates-binary-thinking-and-false-ends|Fear creates binary thinking and false ends]]
 
 ## Source
 

@@ -22,10 +22,10 @@ The person doing the passive aggression feels stuck and oppressed — they rarel
 
 ## Related Concepts
 
-- [[literature-notes/passive-aggression-is-unowned-aggression|Passive aggression is unowned aggression]] - One of the three kinked forms
-- [[literature-notes/suppressing-anger-kills-your-fire|Suppressing anger kills your fire]] - The cost of turning anger inward
-- [[literature-notes/exhaustion-is-unexpressed-anger|Exhaustion is unexpressed anger]] - Physical symptoms of repressed anger
-- [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]] - What anger becomes when it flows freely
+- [[literature-notes/passive-aggression-is-unowned-aggression|Passive aggression is unowned aggression]]
+- [[literature-notes/suppressing-anger-kills-your-fire|Suppressing anger kills your fire]]
+- [[literature-notes/exhaustion-is-unexpressed-anger|Exhaustion is unexpressed anger]]
+- [[literature-notes/anger-unresisted-is-determination|Anger unresisted is determination]]
 - [[literature-notes/repressed-anger-kinks-into-symptoms|Repressed anger kinks into depression, self-criticism, and rage]]
 - [[literature-notes/childhood-origins-of-anger-repression|Anger repression gets installed through three childhood pathways]]
 - [[literature-notes/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuckness]]
