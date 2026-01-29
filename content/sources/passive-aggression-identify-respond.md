@@ -1,0 +1,44 @@
+---
+title: "Passive Aggression: How To Identify & Respond"
+source: https://www.youtube.com/watch?v=s6y4OmCZivE
+videoId: "s6y4OmCZivE"
+category: "Short Lesson"
+type: teaching
+duration: "5:28"
+topics:
+  - passive aggression
+  - boundaries
+  - anger
+  - empowerment
+date: 2026-01-27
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s6y4OmCZivE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Summary
+
+Joe Hudson explains passive aggression as an aggressive act performed in a passive way — trying to change someone while playing the victim. He uses guilt-tripping as a prime example: it's an attempt to control someone's behavior while maintaining the appearance of being the wounded party. Joe notes that people who are passive aggressive often don't recognize it because their identity is entrenched in being the oppressed one.
+
+The core insight is that passive aggression arises from a lack of empowerment — when someone doesn't feel safe enough to be directly aggressive, set boundaries, or express what they want. Joe shares a personal story of calling his parents and drawing a clear boundary about their criticism, which led to 18 months of silence but ultimately transformed the family dynamic. The remedy for passive aggression, whether in others or yourself, is the same as for overt aggression: draw clear boundaries. If you're the one being passive aggressive, the path forward is to move the anger, express it (not at the person), and then draw the boundary you need.
+
+## Key Concepts
+
+- [[teachings/passive-aggression-is-unowned-aggression|Passive aggression is unowned aggression]]
+- [[teachings/dont-try-to-change-passive-aggression-in-others|Don't try to change passive aggression in others]]
+- [[teachings/owning-your-wants-dissolves-passive-aggression|Owning your wants dissolves passive aggression]]
+- [[teachings/boundaries-declare-your-action-not-theirs|Boundaries declare your action, not theirs]]
+
+## Key Quotes
+
+> "If somebody's doing something subconsciously or not subconsciously to change you in a passive way, that's passive aggression. It's being mean while pretending to be nice."
+
+> "Nobody likes to be told what to do. We all resist. It's just how openly we resist."
+
+> "I love you, I want to come over to your house, but I'm not going to do that until you can agree to stop criticizing me when I come over."
+
+> "That lack of empowerment, that lack of sovereignty, that lack of agency is the thing that makes somebody passive aggressive. They don't feel like they can actually get what they want, and so they have to do it in a backhanded way."
+
+## Transcript
+
+I remember when we were doing the the facilitation there would always be somebody who would be passive aggressive when we started we were doing these 24 person things like live in San Francisco and there is always somebody who somehow or another felt like they were being oppressed by the situation as if they couldn't leave and they would start being really passive aggressive and our um rule of thumb was when we'd say it at the beginning once we figured it out we say like if we see someone being passive aggressive we're going to ask you to be just outright aggressive and like just yell and get mad at us and tell us like tell us your boundaries or whatever it was and that was our rule of thumb because it was such a hard thing to to like sort out and one of the reasons we found out it was such a hard thing is because a lot of times people who are being passive aggressive don't know they're being passive aggressive so a great example of passive aggression is guilt right like guilting somebody is such a passive aggression thing like you want them to change you're trying to get them to change you're using an emotion to to to get them change it's an aggressive act but you get to play the victim while you're guilting right you're like oh poor me and it's such a hard thing and now granted there are some people and I remember watching this film where all these moms it was like a documentary sort of thing all these moms were talking around and bragging how good of guilt Trippers they were they're like I'm the best guilt Tripper like this is how I do it this is the tone I know and that's what I did I was like gross I was like wait they know they're doing this they're doing this and they know like and the truth is that sometimes they know they're not but sometimes they don't it's like sometimes very hard for people to see that they're being passive aggressive because their identity is so entrenched and I'm the one that's oppressed or I'm the victim that they can't see that they're but the truth about us as people is that nobody likes to be told what to do we all resist it's just how openly we resist right and we know this because like the voice in the head if you have a critical voice in the head and the critical voice in the head is like you should do up up up up and they it gets really shitty at you notice the reaction is usually some form of passive aggressive because you haven't done everything the voice in the head has told you to do you're like yeah off I'm not doing that or yeah you're right I should do that but really off I'm not doing that and so that's what happens when somebody feels oppressed they're going to move into passive aggression if they don't feel safe enough to be completely aggressive and just say no I'm not doing that or Draw the boundary the way to think about passive aggression so it's like easy to see it's like if somebody's doing something subconsciously or not subconsciously to change you in a passive way that's passive aggression right so it's being mean while pretending to be nice it is guilt tripping it is um uh nagging is a form of passive aggression it's it's anything where the person feels like they don't have control but they're still exerting control and when you see that it's okay to draw the same boundary that you would if somebody's being yelling at you or being completely aggressive which is hey I'm not going to do that and I remember with my parents my poor parents some point I called them up and I was like they were just constantly criticizing me it was a form of passive aggression and I said hey I love you I like coming home but every time I come home you criticize me and I don't why I wouldn't do that I wouldn't do that with anybody else in the world nobody else in the world would I be like sign me up to go over to their house and be criticized for 30 minutes or two hours or for a half a day I'm just not doing it so I love you I want to come over to your house but I'm I'm not going to do that until you can agree to stop criticizing me when I come over they didn't call me for like 18 months I think it was like 18 months there was like silence and then they were like okay we miss you enough I guess they didn't say it that way but they were like okay and then like the criticism pretty much stopped in the family and so it's the same thing as if like I came home my dad yelled at me all the time I would say hey I'd love to see you but it's not okay for you to yell at me which I did at a different time in my relationship with my dad so it's drawing that boundary and if you are the one that realizes you're being passive aggressive like you have resentment then the thing to do is to move that anger to like let the anger go to express it not at the person not an abusive way but to just fully Express that anger and then draw the boundary that you need to draw instead of feeling like you can't draw the boundary and you can't move the anger which is that lack of empowerment that lack of sovereignty that lack of agency is the thing that makes somebody passive aggressive they don't feel like they can actually get what they want and so they have to do it in a backhanded way.

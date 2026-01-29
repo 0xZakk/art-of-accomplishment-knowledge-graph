@@ -1,0 +1,44 @@
+---
+title: "The Real Cause of Resentment (And What to Do About It)"
+source: https://www.youtube.com/watch?v=NJwuDwCFkTo
+videoId: "NJwuDwCFkTo"
+category: "Short Lesson"
+type: teaching
+duration: "5:14"
+topics:
+  - resentment
+  - boundaries
+  - anger
+  - relationships
+  - caretaking
+date: 2026-01-27
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NJwuDwCFkTo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Summary
+
+Joe uses the story of buying the wrong fridge for his wife Tara to illustrate how resentment actually works in relationships. Tara didn't want to blame him, but the resentment lingered — she was angry about the fridge and hadn't fully expressed that anger. What they discovered was that resentment is always a sign of repressed anger pointing at an undrawn boundary.
+
+The typical resentment pattern: one person caretakes another in a way the other didn't ask for (e.g., buying the fridge without consulting), which disempowers them. The disempowered person starts resenting, and because they don't feel safe expressing anger (they'd seem ungrateful), the resentment builds and becomes passive-aggressive behavior. Signs include fighting over trivial things and dreading your partner coming home. The solution is for the resentful person to move the anger, draw the boundary, and release the resentment — because once the boundary is drawn, there's nothing left to hold on to.
+
+## Key Concepts
+
+- [[teachings/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]]
+- [[teachings/caretaking-creates-resentment-in-the-receiver|Caretaking creates resentment in the receiver]]
+- [[teachings/resentment-saturates-every-fight|Resentment saturates every fight]]
+
+## Key Quotes
+
+> "What we realized was that whenever resentment was there in the relationship, there was an anger — resentment was a sign of a repressed anger."
+
+> "The way that resentment typically works is that one person is taking care of another person in some way that they don't want to be taken care of, and then the person starts resenting them."
+
+> "The anger is pointing at a boundary... underneath that anger is a boundary — this is how I want to interact with you."
+
+> "If you can draw the boundary then why do you have to hold on to it? Because you're okay for the future. It's the fact that you don't feel like you can draw that boundary that makes it so that you have to hold on to this resentment."
+
+## Transcript
+
+okay we had a a fridge breakdown and I was just like I'm going to get it done I'm going to buy this fridge so because like we need a fridge so I just went out bought the fridge got the fridge and it was not the fridge that Tara wanted and Tara wanted like a silent fridge and she wanted to do the research and I was just like and um you know maybe once a week for the first six months I heard about the problems with the I can't sleep because the fridge is so fucking loud like it was just like this undercurrent in our life about the fridge it was like the fridge could do no right in the house like there was like it was like there was like it didn't matter if it kept the food cold it was still a shitty fridge and uh and there was this you know it was resentment it was this underlying resentment and you know in Tara's mind at the time I remember I'd be like can you please stop like beating me up over the fridge and she's like I'm not beating you up I'm like I I'm not like thinking you're wrong about it I I'm thinking that I'm wrong about it like and it was this very confusing thing because there's a time in our relationship where it was very clear anything like that would be my fault but it it became this thing where it was it was still in her mind and she didn't want to blame me for it but it was just there and it was like and what we realized was that she was just really angry about the fridge and because she hadn't fully gotten to expressed that anger it just showed up as this resentment and the earlier form of resentment in the early part of our relationship would have just been blame it would have been bub but there was still this kind of resentment it was almost like she resented herself for not standing up and saying no Joe don't buy the goddamn fridge I have a very specific fridge I want and we're going to buy that fridge or whatever it was and we started to realize that like oh whenever resentment was there in the relationship um that there was an anger there was some sort of frustration that resentment was kind of a a sign of a repressed anger that was happening and often times the person doesn't feel safe you know showing that anger because I I went out and I bought the damn fridge and I did all this work and like well I'm going to be ungrateful for him for taking care of the fridge or you know and then then I'm going to get angry at him and I've mentioned him many times and he's already angry about it and like it's just going to blow up and so the way that resent typically works is that one person is taking care of another person in some way that they don't want to be taking care of I.E the fridge and then the person starts resenting them right like hey don't make me small don't disempower me don't make my decisions for me don't think that you have to save me all the time and then that resentment starts happening and it builds and it builds and then it typically will become passive aggressive you know Behavior which we can talk about later but and that's the resentment that's there and what's actually happening is that there's an anger there's like hey like and the anger isn't it is anger but the anger is pointing at a boundary so it's anger I'm like don't fucking take care of me whatever it is don't buy the goddamn fridge until you talk to me or whatever but underneath that that anger is a boundary right this is this is how I want to interact with you the important thing to know is that that's really the thing that's happening under resentment is one person's caretaking somebody and the other person's getting resentful and a couple ways to know that this is happening in your relationship one is that you get in fights over little things that like aren't at all like relevant if you notice you don't want to come home or you're bummed about when they're coming home then the resentment is fully gotten in the relationship and so what that means when fighting is that often times what you're fighting about is going to be like um saturated by this resentment meaning that you're actually fighting about two things at the same time I'm we're having a fight over the fact that like my career and your career don't match and how are we going to do that and we're also fighting about the fact that you never clean the fucking coffee maker it's going to complicate every fight that you're in it's going to make the fights harder and harder to get to a resolution where you both feel like you've evolved you both feel like you've changed and grown and so so it's really important to address those resentments and the best way to do that is the person who's holding the resentment is to move some anger draw some boundaries and get that because often times the resentment lingers because the boundary hasn't been drawn right like if you can draw the boundary then why do you have to hold on to it because you're okay for the future it's the fact that you don't feel like you can draw that boundary that makes it so that you have to hold on to this resentment

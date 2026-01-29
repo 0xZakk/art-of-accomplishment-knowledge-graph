@@ -1,0 +1,48 @@
+---
+title: "The Secret to Elite Doomscrolling: You Must Hate Yourself"
+source: https://www.youtube.com/watch?v=LBdahFswVGw
+videoId: "LBdahFswVGw"
+category: "Short Lesson"
+type: teaching
+duration: "6:48"
+topics:
+  - shame
+  - doomscrolling
+  - self-forgiveness
+  - addiction
+  - cognitive-dissonance
+date: 2026-01-27
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBdahFswVGw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Summary
+
+In this satirical video, Joe uses the framing of "how to become an elite doomscroller" to reveal the psychological mechanics of compulsive phone use. He traces his own journey from childhood shame (raised by an alcoholic father) through various avoidance strategies to the ultimate avoidance tool: the smartphone.
+
+The core insight is that doomscrolling is driven by shame — specifically, the belief that you are fundamentally broken. The more you doomscroll, the worse you feel about yourself, which creates more reason to doomscroll. Self-forgiveness and exercise actually reduce the urge to doomscroll, which is why an "elite doomscroller" must avoid them. The satirical framing makes the mechanism viscerally clear: you can only sustain compulsive avoidance if you believe you're uniquely broken and beyond repair.
+
+Joe also identifies cognitive dissonance as the key enabler — by neglecting self-care enough to become depressed, you can convince yourself that your situation is permanent and your fault, which fuels further avoidance. The video ends with a satirical "experiment" of listing 50 things wrong with yourself, highlighting how absurd the shame-driven mindset becomes when made explicit.
+
+## Key Concepts
+
+- [[teachings/shame-drives-compulsive-avoidance|Shame drives compulsive avoidance behaviors]]
+- [[teachings/believing-youre-broken-sustains-addiction|Believing you're broken sustains addiction]]
+- [[teachings/self-forgiveness-breaks-the-shame-loop|Self-forgiveness breaks the shame-avoidance loop]]
+
+## Key Quotes
+
+> "The whole thing of like what really drives me to doom scroll is that I don't want to feel bad about myself. And then the more I doom scroll, the more I feel bad about myself."
+
+> "If you want to be a professional level doomscroller, you have to think you're the worst."
+
+> "To think that you're completely broken means that you have to be unique to all other people."
+
+> "You basically get depressed enough because you're not taking care of yourself enough so that when that depression hits, you think two things. One is this is never going to get better. And two is that it's your fault."
+
+> "Any kind of self-forgiveness isn't going to work. Any kind of exercise isn't going to work." [said satirically — meaning they DO work, which is why an "elite doomscroller" must avoid them]
+
+## Transcript
+
+you know on some level that you have the capacity to be one of the world's best doom scrollers. What I'm going to do in this video is tell you my story of how I got there so that you can follow in my footsteps and hopefully break my record of doom scrolling. I'm talking elite level. When I was young, I was raised by an alcoholic father and a mother who really catered to his needs and didn't cater to my needs. And this left me with this feeling of like not enoughness, just this like, oh man, I'm not good enough. And I tried different things to avoid it. You know, I tried television and I tried porn, I tried drugs, I tried drinking, but all of them there was like this limitation like I couldn't use porn all day long and I couldn't like eat all day long and I couldn't drink all day long. And so there was this way in which I had to face that shame even if it was just a little bit instead of avoid the shame. And luckily I was just born in a generation where doom scrolling was just coming in online and you could kind of do it with a computer. But then the phone showed up and we are calling it iPhone and you could doom scroll all day long. you could just be in there doom scrolling, avoiding for hours and hours and hours at a time. And so I got pretty good at it. You know, I could do 2 3 in the morning, but then I'd fall asleep and I could start, you know, as soon as I came home from work, but I was still working. I wasn't like I wasn't going I wasn't going to the big leagues. So I realized there was a couple things that I had to do. First of all, I had to stop exercising. When I did the research, what I found out was that the dopamine uh that you get from doom doom scrolling that if I got that dopamine from other places, I wasn't going to doom scroll as much. So, I had to stop like any kind of the exercising and meditation and anything like that. I had to let that go. And then the other thing that happened was like one day I was just doom scrolling and I realized, oh, I'm not the only person who's, you know, doom scrolling. There's other people. This isn't this isn't personal to me. this is something that's like this is just the way humans are built on some level and and in that moment there was some forgiveness and then I didn't want to doom scroll. I was like, "Oh, wait a second." And that that's when I recognized that if I actually am not in shame around it, then I'm less likely to doom scroll. That the whole thing of like what really drives me to doom scroll is that I don't want to feel like bad about myself. And then the more I doom scroll, the more I feel bad about myself. So the more reason I have to doom scroll so that I don't have to feel bad about myself. So it was like this massive epiphany that any kind of self forgiveness isn't going to work. any kind of exercise isn't going to work. And then like to get to that top 1% I had this secondary epiphany which is that I can never be fixed. I can never actually like I am so broken that there is nothing that can be done about it. And so my only option is to avoid that feeling of brokenness. But I have to tell you that's a lot harder than it sounds. It's a lot harder than it sounds. And the reason that it's harder than it sounds is because to think that you're completely broken means that you have to be unique to all other people. So you can say, "Oh, I'm broken because my dad was an alcoholic." But yeah, there's tons of people's dad was an alcoholic. And you can say, "Oh, I'm broken because I uh I'm I doom scroll 6 hours." But tons of people doom scroll 6 hours. So you have to get in there and really find something about yourself. And if you do it, what you'll find out is that there's actually nothing about you that's that unique compared to other people. So you have to like it's a little bit of a trick. What you do is what I call cognitive dissonance. You basically get depressed enough because you're not taking care of yourself enough so that when that depression hits, you think two things. One is you think this is never going to get better. That's important. And two is that it's your fault. And then you can walk walk around and go, "Oh my god, nobody else is is quite as depressed." Well, at least most people aren't quite as depressed as me. And then the people who are as depressed as me, I don't see them because I'm in a room doom scrolling all the time. And like nobody makes YouTube videos like, "I'm so depressed. I'm so depressed." So you can literally convince yourself through cognitive dissonance that you are the only one in this position. And then that wo boom next level of doom scrolling. So the other thing that you want to do is you want to have like uh all the sound all the notifications on for the phone and then any chance that you can be distracted into your phone will lead to more doom scrolling. Couple like pro moves on that is anytime anybody says anything check to see if it's true online. like go to chat GBT, go to anything, check the weather online, and then you can immediately fall into like you want every opportunity to fall into your phone that you can possibly create so that if for whatever reason you're distracted out of the doom scrolling and you're like, "Oh, wait, there's life out there." Bingop, right back into the phone. So, that is incredibly useful. Again, I'm going to say it out loud. All these things are like they're nice, they're useful, they're helpful, but they're not the real big thing. The real big thing is that you have to feel like you're broken. Think of it this way. Like if you're an elite level NBA player, you have to at some level like a Michael Jordan, they have to think that they're the best. This is the same thing. If you want to be a professional level doomscroller, you have to think you're the worst. That's what you got to do. And if you do that, you could become like me and become a professional level Doomcroller. That's the thrust of the video, but I want to give you an experiment that you can walk away with that will make you one of the world's best doom scrollers. Hold on a second. I want you to write down all the things that are wrong with you. So, if you write on the list and you're like, "Oh, I'm depressed." That's great. But you want it specific. So, it's like, "I'm depressed because my mom hated me because I had a buck tooth and I still do." Or like, "I have a really big forehead." That's a good that I use that one personally. That's a great one to use. So, you want something that's specific to how you are broken in at least 50 times. And I think that will help you find the way to really see yourself as just not good enough in an essential level rather than just a you know human level. Are we done? Great. Awesome.

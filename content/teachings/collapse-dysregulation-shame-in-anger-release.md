@@ -1,0 +1,30 @@
+---
+title: "Anger release goes wrong through collapse, dysregulation, or shame recreation"
+source: "[[sources/wisdom-of-anger-part-2|The Wisdom Of Anger, Part 2]]"
+related:
+  - "[[teachings/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]"
+  - "[[teachings/actor-technique-for-stuck-emotions|Actor technique for stuck emotions]]"
+tags:
+  - anger
+  - shame
+  - dysregulation
+  - emotional-processing
+---
+
+When someone actually begins to release anger, three things commonly go wrong — and which one depends on how the anger was originally kinked. People who turned anger inward (self-abuse or passive aggression) tend to **collapse**: the anger starts moving and then their back literally bends, shame hits, and they fold. People who were used to explosive anger tend to become **dysregulated**: they buy into the story so completely that they leave their body, lose awareness of time and space, and say things they don't mean. And people with deep shame around anger **recreate the shame cycle**: they get angry in a way that hurts someone or breaks something, proving to themselves that anger is dangerous.
+
+For dysregulation, the antidote is the observer position — being "an actor playing the role of you getting angry," maintaining a part of yourself outside the process. For collapse, find the phrase that triggers the anger response against the collapse itself: "You will not stop me. You will not stop me from being angry." For shame recreation, all that's needed is awareness — seeing "oh, that's just me recreating the shame around it" without turning it into a should.
+
+> "If you notice you go into collapse... you can just repeat one sentence like 'you can't stop me' — to feel the oppression of the collapse instead of the oppression of the anger, and respond to it."
+
+## Related Concepts
+
+- [[teachings/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
+- [[teachings/actor-technique-for-stuck-emotions|Actor technique for stuck emotions]]
+- [[teachings/shame-is-anger-turned-inward|Shame is anger turned inward]]
+- [[teachings/actor-technique-for-anger-release|The actor technique lets you release anger while maintaining awareness]]
+- [[teachings/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]
+
+## Source
+
+- [[sources/wisdom-of-anger-part-2|The Wisdom Of Anger, Part 2]]

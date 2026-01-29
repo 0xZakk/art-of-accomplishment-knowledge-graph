@@ -1,0 +1,35 @@
+---
+title: "Loss can deepen freedom"
+source: "[[sources/what-were-afraid-to-lose|What We're Afraid to Lose]]"
+related:
+  - "[[teachings/heartbreak-is-expansion|Heartbreak is expansion]]"
+  - "[[teachings/chaos-is-necessary-for-growth|Chaos is necessary for growth]]"
+  - "[[teachings/comfort-can-prevent-transformation|Comfort can prevent transformation]]"
+  - "[[teachings/growth-means-shedding-identities|Growth means shedding identities]]"
+tags:
+  - loss
+  - freedom
+  - growth
+  - identity
+  - transformation
+---
+
+Joe notices a particular quality in people who've dedicated years to caring for someone — a disabled child, a dying spouse, an aging parent. They're remarkably soft. Something has been worn down through the process. The thing we fear most — loss, constraint, being trapped — can open a level of freedom we didn't know existed.
+
+Many entrepreneurs describe building a $100 million company, watching it fall apart, and only then being able to show up fully. The co-host had a similar experience: maximum money, maximum anxiety, then a crash that initiated real growth. The biblical image of the camel passing through the needle's eye — only after shedding its load — captures this.
+
+This isn't an argument for seeking suffering. But it reframes loss: the things we cling to aren't protecting our freedom. Often they're preventing it. And the loss we fear most may contain exactly the growth we need.
+
+> "The thing that we fear often can provide another level of freedom for us — even the things that don't seem appealing at all."
+
+## Related Concepts
+
+- [[teachings/heartbreak-is-expansion|Heartbreak is expansion]]
+- [[teachings/chaos-is-necessary-for-growth|Chaos is necessary for growth]]
+- [[teachings/comfort-can-prevent-transformation|Comfort can prevent transformation]]
+- [[teachings/growth-means-shedding-identities|Growth means shedding identities]]
+- [[teachings/what-you-fear-losing-reveals-your-conditions-on-freedom|What you fear losing reveals your conditions on freedom]]
+
+## Source
+
+- [[sources/what-were-afraid-to-lose|What We're Afraid to Lose]]

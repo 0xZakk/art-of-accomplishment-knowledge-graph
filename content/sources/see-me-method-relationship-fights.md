@@ -1,0 +1,48 @@
+---
+title: "Stop Relationship Fights in 10 Minutes — 'See Me' Method"
+source: https://www.youtube.com/watch?v=SXmgzT4wfNA
+videoId: "SXmgzT4wfNA"
+category: "Short Lesson"
+type: teaching
+duration: "4:54"
+topics:
+  - relationships
+  - conflict-resolution
+  - seeing
+  - connection
+  - truth
+date: 2026-01-27
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SXmgzT4wfNA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Summary
+
+Joe shares a personal story about a fight with his wife Tara early in their relationship. She came home furious because he didn't attend her show, and instead of defending himself or determining who was right, he simply listened with an open heart and recognized that her experience was real and true for her. The fight dissolved in about 10 minutes — what used to take hours or days.
+
+The key insight is that fights persist because both people are trying to adjudicate truth — figure out who's right and who's wrong. But relationships aren't courtrooms. Each person has their own reality, and neither needs to be "correct." When you stop trying to win and instead try to *see* the other person's truth, connection happens instantly.
+
+Joe explains that in every fight, both people want the same thing: to be seen. But instead of seeing each other, they throw shame back and forth. The moment one person stops and genuinely sees the other, the other almost immediately wants to reciprocate, and the fight resolves.
+
+## Key Concepts
+
+- [[teachings/seeing-their-truth-not-finding-the-truth|Seeing their truth, not finding "the" truth]]
+- [[teachings/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
+- [[teachings/relationship-is-not-a-courtroom|A relationship is not a courtroom]]
+
+## Key Quotes
+
+> "This is true for her. This is how she sees the world. It doesn't have to be mine. It's hers."
+
+> "If you're looking for what the truth is instead of trying to understand the other person's truth and what their reality is, then you miss each other."
+
+> "Nobody has ever said once I find the truth of this relationship then the relationship will be happy. But everybody says I would love to be seen, I would love to be understood."
+
+> "Two people in a fight — what both want is to be seen. And what they're usually doing is throwing shame at each other."
+
+> "As soon as someone feels seen, almost immediately they want to see the other person."
+
+## Transcript
+
+so I remember this one time with Tara it was maybe like four years in the relationship and she came home and she was pissed at me I mean she was she was doing some acting in LA and she had a show and I didn't come to the show and she came in and was just like furious at me and I in my mind I was like oh this is this is true for her like this is how she sees the world it doesn't have to be mine it's hers and so I could just be there and like have an open heart and listen to her and hear her story and and with the recognition like this is like important to her this is true for her this is this is real and I could just have this massive amount of compassion so I just listened I was just there and I was just understanding and I could say I'm sorry and I said I was sorry and it just all melted inside of like 10 minutes what used to be hours of fighting you know like like maybe even a day of fighting because what would happen is that she would tell me her story and I would think this has to be true or not true and if it was true then I did something wrong and if it was not true then she did something wrong cuz she's yelling at me right and so then I was was in this world where one of us had to do something wrong and the trick was oh all I have to actually do is just see that this is actually what's important to her that this is the way she sees the world and that's not wrong or right it's just that truth that's hers and so when I learned that it like it changed everything and then we both learned it and it just changed everything in our relationship because all of a sudden it wasn't a about trying to figure out like we weren't adjudicating life anymore there we used to have this phrase and it was like hey let's not go into the courtroom like courtroom was like to figure out who like who had done what and what the truth was it's like no there's just like this is the way you see reality this is the way I see reality and how do we want to see reality together how how do we want to be together even if you continue to see it this way and I continue to see it that way right and so there was things in our relationship that we would just agree oh this is the way I see it this is the way you see it but what we never did was we never said and because we see it that way then you have to be this way or I have to be that way because it was really important what we never really wanted to do was to compromise in that way where we had to be something besides ourselves to be loved by one another if you're looking for like what the truth is instead of trying to understand the other person's truth and what their reality is then you miss each other there's no connection there nobody has ever said once I find the truth of this relationship then the relationship will be happy that's not how it works but everybody says I would love to be seen I would love to be understood I would love to be connected with as I am and so finding the truth doesn't help the relationship finding the other person's truth understanding it it doesn't mean you compromise yourself it doesn't mean that you change your actions it's just saying I understand you I get how that's the case and then they can immediately do the same for you if they want to and what I notice is that when two people are in a fight this is such a critical thing two people in a fight what both want is to be seen both of them want to feel seen and what they're usually doing is they're just throwing shame at each other they're like you're wrong you're wrong you're wrong you're wrong you're wrong you're wrong and what they're saying is I want to be seen I want to be seen I want to be seen if you want to end a fight just sit down and see their truth connect with where they're at to do that you can't take the blame and the way you do that is to say this is their story I'm I'm here to understand them I'm not here to see if I'm wrong or if they're wrong if I'm bad they're bad the truth and how we're going to adjudicate the truth it's just I want to see them and fully understand where they're at that's the first step and as soon as someone feels seen almost almost immediately they want to see the other person and so the fight just almost instantaneously resolves

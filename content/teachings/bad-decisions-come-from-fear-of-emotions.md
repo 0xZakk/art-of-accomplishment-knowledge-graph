@@ -1,0 +1,35 @@
+---
+title: "Bad decisions come from fear of emotional consequences"
+source: "[[sources/great-decisions-course-trailer|Great Decisions Course | Official Trailer]]"
+related:
+  - "[[teachings/fear-limits-optionality|Fear limits optionality]]"
+  - "[[teachings/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]]"
+tags:
+  - decisions
+  - fear
+  - emotions
+  - shame
+  - rejection
+---
+
+All bad decisions trace back to the fear of emotional consequences — specifically, not wanting to feel rejected, ashamed, or helpless. We avoid the option that might bring these feelings, even when it's the right choice. The avoidance narrows our options and distorts our judgment.
+
+The flip side is equally clear: when we stop being afraid of our emotions, we become clear and make great decisions naturally. Decision-making quality isn't about gathering more information or thinking harder — it's about emotional courage. The willingness to feel any emotion that might arise from a decision is what frees us to choose wisely.
+
+> "All our bad decisions come from our fear of emotional consequences. We don't want to feel rejected, we don't want to be ashamed, and we don't want to experience helplessness."
+
+> "When we stop being afraid of our emotions, we become clear, we make great decisions, and we thrive."
+
+## Related Concepts
+
+- [[teachings/fear-limits-optionality|Fear limits optionality]]
+- [[teachings/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]]
+- [[teachings/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]
+- [[teachings/indecision-means-unfelt-emotions|Indecision signals unfelt emotions about consequences]]
+- [[teachings/decisions-reveal-emotional-avoidance|Every decision is an attempt to avoid an emotion]]
+- [[teachings/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots in life]]
+- [[teachings/fear-of-consequences-is-fear-of-emotional-states|Fear of consequences is really fear of emotional states]]
+
+## Source
+
+- [[sources/great-decisions-course-trailer|Great Decisions Course | Official Trailer]]

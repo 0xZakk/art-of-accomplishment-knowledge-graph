@@ -1,0 +1,31 @@
+---
+title: "Energy management matters more than time management"
+source: "[[sources/the-burnout-cycle|The Burnout Cycle]]"
+related:
+  - "[[teachings/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]]"
+  - "[[teachings/busyness-is-not-productivity|Busyness is not productivity]]"
+tags:
+  - burnout
+  - productivity
+  - energy
+  - leadership
+---
+
+Joe argues that the obsession with time management misses the deeper issue: energy management. You can spend far more time working if you're managing your energy well, because energizing work doesn't deplete you the way adrenaline-driven work does.
+
+The practical approach: identify what drains your energy and find ways to do those same tasks in ways that feed you. In a CEO workshop, Joe asked each person to name their most energy-draining task, and the group brainstormed alternatives. Every single CEO found at least twenty ways to accomplish the same goal while enjoying it. The breakthrough was seeing "I'm doing it in a way that takes my energy — I could be doing it in a way that gives me energy."
+
+> "I think there's a huge amount of time and energy put towards time management but I think energy management is critical and you can spend a lot more time if you're really managing your energy well."
+
+This extends beyond individuals. If a CEO pushes through, the company culture pushes through. If a CEO models finding enjoyment in every task, that becomes the company culture — and the question becomes "how do you get these same results but enjoy it twice as much?"
+
+## Related Concepts
+
+- [[teachings/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]]
+- [[teachings/busyness-is-not-productivity|Busyness is not productivity]]
+- [[teachings/enjoyment-is-more-efficient-than-pushing-through|Finding enjoyment in work is more efficient than pushing through]]
+- [[teachings/enjoyment-is-the-true-measure-of-efficiency|Enjoyment is the true measure of efficiency]]
+
+## Source
+
+- [[sources/the-burnout-cycle|The Burnout Cycle]]

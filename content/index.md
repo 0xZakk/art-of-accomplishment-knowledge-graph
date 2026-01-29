@@ -30,8 +30,8 @@ The most curated entry point. Each topic page offers a comprehensive summary of 
 
 ### Browse by Content Type
 
-- [[reference-notes/index|Reference Notes]] — One note per video with embedded player, summary, key concepts, and full transcript. There are nearly 300 of these, covering Joe's entire publicly available catalog.
-- [[literature-notes/index|Literature Notes]] — Over 1,200 atomic concept notes, each capturing a single idea from Joe's teachings. These are heavily cross-linked, so following one idea naturally leads to related ones.
+- [[sources/index|Sources]] — One note per video with embedded player, summary, key concepts, and full transcript. There are nearly 300 of these, covering Joe's entire publicly available catalog.
+- [[teachings/index|Teachings]] — Over 1,200 atomic concept notes, each capturing a single idea from Joe's teachings. These are heavily cross-linked, so following one idea naturally leads to related ones.
 
 ### Explore the Knowledge Graph
 

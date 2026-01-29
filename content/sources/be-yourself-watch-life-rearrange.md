@@ -1,0 +1,42 @@
+---
+title: "Be yourself and watch your life rearrange"
+source: https://www.youtube.com/watch?v=yoAxUxvA2LE
+videoId: "yoAxUxvA2LE"
+category: "Short Lesson"
+type: teaching
+duration: "10:25"
+topics:
+  - authenticity
+  - regret
+  - self-acceptance
+  - living-without-regret
+date: 2026-01-27
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yoAxUxvA2LE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Summary
+
+A dying woman's final words: "All my life I felt like there was something wrong with me. What a waste." This story illustrates the tragedy of living inauthentically—contorting ourselves to get what we want instead of being who we are.
+
+Regret happens when we twist ourselves to achieve outcomes. The antidote is being "100% true to yourself" regardless of results. When you're proud of how you behaved, regret dissolves.
+
+The deeper truth: By being yourself, you design a life of people who like YOU (not your mask), who support YOU, who believe in YOU. This creates genuine happiness rather than hollow victories.
+
+## Key Concepts
+
+- [[teachings/regret-from-inauthenticity|Regret comes from being inauthentic]]
+- [[teachings/being-yourself-attracts-right-people|Being yourself attracts the right people]]
+
+## Key Quotes
+
+> "All my life I felt like there was something wrong with me. What a waste."
+
+> "If we are ourselves, then the things that say yes to us are the things that are saying yes to us, not the contorted version of ourselves."
+
+> "There is a whole world designed for you waiting for you to be you."
+
+## Transcript
+
+I remember this story shook me to my core when I heard it. My friend and she was about 40 45 years old and her mom was dying and she was in the hospital sitting by her bedside and she was pretty much out of it close to comeosse. And right before she died, she woke up and she said, "All my life I felt like there was something wrong with me. What a waste." And those were her final words. And when I heard that, I had two realizations. First was, yeah, that that is a waste. And the second thing was, oh, I don't want to be in that position. I don't want to be on my deathbed and thinking, oh, what a waste. And so, it's this very human thing. And then the question is, well, what is it that makes it that we can live a life we don't regret? And in this woman's words, in this woman's words is there, I always thought there was something wrong with me. And that's the clue. So that's what we're going to go into in this video. So the best way we can start is to look at how regret actually works. So you have a conversation and you walk away regretting the conversation. Typically what that means is that you wanted an outcome of the conversation and you didn't get it or you're not sure if you got it. You're never going to always get the result that you want, which means there's always going to be a moment of regret unless you can find a way to act that you think, "Oh, I have no regrets despite what happened. I have no regrets despite getting what I want or not getting what I want." And so that's the first question. So think about it for a moment. Think about a moment where you regretted what you did. And then you almost always there will be an outcome there that you didn't want. So now I want you to think, what is it that you could have done that would have made you have no regret in that interaction and still gotten the same results? You still didn't get the people to like you. You still didn't get the job. You still didn't get the money. But you think to yourself, I have no regrets. And usually that boggles the mind. The mind goes, but no, that's not what I can't. Huh? So let me give you a little hint. Imagine that situation and you were 100% true to yourself. You were 100% upright in yourself. You were self-possessed. So that before you found out what the result was, you felt proud of the way that you behaved. So if you really allow yourself to feel that like, oh, I just walked in that situation. I am proud of the way that I behaved. How much does it matter that you got the result that you wanted as far as regret goes? You still might want the result, but how much regret do you feel if you are proud of how you behaved? Right? So, typically what we're doing in those situations is we're thinking this is the result I want. How do I get it? And we contort ourselves into doing or saying the thing that we think will get us what we want and then we don't get it and then we feel regret. But if we don't contort ourselves, if we say, "No, this is how I'm proud of being and I'm going to be this way." We don't feel that regret. And and the there's a great reason for that. And the great reason is that if we are ourselves, then the things that say yes to us are the things that are saying yes to us, not the contorted version of ourselves. The people who give us money for our job. the people who like us are the people who like us for us who we're proud of, not like us for the contorted sense of self that we did to try to please them. And so we actually design a life by being ourselves. We design a life of people who like us for us, who people who want to support us for us, of people who believe in us for who we are. And that's a life that is appealing, that feels good. And if we do that, then not only are you not living in regret because you're being yourself, but you're also designing a life that's going to lead to a lot of happiness. So what does that mean? It means that if you are regretting a conversation, you are very likely going to regret the day. If you regret the day, you're very likely going to regret the year. If you regret the year, you're very likely going to regret your life. So, if you're living days of regret, even though you might not want to face it, you're most likely going to have a lifetime of regret. And the good news that this means is that if you actually die and you don't have regrets, it means that you're going to be living your days without regret either. And that becomes a really simple equation when you bring it back down to, oh, all I need to do is act in a way that makes me proud. But let's make sure that this is true for you, right? Don't trust my word for it. I want you to actually do an experiment to prove it to yourself. So here's what you do. Every day for the next week, you think about one thing that you regret. And every day you think to yourself, how is it that I could have been in that situation that would have made me not regret it? No matter the outcome, no matter if I got a yes or a no or a rejection or acceptance, I just was 100% something that I'm proud of. And so there could be no regret. And then learn from that. And the next day you're in a situation where you're worried about something going right or wrong. and just be yourself. Be somebody that you're proud of in that moment. And then every day you're learning. Every day you're iterating so that you become more and more in alignment. And just do that for a week. So seven days of iteration, seven days of experimentation of being more and more truly yourself. And notice how much regret you're feeling at the end of that week. One week. One week experiment of seeing what it is to be yourself. And you're going to have all sorts of fears. Oh, I can't be myself here because I might have somebody upset at me or I I I can't be myself because I'm going to feel too vulnerable or I can't be myself because and you're going to have this long litany of things. But those are the things that you're going to regret. Those are the things that you're going to say, "Oh, I wasn't myself because I was scared of some result." But what you're actually scared of is the result and being yourself. So, let's go back to that original story that I was telling you about where the woman was dying and she said, "All my life I felt like there was something wrong with me. What a waste." What she was saying there was that all my life I wasn't being myself because I me. And because of that, I had a life that wasn't designed for me. And that was a waste. I wasted my life. So if you just be yourself, you'll realize there's nothing wrong with you. You'll realize that there is a whole world designed whole world designed for you waiting for you to be you.
