@@ -57,7 +57,7 @@ Joe's approach to purpose dismantles our entire relationship to seeking and find
 - [[sources/myth-of-finding-your-purpose|The Myth Of Finding Your Purpose]]
 - [[sources/cost-of-ignoring-your-calling|The Cost of Ignoring What You're Called to Do]]
 - [[sources/creative-block-unravelled|15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe)]]
-- [[sources/i-should-be-more-productive|\]]
+- [[sources/i-should-be-more-productive|"I Should Be More Productive" Is Killing You]]
 - [[sources/self-discovery-navy-seal|The Self-Discovery Of A Navy SEAL]]
 - [[sources/what-do-i-offer-the-world|What Do I Offer The World?]]
 - [[sources/why-always-trying-to-fix|Why Am I Always Trying To Fix Myself & Others? (Coaching Session With Joe Hudson)]]

@@ -63,7 +63,7 @@ Joe's teaching on presence is ultimately an invitation to stop searching for wha
 - [[sources/afraid-wont-get-anything-done|I'm Afraid I Won't Get Anything Done]]
 - [[sources/am-i-a-fake|Am I A Fake?]]
 - [[sources/be-yourself-watch-life-rearrange|Be yourself and watch your life rearrange]]
-- [[sources/belonging-is-the-wrong-question|\]]
+- [[sources/belonging-is-the-wrong-question|"I Don't Belong Here" - Belonging Is The Wrong Question]]
 - [[sources/care-over-caretaking|Care Over Caretaking | Loving Without Losing Yourself]]
 - [[sources/charisma-isnt-learned|Charisma isn't learned (Dr. K, Charisma on Command & Joe)]]
 - [[sources/coaching-as-a-practice|Coaching As A Practice]]
