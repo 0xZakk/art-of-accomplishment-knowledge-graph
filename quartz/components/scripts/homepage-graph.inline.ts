@@ -3,7 +3,6 @@ document.addEventListener("nav", () => {
   if (!placeholder) return
 
   // Find the graph in afterBody (not in the sidebar)
-  const afterBody = document.querySelector(".page-footer")?.previousElementSibling
   const graphs = document.querySelectorAll(".graph")
   
   for (const graph of graphs) {
@@ -15,6 +14,11 @@ document.addEventListener("nav", () => {
       if (graphOuter) {
         graphOuter.style.height = "500px"
       }
+      // Trigger re-render after moving by dispatching themechange
+      // The graph script listens for this and will re-render
+      setTimeout(() => {
+        document.dispatchEvent(new CustomEvent("themechange"))
+      }, 100)
       break
     }
   }
