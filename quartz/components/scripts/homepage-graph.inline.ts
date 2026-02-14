@@ -14,10 +14,15 @@ document.addEventListener("nav", () => {
       if (graphOuter) {
         graphOuter.style.height = "500px"
       }
+      const graphContainer = graph.querySelector(".graph-container") as HTMLElement
+      if (graphContainer) {
+        graphContainer.style.width = "100%"
+        graphContainer.style.height = "100%"
+      }
       // Trigger re-render after moving by dispatching themechange
       // The graph script listens for this and will re-render
       setTimeout(() => {
-        document.dispatchEvent(new CustomEvent("themechange"))
+        document.dispatchEvent(new CustomEvent("themechange", { detail: {} }))
       }, 100)
       break
     }

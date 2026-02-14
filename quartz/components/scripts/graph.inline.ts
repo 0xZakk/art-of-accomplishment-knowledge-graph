@@ -161,8 +161,16 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       })),
   }
 
-  const width = graph.offsetWidth
-  const height = Math.max(graph.offsetHeight, 250)
+  const getGraphSize = () => {
+    const parentWidth = graph.parentElement?.clientWidth ?? 0
+    const parentHeight = graph.parentElement?.clientHeight ?? 0
+    return {
+      width: Math.max(graph.offsetWidth, parentWidth, 250),
+      height: Math.max(graph.offsetHeight, parentHeight, 250),
+    }
+  }
+
+  let { width, height } = getGraphSize()
 
   // we virtualize the simulation and use pixi to actually render it
   const simulation: Simulation<NodeData, LinkData> = forceSimulation<NodeData>(graphData.nodes)
@@ -362,6 +370,26 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     eventMode: "static",
   })
   graph.appendChild(app.canvas)
+  app.canvas.style.width = "100%"
+  app.canvas.style.height = "100%"
+
+  const resizeGraph = () => {
+    const nextSize = getGraphSize()
+    if (nextSize.width === width && nextSize.height === height) return
+    width = nextSize.width
+    height = nextSize.height
+    app.renderer.resize(width, height)
+    app.canvas.style.width = "100%"
+    app.canvas.style.height = "100%"
+  }
+
+  const resizeObserver = new ResizeObserver(() => {
+    resizeGraph()
+  })
+  resizeObserver.observe(graph)
+  if (graph.parentElement) {
+    resizeObserver.observe(graph.parentElement)
+  }
 
   const stage = app.stage
   stage.interactive = false
@@ -551,6 +579,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   requestAnimationFrame(animate)
   return () => {
+    resizeObserver.disconnect()
     stopAnimation = true
     app.destroy()
   }
