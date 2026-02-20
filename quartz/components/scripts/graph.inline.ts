@@ -31,6 +31,7 @@ type NodeData = {
   id: SimpleSlug
   text: string
   tags: string[]
+  bridgeCount: number
 } & SimulationNodeDatum
 
 type SimpleLinkData = {
@@ -68,6 +69,15 @@ type TweenNode = {
   stop: () => void
 }
 
+type ContentType = "teachings" | "sources" | "topics" | "other"
+
+function getContentType(slug: SimpleSlug): ContentType {
+  if (slug.startsWith("teachings/")) return "teachings"
+  if (slug.startsWith("sources/")) return "sources"
+  if (slug.startsWith("topics/")) return "topics"
+  return "other"
+}
+
 async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const slug = simplifySlug(fullSlug)
   const visited = getVisited()
@@ -85,9 +95,20 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     opacityScale,
     removeTags,
     showTags,
+    visibleContentTypes,
+    selectedTags,
+    tagMatchMode,
+    hideUnrelatedPages,
+    showOnlySelectedTags,
     focusOnHover,
     enableRadial,
   } = JSON.parse(graph.dataset["cfg"]!) as D3Config
+
+  visibleContentTypes = visibleContentTypes ?? ["teachings", "sources", "topics", "other"]
+  selectedTags = selectedTags ?? []
+  tagMatchMode = tagMatchMode ?? "any"
+  hideUnrelatedPages = hideUnrelatedPages ?? false
+  showOnlySelectedTags = showOnlySelectedTags ?? false
 
   const data: Map<SimpleSlug, ContentDetails> = new Map(
     Object.entries<ContentDetails>(await fetchData).map(([k, v]) => [
@@ -97,21 +118,53 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   )
   const links: SimpleLinkData[] = []
   const tags: SimpleSlug[] = []
-  const validLinks = new Set(data.keys())
+  const selectedTagSet = new Set(selectedTags)
+  const allowedContentTypes = new Set(visibleContentTypes)
+  const includedPages = new Set<SimpleSlug>()
+  const bridgeCounts = new Map<SimpleSlug, number>()
+  const pageTagsBySlug = new Map<SimpleSlug, string[]>()
+  for (const [source, details] of data.entries()) {
+    const contentType = getContentType(source)
+    if (!allowedContentTypes.has(contentType)) continue
+
+    const localTags = details.tags.filter((tag) => !removeTags.includes(tag))
+    pageTagsBySlug.set(source, localTags)
+    const selectedTagMatches = localTags.filter((tag) => selectedTagSet.has(tag))
+    bridgeCounts.set(source, selectedTagMatches.length)
+
+    if (!hideUnrelatedPages || selectedTagSet.size === 0) {
+      includedPages.add(source)
+      continue
+    }
+
+    const matchesSelection =
+      tagMatchMode === "all"
+        ? selectedTags.every((tag) => localTags.includes(tag))
+        : selectedTags.some((tag) => localTags.includes(tag))
+
+    if (matchesSelection) {
+      includedPages.add(source)
+    }
+  }
+  const validLinks = includedPages
 
   const tweens = new Map<string, TweenNode>()
   for (const [source, details] of data.entries()) {
+    if (!includedPages.has(source)) continue
+
     const outgoing = details.links ?? []
 
     for (const dest of outgoing) {
-      if (validLinks.has(dest)) {
+      if (includedPages.has(dest)) {
         links.push({ source: source, target: dest })
       }
     }
 
     if (showTags) {
-      const localTags = details.tags
-        .filter((tag) => !removeTags.includes(tag))
+      const localTags = (pageTagsBySlug.get(source) ?? [])
+        .filter(
+          (tag) => !showOnlySelectedTags || selectedTagSet.size === 0 || selectedTagSet.has(tag),
+        )
         .map((tag) => simplifySlug(("tags/" + tag) as FullSlug))
 
       tags.push(...localTags.filter((tag) => !tags.includes(tag)))
@@ -149,6 +202,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       id: url,
       text,
       tags: data.get(url)?.tags ?? [],
+      bridgeCount: bridgeCounts.get(url) ?? 0,
     }
   })
   const graphData: { nodes: NodeData[]; links: LinkData[] } = {
@@ -204,8 +258,14 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   // calculate color
   const color = (d: NodeData) => {
     const isCurrent = d.id === slug
+    const isTagNode = d.id.startsWith("tags/")
+    const isBridgeNode = d.bridgeCount >= 2
     if (isCurrent) {
       return computedStyleMap["--secondary"]
+    } else if (isTagNode && selectedTagSet.has(d.id.substring(5))) {
+      return computedStyleMap["--secondary"]
+    } else if (isBridgeNode) {
+      return computedStyleMap["--darkgray"]
     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
       return computedStyleMap["--tertiary"]
     } else {
@@ -419,6 +479,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
     let oldLabelOpacity = 0
     const isTagNode = nodeId.startsWith("tags/")
+    const isSelectedTag = isTagNode && selectedTagSet.has(nodeId.substring(5))
+    const nodeFill = isTagNode ? (isSelectedTag ? color(n) : computedStyleMap["--light"]) : color(n)
     const gfx = new Graphics({
       interactive: true,
       label: nodeId,
@@ -427,7 +489,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       cursor: "pointer",
     })
       .circle(0, 0, nodeRadius(n))
-      .fill({ color: isTagNode ? computedStyleMap["--light"] : color(n) })
+      .fill({ color: nodeFill })
       .on("pointerover", (e) => {
         updateHoverInfo(e.target.label)
         oldLabelOpacity = label.alpha
@@ -444,7 +506,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       })
 
     if (isTagNode) {
-      gfx.stroke({ width: 2, color: computedStyleMap["--tertiary"] })
+      gfx.stroke({
+        width: isSelectedTag ? 3 : 2,
+        color: isSelectedTag ? computedStyleMap["--secondary"] : computedStyleMap["--tertiary"],
+      })
     }
 
     nodesContainer.addChild(gfx)

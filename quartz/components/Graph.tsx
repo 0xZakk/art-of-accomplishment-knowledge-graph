@@ -17,6 +17,11 @@ export interface D3Config {
   opacityScale: number
   removeTags: string[]
   showTags: boolean
+  visibleContentTypes: string[]
+  selectedTags: string[]
+  tagMatchMode: "any" | "all"
+  hideUnrelatedPages: boolean
+  showOnlySelectedTags: boolean
   focusOnHover?: boolean
   enableRadial?: boolean
 }
@@ -39,6 +44,11 @@ const defaultOptions: GraphOptions = {
     opacityScale: 1,
     showTags: true,
     removeTags: [],
+    visibleContentTypes: ["teachings", "sources", "topics", "other"],
+    selectedTags: [],
+    tagMatchMode: "any",
+    hideUnrelatedPages: false,
+    showOnlySelectedTags: false,
     focusOnHover: false,
     enableRadial: false,
   },
@@ -54,6 +64,11 @@ const defaultOptions: GraphOptions = {
     opacityScale: 1,
     showTags: true,
     removeTags: [],
+    visibleContentTypes: ["teachings", "sources", "topics", "other"],
+    selectedTags: [],
+    tagMatchMode: "any",
+    hideUnrelatedPages: false,
+    showOnlySelectedTags: false,
     focusOnHover: true,
     enableRadial: true,
   },

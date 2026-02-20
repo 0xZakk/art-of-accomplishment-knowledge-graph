@@ -42,6 +42,10 @@ export const sharedPageComponents: SharedLayout = {
           linkDistance: 60,
           fontSize: 0.5,
           opacityScale: 1,
+          showTags: false,
+          showOnlySelectedTags: true,
+          hideUnrelatedPages: true,
+          visibleContentTypes: ["teachings"],
           focusOnHover: true,
           enableRadial: true,
         },
@@ -50,6 +54,7 @@ export const sharedPageComponents: SharedLayout = {
           centerForce: 0.1,
           linkDistance: 60,
           fontSize: 0.5,
+          visibleContentTypes: ["teachings"],
           focusOnHover: true,
           enableRadial: true,
         },
@@ -147,7 +152,12 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Navbar(), Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Navbar(),
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
