@@ -1,7 +1,7 @@
 @use "./base.scss";
 
 // ============================================
-// Art of Accomplishment — Design System
+// Art of Accomplishment - Design System
 // ============================================
 
 // ---------- Typography ----------
@@ -260,6 +260,104 @@ ol.overflow {
     .search, .darkmode, .reader-mode, .explorer {
       opacity: 1;
     }
+  }
+}
+
+// ---------- Home page: no sidebars, centered content ----------
+body[data-slug="index"] {
+  .page > #quartz-body {
+    grid-template-columns: auto !important;
+    grid-template-rows: auto auto auto !important;
+    grid-template-areas:
+      "grid-header"
+      "grid-center"
+      "grid-footer" !important;
+    max-width: 750px;
+    margin: 0 auto;
+  }
+
+  .sidebar.left {
+    display: none !important;
+  }
+
+  .sidebar.right {
+    display: none !important;
+  }
+}
+
+// ---------- Explore page: full-page graph ----------
+body[data-slug="explore"] {
+  .page {
+    max-width: 100% !important;
+  }
+
+  .page > #quartz-body {
+    grid-template-columns: 1fr !important;
+    grid-template-rows: 1fr auto !important;
+    grid-template-areas:
+      "grid-content"
+      "grid-footer" !important;
+    height: calc(100vh - 2rem);
+    padding: 0 1.5rem !important;
+  }
+
+  .center {
+    grid-area: grid-content !important;
+  }
+
+  .sidebar.left,
+  .sidebar.right {
+    display: none !important;
+  }
+
+  // Hide article content (empty anyway)
+  .center > article {
+    display: none;
+  }
+
+  // Make the graph fill available space
+  .page-footer {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+  }
+
+  .page-footer .graph {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+
+    & > h3 {
+      display: none;
+    }
+
+    & > .graph-outer {
+      flex: 1;
+      height: auto !important;
+      min-height: 0;
+      margin: 0;
+
+      & > .global-graph-icon {
+        display: none;
+      }
+    }
+  }
+
+  .center {
+    display: flex !important;
+    flex-direction: column;
+    min-height: 0;
+    height: 100%;
+
+    & > hr {
+      display: none;
+    }
+  }
+
+  footer {
+    flex-shrink: 0;
   }
 }
 
