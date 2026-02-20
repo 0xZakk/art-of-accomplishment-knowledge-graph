@@ -12,6 +12,7 @@ import { BuildCtx } from "../../util/ctx"
 import { QuartzPluginData } from "../vfile"
 import fs from "node:fs/promises"
 import { styleText } from "util"
+import path from "node:path"
 
 const defaultOptions: SocialImageOptions = {
   colorScheme: "lightMode",
@@ -100,6 +101,16 @@ async function processOgImage(
   })
 }
 
+async function ogImageExists(ctx: BuildCtx, slug: FullSlug): Promise<boolean> {
+  const outputPath = path.join(ctx.argv.output, `${slug}-og-image.webp`)
+  try {
+    await fs.access(outputPath)
+    return true
+  } catch {
+    return false
+  }
+}
+
 export const CustomOgImagesEmitterName = "CustomOgImages"
 export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = (userOpts) => {
   const fullOptions = { ...defaultOptions, ...userOpts }
@@ -131,6 +142,7 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
         if (!changeEvent.file) continue
         if (changeEvent.file.data.frontmatter?.socialImage !== undefined) continue
         if (changeEvent.type === "add" || changeEvent.type === "change") {
+          if (await ogImageExists(ctx, changeEvent.file.data.slug!)) continue
           yield processOgImage(ctx, changeEvent.file.data, fonts, fullOptions)
         }
       }
