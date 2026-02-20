@@ -92,6 +92,7 @@ const config: QuartzConfig = {
       Plugin.CustomOgImages({
         colorScheme: "darkMode",
         imageStructure: aoaOgImage,
+        disableDuringServe: true,
       }),
     ],
   },

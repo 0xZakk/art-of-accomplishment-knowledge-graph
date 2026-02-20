@@ -289,6 +289,22 @@ ol.overflow {
   }
 }
 
+@media all and (max-width: 800px) {
+  .sidebar.left {
+    .page-title,
+    .search,
+    .darkmode {
+      display: none !important;
+    }
+  }
+
+  body[data-slug^="sources"] .sidebar.left,
+  body[data-slug^="teachings"] .sidebar.left,
+  body[data-slug^="topics"] .sidebar.left {
+    display: none !important;
+  }
+}
+
 // ---------- Home page: no sidebars, centered content ----------
 body[data-slug="index"] {
   .page > #quartz-body {
@@ -319,6 +335,10 @@ body[data-slug="explore"] {
 
   .page {
     max-width: 100% !important;
+  }
+
+  .explore-mobile-unavailable {
+    display: none;
   }
 
   .page > #quartz-body {
@@ -501,6 +521,47 @@ body[data-slug="explore"] {
   }
 
   @media all and (max-width: 800px) {
+    .explore-mobile-unavailable {
+      position: fixed;
+      inset: 0;
+      z-index: 2100;
+      background: color-mix(in srgb, var(--light) 96%, black 4%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 1.2rem;
+    }
+
+    .explore-mobile-unavailable-card {
+      border: 1px solid var(--lightgray);
+      border-radius: 10px;
+      background: var(--light);
+      width: 100%;
+      max-width: 420px;
+      padding: 1rem;
+      text-align: center;
+
+      h2 {
+        margin-top: 0;
+        margin-bottom: 0.5rem;
+        font-size: 1.2rem;
+      }
+
+      p {
+        margin: 0 0 1rem 0;
+        font-size: 0.92rem;
+        line-height: 1.45;
+      }
+
+      a {
+        display: inline-block;
+        border: 1px solid var(--secondary);
+        border-radius: 6px;
+        color: var(--secondary);
+        padding: 0.38rem 0.7rem;
+      }
+    }
+
     .page-footer.explore-workspace {
       grid-template-columns: 1fr;
       grid-template-rows: auto minmax(220px, 1fr);

@@ -14,12 +14,18 @@ import fs from "node:fs/promises"
 import { styleText } from "util"
 import path from "node:path"
 
-const defaultOptions: SocialImageOptions = {
+type OgEmitterOptions = SocialImageOptions & {
+  // Disable per-page OG generation when running in --serve mode.
+  disableDuringServe: boolean
+}
+
+const defaultOptions: OgEmitterOptions = {
   colorScheme: "lightMode",
   width: 1200,
   height: 630,
   imageStructure: defaultImage,
   excludeRoot: false,
+  disableDuringServe: false,
 }
 
 /**
@@ -112,7 +118,7 @@ async function ogImageExists(ctx: BuildCtx, slug: FullSlug): Promise<boolean> {
 }
 
 export const CustomOgImagesEmitterName = "CustomOgImages"
-export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = (userOpts) => {
+export const CustomOgImages: QuartzEmitterPlugin<Partial<OgEmitterOptions>> = (userOpts) => {
   const fullOptions = { ...defaultOptions, ...userOpts }
 
   return {
@@ -121,6 +127,8 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
       return []
     },
     async *emit(ctx, content, _resources) {
+      if (fullOptions.disableDuringServe && ctx.argv.serve) return
+
       const cfg = ctx.cfg.configuration
       const headerFont = cfg.theme.typography.header
       const bodyFont = cfg.theme.typography.body
@@ -132,6 +140,8 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
       }
     },
     async *partialEmit(ctx, _content, _resources, changeEvents) {
+      if (fullOptions.disableDuringServe && ctx.argv.serve) return
+
       const cfg = ctx.cfg.configuration
       const headerFont = cfg.theme.typography.header
       const bodyFont = cfg.theme.typography.body
@@ -154,6 +164,7 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
       }
 
       const baseUrl = ctx.cfg.configuration.baseUrl
+      const useGeneratedImages = !(fullOptions.disableDuringServe && ctx.argv.serve)
       return {
         additionalHead: [
           (pageData) => {
@@ -166,9 +177,10 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
                 : `https://${baseUrl}/static/${userDefinedOgImagePath}`
             }
 
-            const generatedOgImagePath = isRealFile
-              ? `https://${baseUrl}/${pageData.slug!}-og-image.webp`
-              : undefined
+            const generatedOgImagePath =
+              useGeneratedImages && isRealFile
+                ? `https://${baseUrl}/${pageData.slug!}-og-image.webp`
+                : undefined
             const defaultOgImagePath = `https://${baseUrl}/static/og-image.png`
             const ogImagePath = userDefinedOgImagePath ?? generatedOgImagePath ?? defaultOgImagePath
             const ogImageMimeType = `image/${getFileExtension(ogImagePath) ?? "png"}`

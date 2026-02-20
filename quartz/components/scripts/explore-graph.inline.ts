@@ -11,6 +11,27 @@ type GraphControlState = {
 }
 
 const TEACHINGS_ONLY_TYPES = ["teachings"]
+const MOBILE_BREAKPOINT_QUERY = "(max-width: 800px)"
+
+function showExploreMobileUnavailable() {
+  if (document.getElementById("explore-mobile-unavailable")) return
+
+  const center = document.querySelector("#quartz-body .center") as HTMLElement | null
+  if (!center) return
+
+  const blocker = document.createElement("section")
+  blocker.id = "explore-mobile-unavailable"
+  blocker.className = "explore-mobile-unavailable"
+  blocker.innerHTML = `
+    <div class="explore-mobile-unavailable-card">
+      <h2>Explore Is Desktop-Only For Now</h2>
+      <p>The interactive graph is not currently available on mobile screens.</p>
+      <a href="/">Go Home</a>
+    </div>
+  `
+
+  center.appendChild(blocker)
+}
 
 function findPrimaryGraph(): HTMLElement | null {
   const graphs = document.querySelectorAll(".graph")
@@ -147,6 +168,11 @@ function buildBaseState(graphContainer: HTMLElement): GraphControlState {
 async function setupExploreControls() {
   const bodySlug = document.body.dataset["slug"]
   if (bodySlug !== "explore") return
+
+  if (window.matchMedia(MOBILE_BREAKPOINT_QUERY).matches) {
+    showExploreMobileUnavailable()
+    return
+  }
 
   const graph = findPrimaryGraph()
   if (!graph) return
