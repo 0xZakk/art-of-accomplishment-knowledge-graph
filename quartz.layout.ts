@@ -42,7 +42,7 @@ export const sharedPageComponents: SharedLayout = {
           linkDistance: 60,
           fontSize: 0.5,
           opacityScale: 1,
-          showTags: false,
+          showTags: true,
           showOnlySelectedTags: true,
           hideUnrelatedPages: true,
           visibleContentTypes: ["teachings"],

@@ -296,7 +296,7 @@ async function setupExploreControls() {
 
   const resetListener = () => {
     state = {
-      showTags: false,
+      showTags: true,
       showOnlySelectedTags: true,
       hideUnrelatedPages: true,
       tagMatchMode: "any",
