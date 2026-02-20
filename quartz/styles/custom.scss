@@ -313,6 +313,10 @@ body[data-slug="index"] {
 
 // ---------- Explore page: full-page graph ----------
 body[data-slug="explore"] {
+  .site-navbar {
+    margin: 0 auto 1rem auto;
+  }
+
   .page {
     max-width: 100% !important;
   }

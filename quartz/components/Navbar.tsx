@@ -5,7 +5,9 @@ const Navbar: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
   return (
     <nav class={classNames(displayClass, "site-navbar")}>
       <div class="navbar-left">
-        <a href="/" class="navbar-home">Home</a>
+        <a href="/" class="navbar-home">
+          Home
+        </a>
       </div>
       <div class="navbar-right">
         <a href="/sources/">Sources</a>
@@ -22,8 +24,9 @@ Navbar.css = `
   display: flex;
   justify-content: space-between;
   align-items: center;
+  width: min(100%, 750px);
   padding: 0.75rem 0;
-  margin-bottom: 1rem;
+  margin: 0 0 1rem 0;
   border-bottom: 1px solid var(--lightgray);
   font-size: 0.9rem;
   font-weight: 500;

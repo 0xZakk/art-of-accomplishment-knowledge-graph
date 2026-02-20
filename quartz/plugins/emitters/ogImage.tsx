@@ -137,11 +137,12 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
       const bodyFont = cfg.theme.typography.body
       const fonts = await getSatoriFonts(headerFont, bodyFont)
 
-      // find all slugs that changed or were added
+      // In incremental/watch mode, only generate OG images for newly added pages.
+      // Existing pages are handled by full builds.
       for (const changeEvent of changeEvents) {
         if (!changeEvent.file) continue
         if (changeEvent.file.data.frontmatter?.socialImage !== undefined) continue
-        if (changeEvent.type === "add" || changeEvent.type === "change") {
+        if (changeEvent.type === "add") {
           if (await ogImageExists(ctx, changeEvent.file.data.slug!)) continue
           yield processOgImage(ctx, changeEvent.file.data, fonts, fullOptions)
         }
