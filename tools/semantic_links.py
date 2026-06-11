@@ -24,7 +24,7 @@ import sys
 import numpy as np
 from pathlib import Path
 
-CONTENT_DIR = Path(__file__).parent.parent / "content" / "literature-notes"
+CONTENT_DIR = Path(__file__).parent.parent / "content" / "teachings"
 DATA_DIR = Path(__file__).parent.parent / "tools" / "data"
 EMBEDDINGS_FILE = DATA_DIR / "embeddings.npz"
 METADATA_FILE = DATA_DIR / "metadata.json"
@@ -221,7 +221,7 @@ def cmd_apply(threshold=0.75, top_n=5, dry_run=True):
         # Check which links already exist
         new_matches = []
         for m in matches:
-            link_pattern = f"literature-notes/{m['slug']}"
+            link_pattern = f"teachings/{m['slug']}"
             if link_pattern not in content:
                 new_matches.append(m)
 
@@ -238,7 +238,7 @@ def cmd_apply(threshold=0.75, top_n=5, dry_run=True):
             # Build new links
             new_links = []
             for m in new_matches:
-                new_links.append(f"- [[literature-notes/{m['slug']}|{m['title']}]]")
+                new_links.append(f"- [[teachings/{m['slug']}|{m['title']}]]")
 
             # Find Related Concepts section and append, or create it
             if "## Related Concepts" in content:

@@ -16,3 +16,7 @@ update_reference_note.py
 
 .env*
 audio/
+
+# Python virtualenv + local Claude settings
+.venv/
+.claude/settings.local.json
