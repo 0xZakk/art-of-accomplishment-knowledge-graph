@@ -28,6 +28,10 @@ The release doesn't mean abandoning practical care. You can plan reasonable inte
 - [[teachings/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
 - [[teachings/composure-is-self-imprisonment|Composure is self-imprisonment]]
 - [[teachings/chronic-pain-and-emotional-suppression|Chronic pain deepens when emotional expression is suppressed]]
+- [[teachings/allowing-the-victim-creates-empowerment|Fully allowing the victim experience naturally creates empowerment]]
+- [[teachings/fixing-avoids-being-present|Compulsive fixing avoids being present]]
+- [[teachings/letting-go-comes-from-seeing-the-pain-of-holding-on|Letting go comes from seeing the pain of holding on]]
+- [[teachings/softening-not-solving-breaks-the-loop|Softening, not solving, breaks self-imposed loops]]
 
 ## Source
 

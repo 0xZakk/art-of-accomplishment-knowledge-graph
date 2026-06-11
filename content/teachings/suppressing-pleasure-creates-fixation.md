@@ -26,6 +26,9 @@ Brett frames this as an intelligence in us that draws us toward what we won't al
 - [[teachings/avoidance-chain-from-essence-to-addiction|Avoidance chain from essence to addiction]]
 - [[teachings/repressed-anger-kinks-into-symptoms|Repressed anger kinks into symptoms]]
 - [[teachings/shame-addiction-creates-empty-fulfillment|Shame becomes addictive and creates empty fulfillment]]
+- [[teachings/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck in the patterns you regret]]
+- [[teachings/wanting-is-aliveness|Wanting is aliveness]]
+- [[teachings/embracing-intensity-curbs-addiction|Embracing intensity removes the need for addictive escape]]
 
 ## Source
 

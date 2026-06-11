@@ -30,6 +30,10 @@ This connects to Joe's broader teaching that fixed self-concepts are the ultimat
 - [[teachings/growth-means-shedding-identities|Growth means shedding identities]]
 - [[teachings/the-expansiveness-of-I-Am|The expansiveness of I Am]]
 - [[teachings/stress-addiction-reproduces-childhood|Stress addiction reproduces your childhood emotional environment]]
+- [[teachings/fear-reveals-where-identity-is-threatened|Fear reveals where our identity feels threatened]]
+- [[teachings/not-being-yourself-creates-constant-anxiety|Not being yourself creates a constant, everlasting anxiety]]
+- [[teachings/deep-community-dissolves-identity|Deep community is scary because it dissolves identity]]
+- [[teachings/self-concept-shapes-outer-reality|Self-concept shapes outer reality]]
 
 ## Source
 

@@ -31,6 +31,7 @@ The inverse is also true: if you don't feel helplessness, you're constantly chas
 - [[teachings/welcoming-helplessness-not-managing-it|The freedom is in wanting to feel helpless again]]
 - [[teachings/allowing-the-victim-creates-empowerment|Fully allowing the victim experience naturally creates empowerment]]
 - [[teachings/helplessness-is-the-emotion-being-avoided|The feeling being avoided underneath 'I've got this' is helplessness]]
+- [[teachings/control-patterns-reveal-hidden-helplessness|Your most controlling patterns reveal your hidden helplessness]]
 
 ## Source
 

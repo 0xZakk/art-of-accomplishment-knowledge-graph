@@ -27,6 +27,10 @@ Over time, even Joe's relationship to awakening dissolved from something profoun
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
 - [[teachings/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
 - [[teachings/every-epiphany-is-a-rut-waiting-to-happen|Every epiphany is a rut waiting to happen]]
+- [[teachings/awakening-is-not-a-finish-line|Awakening is not a finish line — evolution keeps going]]
+- [[teachings/awakening-is-not-the-end-of-the-journey|Awakening is not a conclusion, just part of the journey]]
+- [[teachings/making-awakening-a-goal-slows-it-down|Making awakening a goal slows the process down]]
+- [[teachings/peak-experience-becomes-goal-trap|Peak experiences become goal traps when co-opted by ego]]
 
 ## Source
 

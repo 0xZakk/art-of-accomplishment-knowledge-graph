@@ -47,6 +47,8 @@ That's the fear: if I let this rage out, I'll be destroyed. But what gets destro
 - [[teachings/rage-as-gateway-to-healing|Rage can be the gateway to healing]]
 - [[teachings/moving-emotions-dissolves-depression|Moving the emotion dissolves depression]]
 - [[teachings/express-anger-without-directing-it|You can express anger without directing it at anyone]]
+- [[teachings/emotional-abuse-is-using-emotions-to-control|Emotional abuse is using emotions to control someone]]
+- [[teachings/a-boundary-with-a-return-prevents-abandonment|Draw a boundary that includes coming back so they don't feel abandoned]]
 
 ## Source
 

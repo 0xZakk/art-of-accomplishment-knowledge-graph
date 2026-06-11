@@ -24,6 +24,8 @@ This distinction also explains why vulnerability is imprinted as dangerous. As c
 - [[teachings/fear-as-road-map-not-enemy|Fear as road map, not enemy]]
 - [[teachings/facing-fear-builds-empowerment|Facing fear builds empowerment]]
 - [[teachings/fear-is-present-on-every-path|Fear is present on every path so face it directly]]
+- [[teachings/resisting-fear-leaks-it-sideways|Resisting fear doesn't eliminate it — it leaks out sideways]]
+- [[teachings/fear-constricts-excitement-expands|Fear constricts while excitement expands — same energy, different relationship]]
 
 ## Source
 

@@ -28,6 +28,8 @@ The base jumping community sees this in identity formation: "I'm a safe jumper" 
 - [[teachings/safety-is-an-illusion-of-comfort|Safety is an illusion—it means feeling comfortable, not being objectively safe]]
 - [[teachings/unsafety-as-belief-anchor|The belief 'I'll be unsafe' anchors other limiting beliefs]]
 - [[teachings/see-through-consequences-to-feel-free|Seeing through worst-case consequences creates freedom to act]]
+- [[teachings/what-shifts-is-the-doer-not-your-capacity|What shifts in awakening is the doer, not your capacity to function]]
+- [[teachings/facing-fear-builds-empowerment|Facing the feeling you're avoiding is how empowerment comes]]
 
 ## Source
 

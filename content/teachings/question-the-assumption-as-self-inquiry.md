@@ -25,6 +25,8 @@ The practice differs fundamentally from skepticism or debate. Skeptics question 
 - [[teachings/contrarian-thinking-is-still-controlled-by-the-system|Contrarian thinking is still controlled by the system]]
 - [[teachings/wrong-question-keeps-you-stuck|Wrong question keeps you stuck]]
 - [[teachings/experiments-make-knowledge-embodied|Experimentation over dogma in self-development]]
+- [[teachings/identity-is-the-deepest-assumption-to-question|Identity is the deepest assumption to question]]
+- [[teachings/questioning-assumptions-destabilizes-before-it-clarifies|Questioning assumptions destabilizes before it clarifies]]
 
 ## Source
 

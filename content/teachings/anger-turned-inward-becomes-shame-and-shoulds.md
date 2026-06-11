@@ -33,6 +33,7 @@ The prescription is direct: move anger every day for a month — out loud, visce
 - [[teachings/chronic-stuckness-leads-to-depression|Chronic stuckness leads to depression through self-oppression]]
 - [[teachings/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
 - [[teachings/emotional-repression-causes-depression-and-shoulds|Emotional repression is the root cause of depression and shoulds]]
+- [[teachings/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
 
 ## Source
 

@@ -29,6 +29,7 @@ The key insight is seeing the other person's needs not as threats but as pointer
 - [[teachings/heartbreak-is-the-mechanism-of-boundaries|Heartbreak is the mechanism of healthy boundaries]]
 - [[teachings/not-sharing-hard-truths-prevents-real-love|Not sharing hard truths prevents real love]]
 - [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
+- [[teachings/accepting-and-asking-are-not-opposites|Accepting someone as they are and asking for what you want are not opposites]]
 
 ## Source
 

@@ -26,6 +26,9 @@ The session reveals that balance between two people requires love — but not th
 - [[teachings/empowerment-and-unconditional-love-are-the-same|Empowerment and unconditional love are the same]]
 - [[teachings/fight-or-collapse-is-a-false-dichotomy|Fight or collapse is a false dichotomy born from power-over thinking]]
 - [[teachings/boundaries-and-openness-are-the-same-thing|Boundaries and openness are the same thing]]
+- [[teachings/empowerment-outlasts-power|Empowerment outlasts power because it can't be taken away]]
+- [[teachings/you-must-know-you-can-leave-to-love|You must know you can leave to truly love]]
+- [[teachings/full-openness-is-the-real-protection|Full openness is the real protection from narcissists]]
 
 ## Source
 

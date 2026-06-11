@@ -25,6 +25,11 @@ This works because authority issues, at their root, come from not feeling seen: 
 
 - [[teachings/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[teachings/speaking-truth-requires-open-heart-not-management|Speaking truth requires an open heart, not management]]
+- [[teachings/wanting-to-be-seen-prevents-seeing-others|Wanting to be seen prevents you from seeing others]]
+- [[teachings/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
+- [[teachings/not-feeling-seen-means-not-seeing|When you don't feel seen, you're also not seeing]]
+- [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
+- [[teachings/knowing-your-needs-cures-the-fear-of-being-seen|Asking what you need is a strange way out of the fear of being seen]]
 
 ## Source
 

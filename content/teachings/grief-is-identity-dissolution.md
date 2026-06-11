@@ -25,6 +25,10 @@ A friend of Joe's captured the beauty side of this: "It's like if your foot fall
 - [[teachings/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
 - [[teachings/grief-is-necessary-for-transformation|Grief is necessary for transformation]]
 - [[teachings/unprocessed-grief-creates-conflict|Unprocessed grief creates most human conflict]]
+- [[teachings/grief-sustained-transforms-everything|Sustained grief transforms everything it touches]]
+- [[teachings/grief-does-not-end-it-transforms|Grief doesn't end, the love transforms]]
+- [[teachings/mourning-a-relationship-prevents-repeating-it|Fully mourning a relationship prevents you from repeating it]]
+- [[teachings/story-dissolution-is-progress-not-a-problem|Story dissolution is progress, not a problem]]
 
 ## Source
 

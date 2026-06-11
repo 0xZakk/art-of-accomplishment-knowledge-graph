@@ -27,6 +27,8 @@ Clarity doesn't come from being more logical — it comes from being okay with w
 - [[teachings/decisions-reveal-emotional-avoidance|Every decision is an attempt to avoid an emotion]]
 - [[teachings/decisions-are-made-in-the-emotional-brain|Decisions are made in the emotional center of the brain, not through analysis]]
 - [[teachings/thinking-youre-deciding-means-youre-in-fear|If you think you're making a decision, you're in fear]]
+- [[teachings/feeling-life-beats-figuring-it-out|Feeling your life produces clearer decisions than figuring it out]]
+- [[teachings/intelligence-is-gated-by-what-you-wont-feel|Intelligence is gated by the emotions you won't feel]]
 
 ## Source
 

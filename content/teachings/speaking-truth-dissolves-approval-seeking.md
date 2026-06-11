@@ -27,6 +27,8 @@ The mechanism is self-reinforcing: speaking truth → self-approval → less nee
 - [[teachings/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
 - [[teachings/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[teachings/unfelt-emotions-drive-you-into-others-opinions|Unfelt emotions drive you out of yourself and into others' opinions]]
+- [[teachings/chasing-approval-separates-you-from-yourself|Chasing approval separates you from yourself]]
+- [[teachings/no-external-validation-works-without-self-validation|No amount of external validation works if you won't validate yourself]]
 
 ## Source
 

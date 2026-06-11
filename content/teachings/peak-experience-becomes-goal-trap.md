@@ -26,6 +26,11 @@ The fortunate side effect was that Joe's fierce drive led him to collect every t
 - [[teachings/every-epiphany-becomes-the-next-rut|Every epiphany becomes the next rut]]
 - [[teachings/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
 - [[teachings/confusing-state-with-insight|Confusing state with insight]]
+- [[teachings/making-awakening-a-goal-slows-it-down|Making awakening a goal slows the process down]]
+- [[teachings/awakening-is-not-an-endpoint|Awakening is not an endpoint—evolution never ends]]
+- [[teachings/authenticity-matters-more-than-self-improvement|Authenticity matters more than self-improvement]]
+- [[teachings/meditation-can-become-self-management|Meditation can become a form of self-management and dissociation]]
+- [[teachings/awakening-is-not-personal|Awakening is not personal — it is the erosion of self over time]]
 
 ## Source
 

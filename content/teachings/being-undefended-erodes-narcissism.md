@@ -33,6 +33,7 @@ The result is ego death — the false sense of self burns away through the proce
 - [[teachings/shame-about-grief-shuts-down-all-emotions|Shame about grief shuts down all emotions]]
 - [[teachings/shame-is-anger-turned-inward|Shame is anger turned inward]]
 - [[teachings/letting-judgment-break-your-heart-open|Letting judgment break your heart open is the path through]]
+- [[teachings/emotional-titration-is-adaptive|Emotional titration is adaptive, not avoidant]]
 
 ## Source
 

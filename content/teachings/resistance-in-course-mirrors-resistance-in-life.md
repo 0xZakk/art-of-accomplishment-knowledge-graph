@@ -21,6 +21,10 @@ This means a course (or any container for growth) is actually a microcosm. Your 
 - [[teachings/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
 - [[teachings/tools-can-keep-you-stuck|Your healing tools can become tools for staying stuck]]
 - [[teachings/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]]
+- [[teachings/resistance-is-a-natural-step-in-transformation|Resistance is a natural step in transformation]]
+- [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[teachings/resisting-fear-leaks-it-sideways|Resisting fear doesn't eliminate it — it leaks out sideways]]
+- [[teachings/your-stance-toward-awakening-shapes-the-experience|Your stance toward awakening shapes the experience more than the awakening itself]]
 
 ## Source
 

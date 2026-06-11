@@ -21,6 +21,11 @@ Joe's guiding principle from early on: treat your kid the way you'd treat an adu
 
 - [[teachings/being-seen-transforms-behavior|Being genuinely seen and interested in transforms behavior]]
 - [[teachings/imposter-syndrome-roots-in-conditional-love|Imposter syndrome roots in conditional love]]
+- [[teachings/parent-self-relationship-shapes-child-relationship|Your relationship with yourself shapes your relationship with your children]]
+- [[teachings/emotional-depth-can-create-loneliness|Being raised with emotional depth can create loneliness]]
+- [[teachings/be-available-dont-chase-teenagers|Be available to your teenager, don't chase them]]
+- [[teachings/love-the-part-in-pain-the-way-you-wanted-to-be-loved|Love the part in pain the way you wanted your parents to love you]]
+- [[teachings/disgust-at-a-parent-reflects-absent-self-care|Disgust at a parent reflects their absence of self-care]]
 
 ## Source
 

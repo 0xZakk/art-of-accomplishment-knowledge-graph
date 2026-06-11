@@ -29,6 +29,11 @@ The antidote: instead of doing the process perfectly, deeply connect with it or 
 - [[teachings/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]]
 - [[teachings/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant]]
 - [[teachings/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]]
+- [[teachings/pleasure-is-available-in-every-emotion|Pleasure is available in every emotion when fully felt]]
+- [[teachings/perfectionism-is-a-fear-response-that-creates-chaos|Perfectionism is a fear response that creates the chaos it tries to prevent]]
+- [[teachings/pleasure-dissolves-the-boundary-of-self|Deep pleasure dissolves the boundary of self]]
+- [[teachings/joy-dissolves-identity|Joy dissolves identity and that's what makes it scary]]
+- [[teachings/pleasure-capacity-is-trainable|Pleasure capacity is trainable]]
 
 ## Source
 

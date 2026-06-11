@@ -27,6 +27,10 @@ Brett adds that this shift involves moving from calculating what to say next to 
 - [[teachings/judgment-blocks-the-emotion-underneath|Judgment blocks the emotion underneath]]
 - [[teachings/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
 - [[teachings/enjoyment-restructures-thought|Prioritizing enjoyment restructures how you think and speak]]
+- [[teachings/seeing-others-dissolves-their-judgment|Seeing others dissolves their judgment and criticism]]
+- [[teachings/judgment-repels-connection|Judgment repels the connection you actually want]]
+- [[teachings/listening-is-the-neglected-half|Listening and receiving are the neglected half of communication and life]]
+- [[teachings/enjoyment-is-available-now-not-later|Enjoyment is available now, not in some future you're chasing]]
 
 ## Source
 

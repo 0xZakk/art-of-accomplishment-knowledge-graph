@@ -32,6 +32,7 @@ This doesn't mean compromising yourself or changing your actions. It means sayin
 - [[teachings/mirroring-reveals-how-much-we-misunderstand|Mirroring reveals how much we misunderstand each other]]
 - [[teachings/relationship-is-not-a-courtroom|A relationship is not a courtroom]]
 - [[teachings/logical-vs-emotional-partner-dynamic|The logical vs emotional partner dynamic is a trap]]
+- [[teachings/depersonalize-the-problem|Depersonalize the problem — it's a patient on the table]]
 
 ## Source
 

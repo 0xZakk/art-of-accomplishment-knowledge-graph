@@ -25,6 +25,9 @@ The same applies to parenting: let toddlers set the table even if dishes break. 
 
 - [[teachings/iterative-mindset-prevents-failure|An iterative mindset makes failure impossible]]
 - [[teachings/find-whats-working-and-spread-it|Find what's working and spread it]]
+- [[teachings/iterative-mindset-dissolves-procrastination|An iterative mindset dissolves procrastination by removing the possibility of failure]]
+- [[teachings/institutionalize-change-over-one-on-one-intervention|Institutionalized change beats one-on-one intervention]]
+- [[teachings/you-cant-build-culture-you-cant-see|You can't build a culture you can't see in yourself]]
 
 ## Source
 

@@ -25,6 +25,11 @@ Jonny explains through polyvagal theory that the ventral vagal, sympathetic, and
 - [[teachings/emotional-fluidity-defined|Emotional fluidity defined]]
 - [[teachings/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms, unresisted stress enlivens]]
 - [[teachings/breath-regulates-the-nervous-system|Breath regulates the nervous system]]
+- [[teachings/regulate-the-nervous-system-before-learning-from-anxiety|Regulate the nervous system before you can learn from anxiety]]
+- [[teachings/pleasure-is-the-path-to-gut-awakening|Pleasure is the safe path to the gut awakening]]
+- [[teachings/nervous-system-fight-or-flight-collapses-thinking|Fight-or-flight collapses thinking into binaries and false ends]]
+- [[teachings/pleasure-capacity-is-trainable|Pleasure capacity is trainable]]
+- [[teachings/downregulation-is-not-resolution|Downregulation is useful but not resolution]]
 
 ## Source
 

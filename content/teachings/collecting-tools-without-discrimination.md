@@ -23,6 +23,11 @@ The key was that he wasn't ideological about the path. Many seekers get trapped 
 - [[teachings/experiential-learning-over-intellectual-understanding|Experiential learning over intellectual understanding]]
 - [[teachings/transformation-requires-experience-not-information|Transformation requires experience, not information]]
 - [[teachings/sincerity-is-prerequisite-for-transformation|Sincerity is prerequisite for transformation]]
+- [[teachings/peak-experience-becomes-goal-trap|Peak experiences become goal traps when co-opted by ego]]
+- [[teachings/welcome-judgment-as-freedom|Welcoming judgment creates freedom rather than fear]]
+- [[teachings/exercises-need-body-emotion-and-voice|Effective exercises integrate body, emotion, and voice]]
+- [[teachings/great-coaching-is-not-magic-but-a-state-of-mind|Great coaching is not magic but a state of mind]]
+- [[teachings/crack-the-intellectual-trap-first|For most people, crack the intellectual trap first]]
 
 ## Source
 

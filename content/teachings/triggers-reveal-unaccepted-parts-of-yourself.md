@@ -33,6 +33,7 @@ Joe suggests a three-step process: see the projection (often provides immediate 
 - [[teachings/dont-do-emotions-at-people|Don't do emotions at people]]
 - [[teachings/triggers-reveal-disowned-parts-of-self|Triggers and admiration both reveal disowned parts of yourself]]
 - [[teachings/boundaries-open-your-heart|Boundaries must open your heart, not close it]]
+- [[teachings/boundary-firmness-eliminates-fear-of-attack|Boundary firmness eliminates fear of attack]]
 
 ## Source
 

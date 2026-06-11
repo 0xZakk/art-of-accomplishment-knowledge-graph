@@ -28,6 +28,9 @@ The key distinction: it's not *what* you say but the heart from which you say it
 - [[teachings/being-seen-transforms-behavior|Being seen transforms behavior]]
 - [[teachings/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[teachings/communication-techniques-get-weaponized|Communication techniques get weaponized without the right state]]
+- [[teachings/empathy-without-buying-the-story|Empathy means being with someone without buying their story]]
+- [[teachings/compassion-can-block-anger|Using compassion to bypass anger blocks the emotional process]]
+- [[teachings/openness-to-judgment-beats-defense|Openness to judgment is more comfortable than defense]]
 
 ## Source
 

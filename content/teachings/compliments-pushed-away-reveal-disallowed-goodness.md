@@ -28,6 +28,8 @@ The inability to receive compliments is fundamentally about not being able to ho
 - [[teachings/envy-and-bragging-signal-disallowed-parts|Envy and bragging signal disallowed parts wanting to be seen]]
 - [[teachings/shame-creates-the-see-me-dont-see-me-double-bind|Shame creates the see-me-don't-see-me double bind]]
 - [[teachings/we-push-away-approval-we-seek|We push away the approval we seek]]
+- [[teachings/listening-before-being-seen|Letting go of being seen allows you to be seen]]
+- [[teachings/being-seen-is-a-survival-need-we-villainize|Being seen is a survival need we villainize]]
 
 ## Source
 

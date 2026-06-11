@@ -28,6 +28,9 @@ Joe prescribes it like physical therapy: 15 minutes a day of coming in and lovin
 - [[teachings/moving-emotions-dissolves-depression|Moving emotions dissolves depression]]
 - [[teachings/when-love-shows-up-unloved-parts-surface|When love shows up, unloved parts surface]]
 - [[teachings/being-loved-in-the-shame-dissolves-it|Being loved within the shame dissolves it]]
+- [[teachings/welcome-shame-dont-push-through-it|Welcome shame rather than pushing through it]]
+- [[teachings/feel-whats-underneath-the-shame|Feel what's underneath the shame to break stagnation]]
+- [[teachings/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
 
 ## Source
 

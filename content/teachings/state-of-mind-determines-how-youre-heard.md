@@ -28,6 +28,8 @@ The implication is both humbling and liberating. You can't hack communication th
 - [[teachings/communication-techniques-get-weaponized|Communication techniques get weaponized]]
 - [[teachings/listening-to-yourself-transforms-communication|Listening to yourself transforms communication]]
 - [[teachings/view-is-a-state-of-mind-not-a-technique|VIEW is a state of mind not a technique]]
+- [[teachings/saying-ouch-reveals-how-abusive-self-talk-is|Saying \"ouch\" out loud reveals how abusive your self-talk really is]]
+- [[teachings/inner-critic-uses-same-cult-dynamics|The inner critic uses the same dynamics as cults and political manipulation]]
 
 ## Source
 

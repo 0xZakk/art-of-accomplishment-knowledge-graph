@@ -28,6 +28,7 @@ The practical application: pay attention to your triggers first, before addressi
 - [[teachings/own-the-trigger-as-yours|Owning the trigger as yours dissolves the fight]]
 - [[teachings/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
 - [[teachings/triggers-reveal-unaccepted-parts-of-yourself|Every trigger reveals an unaccepted part of yourself]]
+- [[teachings/triggers-reveal-self-judgment|Triggers reveal what we judge in ourselves]]
 
 ## Source
 

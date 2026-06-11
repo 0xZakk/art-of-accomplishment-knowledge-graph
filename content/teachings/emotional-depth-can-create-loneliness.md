@@ -26,6 +26,11 @@ This is why Joe builds community through his work — partly to create environme
 - [[teachings/deep-community-dissolves-identity|Deep community dissolves identity]]
 - [[teachings/community-amplifies-transformation|Community amplifies transformation]]
 - [[teachings/community-as-container-for-love|We build communities to create spaces where love can be fully expressed]]
+- [[teachings/kids-need-to-feel-liked-not-just-loved|Kids need to feel liked by their parents, not just loved]]
+- [[teachings/connection-is-the-core-of-parenting|Connection is the core need in parenting, not obedience]]
+- [[teachings/expressing-emotions-restores-connection|Feeling and expressing emotion restores connection]]
+- [[teachings/parent-self-relationship-shapes-child-relationship|Your relationship with yourself shapes your relationship with your children]]
+- [[teachings/parenting-is-the-deepest-ego-work|Parenting is the deepest ego work you can do]]
 
 ## Source
 

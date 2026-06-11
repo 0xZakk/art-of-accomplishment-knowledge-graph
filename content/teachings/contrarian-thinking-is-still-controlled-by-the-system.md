@@ -25,6 +25,11 @@ The distinction matters: skepticism and debate aim to prove yourself right. Genu
 - [[teachings/question-the-assumption-as-self-inquiry|Question the assumption is self-inquiry, not skepticism]]
 - [[teachings/ego-resists-change-in-either-direction|Ego resists change in either direction]]
 - [[teachings/internal-authority-mirrors-external|Internal authority mirrors external]]
+- [[teachings/rebellion-and-approval-seeking-are-same-coin|Rebelling against authority and seeking its approval are two sides of the same coin]]
+- [[teachings/owning-your-authority-with-an-open-heart|Owning your authority with an open heart heals the authority wound]]
+- [[teachings/should-creates-rebellion-or-submission|Should creates either rebellion or submission, never empowerment]]
+- [[teachings/rebellion-empowers-the-authority|Rebellion empowers the authority figure just as compliance does]]
+- [[teachings/rebellion-is-the-only-self-under-control|Rebellion becomes the only sense of self under suffocating control]]
 
 ## Source
 

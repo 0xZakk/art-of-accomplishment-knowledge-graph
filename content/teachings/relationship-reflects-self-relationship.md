@@ -25,6 +25,9 @@ This mirrors the broader VIEW teaching that external reality reflects internal r
 - [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
 - [[teachings/self-relationship-is-the-core-issue|The relationship with yourself is always the core issue]]
 - [[teachings/self-love-sets-the-capacity-limit-for-loving-others|Self-love sets the capacity limit for loving a partner]]
+- [[teachings/self-love-dissolves-relationship-decisions|Self-love dissolves relationship decisions rather than answering them]]
+- [[teachings/inner-critic-mirrors-relationship-patterns|The inner critic mirrors your relationship patterns]]
+- [[teachings/parent-self-relationship-shapes-child-relationship|Your relationship with yourself shapes your relationship with your children]]
 
 ## Source
 

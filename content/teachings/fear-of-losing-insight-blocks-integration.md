@@ -26,6 +26,9 @@ The antidote to fear of losing the insight is gratitude for having seen it: "Oh,
 - [[teachings/foreboding-joy-blocks-gratitude|Foreboding joy blocks gratitude]]
 - [[teachings/tools-can-keep-you-stuck|Tools can keep you stuck]]
 - [[teachings/gentleness-accelerates-growth|Gentleness accelerates growth]]
+- [[teachings/confusing-state-with-insight|Confusing the ecstatic state with the insight itself sabotages integration]]
+- [[teachings/turning-insight-into-practice-can-backfire|Turning insight into practice can backfire]]
+- [[teachings/wisdom-is-when-you-dont-need-to-remember|Wisdom is when you don't need to remember the insight]]
 
 ## Source
 

@@ -25,6 +25,9 @@ In the session, Joe models dominant anger himself â€” raw, profane, ferocious â€
 - [[teachings/exhaustion-is-unexpressed-anger|Exhaustion from caretaking is unexpressed anger]]
 - [[teachings/anger-unresisted-is-determination|Anger unresisted is determination]]
 - [[teachings/dominate-dont-convince|Dominate don't convince]]
+- [[teachings/repressed-anger-kinks-into-symptoms|Repressed anger kinks into depression, self-criticism, and rage]]
+- [[teachings/anger-is-clarity-and-determination|Anger at its core is clarity and determination]]
+- [[teachings/anger-at-without-permission-is-manipulation|Expressing anger at someone without permission is a bid for control]]
 
 ## Source
 

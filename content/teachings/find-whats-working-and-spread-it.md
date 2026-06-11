@@ -25,6 +25,8 @@ This is the practical application of gratitude-based thinking: instead of catalo
 - [[teachings/iteration-beats-perfection|Iteration beats perfection]]
 - [[teachings/find-what-already-works-and-amplify-it|Find what already works and amplify it rather than importing external solutions]]
 - [[teachings/gratitude-solves-problems-by-seeing-whats-right|Gratitude solves problems by seeing what's right and growing it]]
+- [[teachings/ungratitude-removes-half-your-solutions|Ungratitude removes half your solutions]]
+- [[teachings/gratitude-reveals-abundance-already-present|Gratitude reveals abundance that is already present]]
 
 ## Source
 

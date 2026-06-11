@@ -31,6 +31,8 @@ The session demonstrates this in real time: Christopher asks Joe to hold space f
 - [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 - [[teachings/feeling-helplessness-creates-empowerment|Going through helplessness is what creates empowerment]]
 - [[teachings/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
+- [[teachings/helplessness-is-the-emotion-being-avoided|The feeling being avoided underneath 'I've got this' is helplessness]]
+- [[teachings/appreciation-dissolves-unsafety|Appreciation and connection dissolve unsafety]]
 
 ## Source
 

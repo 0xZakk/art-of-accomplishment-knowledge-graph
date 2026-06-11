@@ -28,6 +28,9 @@ Perhaps most revealing: pushing away compliments. When someone gives a heartfelt
 - [[teachings/what-triggers-you-in-others-exists-in-you|What triggers you in others exists in you]]
 - [[teachings/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]]
 - [[teachings/compliments-pushed-away-reveal-disallowed-goodness|Pushing away compliments reveals disallowed goodness]]
+- [[teachings/shame-creates-the-see-me-dont-see-me-double-bind|Shame creates the see-me-don't-see-me double bind]]
+- [[teachings/listening-before-being-seen|Letting go of being seen allows you to be seen]]
+- [[teachings/triggers-reveal-disowned-parts-of-self|Triggers and admiration both reveal disowned parts of yourself]]
 
 ## Source
 

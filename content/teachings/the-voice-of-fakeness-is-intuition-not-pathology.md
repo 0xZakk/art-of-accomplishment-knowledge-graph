@@ -27,6 +27,9 @@ The reframe — from "something is wrong with me" to "I'm perceiving something t
 - [[teachings/attunement-to-self-produces-intuition|Attunement to self produces intuition]]
 - [[teachings/voice-in-head-talks-to-itself|The voice in the head talks to itself more than to you]]
 - [[teachings/authenticity-is-receiving-not-performing|Authenticity is receiving yourself not performing yourself]]
+- [[teachings/contradiction-reveals-the-mask|Contradiction between words and body reveals the mask we're wearing]]
+- [[teachings/inner-critic-is-an-inherited-voice-not-you|The inner critic is an inherited voice, not you talking to yourself]]
+- [[teachings/fear-of-losing-relatability-signals-transformation|Fear of losing relatability signals transformation]]
 
 ## Source
 

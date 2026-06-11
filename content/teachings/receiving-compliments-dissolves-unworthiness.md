@@ -27,6 +27,8 @@ The emotion that arises when you truly receive a compliment is evidence of trans
 - [[teachings/ego-resists-change-in-either-direction|The ego resists change in either direction]]
 - [[teachings/receiving-requires-vulnerability|Receiving compliments requires the vulnerability we've been avoiding]]
 - [[teachings/expansiveness-underneath-resistance-to-love|The expansiveness underneath resistance to love is overwhelming and amazing]]
+- [[teachings/we-deflect-what-we-crave|We deflect the very thing we crave most]]
+- [[teachings/digesting-attention-stops-the-hungry-ghost|Digesting the attention you already have stops the hungry ghost]]
 
 ## Source
 

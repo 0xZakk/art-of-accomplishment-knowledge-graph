@@ -28,6 +28,8 @@ Brett adds an important nuance: building an identity around "diving into fear" c
 - [[teachings/fear-path-has-no-end|The fear path has no end — deeper levels always reveal themselves]]
 - [[teachings/manufactured-rage-masks-fear|Manufactured rage masks fear and creates destruction]]
 - [[teachings/fear-signals-unmet-needs|Fear is a signal that needs aren't being met]]
+- [[teachings/self-loathing-as-accidental-doorway|Self-loathing can accidentally open a doorway to courage]]
+- [[teachings/fear-is-present-on-every-path|Fear is present on every path so face it directly]]
 
 ## Source
 

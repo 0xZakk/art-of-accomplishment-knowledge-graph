@@ -27,6 +27,10 @@ The time scarcity is manufactured. Jeff Bezos spends three hours every morning "
 - [[teachings/catastrophizing-is-helplessness-stuck-in-the-head|Catastrophizing is helplessness stuck in the head]]
 - [[teachings/anxiety-is-detrimental-to-productivity|Anxiety is detrimental to productivity]]
 - [[teachings/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]
+- [[teachings/exploration-not-achievement-is-the-real-urge|Exploration not achievement is the real urge underneath potential anxiety]]
+- [[teachings/worrying-about-the-future-is-the-pattern-not-the-solution|Worrying about the future is the pattern, not the solution]]
+- [[teachings/enjoyment-as-the-only-metric|Making enjoyment the only metric paradoxically increases productivity]]
+- [[teachings/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
 
 ## Source
 

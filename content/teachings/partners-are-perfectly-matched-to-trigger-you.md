@@ -43,6 +43,7 @@ Even the frustrating match is the perfect match for what you need to learn.
 - [[teachings/marriage-as-dojo-for-self-development|Marriage as a dojo for self-development]]
 - [[teachings/parent-self-relationship-shapes-child-relationship|Your relationship with yourself shapes your relationship with your children]]
 - [[teachings/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
+- [[teachings/external-patterns-mirror-internal-ones|External relationship patterns mirror internal ones]]
 
 ## Source
 

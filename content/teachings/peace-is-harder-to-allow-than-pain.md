@@ -26,6 +26,9 @@ Every emotion faces the same resistance from the mind: anger might destroy every
 - [[teachings/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant]]
 - [[teachings/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]]
 - [[teachings/unfelt-joy-as-source-of-anxiety|Unfelt joy is a hidden source of anxiety]]
+- [[teachings/fear-of-consequences-is-fear-of-emotional-states|Fear of consequences is really fear of emotional states]]
+- [[teachings/resistance-creates-the-feared-outcome|Resisting an emotion creates the very outcome you fear]]
+- [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
 
 ## Source
 

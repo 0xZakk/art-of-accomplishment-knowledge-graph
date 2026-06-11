@@ -26,6 +26,8 @@ The relationship to the work matters more than the work itself.
 - [[teachings/changing-behavior-changes-consciousness|Changing behavior is the most efficient way to change consciousness]]
 - [[teachings/resistance-in-course-mirrors-resistance-in-life|The resistance that blocks you in a course is the same resistance blocking your life]]
 - [[teachings/wanting-someone-to-change-reflects-self-rejection|Wanting someone to change reflects a part of yourself you can't love]]
+- [[teachings/unconscious-principles-already-run-your-life|Unconscious principles already run your life]]
+- [[teachings/passive-consumption-never-transforms|Passive consumption of wisdom never transforms you]]
 
 ## Source
 

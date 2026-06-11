@@ -24,6 +24,9 @@ When you really connect with someone, they want to work with you. The top sales 
 - [[teachings/being-interested-not-interesting|Being interested rather than interesting creates connection]]
 - [[teachings/connection-enables-accomplishment|Connection enables accomplishment]]
 - [[teachings/product-designed-by-connection-not-ideas|Products designed by connection, not ideas]]
+- [[teachings/asking-questions-is-active-listening|Asking questions is the most powerful form of active listening]]
+- [[teachings/hearing-objections-before-deciding|Hearing objections before deciding — even if you decide the same thing — changes everything]]
+- [[teachings/proving-yourself-agrees-you-are-not-valuable|Trying to prove yourself agrees to the premise that you're not valuable]]
 
 ## Source
 

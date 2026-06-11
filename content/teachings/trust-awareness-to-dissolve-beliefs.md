@@ -23,6 +23,9 @@ The antidote is gentleness. Joe points out that it requires enormous effort NOT 
 - [[teachings/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]]
 - [[teachings/gentleness-accelerates-growth|Gentleness accelerates growth]]
 - [[teachings/you-have-already-changed-thousands-of-beliefs|You have already changed thousands of beliefs without noticing]]
+- [[teachings/realization-not-behavior-control|Seeing through limiting beliefs is realization, not behavior control]]
+- [[teachings/look-for-what-you-absolutely-believe-true|Your limiting beliefs hide in what you absolutely believe to be true]]
+- [[teachings/constriction-not-truth-identifies-limiting-beliefs|Constriction, not truth, identifies limiting beliefs]]
 
 ## Source
 

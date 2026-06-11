@@ -21,6 +21,11 @@ The key insight is that defensiveness is a nervous system response to perceived 
 
 - [[teachings/safety-enables-productive-conflict|Safety enables productive conflict]]
 - [[teachings/feeling-seen-dissolves-politics|Feeling seen dissolves politics]]
+- [[teachings/defensiveness-is-a-breadcrumb-to-shame|Defensiveness is a breadcrumb back to shame]]
+- [[teachings/unfelt-team-emotions-create-dysfunction|Unfelt emotions in a team create all the dysfunction]]
+- [[teachings/keeping-it-together-blocks-team-trust|Keeping it together as a leader blocks team trust]]
+- [[teachings/conflict-avoidant-managers-destroy-trust|Conflict-avoidant managers destroy trust]]
+- [[teachings/speaking-truth-requires-open-heart-not-management|Speaking truth requires an open heart, not management of others' reactions]]
 
 ## Source
 

@@ -23,6 +23,11 @@ The companion practice is making upright apologies for past passive aggression. 
 
 - [[teachings/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]]
 - [[teachings/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
+- [[teachings/passive-aggression-is-unowned-aggression|Passive aggression is aggression that isn't being owned as aggression]]
+- [[teachings/dont-try-to-change-passive-aggression-in-others|Trying to change someone's passive aggression enters the same dynamic]]
+- [[teachings/the-resistance-to-asking-protects-an-unfelt-sadness|The resistance to asking protects an unfelt sadness]]
+- [[teachings/positive-self-talk-can-be-passive-aggression|Positive self-talk can be a form of self-directed passive aggression]]
+- [[teachings/asking-for-what-you-want-dissolves-resentment|Asking for what you want dissolves resentment]]
 
 ## Source
 

@@ -25,6 +25,11 @@ This isn't oppression—it's the container that allows freedom to flourish.
 
 - [[teachings/name-the-problem-without-solving-it|Name the problem without solving it]]
 - [[teachings/leaders-must-say-what-they-want-cleanly|Leaders must say what they want cleanly]]
+- [[teachings/empowered-organizations-need-elegant-structure|Empowered organizations need elegant structure that creates safety with maximum autonomy]]
+- [[teachings/internal-principles-create-empowerment|Living by internal principles creates empowerment and dissolves drama]]
+- [[teachings/authority-distorts-reality-for-leaders|Being in authority distorts your reality]]
+- [[teachings/rebellion-empowers-the-authority|Rebellion empowers the authority figure just as compliance does]]
+- [[teachings/internal-authority-mirrors-external|How you treat your internal authority mirrors how you treat external ones]]
 
 ## Source
 

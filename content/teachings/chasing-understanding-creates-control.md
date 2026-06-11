@@ -26,6 +26,9 @@ What people are actually resisting isn't your message — it's being controlled.
 - [[teachings/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
 - [[teachings/state-of-mind-determines-how-youre-heard|State of mind determines how you're heard]]
 - [[teachings/seeking-understanding-is-seeking-connection|What we call being understood is really seeking connection]]
+- [[teachings/speaking-from-discomfort-not-past-it|Speaking from discomfort rather than past it]]
+- [[teachings/not-acting-tells-you-youre-not-worthy|Not doing the thing you want tells yourself you're not worthy]]
+- [[teachings/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
 
 ## Source
 

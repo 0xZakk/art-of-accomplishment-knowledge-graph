@@ -25,6 +25,10 @@ The distinction between dissociative regulation and embodied feeling is subtle b
 - [[teachings/tools-can-keep-you-stuck|Tools can keep you stuck]]
 - [[teachings/downregulation-is-not-resolution|Downregulation is not resolution]]
 - [[teachings/managing-trauma-versus-resolving-it|Managing trauma versus resolving it]]
+- [[teachings/being-held-requires-dropping-the-performance|Being held requires dropping the performance]]
+- [[teachings/breath-regulates-the-nervous-system|Breath is the lever for nervous system regulation]]
+- [[teachings/pleasure-grounds-the-sensitive-system|Pleasure and bodily sensation ground the sensitive system as it opens]]
+- [[teachings/somatic-awareness-is-a-key-to-presence|Somatic awareness is a key to presence and to the wisdom of emotions]]
 
 ## Source
 

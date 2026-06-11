@@ -25,6 +25,7 @@ Joe and Brett applied this to the podcast itself — they recorded tons of episo
 - [[teachings/iterative-mindset-dissolves-procrastination|An iterative mindset dissolves procrastination]]
 - [[teachings/iteration-beats-perfection|Iteration beats perfection]]
 - [[teachings/importance-kills-enjoyment|Importance kills enjoyment]]
+- [[teachings/enjoyment-as-the-only-metric|Making enjoyment the only metric paradoxically increases productivity]]
 
 ## Source
 

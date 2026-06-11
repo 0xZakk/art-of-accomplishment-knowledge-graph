@@ -27,6 +27,9 @@ The distinction matters because coaching from a career-choice mindset versus a v
 - [[teachings/gentle-narcissism-in-the-call-to-coach|Gentle narcissism hides in the call to coach]]
 - [[teachings/alignment-eliminates-procrastination|Alignment eliminates procrastination]]
 - [[teachings/follow-your-migratory-path|Follow your migratory path]]
+- [[teachings/three-dangerous-motivations-for-coaching|Three dangerous motivations draw people to coaching]]
+- [[teachings/purpose-matures-into-choicelessness|Purpose matures into choicelessness]]
+- [[teachings/you-are-a-terrible-boss-to-yourself|You are a terrible boss to yourself and that's why you're stuck]]
 
 ## Source
 

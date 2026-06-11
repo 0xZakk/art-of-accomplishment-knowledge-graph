@@ -29,6 +29,8 @@ The solution is also the same across domains: open your heart to the "no" instea
 - [[teachings/control-works-until-it-doesnt|Control works until it doesn't]]
 - [[teachings/opening-heart-to-the-no-creates-better-outcomes|Opening your heart to the 'no' creates better outcomes]]
 - [[teachings/every-no-is-new-information|Every 'no' is new information that creates clarity]]
+- [[teachings/jealousy-masks-rejected-parts-of-self|Jealousy masks rejected parts of self]]
+- [[teachings/talk-about-how-you-want-to-relate|Talk about how you want to relate to each other]]
 
 ## Source
 

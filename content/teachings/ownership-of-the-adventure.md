@@ -25,6 +25,9 @@ The distinction is subtle but critical: you didn't choose the circumstances, but
 
 - [[teachings/uncertainty-is-where-transformation-happens|Uncertainty is where transformation happens]]
 - [[teachings/certainty-lives-in-how-you-want-to-be|The only real certainty is how you want to be]]
+- [[teachings/accepting-death-enables-choice|Accepting death enables genuine choice about how to live]]
+- [[teachings/responsibility-is-a-trap-when-total|Total responsibility becomes a trap]]
+- [[teachings/see-through-consequences-to-feel-free|Seeing through worst-case consequences creates freedom to act]]
 
 ## Source
 

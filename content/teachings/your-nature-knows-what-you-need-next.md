@@ -28,6 +28,8 @@ This is the difference between building a canal (planning the exact path, tremen
 - [[teachings/nature-knows-what-you-need-next|Your nature knows what you need next]]
 - [[teachings/intuition-sees-what-logic-cannot|Intuition sees what the logical mind cannot]]
 - [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
+- [[teachings/feeling-life-beats-figuring-it-out|Feeling your life produces clearer decisions than figuring it out]]
+- [[teachings/authenticity-matters-more-than-self-improvement|Authenticity matters more than self-improvement]]
 
 ## Source
 

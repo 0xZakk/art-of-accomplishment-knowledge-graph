@@ -31,6 +31,7 @@ This mirrors a fundamental paradox in all contemplative traditions: the effort t
 - [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
 - [[teachings/feeling-your-essential-nature-dissolves-avoidance|Feeling your essential nature dissolves avoidance behaviors]]
 - [[teachings/you-cant-stop-being-present|You can't stop being present]]
+- [[teachings/the-story-of-brokenness-is-the-problem|The story about how you're broken is the problem, not the brokenness]]
 
 ## Source
 

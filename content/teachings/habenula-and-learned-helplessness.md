@@ -23,6 +23,7 @@ This is why reframing failure as iteration isn't just a mindset trick — it's w
 
 - [[teachings/failure-is-just-an-idea|Failure is just an idea, not a reality]]
 - [[teachings/moving-emotions-dissolves-depression|Moving emotions dissolves depression]]
+- [[teachings/belief-precedes-relationship-change|You must believe change is possible before a relationship can improve]]
 
 ## Source
 

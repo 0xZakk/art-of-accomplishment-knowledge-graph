@@ -26,6 +26,7 @@ This is the practical antidote to confused love. Instead of trying to manufactur
 - [[teachings/self-love-sets-the-capacity-limit-for-loving-others|Self-love sets the capacity limit for loving a partner]]
 - [[teachings/self-love-dissolves-relationship-decisions|Self-love dissolves relationship decisions rather than answering them]]
 - [[teachings/self-love-is-somatic-welcoming-not-affirmation|Self-love is somatic welcoming, not affirmation]]
+- [[teachings/we-cant-see-the-love-thats-available|We can't see the love that's already available to us]]
 
 ## Source
 

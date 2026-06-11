@@ -26,6 +26,7 @@ The alternative—connection-based parenting—is framed not as the expensive or
 - [[teachings/repair-is-as-important-as-getting-it-right|Repair is as important as getting it right]]
 - [[teachings/shame-locks-in-bad-habits|Shame locks in the very habits it punishes]]
 - [[teachings/dont-shame-kids-love-yourself|To not harm your children, love yourself]]
+- [[teachings/teach-children-self-referencing|Teaching children to reference themselves builds their internal compass]]
 
 ## Source
 

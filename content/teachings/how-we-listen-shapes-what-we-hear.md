@@ -42,6 +42,9 @@ As you learn to listen to others with vulnerability, impartiality, empathy, and 
 - [[teachings/view-framework-for-listening|The VIEW framework for deep listening]]
 - [[teachings/unconditional-listening-transforms-relationships|Listening with unconditional acceptance transforms relationships]]
 - [[teachings/deep-listening-requires-self-listening|Deep listening requires listening to yourself simultaneously]]
+- [[teachings/listen-to-yourself-with-unconditional-acceptance|Listening to yourself with unconditional acceptance is the fastest path to listening well]]
+- [[teachings/embodied-listening-improves-signal-to-noise|Embodied listening improves signal to noise]]
+- [[teachings/communication-techniques-get-weaponized|Communication techniques get weaponized without the right state]]
 
 ## Source
 

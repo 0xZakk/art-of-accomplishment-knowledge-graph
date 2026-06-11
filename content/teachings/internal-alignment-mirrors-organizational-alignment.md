@@ -25,6 +25,7 @@ Aligned internal goals feel effortless to track—you naturally know where you s
 - [[teachings/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
 - [[teachings/goals-as-self-abuse-versus-creativity|Goals as self-abuse versus creativity]]
 - [[teachings/alignment-eliminates-procrastination|Alignment eliminates procrastination]]
+- [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
 
 ## Source
 

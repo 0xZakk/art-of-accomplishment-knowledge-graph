@@ -28,6 +28,10 @@ Joe Hudson connects this to the athletes he coaches who discover they can access
 - [[teachings/imposter-syndrome-means-not-being-yourself|Imposter syndrome means not being yourself]]
 - [[teachings/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[teachings/focus-on-how-you-want-to-feel-not-what-you-fear|Focus on how you want to feel not what you fear]]
+- [[teachings/feel-your-way-to-freedom|Feel your way to freedom]]
+- [[teachings/people-pleasing-drives-excellence-and-traps-you|People-pleasing drives excellence and traps you]]
+- [[teachings/gold-lies-beyond-what-you-fear|The gold in life lies just beyond what you're afraid to face]]
+- [[teachings/adversity-refines-rather-than-destroys|Adversity refines rather than destroys]]
 
 ## Source
 

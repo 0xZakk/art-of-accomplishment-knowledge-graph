@@ -25,6 +25,8 @@ This isn't a failure of will — it's how emotions work. The effort to produce a
 - [[teachings/softening-not-solving-breaks-the-loop|Softening, not solving, breaks self-imposed loops]]
 - [[teachings/resisting-emotion-invites-it-back|Resisting an emotion is exactly what invites it back]]
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/you-cant-skip-feeling-to-get-the-emotion|You can't think or shortcut your way past an emotion — you have to let it move]]
+- [[teachings/the-resistance-to-asking-protects-an-unfelt-sadness|The resistance to asking protects an unfelt sadness]]
 
 ## Source
 

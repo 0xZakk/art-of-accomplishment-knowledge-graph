@@ -25,6 +25,9 @@ Signs of healthy integration over weeks and months include: more emotional fluid
 - [[teachings/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]]
 - [[teachings/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]]
 - [[teachings/questioning-assumptions-destabilizes-before-it-clarifies|Questioning assumptions destabilizes before it clarifies]]
+- [[teachings/enjoy-the-sensations-of-awakening|Enjoying the sensations rather than bracing eases the integration]]
+- [[teachings/insight-requires-embodied-integration|Insight requires embodied integration to become wisdom]]
+- [[teachings/you-have-already-changed-thousands-of-beliefs|You have already changed thousands of beliefs without noticing]]
 
 ## Source
 

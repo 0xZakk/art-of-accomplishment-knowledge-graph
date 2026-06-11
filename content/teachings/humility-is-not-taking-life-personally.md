@@ -27,6 +27,10 @@ Humility also means you can see your own darkness — the parts of you that coul
 - [[teachings/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]]
 - [[teachings/shame-never-changes-behavior|Shame never changes behavior]]
 - [[teachings/humility-requires-self-care|Humility can require self-care]]
+- [[teachings/let-compliments-move-through-you|Letting compliments move all the way through you destroys ego]]
+- [[teachings/follow-your-calling-even-when-uncomfortable|Following your calling requires humility even when it's uncomfortable]]
+- [[teachings/humility-is-not-making-yourself-small|Humility is not making yourself small]]
+- [[teachings/putting-yourself-above-others-is-protection|Putting yourself above others is a subtle form of protection]]
 
 ## Source
 

@@ -28,6 +28,7 @@ This is a general principle: one of the things we do to slow transformation is t
 - [[teachings/stop-fixing-others-to-help-them-change|Stop trying to fix others if you want them to change]]
 - [[teachings/fixing-avoids-being-present|Compulsive fixing avoids being present]]
 - [[teachings/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
+- [[teachings/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
 
 ## Source
 

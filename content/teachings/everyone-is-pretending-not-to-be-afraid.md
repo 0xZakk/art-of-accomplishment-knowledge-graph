@@ -25,6 +25,8 @@ The tragedy is that each person's isolation — believing they alone are the fra
 - [[teachings/hiding-makes-you-feel-more-like-an-imposter|Hiding makes you feel more like an imposter]]
 - [[teachings/we-are-all-imposters-and-thats-fine|We are all imposters and that's fine]]
 - [[teachings/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
+- [[teachings/self-loathing-as-accidental-doorway|Self-loathing can accidentally open a doorway to courage]]
+- [[teachings/fear-of-losing-relatability-signals-transformation|Fear of losing relatability signals transformation]]
 
 ## Source
 

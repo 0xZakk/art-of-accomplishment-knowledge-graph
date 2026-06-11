@@ -42,6 +42,8 @@ When we stop resisting, we find that even our "negative" emotions contain what w
 - [[teachings/moving-emotions-dissolves-depression|Moving the emotion dissolves depression]]
 - [[teachings/foreboding-joy-blocks-gratitude|Foreboding joy—fear of the other shoe dropping—blocks gratitude]]
 - [[teachings/self-blame-holds-onto-what-you-lost|Self-blame is a way of holding onto what you've lost]]
+- [[teachings/not-defending-reveals-inherent-goodness|Not defending yourself reveals your inherent goodness]]
+- [[teachings/you-get-the-love-you-can-accept|You only get the love you can let in]]
 
 ## Source
 

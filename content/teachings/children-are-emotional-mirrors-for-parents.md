@@ -25,6 +25,10 @@ The beauty of seeing this clearly is that every trigger becomes a mirror: "every
 - [[teachings/model-repair-not-perfection-for-children|Model repair, not perfection for children]]
 - [[teachings/transformation-is-generational|Transformation is generational]]
 - [[teachings/dont-shame-kids-love-yourself|To not harm your children, love yourself]]
+- [[teachings/parent-self-relationship-shapes-child-relationship|Your relationship with yourself shapes your relationship with your children]]
+- [[teachings/parenting-is-the-deepest-ego-work|Parenting is the deepest ego work you can do]]
+- [[teachings/teach-children-self-referencing|Teaching children to reference themselves builds their internal compass]]
+- [[teachings/parenting-as-ego-dissolution|Parenting is one of the deepest ego dissolution practices available]]
 
 ## Source
 

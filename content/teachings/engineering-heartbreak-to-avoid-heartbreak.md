@@ -29,6 +29,8 @@ The twist is that we often become okay with one layer (heartbreak) while still a
 - [[teachings/avoidance-creates-the-pattern-it-fears|Emotional avoidance creates the very pattern it fears]]
 - [[teachings/resisting-emotion-invites-it-back|Resisting an emotion is exactly what invites it back]]
 - [[teachings/fear-of-consequences-is-fear-of-emotional-states|Fear of consequences is really fear of emotional states]]
+- [[teachings/the-golden-algorithm|The golden algorithm: we invite back the emotion we avoid, in the way we avoid it]]
+- [[teachings/three-steps-to-see-the-matrix|Three steps to see your emotional matrix]]
 
 ## Source
 

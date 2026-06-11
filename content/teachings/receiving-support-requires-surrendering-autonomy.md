@@ -26,6 +26,8 @@ Yet underneath the discomfort is something profound: the experience of an infini
 - [[teachings/receiving-requires-vulnerability|Receiving requires vulnerability]]
 - [[teachings/vulnerability-produces-love-not-rejection|Vulnerability produces love not rejection]]
 - [[teachings/community-forms-spontaneously-around-vulnerability|Community forms spontaneously around vulnerability]]
+- [[teachings/accepting-death-enables-choice|Accepting death enables genuine choice about how to live]]
+- [[teachings/grief-of-self-abandonment|Grief of self-abandonment]]
 
 ## Source
 

@@ -23,6 +23,11 @@ The trap has an ironic quality: if you're already burnt out, urgency-based motiv
 
 - [[teachings/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]]
 - [[teachings/alignment-eliminates-procrastination|Alignment eliminates procrastination]]
+- [[teachings/burnout-is-sustained-adrenaline-depletion|Burnout is sustained adrenaline depletion across body, mind, and emotion]]
+- [[teachings/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
+- [[teachings/negative-reinforcement-creates-procrastination-loops|Negative self-reinforcement creates procrastination loops]]
+- [[teachings/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]
+- [[teachings/importance-kills-enjoyment|Making something important is what makes it not fun]]
 
 ## Source
 

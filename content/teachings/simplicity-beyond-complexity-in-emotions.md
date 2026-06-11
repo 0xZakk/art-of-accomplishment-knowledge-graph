@@ -24,6 +24,10 @@ This framework also explains why empathy can't be taught intellectually. Empathy
 - [[teachings/experiential-learning-over-intellectual-understanding|Experiential learning over intellectual understanding]]
 - [[teachings/welcoming-not-just-accepting-emotions|Welcoming, not just accepting, emotions]]
 - [[teachings/naming-emotions-can-replace-feeling|Naming an emotion can become a way to avoid feeling it]]
+- [[teachings/feeling-life-beats-figuring-it-out|Feeling your life produces clearer decisions than figuring it out]]
+- [[teachings/emotional-development-stages|Emotional development follows predictable stages]]
+- [[teachings/every-emotion-is-a-signal-pointing-to-an-action|Every emotion is a signal pointing toward an action or a need]]
+- [[teachings/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
 
 ## Source
 

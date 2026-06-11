@@ -27,6 +27,9 @@ When he accepts the possibility of death, choice becomes real. He's not a captiv
 - [[teachings/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
 - [[teachings/saying-yes-to-the-hardest-thing|Saying yes to the hardest thing transforms everything else]]
 - [[teachings/community-forms-spontaneously-around-vulnerability|Community forms spontaneously around genuine vulnerability]]
+- [[teachings/feel-then-act|Feel the emotion first, then take the action]]
+- [[teachings/ownership-of-the-adventure|Taking ownership of the adventure transforms crisis]]
+- [[teachings/denial-has-a-functional-purpose|Denial has a functional purpose that protects the ability to build a life]]
 
 ## Source
 

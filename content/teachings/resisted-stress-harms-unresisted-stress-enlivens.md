@@ -23,6 +23,9 @@ This connects to a broader principle in Joe's work: emotions aren't inherently h
 - [[teachings/resistance-changes-the-emotion|Resistance changes the emotion]]
 - [[teachings/attention-alone-reduces-stress|Attention alone reduces stress]]
 - [[teachings/stress-about-stress-doubles-the-stress|Stress about stress doubles the stress]]
+- [[teachings/stress-source-is-rarely-what-you-think|The source of stress is rarely what you think]]
+- [[teachings/managing-emotions-prolongs-suffering|Managing emotions prolongs suffering]]
+- [[teachings/your-stance-toward-awakening-shapes-the-experience|Your stance toward awakening shapes the experience more than the awakening itself]]
 
 ## Source
 

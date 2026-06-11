@@ -27,6 +27,8 @@ The real insight is that connection — not the presence of people — is what d
 - [[teachings/aloneness-without-loneliness|Aloneness without loneliness]]
 - [[teachings/connection-starts-within-not-between|Connection starts within, not between]]
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/loneliness-fully-felt-is-love|Loneliness fully felt reveals itself as love]]
+- [[teachings/shame-is-a-signal-of-disconnection|Shame is a signal of disconnection, not a problem to solve]]
 
 ## Source
 

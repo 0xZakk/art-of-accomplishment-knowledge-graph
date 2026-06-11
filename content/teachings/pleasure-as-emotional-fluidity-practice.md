@@ -26,6 +26,9 @@ Joe also connects emotional fluidity to the body: allowing emotions increases ca
 - [[teachings/presence-is-pleasure|Presence is pleasure]]
 - [[teachings/pleasure-is-available-in-every-emotion|Pleasure is available in every emotion when fully felt]]
 - [[teachings/emotional-development-stages|Emotional development follows predictable stages]]
+- [[teachings/emotional-fluidity-is-already-there|You already have emotional fluidity—you just need to stop blocking it]]
+- [[teachings/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
+- [[teachings/emotions-are-signals-not-commands|When emotions become fluid they give you signals instead of controlling you]]
 
 ## Source
 

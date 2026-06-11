@@ -25,6 +25,10 @@ The champagne metaphor captures both the initial intensity and the eventual calm
 - [[teachings/anger-backlog-must-clear|Anger backlog must clear]]
 - [[teachings/repressed-anger-kinks-into-symptoms|Repressed anger kinks into depression, self-criticism, and rage]]
 - [[teachings/express-anger-without-directing-it|You can express anger without directing it at anyone]]
+- [[teachings/anger-is-love-with-a-boundary|Unresisted anger is love expressing a clear boundary]]
+- [[teachings/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]]
+- [[teachings/dont-do-emotions-at-people|Don't do emotions at people]]
+- [[teachings/childhood-origins-of-anger-repression|Anger repression gets installed through three childhood pathways]]
 
 ## Source
 

@@ -25,6 +25,10 @@ The session's most powerful moment demonstrates this viscerally. When the client
 - [[teachings/body-awareness-is-just-attention|Body awareness is just attention]]
 - [[teachings/self-trust-as-the-only-scorecard|Self-trust as the only scorecard]]
 - [[teachings/burnout-from-external-validation|Burnout comes from constantly performing for others' approval]]
+- [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
+- [[teachings/enjoyment-as-the-only-metric|Making enjoyment the only metric paradoxically increases productivity]]
+- [[teachings/fixing-avoids-being-present|Compulsive fixing avoids being present]]
+- [[teachings/awakening-is-not-an-endpoint|Awakening is not an endpoint—evolution never ends]]
 
 ## Source
 

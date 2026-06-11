@@ -23,6 +23,10 @@ The deeper pattern: she avoided anger with sadness, and avoided sadness with som
 - [[teachings/knowing-patterns-doesnt-free-you|Knowing your patterns doesn't free you from them]]
 - [[teachings/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
 - [[teachings/somatic-bypass-domesticates-instead-of-liberates|Somatic practices can domesticate rather than liberate]]
+- [[teachings/managing-yourself-kills-the-practice|Using a practice to manage yourself makes it stop working]]
+- [[teachings/breath-regulates-the-nervous-system|Breath is the lever for nervous system regulation]]
+- [[teachings/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
+- [[teachings/breathwork-without-integration-is-catharsis-not-transformation|Breathwork without integration is catharsis, not transformation]]
 
 ## Source
 

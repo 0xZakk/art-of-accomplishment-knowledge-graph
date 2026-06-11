@@ -21,6 +21,7 @@ This also reveals why authority figures crave feedback so desperately—and why 
 
 - [[teachings/being-interested-not-interesting|Being interested, not interesting]]
 - [[teachings/authority-distorts-reality-for-leaders|Being in authority distorts your reality]]
+- [[teachings/leadership-is-universal-not-assigned|Leadership is a universal quality, not an assigned role]]
 
 ## Source
 

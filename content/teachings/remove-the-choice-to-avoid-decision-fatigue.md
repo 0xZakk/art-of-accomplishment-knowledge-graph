@@ -20,6 +20,8 @@ This connects to Joe's broader insight that structural changes are more effectiv
 
 - [[teachings/alignment-eliminates-procrastination|Alignment eliminates procrastination]]
 - [[teachings/structural-changes-beat-direct-interventions|Structural changes beat direct interventions]]
+- [[teachings/childhood-criticism-creates-self-distrust|Childhood criticism teaches you not to trust yourself]]
+- [[teachings/changing-behavior-changes-consciousness|Changing behavior is the most efficient way to change consciousness]]
 
 ## Source
 

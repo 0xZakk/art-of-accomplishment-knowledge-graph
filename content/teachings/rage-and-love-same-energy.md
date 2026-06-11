@@ -22,6 +22,10 @@ The key insight is that the energy itself isn't the problem—it's how we direct
 
 - [[teachings/rage-as-gateway-to-healing|Rage as gateway to healing]]
 - [[teachings/numbness-as-survival-gift|Numbness as survival mechanism]]
+- [[teachings/love-dissolves-identity-which-is-scary|Love dissolves identity, which is why it's frightening]]
+- [[teachings/loving-presence-must-be-embodied|Loving presence must be embodied, not performed]]
+- [[teachings/welcoming-all-emotions-makes-love-possible|Welcoming all emotions is what makes sustained love possible]]
+- [[teachings/anger-is-love-with-a-boundary|Unresisted anger is love expressing a clear boundary]]
 
 ## Source
 

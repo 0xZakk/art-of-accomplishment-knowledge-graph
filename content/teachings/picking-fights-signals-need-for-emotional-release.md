@@ -26,6 +26,10 @@ The solution is to recognize the somatic feeling of "looking for a fight" and re
 - [[teachings/express-anger-without-directing-it|Express anger without directing it]]
 - [[teachings/anger-backlog-must-clear|Anger backlog must clear]]
 - [[teachings/safe-relationships-attract-displaced-emotions|Safe relationships attract displaced emotions]]
+- [[teachings/clean-exits-during-conflict|Clean exits during conflict prevent abandonment wounds]]
+- [[teachings/childhood-origins-of-anger-repression|Anger repression gets installed through three childhood pathways]]
+- [[teachings/anger-at-you-is-not-evidence-you-did-wrong|Someone's anger at you is not evidence you did something wrong]]
+- [[teachings/progression-from-anger-to-deeper-emotions|The progression from anger reveals grief and fear underneath]]
 
 ## Source
 

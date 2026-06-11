@@ -26,6 +26,10 @@ The practical recommendation: just be with the sensation all day with love and a
 - [[teachings/resistance-changes-the-emotion|Resistance changes the emotion]]
 - [[teachings/trying-to-feel-is-resistance-too|Trying to feel is resistance too]]
 - [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[teachings/speaking-from-discomfort-not-past-it|Speaking from discomfort rather than past it]]
+- [[teachings/avoidance-is-the-stuckness-not-the-feeling|The avoidance of the feeling is the stuckness, not the feeling itself]]
+- [[teachings/welcome-doubt-instead-of-running|Welcoming doubt instead of running from it opens the heart]]
+- [[teachings/stuckness-is-resistance-to-the-abyss|Stuckness is resistance to the abyss, not the abyss itself]]
 
 ## Source
 

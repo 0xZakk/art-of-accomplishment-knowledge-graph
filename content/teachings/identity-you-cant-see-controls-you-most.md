@@ -23,6 +23,11 @@ The only way to see invisible identity is through its effects: the places where 
 - [[teachings/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
 - [[teachings/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
 - [[teachings/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]]
+- [[teachings/growth-means-shedding-identities|Growth is a process of continuously shedding identities like snakeskin]]
+- [[teachings/self-concept-shapes-outer-reality|Self-concept shapes outer reality]]
+- [[teachings/every-epiphany-becomes-the-next-rut|Every epiphany about identity becomes the next identity rut]]
+- [[teachings/fear-patterns-reveal-identity|Fear patterns reveal your identity structure]]
+- [[teachings/identity-stress-comes-from-defending-a-fixed-self|Identity stress comes from defending a fixed self-concept]]
 
 ## Source
 

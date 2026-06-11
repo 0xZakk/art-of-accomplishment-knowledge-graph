@@ -26,6 +26,8 @@ The empowered stance toward money is: "I will be me no matter what the money sit
 - [[teachings/money-is-a-screen-for-projection|Money is a screen for projection]]
 - [[teachings/money-resistance-mirrors-childhood-wounds|Money resistance often mirrors childhood wounds around love and worth]]
 - [[teachings/money-beliefs-create-money-reality|Your beliefs about money create your financial reality]]
+- [[teachings/the-money-block-is-really-a-safety-block|A money block is usually a safety block in disguise]]
+- [[teachings/shame-addiction-creates-empty-fulfillment|Shame becomes addictive and creates empty fulfillment]]
 
 ## Source
 

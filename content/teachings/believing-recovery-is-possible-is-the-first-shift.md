@@ -25,6 +25,9 @@ Will's advice echoes this: be open-minded, don't let ego prevent you from trying
 - [[teachings/habenula-and-learned-helplessness|Habenula and learned helplessness]]
 - [[teachings/feeling-helplessness-creates-empowerment|Feeling helplessness creates empowerment]]
 - [[teachings/sincerity-is-prerequisite-for-transformation|Sincerity is prerequisite for transformation]]
+- [[teachings/detachment-from-outcomes-enables-better-outcomes|Detachment from outcomes enables better outcomes]]
+- [[teachings/identity-collapse-follows-peak-achievement|Identity collapse follows peak achievement]]
+- [[teachings/hate-consumes-mental-bandwidth|Hate consumes mental bandwidth needed for flow]]
 
 ## Source
 

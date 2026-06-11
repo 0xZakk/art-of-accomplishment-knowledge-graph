@@ -26,6 +26,10 @@ As adults, the need shifts from survival to thriving. Being seen by a CEO drives
 - [[teachings/not-feeling-seen-means-not-seeing|Not feeling seen means not seeing]]
 - [[teachings/children-bid-for-connection-not-defiance|Children bid for connection, not defiance]]
 - [[teachings/shame-creates-the-see-me-dont-see-me-double-bind|Shame creates the see-me-don't-see-me double bind]]
+- [[teachings/compliments-pushed-away-reveal-disallowed-goodness|Pushing away compliments reveals disallowed goodness]]
+- [[teachings/listening-before-being-seen|Letting go of being seen allows you to be seen]]
+- [[teachings/dont-should-yourself-into-being-seen|Don't should yourself into being seen]]
+- [[teachings/the-fear-of-being-seen-is-the-belief-youre-broken|The fear of being seen is the belief that you're inherently broken]]
 
 ## Source
 

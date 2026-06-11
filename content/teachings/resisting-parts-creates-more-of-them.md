@@ -41,6 +41,8 @@ Shame and resistance create internal friction. That friction doesn't motivate ch
 - [[teachings/teach-children-self-referencing|Teaching children to reference themselves builds their internal compass]]
 - [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
 - [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
+- [[teachings/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
+- [[teachings/parenting-as-self-development-practice|Parenting is a profound self-development practice]]
 
 ## Source
 

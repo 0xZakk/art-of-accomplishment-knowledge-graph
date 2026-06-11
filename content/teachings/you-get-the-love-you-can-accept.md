@@ -39,6 +39,8 @@ The work isn't changing the other person. It's expanding your own capacity to lo
 - [[teachings/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
 - [[teachings/self-love-is-the-capacity-limit-for-loving-others|Self-love is the capacity limit for loving others]]
 - [[teachings/external-patterns-mirror-internal-ones|External relationship patterns mirror internal ones]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/loving-to-manage-stops-working|Loving something to make it go away stops working]]
 
 ## Source
 

@@ -28,6 +28,10 @@ Aaron's teammate Roman Fort illustrated this through faith as a football metapho
 - [[teachings/chaos-is-necessary-for-growth|Chaos is necessary for growth]]
 - [[teachings/depression-as-gift-you-wouldnt-trade|Depression as gift you wouldn't trade]]
 - [[teachings/gold-lies-beyond-what-you-fear|The gold in life lies just beyond what you're afraid to face]]
+- [[teachings/feel-your-way-to-freedom|Feel your way to freedom]]
+- [[teachings/parenting-is-letting-them-find-their-own-line|Parenting is letting them find their own line down the mountain]]
+- [[teachings/people-pleasing-drives-excellence-and-traps-you|People-pleasing drives excellence and traps you]]
+- [[teachings/childhood-criticism-creates-self-distrust|Childhood criticism teaches you not to trust yourself]]
 
 ## Source
 

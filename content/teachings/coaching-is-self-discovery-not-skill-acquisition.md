@@ -28,6 +28,8 @@ This means the gate question isn't "do you want to be a coach?" but "are you her
 - [[teachings/coaching-expression-must-be-yours-not-your-teachers|Your coaching expression must be yours, not your teacher's]]
 - [[teachings/everyone-already-knows-the-way-home|Everyone already knows the way home]]
 - [[teachings/turning-insight-into-practice-can-backfire|Turning insight into practice can backfire]]
+- [[teachings/three-dangerous-motivations-for-coaching|Three dangerous motivations draw people to coaching]]
+- [[teachings/wanting-to-control-perception-is-absurd|Wanting to control others' perception of you is absurd]]
 
 ## Source
 

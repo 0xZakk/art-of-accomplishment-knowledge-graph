@@ -42,6 +42,8 @@ We don't let compliments move all the way through us. We don't sit with them, fe
 - [[teachings/receiving-compliments-dissolves-unworthiness|Receiving compliments somatically dissolves the feeling of unworthiness]]
 - [[teachings/approval-seeking-pushes-people-away|Seeking approval pushes away the very connection you want]]
 - [[teachings/compliments-pushed-away-reveal-disallowed-goodness|Pushing away compliments reveals disallowed goodness]]
+- [[teachings/unfelt-emotions-drive-you-into-others-opinions|Unfelt emotions drive you out of yourself and into others' opinions]]
+- [[teachings/receiving-requires-vulnerability|Receiving compliments requires the vulnerability we've been avoiding]]
 
 ## Source
 

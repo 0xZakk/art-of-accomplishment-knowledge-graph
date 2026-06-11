@@ -19,6 +19,7 @@ Joe's own teenage rebellion was extreme — green mohawk, running away, getting 
 ## Related Concepts
 
 - [[teachings/rebellion-and-approval-seeking-are-same-coin|Rebellion and approval-seeking are the same coin]]
+- [[teachings/bring-problems-to-teenagers-as-shared-challenges|Bring problems to teenagers as shared challenges, not commands]]
 
 ## Source
 

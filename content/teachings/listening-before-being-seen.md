@@ -28,6 +28,8 @@ This is not self-sacrifice or doormatting. It's strategic emotional intelligence
 - [[teachings/seeing-others-is-the-exit-from-feeling-unseen|Seeing others is the counterintuitive exit from feeling unseen]]
 - [[teachings/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
 - [[teachings/shame-creates-the-see-me-dont-see-me-double-bind|Shame creates the see-me-don't-see-me double bind]]
+- [[teachings/every-fight-is-about-feeling-unseen|Every relationship fight is fundamentally about feeling unseen]]
+- [[teachings/envy-and-bragging-signal-disallowed-parts|Envy and bragging signal disallowed parts wanting to be seen]]
 
 ## Source
 

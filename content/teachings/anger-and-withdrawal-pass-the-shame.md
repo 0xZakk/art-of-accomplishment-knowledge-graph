@@ -28,6 +28,8 @@ Proving someone wrong provides a surrogate of relief — "like the kind of relie
 - [[teachings/defense-feels-like-attack|Defense feels like attack]]
 - [[teachings/only-one-person-needs-to-drop-the-hot-potato|Only one person needs to drop the shame hot potato]]
 - [[teachings/shame-is-anger-turned-inward|Shame is anger turned inward]]
+- [[teachings/love-that-comes-with-abuse-gets-met-with-aggression|When love arrived with abuse, love later gets met with aggression]]
+- [[teachings/shame-is-a-signal-of-disconnection|Shame is a signal of disconnection, not a problem to solve]]
 
 ## Source
 

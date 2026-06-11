@@ -25,6 +25,10 @@ Joe's formula is elegant: the craving for alcohol is a signal that the heart is 
 - [[teachings/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]]
 - [[teachings/closing-heart-from-confused-love|Closing heart from confused love]]
 - [[teachings/believing-youre-broken-sustains-addiction|Believing you're broken sustains addiction]]
+- [[teachings/opening-heart-to-what-you-resist|Opening your heart to what you resist dissolves rigidity]]
+- [[teachings/doubt-is-leaving-your-heart|Doubt is leaving your heart]]
+- [[teachings/you-cannot-question-and-love-at-the-same-time|You have to stop loving to question a relationship]]
+- [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 
 ## Source
 

@@ -29,6 +29,8 @@ The conflict that results from truth-telling is necessary — but it has to happ
 - [[teachings/truth-over-comfort-in-relationships|Truth over comfort in relationships]]
 - [[teachings/both-partners-must-want-better|Both partners must want better]]
 - [[teachings/measure-how-you-fight-not-how-often|Relationship health is measured by how you fight, not how often]]
+- [[teachings/seeing-their-truth-not-finding-the-truth|Seeing their truth is different from finding 'the' truth]]
+- [[teachings/resentment-is-stored-conflict|Resentment is stored conflict—the longer you avoid it, the bigger the explosion]]
 
 ## Source
 

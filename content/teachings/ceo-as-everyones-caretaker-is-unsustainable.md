@@ -25,6 +25,10 @@ The sustainable alternative isn't doing less—it's being willing to be seen as 
 - [[teachings/owning-your-needs-is-not-selfish|Owning your needs isn't selfish]]
 - [[teachings/holding-space-requires-staying-in-yourself|Holding space requires staying in yourself]]
 - [[teachings/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
+- [[teachings/power-can-be-taken-empowerment-cannot|Power can be taken away from you but empowerment cannot]]
+- [[teachings/blame-blocks-leadership|Blame prevents stepping into leadership]]
+- [[teachings/we-push-away-support-we-dont-trust|We push away support we don't trust]]
+- [[teachings/authority-distorts-reality-for-leaders|Being in authority distorts your reality]]
 
 ## Source
 

@@ -23,6 +23,10 @@ This is both a filter and a teaching: if you can't be sincere about where you ar
 - [[teachings/skepticism-after-not-before-experiments|Skepticism belongs after the experiment, not before]]
 - [[teachings/discovery-not-improvement|Transformation is discovery, not improvement]]
 - [[teachings/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]]
+- [[teachings/test-teachings-through-experiments|Test teachings through experiments rather than believing them]]
+- [[teachings/let-compliments-move-through-you|Letting compliments move all the way through you destroys ego]]
+- [[teachings/good-teachings-inevitably-get-corrupted|Good teachings inevitably get corrupted into new moralities]]
+- [[teachings/gentle-narcissism-in-the-call-to-coach|Gentle narcissism hides in the call to coach]]
 
 ## Source
 

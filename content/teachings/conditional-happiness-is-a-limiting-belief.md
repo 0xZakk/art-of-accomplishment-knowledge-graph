@@ -20,6 +20,10 @@ Brett points out this meta-trap: someone listens to an episode on limiting belie
 - [[teachings/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
 - [[teachings/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
 - [[teachings/external-scorecards-always-move|External scorecards always move]]
+- [[teachings/three-categories-of-limiting-beliefs|Limiting beliefs come in three forms: false thoughts, misinterpreted experience, and incomplete story]]
+- [[teachings/inherent-goodness-eliminates-internal-friction|Seeing your inherent goodness eliminates internal friction]]
+- [[teachings/you-cannot-judge-the-value-of-your-own-input|You cannot judge the value of your own input]]
+- [[teachings/saying-yes-to-what-feels-good-now-gives-energy|Saying yes to what feels good now gives energy that chasing the future drains]]
 
 ## Source
 

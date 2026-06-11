@@ -31,6 +31,7 @@ When people work on this fear directly — building boundary confidence, process
 - [[teachings/love-requires-willingness-to-be-hurt|Love requires willingness to be hurt]]
 - [[teachings/beckoning-and-pushing-love-simultaneously|We beckon love consciously while pushing it away subconsciously]]
 - [[teachings/heartbreak-is-the-mechanism-of-boundaries|Heartbreak is the mechanism of healthy boundaries]]
+- [[teachings/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]]
 
 ## Source
 

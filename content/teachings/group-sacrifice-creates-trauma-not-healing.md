@@ -24,6 +24,10 @@ The antidote isn't to avoid groups but to maintain individual autonomy within th
 - [[teachings/compromise-builds-resentment|Compromise builds resentment]]
 - [[teachings/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
 - [[teachings/boundaries-are-essential-with-mental-health|Boundaries are essential with mental health]]
+- [[teachings/dismissing-deep-connection-as-cult-diminishes-life|Dismissing deep community as 'cult behavior' diminishes the possibility of authentic living]]
+- [[teachings/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]]
+- [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
+- [[teachings/not-sharing-hard-truths-prevents-real-love|Not sharing hard truths prevents real love]]
 
 ## Source
 

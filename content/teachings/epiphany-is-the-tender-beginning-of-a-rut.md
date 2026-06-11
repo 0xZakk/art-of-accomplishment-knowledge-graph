@@ -25,6 +25,9 @@ This is why Joe distinguishes epiphany from transformation: epiphany is intellec
 - [[teachings/peak-experience-becomes-goal-trap|Peak experience becomes goal trap]]
 - [[teachings/being-in-the-question-beats-finding-the-answer|Being in the question beats finding the answer]]
 - [[teachings/naming-emotions-can-replace-feeling|Naming an emotion can become a way to avoid feeling it]]
+- [[teachings/the-recent-epiphany-is-also-a-rut|The most recent epiphany becomes the next rut you have to release]]
+- [[teachings/awakening-is-not-an-endpoint|Awakening is not an endpoint—evolution never ends]]
+- [[teachings/hollowing-out-is-a-perpetual-process|The hollowing out process never ends]]
 
 ## Source
 

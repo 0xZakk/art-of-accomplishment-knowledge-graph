@@ -41,6 +41,11 @@ We create the aloneness we fear.
 - [[teachings/we-push-away-approval-we-seek|We push away the approval we seek]]
 - [[teachings/you-get-the-love-you-can-accept|You only get the love you can let in]]
 - [[teachings/war-with-your-wants-creates-self-sabotage|Being at war with your wants creates self-sabotage]]
+- [[teachings/holding-it-together-blocks-support|Holding it together shields you from the support trying to reach you]]
+- [[teachings/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]]
+- [[teachings/helplessness-is-the-emotion-being-avoided|The feeling being avoided underneath 'I've got this' is helplessness]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/when-love-shows-up-unloved-parts-surface|When love shows up, unloved parts surface to be loved]]
 
 ## Source
 

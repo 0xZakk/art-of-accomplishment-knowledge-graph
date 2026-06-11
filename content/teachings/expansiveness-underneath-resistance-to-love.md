@@ -31,6 +31,7 @@ This is why compliments feel threatening — they point to a vastness in us that
 - [[teachings/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
 - [[teachings/pleasure-dissolves-the-boundary-of-self|Deep pleasure dissolves the boundary of self]]
 - [[teachings/receiving-requires-vulnerability|Receiving compliments requires the vulnerability we've been avoiding]]
+- [[teachings/accepting-love-requires-tolerating-safety|Accepting love requires a nervous system that can tolerate safety]]
 
 ## Source
 

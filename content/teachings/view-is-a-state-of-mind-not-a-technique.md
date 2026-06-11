@@ -25,6 +25,9 @@ The four components serve as both a description of the state and doorways to sin
 - [[teachings/communication-techniques-get-weaponized|Communication techniques get weaponized]]
 - [[teachings/presence-matters-more-than-technique|Presence matters more than technique]]
 - [[teachings/state-of-mind-determines-how-youre-heard|State of mind determines how you're heard]]
+- [[teachings/view-is-a-mindset-not-a-technique|View is a mindset, not a technique]]
+- [[teachings/vipe-the-four-qualities-of-great-coaches|Every great coach shares four qualities: vulnerability, impartiality, empathy, and wonder]]
+- [[teachings/view-cannot-be-used-as-a-tool|VIEW cannot be used as a tool to get somewhere]]
 
 ## Source
 

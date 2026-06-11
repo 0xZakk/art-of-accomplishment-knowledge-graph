@@ -23,6 +23,10 @@ The word "selfish" is a trap. It conflates "knowing what you need" with "not car
 - [[teachings/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]]
 - [[teachings/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
 - [[teachings/war-with-your-wants-creates-self-sabotage|War with your wants creates self-sabotage]]
+- [[teachings/ceo-as-everyones-caretaker-is-unsustainable|The CEO as everyone's caretaker is unsustainable]]
+- [[teachings/selfishness-is-a-parents-projection|Selfishness is a parent's projection]]
+- [[teachings/management-communicates-distrust|Managing someone communicates you don't trust them]]
+- [[teachings/wanting-money-is-not-selfish|Wanting money is not selfish — it's wanting freedom and safety]]
 
 ## Source
 

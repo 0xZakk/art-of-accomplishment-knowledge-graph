@@ -29,6 +29,7 @@ Often, the very act of being heard changes what you want and what you'll do next
 - [[teachings/compromise-builds-resentment|Compromise means neglecting yourself and it always builds resentment]]
 - [[teachings/truth-over-comfort-in-relationships|Prioritizing truth over comfort creates lasting relationships]]
 - [[teachings/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]]
+- [[teachings/what-we-do-for-love-erodes-power|What we do to maintain love erodes our power]]
 
 ## Source
 

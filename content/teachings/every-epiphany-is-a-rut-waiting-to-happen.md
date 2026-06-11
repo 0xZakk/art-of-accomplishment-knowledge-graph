@@ -28,6 +28,7 @@ The implication: don't cling to your breakthroughs. The thing that freed you wil
 - [[teachings/to-me-by-me-through-me-as-me|Developmental stages: to me, by me, through me, as me]]
 - [[teachings/epiphany-is-the-tender-beginning-of-a-rut|Every epiphany is the tender beginning of a new rut]]
 - [[teachings/hollowing-out-is-a-perpetual-process|The hollowing out process never ends]]
+- [[teachings/awakening-is-not-a-finish-line|Awakening is not a finish line — evolution keeps going]]
 
 ## Source
 

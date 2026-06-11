@@ -30,6 +30,7 @@ The recommendation for developing this capacity is not to chase empathic skills 
 - [[teachings/empathy-is-being-with-not-in|Empathy is being with someone, not in someone]]
 - [[teachings/subtle-superiority-as-protection|Subtle superiority is a protection pattern that creates isolation]]
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/connection-dissolves-self-consciousness|Connection dissolves self-consciousness]]
 
 ## Source
 

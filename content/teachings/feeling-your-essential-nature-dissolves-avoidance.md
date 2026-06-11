@@ -33,6 +33,7 @@ This points to a fundamental reframe of addiction and procrastination: these are
 - [[teachings/you-cant-stop-being-present|You can't stop being present]]
 - [[teachings/wanting-to-control-perception-is-absurd|Wanting to control others' perception of you is absurd]]
 - [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[teachings/avoidance-chain-from-essence-to-addiction|The avoidance chain runs from essential self through thinking to addiction]]
 
 ## Source
 

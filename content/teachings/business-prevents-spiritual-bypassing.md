@@ -27,6 +27,7 @@ This makes business a uniquely honest mirror for self-development.
 - [[teachings/experiments-make-knowledge-embodied|Experiments make knowledge embodied]]
 - [[teachings/business-alignment-is-spiritual-alignment|Business alignment and spiritual alignment are the same thing]]
 - [[teachings/business-as-self-awareness-practice|Business is a self-awareness practice, not separate from life]]
+- [[teachings/embrace-intensity-in-business|Embracing intensity in business reveals what you're avoiding]]
 
 ## Source
 

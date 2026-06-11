@@ -26,6 +26,8 @@ The trap is seeing through a story intellectually without feeling the emotion. Y
 - [[teachings/stronger-stories-slow-emotional-movement|The stronger the story, the slower emotions move]]
 - [[teachings/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
 - [[teachings/progression-from-anger-to-deeper-emotions|The progression from anger reveals grief and fear underneath]]
+- [[teachings/anger-moves-the-endurer-into-buried-sadness|Anger is the doorway from endurance into buried sadness]]
+- [[teachings/feeling-through-requires-letting-identity-restructure|Feeling an emotion fully requires letting your identity restructure]]
 
 ## Source
 

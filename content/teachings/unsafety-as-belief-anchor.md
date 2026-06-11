@@ -26,6 +26,10 @@ Joe offers a paradoxical resolution: ultimately, you're NOT safe — you're goin
 - [[teachings/fear-as-road-map-not-enemy|Fear as road map, not enemy]]
 - [[teachings/fear-of-losing-relatability-signals-transformation|Fear of losing relatability signals transformation]]
 - [[teachings/safety-can-disconnect-from-reality|The pursuit of safety can disconnect you from reality]]
+- [[teachings/safety-is-an-illusion-of-comfort|Safety is an illusion—it means feeling comfortable, not being objectively safe]]
+- [[teachings/what-shifts-is-the-doer-not-your-capacity|What shifts in awakening is the doer, not your capacity to function]]
+- [[teachings/lattice-work-of-beliefs|Limiting beliefs form an interconnected lattice work]]
+- [[teachings/fear-is-present-on-every-path|Fear is present on every path so face it directly]]
 
 ## Source
 

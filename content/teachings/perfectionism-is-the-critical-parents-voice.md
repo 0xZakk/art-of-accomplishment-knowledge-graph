@@ -28,6 +28,8 @@ Perfectionism manifests as rigidity in the body, hesitation in action, and stunt
 - [[teachings/inner-voice-mirrors-parenting|The inner critic mirrors how you were parented]]
 - [[teachings/rigidity-and-hesitation-signal-perfectionism|Rigidity and hesitation in the body signal perfectionism at work]]
 - [[teachings/perfectionism-as-safety-strategy|Perfectionism originates as a childhood safety strategy]]
+- [[teachings/perfectionism-is-a-fear-response-that-creates-chaos|Perfectionism is a fear response that creates the chaos it tries to prevent]]
+- [[teachings/voice-in-head-talks-to-itself|The voice in the head talks to itself more than to you]]
 
 ## Source
 

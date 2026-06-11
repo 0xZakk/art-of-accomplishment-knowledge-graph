@@ -33,6 +33,7 @@ The deeper insight is that people who can't access their anger become "very oppr
 - [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 - [[teachings/childhood-freeze-becomes-adult-trap|The childhood freeze response becomes the adult trap]]
 - [[teachings/express-anger-without-directing-it|You can express anger without directing it at anyone]]
+- [[teachings/you-are-already-doing-what-you-fear|You are already doing to yourself what you fear others will do]]
 
 ## Source
 

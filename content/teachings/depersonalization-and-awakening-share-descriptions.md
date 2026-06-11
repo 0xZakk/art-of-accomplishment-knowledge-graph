@@ -23,6 +23,11 @@ This observation also suggests that the shift itself is more natural and common 
 - [[teachings/awakening-is-not-an-endpoint|Awakening is not an endpoint]]
 - [[teachings/dissolution-of-self-happens-many-ways|Dissolution of self happens many ways]]
 - [[teachings/confusing-state-with-insight|Confusing state with insight]]
+- [[teachings/awakening-is-not-what-you-think|Awakening is not what your mind can think it is]]
+- [[teachings/the-recent-epiphany-is-also-a-rut|The most recent epiphany becomes the next rut you have to release]]
+- [[teachings/story-dissolution-is-progress-not-a-problem|Story dissolution is progress, not a problem]]
+- [[teachings/awakening-doesnt-erase-your-humanity|Awakening doesn't erase your humanity — it makes you more sensitive]]
+- [[teachings/sense-of-self-transforms-through-facing-the-abyss|The sense of self transforms through facing the abyss you've been avoiding]]
 
 ## Source
 

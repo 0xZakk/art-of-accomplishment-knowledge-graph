@@ -26,6 +26,10 @@ This parallels childhood identity development — we naturally grow through micr
 - [[teachings/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]]
 - [[teachings/growth-means-shedding-identities|Growth means shedding identities]]
 - [[teachings/stronger-stories-slow-emotional-movement|The stronger the story, the slower emotions move]]
+- [[teachings/the-recent-epiphany-is-also-a-rut|The most recent epiphany becomes the next rut you have to release]]
+- [[teachings/emotions-move-fastest-without-story|Emotions move fastest without story]]
+- [[teachings/sense-of-self-expands-then-dissolves|The sense of self expands from personal to universal, then dissolves]]
+- [[teachings/emotions-move-through-a-rainbow-not-discrete-categories|Emotions move through a rainbow rather than discrete categories]]
 
 ## Source
 

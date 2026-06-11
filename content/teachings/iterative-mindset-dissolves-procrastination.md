@@ -26,6 +26,9 @@ This mindset also dramatically increases learning speed. Because you're not worr
 - [[teachings/iterative-mindset-prevents-failure|Iterative mindset prevents failure]]
 - [[teachings/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]]
 - [[teachings/creative-play-before-critical-editing|Create like a three-year-old playing, then edit like an expert]]
+- [[teachings/reward-failure-in-culture|Reward failure to create innovative culture]]
+- [[teachings/connection-over-perfection|Connection over perfection produces better results than getting it right]]
+- [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
 
 ## Source
 

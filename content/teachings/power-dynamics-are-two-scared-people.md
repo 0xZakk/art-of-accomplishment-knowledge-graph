@@ -28,6 +28,10 @@ The dissolution is surprisingly simple: if you can see that the other person isn
 - [[teachings/defense-feels-like-attack|Defense feels like attack]]
 - [[teachings/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
 - [[teachings/binary-thinking-signals-fear|Binary thinking signals fear]]
+- [[teachings/fight-or-collapse-is-a-false-dichotomy|Fight or collapse is a false dichotomy born from power-over thinking]]
+- [[teachings/logical-superiority-avoids-emotion|Feeling logically superior in a fight means you're avoiding an emotion]]
+- [[teachings/depersonalize-the-problem|Depersonalize the problem — it's a patient on the table]]
+- [[teachings/not-defending-reveals-inherent-goodness|Not defending yourself reveals your inherent goodness]]
 
 ## Source
 

@@ -24,6 +24,7 @@ The key distinction is between conviction (I will engage with whatever comes) an
 
 - [[teachings/certainty-lives-in-how-you-want-to-be|The only real certainty is how you want to be]]
 - [[teachings/binary-thinking-signals-fear|Binary thinking signals fear]]
+- [[teachings/face-reality-feel-emotions-find-certainty|Face reality, feel emotions, find certainty — three steps through crisis]]
 
 ## Source
 

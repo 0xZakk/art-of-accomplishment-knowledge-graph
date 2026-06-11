@@ -24,6 +24,10 @@ About 70-80% of relationships survive transformation; 20-30% fall away when peop
 - [[teachings/boundary-firmness-eliminates-fear-of-attack|Boundary firmness eliminates fear of attack]]
 - [[teachings/belief-precedes-relationship-change|Belief precedes relationship change]]
 - [[teachings/relationship-agreements-create-safe-conflict|Relationship agreements create a safe playing field for conflict]]
+- [[teachings/safe-agreements-make-conflict-transformative|Safe agreements make conflict transformative]]
+- [[teachings/a-boundary-with-a-return-prevents-abandonment|Draw a boundary that includes coming back so they don't feel abandoned]]
+- [[teachings/clean-exits-during-conflict|Clean exits during conflict prevent abandonment wounds]]
+- [[teachings/safety-enables-productive-conflict|Safety enables productive conflict rather than preventing it]]
 
 ## Source
 

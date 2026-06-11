@@ -25,6 +25,9 @@ Joe's advice for someone who defaults to compassion: "Ask your compassion to be 
 - [[teachings/resistance-changes-the-emotion|Resistance changes the emotion]]
 - [[teachings/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
 - [[teachings/anger-release-ends-in-clarity-and-determination|Clean anger release ends in clarity and determination about yourself, not others]]
+- [[teachings/express-anger-without-directing-it|You can express anger without directing it at anyone]]
+- [[teachings/actor-technique-for-anger-release|The actor technique lets you release anger while maintaining awareness]]
+- [[teachings/progression-from-anger-to-deeper-emotions|The progression from anger reveals grief and fear underneath]]
 
 ## Source
 

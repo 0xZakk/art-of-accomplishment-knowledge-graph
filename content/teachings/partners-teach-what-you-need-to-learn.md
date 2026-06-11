@@ -26,6 +26,9 @@ The conflict itself is the delivery mechanism for growth, but only if both partn
 - [[teachings/logical-vs-emotional-partner-dynamic|The logical vs emotional partner dynamic is a trap]]
 - [[teachings/no-right-or-wrong-only-perspectives|There is no right or wrong in a fight, only perspectives]]
 - [[teachings/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
+- [[teachings/logical-conviction-hijacks-empathy|Logical conviction hijacks empathetic people]]
+- [[teachings/logical-superiority-avoids-emotion|Feeling logically superior in a fight means you're avoiding an emotion]]
+- [[teachings/seeing-their-truth-not-finding-the-truth|Seeing their truth is different from finding 'the' truth]]
 
 ## Source
 

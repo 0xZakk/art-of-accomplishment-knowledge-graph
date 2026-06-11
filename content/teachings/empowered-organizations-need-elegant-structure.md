@@ -29,6 +29,9 @@ The political level of a team is a litmus test for disempowerment — highly pol
 - [[teachings/empower-people-decentrally|Empower people decentrally]]
 - [[teachings/safety-enables-productive-conflict|Safety enables productive conflict]]
 - [[teachings/operating-principles-automate-eighty-percent-of-decisions|Operating principles automate eighty percent of decisions]]
+- [[teachings/structure-creates-safety-not-oppression|Providing structure through principles creates safety, not oppression]]
+- [[teachings/internal-principles-create-empowerment|Living by internal principles creates empowerment and dissolves drama]]
+- [[teachings/weaponized-boundaries-are-control-in-disguise|Weaponized boundaries are control in disguise]]
 
 ## Source
 

@@ -20,6 +20,7 @@ This reframe removes all the preciousness around "running experiments." You're a
 ## Related Concepts
 
 - [[teachings/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
+- [[teachings/experiments-make-knowledge-embodied|Experiments create embodied knowledge, not book learning]]
 
 ## Source
 

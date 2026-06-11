@@ -25,6 +25,7 @@ The interesting moment comes when the client tries to feel his belly and his fac
 - [[teachings/flow-state-is-embodiment-applied-to-life|Flow state in sports is the same skill as embodiment in life]]
 - [[teachings/not-feeling-may-be-repression|Thinking you can't feel may actually be repression]]
 - [[teachings/play-tennis-in-life|Apply your embodied skill from one domain to all of life]]
+- [[teachings/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
 
 ## Source
 

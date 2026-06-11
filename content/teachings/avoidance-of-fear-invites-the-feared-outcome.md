@@ -32,6 +32,7 @@ The antidote is welcoming the feared emotion directly. If you can take or leave 
 - [[teachings/fully-feeling-stops-the-pattern|Fully falling in love with the avoided feeling is the quickest way to stop a negative pattern]]
 - [[teachings/guilt-is-inherited-fear-in-disguise|Guilt is inherited fear in disguise]]
 - [[teachings/resisting-fear-leaks-it-sideways|Resisting fear doesn't eliminate it — it leaks out sideways]]
+- [[teachings/open-your-heart-to-stop-caring-what-they-think|Opening your heart to someone dissolves your concern with their judgment]]
 
 ## Source
 

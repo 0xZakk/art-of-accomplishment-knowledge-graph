@@ -49,6 +49,10 @@ When change comes from wanting rather than shoulding, it actually sticks.
 - [[teachings/wanting-is-aliveness|Wanting is aliveness]]
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
 - [[teachings/should-is-a-mechanism-of-shame|Should is a mechanism of shame that locks bad habits in place]]
+- [[teachings/should-is-shame-that-stops-behavior|\"Should\" is shame, and shame stops behavior]]
+- [[teachings/wants-motivate-where-shoulds-stagnate|Wants motivate where shoulds stagnate]]
+- [[teachings/stress-about-stress-doubles-the-stress|How you think about stress determines whether it helps or harms]]
+- [[teachings/shoulds-are-a-cage-not-a-solution|Shoulds are a cage that reinforces the problem they try to solve]]
 
 ## Source
 

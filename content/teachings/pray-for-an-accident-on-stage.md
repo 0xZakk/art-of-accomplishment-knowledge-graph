@@ -23,6 +23,7 @@ The practical teaching: prepare thoroughly so your body knows the material. Then
 - [[teachings/reframe-failure-as-experimentation|Reframe failure as experimentation]]
 - [[teachings/people-want-connection-not-perfection|People want connection, not perfection]]
 - [[teachings/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]]
+- [[teachings/permission-to-be-imperfect-dissolves-freeze|Permission to be imperfect dissolves freeze]]
 
 ## Source
 

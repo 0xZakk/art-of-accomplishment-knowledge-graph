@@ -26,6 +26,8 @@ The critical internal shift is moving from feeling stuck to recognizing choice. 
 - [[teachings/passive-aggression-is-unowned-aggression|Passive aggression is aggression that isn't being owned as aggression]]
 - [[teachings/wanting-someone-to-change-reflects-self-rejection|Wanting someone to change reflects a part of yourself you can't love]]
 - [[teachings/anger-at-without-permission-is-manipulation|Expressing anger at someone without permission is a bid for control]]
+- [[teachings/a-boundary-with-a-return-prevents-abandonment|Draw a boundary that includes coming back so they don't feel abandoned]]
+- [[teachings/stop-being-the-victim-to-love-the-angry-person|You can't love someone you see as your oppressor]]
 
 ## Source
 

@@ -23,6 +23,8 @@ This is why limiting beliefs are so powerful. They don't feel like beliefs at al
 - [[teachings/physical-constriction-signals-limiting-beliefs|Physical constriction and tension signal where limiting beliefs live]]
 - [[teachings/three-categories-of-limiting-beliefs|Limiting beliefs come in three forms: false thoughts, misinterpreted experience, and incomplete story]]
 - [[teachings/constriction-not-truth-identifies-limiting-beliefs|Constriction, not truth, identifies limiting beliefs]]
+- [[teachings/lattice-work-of-beliefs|Limiting beliefs form an interconnected lattice work]]
+- [[teachings/you-have-already-changed-thousands-of-beliefs|You have already changed thousands of beliefs without noticing]]
 
 ## Source
 

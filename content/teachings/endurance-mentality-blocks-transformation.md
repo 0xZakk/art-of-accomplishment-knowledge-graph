@@ -28,6 +28,10 @@ The key distinction Joe draws is between enduring pain and transforming pain. En
 - [[teachings/managing-trauma-versus-resolving-it|Managing trauma versus resolving it]]
 - [[teachings/obligation-kills-love|Obligation kills love]]
 - [[teachings/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
+- [[teachings/the-endurer-pattern-learns-not-to-feel-pain|The endurer pattern survives by refusing to feel pain]]
+- [[teachings/grief-sustained-transforms-everything|Sustained grief transforms everything it touches]]
+- [[teachings/anger-moves-the-endurer-into-buried-sadness|Anger is the doorway from endurance into buried sadness]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 
 ## Source
 

@@ -23,6 +23,10 @@ The deeper pattern is that rehearsal builds anxiety rather than reducing it. By 
 - [[teachings/procrastination-is-emotional-avoidance|Procrastination is emotional avoidance]]
 - [[teachings/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
 - [[teachings/resistance-gives-the-inner-critic-its-power|Resistance gives the inner critic its power]]
+- [[teachings/inner-critic-prevents-nervous-system-rest|The inner critic prevents the rest needed for nervous system integration]]
+- [[teachings/voice-in-head-talks-to-itself|The voice in the head talks to itself more than to you]]
+- [[teachings/engineering-heartbreak-to-avoid-heartbreak|We engineer heartbreak to avoid the heartbreak we haven't felt]]
+- [[teachings/resisting-inner-critic-strengthens-it|Resisting the inner critic only strengthens it]]
 
 ## Source
 

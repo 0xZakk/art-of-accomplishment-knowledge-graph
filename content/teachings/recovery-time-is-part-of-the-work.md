@@ -22,6 +22,10 @@ This applies beyond intensive courses. Any deep emotional or identity work requi
 
 - [[teachings/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]]
 - [[teachings/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]]
+- [[teachings/experiential-learning-over-intellectual-understanding|Experiential learning transforms deeper than intellectual understanding]]
+- [[teachings/questioning-assumptions-destabilizes-before-it-clarifies|Questioning assumptions destabilizes before it clarifies]]
+- [[teachings/enjoy-the-sensations-of-awakening|Enjoying the sensations rather than bracing eases the integration]]
+- [[teachings/community-amplifies-transformation|Community amplifies personal transformation]]
 
 ## Source
 

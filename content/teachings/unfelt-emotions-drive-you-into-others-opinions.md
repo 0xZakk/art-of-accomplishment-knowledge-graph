@@ -26,6 +26,9 @@ The antidote is direct: every time you notice approval-seeking, feel the emotion
 - [[teachings/self-judgment-defends-against-emotions|Self-judgment defends against emotions]]
 - [[teachings/presence-is-pleasure|Presence is pleasure]]
 - [[teachings/speaking-truth-dissolves-approval-seeking|Speaking your truth dissolves the need for external approval]]
+- [[teachings/we-push-away-approval-we-seek|We push away the approval we seek]]
+- [[teachings/chasing-approval-separates-you-from-yourself|Chasing approval separates you from yourself]]
+- [[teachings/self-possession-is-what-people-are-attracted-to|Self-possession is what people are actually attracted to]]
 
 ## Source
 

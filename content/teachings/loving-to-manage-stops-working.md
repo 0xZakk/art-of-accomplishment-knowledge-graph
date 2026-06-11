@@ -30,6 +30,7 @@ The other common trap is trying to skip directly to love without moving through 
 - [[teachings/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 - [[teachings/what-we-do-for-love-erodes-power|What we do to maintain love erodes our power]]
+- [[teachings/false-love-erodes-power-in-relationships|Maintaining false love erodes power and attraction in relationships]]
 
 ## Source
 

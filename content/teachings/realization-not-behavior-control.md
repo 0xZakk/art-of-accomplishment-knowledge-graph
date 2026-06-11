@@ -26,6 +26,7 @@ The brain is the first to stop believing and the first to forget. The body and e
 - [[teachings/changing-behavior-changes-consciousness|Changing behavior is the most efficient way to change consciousness]]
 - [[teachings/three-categories-of-limiting-beliefs|Limiting beliefs come in three forms: false thoughts, misinterpreted experience, and incomplete story]]
 - [[teachings/test-teachings-through-experiments|Test teachings through experiments rather than believing them]]
+- [[teachings/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]]
 
 ## Source
 

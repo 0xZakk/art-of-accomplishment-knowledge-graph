@@ -29,6 +29,8 @@ The fights that emerge come from the resentment of self-abandonment. Someone who
 - [[teachings/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
 - [[teachings/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
 - [[teachings/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
+- [[teachings/loving-to-manage-stops-working|Loving something to make it go away stops working]]
+- [[teachings/taking-responsibility-for-partners-emotions-breeds-resentment|Taking responsibility for your partner's emotions breeds resentment]]
 
 ## Source
 

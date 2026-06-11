@@ -27,6 +27,8 @@ The way through is somatic, not cognitive. Feeling the stuck place, rather than 
 - [[teachings/seeing-a-pattern-means-youre-halfway-through|Seeing a pattern means you're already halfway through it]]
 - [[teachings/avoidance-is-the-stuckness-not-the-feeling|The avoidance of the feeling is the stuckness, not the feeling itself]]
 - [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[teachings/self-attack-after-epiphany-slows-transformation|Beating yourself up after an epiphany slows your transformation]]
+- [[teachings/you-are-already-doing-what-you-fear|You are already doing to yourself what you fear others will do]]
 
 ## Source
 

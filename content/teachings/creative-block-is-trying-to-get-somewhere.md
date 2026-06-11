@@ -27,6 +27,7 @@ Creative flow isn't somewhere you arrive. It's what happens when you stop trying
 - [[teachings/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]
 - [[teachings/art-is-not-important-and-thats-freedom|Art is not important, and that's freedom]]
 - [[teachings/life-is-art-not-separate-from-it|Life is art, not separate from it]]
+- [[teachings/liminal-space-is-where-breakthroughs-happen|Liminal space is where breakthroughs happen]]
 
 ## Source
 

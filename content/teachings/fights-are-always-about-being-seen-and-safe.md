@@ -21,6 +21,11 @@ Tara illustrates this with their dish fights: when stuck in "you're not doing en
 
 - [[teachings/every-fight-is-about-feeling-unseen|Every fight is about feeling unseen]]
 - [[teachings/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
+- [[teachings/dropping-shame-is-prerequisite-for-seeing-your-partner|Dropping shame is the prerequisite for seeing your partner]]
+- [[teachings/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
+- [[teachings/you-must-know-you-can-leave-to-love|You must know you can leave to truly love]]
+- [[teachings/measure-how-you-fight-not-how-often|Relationship health is measured by how you fight, not how often]]
+- [[teachings/fighting-without-shame-transforms-conflict|Fighting without shame transforms conflict]]
 
 ## Source
 

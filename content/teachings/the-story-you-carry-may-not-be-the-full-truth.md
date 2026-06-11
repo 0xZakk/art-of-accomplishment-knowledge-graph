@@ -25,6 +25,8 @@ We form our core stories as children with a child's limited perspective. Then we
 - [[teachings/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]]
 - [[teachings/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
 - [[teachings/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]]
+- [[teachings/independence-as-armor-against-abandonment|Independence can be armor against the fear of being abandoned again]]
+- [[teachings/compartmentalization-hides-your-full-self|Compartmentalization protects you but hides your full self from others]]
 
 ## Source
 

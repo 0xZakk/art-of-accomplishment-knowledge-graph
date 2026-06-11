@@ -22,6 +22,8 @@ The underlying principle is that working with limiting beliefs is about constant
 - [[teachings/physical-constriction-signals-limiting-beliefs|Physical constriction signals limiting beliefs]]
 - [[teachings/three-categories-of-limiting-beliefs|Three categories of beliefs keep all others stuck]]
 - [[teachings/emotions-are-glue-holding-beliefs|Emotions are the glue holding beliefs in place]]
+- [[teachings/lattice-work-of-beliefs|Limiting beliefs form an interconnected lattice work]]
+- [[teachings/realization-not-behavior-control|Seeing through limiting beliefs is realization, not behavior control]]
 
 ## Source
 

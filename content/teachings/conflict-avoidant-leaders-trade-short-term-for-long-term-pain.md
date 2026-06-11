@@ -24,6 +24,9 @@ The core trade is short-term discomfort for long-term discomfort. Leaders who ac
 - [[teachings/safety-comes-from-working-through-conflict|Safety comes from working through conflict]]
 - [[teachings/nice-cultures-breed-passive-aggression|Nice cultures breed passive aggression]]
 - [[teachings/conflict-builds-trust|Conflict is necessary for building trust]]
+- [[teachings/truth-over-comfort-in-relationships|Prioritizing truth over comfort creates lasting relationships]]
+- [[teachings/defensiveness-kills-team-communication|Allowing defensiveness kills team communication]]
+- [[teachings/resentment-is-stored-conflict|Resentment is stored conflict—the longer you avoid it, the bigger the explosion]]
 
 ## Source
 

@@ -27,6 +27,10 @@ When you pause and feel genuine gratitude — "Oh, I'm so glad I just saw that" 
 - [[teachings/insight-requires-embodied-integration|Insight requires embodied integration]]
 - [[teachings/every-epiphany-becomes-a-task|Every epiphany becomes a task]]
 - [[teachings/embodied-listening-improves-signal-to-noise|Embodied listening improves signal to noise]]
+- [[teachings/gratitude-works-when-felt-witnessed-and-sustained|Gratitude works when it is felt, witnessed, and sustained]]
+- [[teachings/gratitude-makes-noticing-efficient|Gratitude for moments of presence makes change more efficient]]
+- [[teachings/punishing-the-remembering-slows-growth|Punishing yourself for remembering slows growth]]
+- [[teachings/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]
 
 ## Source
 

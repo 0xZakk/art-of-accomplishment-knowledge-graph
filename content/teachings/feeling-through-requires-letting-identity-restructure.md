@@ -28,6 +28,10 @@ How do you know you've felt an emotion all the way through? You love it. "If you
 - [[teachings/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]]
 - [[teachings/resistance-changes-the-emotion|Resistance changes the emotion]]
 - [[teachings/moving-emotions-dissolves-stories|Moving emotions dissolves stories and creates clarity]]
+- [[teachings/emotions-are-signals-not-commands|When emotions become fluid they give you signals instead of controlling you]]
+- [[teachings/anger-release-ends-in-clarity-and-determination|Clean anger release ends in clarity and determination about yourself, not others]]
+- [[teachings/emotional-titration-is-adaptive|Emotional titration is adaptive, not avoidant]]
+- [[teachings/recycling-anger-hides-deeper-emotions|Anger that keeps recycling is covering deeper emotions underneath]]
 
 ## Source
 

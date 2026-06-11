@@ -27,6 +27,8 @@ This points to a broader principle: compulsive behaviors often dissolve not thro
 - [[teachings/shame-drives-compulsive-avoidance|Shame drives compulsive avoidance behaviors]]
 - [[teachings/avoidance-chain-from-essence-to-addiction|The avoidance chain runs from essential self through thinking to addiction]]
 - [[teachings/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck in the patterns you regret]]
+- [[teachings/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
+- [[teachings/shame-locks-in-bad-habits|Shame locks in the very habits it punishes]]
 
 ## Source
 

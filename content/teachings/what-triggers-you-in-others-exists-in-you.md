@@ -35,6 +35,9 @@ You're judging yourself for something universally human. And that judgment creat
 - [[teachings/triggers-rhyme-with-negative-self-talk|We get triggered when something rhymes with our negative self-talk]]
 - [[teachings/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
 - [[teachings/shame-creates-the-behaviors-it-punishes|Shaming a behavior is the best way to guarantee it repeats]]
+- [[teachings/moving-emotions-dissolves-depression|Moving the emotion dissolves depression]]
+- [[teachings/saying-ouch-reveals-how-abusive-self-talk-is|Saying \"ouch\" out loud reveals how abusive your self-talk really is]]
+- [[teachings/not-defending-reveals-inherent-goodness|Not defending yourself reveals your inherent goodness]]
 
 ## Source
 

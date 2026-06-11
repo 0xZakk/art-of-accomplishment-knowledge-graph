@@ -24,6 +24,9 @@ Relationships work the same way. The more transformation happening in a couple's
 - [[teachings/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]]
 - [[teachings/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms, unresisted stress enlivens]]
 - [[teachings/suppressing-transitions-makes-them-worse|Suppressing transitions creates bigger eventual disruptions]]
+- [[teachings/resistance-is-a-natural-step-in-transformation|Resistance is a natural step in transformation]]
+- [[teachings/peace-comes-from-dropping-the-war-not-avoiding-conflict|Peace comes from dropping the war not avoiding conflict]]
+- [[teachings/anxiety-as-constricted-life-force|Anxiety is constricted life force, not a problem to eliminate]]
 
 ## Source
 

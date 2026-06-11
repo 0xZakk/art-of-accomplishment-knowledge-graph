@@ -27,6 +27,9 @@ Joe prefers "poverty mentality" over "scarcity mindset" because it feels more gr
 - [[teachings/we-attract-what-we-learned-as-love|We attract what we learned as love]]
 - [[teachings/money-beliefs-create-money-reality|Your beliefs about money create your financial reality]]
 - [[teachings/money-resistance-mirrors-childhood-wounds|Money resistance often mirrors childhood wounds around love and worth]]
+- [[teachings/feeling-lack-creates-lack|Feeling lack creates and sustains the lack]]
+- [[teachings/money-wounds-trace-to-parent-wounds|Money wounds trace back to parent wounds]]
+- [[teachings/gratitude-for-abundance-removes-the-fear-of-losing-it|Gratitude for abundance removes the fear of losing it]]
 
 ## Source
 

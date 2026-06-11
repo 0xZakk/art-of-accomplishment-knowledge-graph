@@ -31,6 +31,7 @@ Non-management of emotions doesn't mean acting them out — throwing temper tant
 - [[teachings/resistance-creates-the-feared-outcome|Resisting an emotion creates the very outcome you fear]]
 - [[teachings/resisting-emotion-invites-it-back|Resisting an emotion is exactly what invites it back]]
 - [[teachings/unfelt-emotions-create-physical-stress|Unfelt emotions create physical stress through muscle tension]]
+- [[teachings/suppressing-emotions-has-a-physical-price|Suppressing emotions has a physical price the body pays]]
 
 ## Source
 

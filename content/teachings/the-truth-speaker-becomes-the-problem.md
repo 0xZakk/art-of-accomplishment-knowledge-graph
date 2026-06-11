@@ -23,6 +23,7 @@ The same dynamic plays out in business. Nobody wanted to tell the struggling roc
 - [[teachings/shame-hot-potato|Shame gets passed back and forth in fights]]
 - [[teachings/shame-stagnates-behavior|Shame stagnates behavior]]
 - [[teachings/own-your-internal-elephant-first|Own your internal elephant before addressing the external one]]
+- [[teachings/calling-out-without-shame-works|Calling people out without shame works]]
 
 ## Source
 

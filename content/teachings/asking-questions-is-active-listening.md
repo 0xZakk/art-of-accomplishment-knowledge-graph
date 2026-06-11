@@ -27,6 +27,7 @@ This applies on stage too. Joe often doesn't know what he's going to say when sp
 - [[teachings/being-interested-not-interesting|Being interested, not interesting]]
 - [[teachings/listening-as-business-accelerator|Listening is one of the most profound business accelerators]]
 - [[teachings/hearing-objections-before-deciding|Hearing objections before deciding — even if you decide the same thing — changes everything]]
+- [[teachings/sales-is-connecting-not-convincing|Sales is connecting, not convincing]]
 
 ## Source
 

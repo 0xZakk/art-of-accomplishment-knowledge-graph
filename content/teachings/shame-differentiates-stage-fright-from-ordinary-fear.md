@@ -24,6 +24,11 @@ Tara describes a young actress who had stage fright so debilitating she vomited 
 - [[teachings/social-anxiety-is-hiding-from-phantom-shame|Social anxiety is hiding from phantom shame]]
 - [[teachings/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[teachings/imposter-syndrome-roots-in-conditional-love|Imposter syndrome roots in conditional love]]
+- [[teachings/the-fear-of-being-seen-is-the-belief-youre-broken|The fear of being seen is the belief that you're inherently broken]]
+- [[teachings/permission-to-be-imperfect-dissolves-freeze|Permission to be imperfect dissolves freeze]]
+- [[teachings/stage-fright-is-a-fuel-cell|Stage fright is a fuel cell, not an obstacle]]
+- [[teachings/shame-blocks-self-promotion|Shame blocks self-promotion even when you have the skills]]
+- [[teachings/dont-should-yourself-into-being-seen|Don't should yourself into being seen]]
 
 ## Source
 

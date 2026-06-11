@@ -24,6 +24,8 @@ This distinction matters because the remedy is different. If you truly can't fee
 - [[teachings/dissociation-removes-your-signals|Dissociation removes your signals]]
 - [[teachings/body-awareness-is-just-attention|Body awareness is simply directing attention to sensation]]
 - [[teachings/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
+- [[teachings/flow-state-is-embodiment-applied-to-life|Flow state in sports is the same skill as embodiment in life]]
+- [[teachings/play-tennis-in-life|Apply your embodied skill from one domain to all of life]]
 
 ## Source
 

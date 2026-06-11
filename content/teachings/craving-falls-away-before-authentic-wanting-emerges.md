@@ -30,6 +30,7 @@ Brett captures it well: "A lot of us have been used to associating wanting with 
 - [[teachings/craving-pushes-away-what-you-want|Craving pushes away what you want]]
 - [[teachings/stagnation-may-be-wisdom|Stagnation may be wisdom]]
 - [[teachings/burnout-is-sustained-adrenaline-depletion|Burnout is sustained adrenaline depletion]]
+- [[teachings/wanting-is-aliveness|Wanting is aliveness]]
 
 ## Source
 

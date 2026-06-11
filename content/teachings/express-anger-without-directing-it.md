@@ -27,6 +27,8 @@ The key insight is that anger needs to *move through the body* — it's energy t
 - [[teachings/actor-technique-for-anger-release|The actor technique lets you release anger while maintaining awareness]]
 - [[teachings/dont-do-emotions-at-people|Don't do emotions at people]]
 - [[teachings/rage-as-gateway-to-healing|Rage can be the gateway to healing]]
+- [[teachings/dominate-dont-convince|Dominate, don't convince]]
+- [[teachings/compassion-can-block-anger|Using compassion to bypass anger blocks the emotional process]]
 
 ## Source
 

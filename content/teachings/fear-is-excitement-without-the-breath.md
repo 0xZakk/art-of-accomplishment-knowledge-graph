@@ -26,6 +26,9 @@ This isn't positive thinking — it's a physiological intervention. The electric
 - [[teachings/breath-regulates-the-nervous-system|Breath regulates the nervous system]]
 - [[teachings/stage-fright-is-a-fuel-cell|Stage fright is a fuel cell, not an obstacle]]
 - [[teachings/grounded-vs-ungrounded-excitement|Grounded excitement signals readiness; ungrounded excitement covers anxiety]]
+- [[teachings/fear-distinguish-excitement-from-a-signal|Fear is either excitement without the breath or a signal to take care of something]]
+- [[teachings/anxiety-can-be-excitement-that-isnt-felt-all-the-way|Anxiety is sometimes excitement that isn't being felt all the way]]
+- [[teachings/anxiety-is-repressed-excitement|Anxiety is often repressed excitement]]
 
 ## Source
 

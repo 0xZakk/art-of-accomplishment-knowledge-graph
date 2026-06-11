@@ -29,6 +29,7 @@ Other responses Joe suggests: "I see that you're scared and I'm right here with 
 - [[teachings/respond-differently-to-the-inner-critic|Respond differently to the inner critic as a practice]]
 - [[teachings/speaking-truth-requires-open-heart-not-management|Speaking truth requires an open heart, not management of others' reactions]]
 - [[teachings/resisting-inner-critic-strengthens-it|Resisting the inner critic only strengthens it]]
+- [[teachings/saying-ouch-reveals-how-abusive-self-talk-is|Saying \"ouch\" out loud reveals how abusive your self-talk really is]]
 
 ## Source
 

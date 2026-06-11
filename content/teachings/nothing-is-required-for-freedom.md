@@ -28,6 +28,11 @@ This doesn't mean circumstances don't matter or that you shouldn't improve your 
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
 - [[teachings/evolution-doesnt-require-striving|Evolution doesn't require striving]]
 - [[teachings/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
+- [[teachings/freedom-is-recognized-not-achieved|Freedom is recognized, not achieved]]
+- [[teachings/empowerment-outlasts-power|Empowerment outlasts power because it can't be taken away]]
+- [[teachings/external-vs-internal-freedom|External freedom and internal freedom are different things]]
+- [[teachings/freedom-is-not-absence-of-consequences|Freedom is not the absence of consequences]]
+- [[teachings/art-is-not-important-and-thats-freedom|Art is not important, and that's freedom]]
 
 ## Source
 

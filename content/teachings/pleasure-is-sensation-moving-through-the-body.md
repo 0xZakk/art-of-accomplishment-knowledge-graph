@@ -23,6 +23,8 @@ The practical implication is that pleasure is always available. A deep breath, w
 - [[teachings/presence-is-pleasure|Presence is pleasure]]
 - [[teachings/pleasure-capacity-is-trainable|Pleasure capacity is trainable]]
 - [[teachings/pleasure-requires-receiving-not-effort|Pleasure requires receiving not effort]]
+- [[teachings/pleasure-signals-safety|Pleasure signals safety to the nervous system]]
+- [[teachings/wanting-is-aliveness|Wanting is aliveness]]
 
 ## Source
 

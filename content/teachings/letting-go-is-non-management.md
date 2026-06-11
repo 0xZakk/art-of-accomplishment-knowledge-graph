@@ -23,6 +23,11 @@ This distinction matters because people often confuse surrender with apathy or l
 
 - [[teachings/managing-yourself-kills-the-practice|Managing yourself kills the practice]]
 - [[teachings/resistance-changes-the-emotion|Resistance changes the emotion]]
+- [[teachings/surrender-to-the-ineffable-not-a-person|Surrendering to the ineffable is fundamentally different from surrendering to a guru]]
+- [[teachings/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
+- [[teachings/allowing-is-a-superpower-we-ignore|Allowing is a superpower we systematically ignore]]
+- [[teachings/letting-go-comes-from-seeing-the-pain-of-holding-on|Letting go comes from seeing the pain of holding on]]
+- [[teachings/helplessness-is-gateway-to-surrender|Helplessness is the gateway to surrender]]
 
 ## Source
 

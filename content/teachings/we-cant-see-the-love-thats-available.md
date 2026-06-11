@@ -23,6 +23,10 @@ When you actually find unconditional love, the experience is that it's everywher
 - [[teachings/we-push-away-approval-we-seek|We push away approval we seek]]
 - [[teachings/you-get-the-love-you-can-accept|You get the love you can accept]]
 - [[teachings/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic, not just intellectual]]
+- [[teachings/love-yourself-how-you-wanted-to-be-loved|Love yourself the way you always wanted to be loved]]
+- [[teachings/negative-self-talk-reveals-how-love-was-wired|Negative self-talk reveals how love was wired in childhood]]
+- [[teachings/contrary-action-breaks-love-patterns|Contrary action breaks conditioned love patterns]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 
 ## Source
 

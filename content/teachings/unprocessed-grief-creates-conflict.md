@@ -24,6 +24,10 @@ Without grief, we recreate cycles. Without grief, we relive trauma. Without grie
 - [[teachings/resentment-is-stored-conflict|Resentment is stored conflict]]
 - [[teachings/every-fight-is-about-feeling-unseen|Every fight is about feeling unseen]]
 - [[teachings/mourning-a-relationship-prevents-repeating-it|Mourning a relationship prevents repeating it]]
+- [[teachings/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
+- [[teachings/grieve-the-relationship-to-avoid-repeating-it|Grieve the relationship to avoid repeating it]]
+- [[teachings/grief-sustained-transforms-everything|Sustained grief transforms everything it touches]]
+- [[teachings/withholding-truth-kills-intimacy|Withholding truth kills intimacy from both sides]]
 
 ## Source
 

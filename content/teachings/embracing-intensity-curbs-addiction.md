@@ -26,6 +26,7 @@ This applies beyond substance addiction to any behavioral pattern driven by emot
 - [[teachings/avoidance-chain-from-essence-to-addiction|The avoidance chain runs from essential self through thinking to addiction]]
 - [[teachings/shame-drives-compulsive-avoidance|Shame drives compulsive avoidance behaviors]]
 - [[teachings/self-attack-is-another-form-of-avoidance|Self-attack is another form of avoidance]]
+- [[teachings/feel-whats-underneath-the-shame|Feel what's underneath the shame to break stagnation]]
 
 ## Source
 

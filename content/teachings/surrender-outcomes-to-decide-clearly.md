@@ -28,6 +28,8 @@ Brett's insight complements this: any time he's stressed about a decision, it me
 - [[teachings/surrender-to-the-ineffable-not-a-person|Surrendering to the ineffable is fundamentally different from surrendering to a guru]]
 - [[teachings/good-decisions-feel-right-now-not-later|Good decisions feel right now, not in the imagined future]]
 - [[teachings/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]
+- [[teachings/decisions-reveal-emotional-avoidance|Every decision is an attempt to avoid an emotion]]
+- [[teachings/feeling-life-beats-figuring-it-out|Feeling your life produces clearer decisions than figuring it out]]
 
 ## Source
 

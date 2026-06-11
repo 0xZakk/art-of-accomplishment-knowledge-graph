@@ -24,6 +24,8 @@ The key shift is from trying to eliminate the voice to building a better relatio
 - [[teachings/resistance-gives-the-inner-critic-its-power|Resistance gives the inner critic its power]]
 - [[teachings/inner-critic-prevents-nervous-system-rest|The inner critic prevents the rest needed for nervous system integration]]
 - [[teachings/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
+- [[teachings/change-your-relationship-to-the-critic-not-the-critic-itself|Change your relationship to the critic, not the critic itself]]
+- [[teachings/respond-differently-to-the-inner-critic|Respond differently to the inner critic as a practice]]
 
 ## Source
 

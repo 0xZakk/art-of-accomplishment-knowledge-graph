@@ -29,6 +29,8 @@ Joe even jokes: "You could be like, I need to go find another narcissist so I ca
 - [[teachings/full-openness-is-the-real-protection|Full openness is the real protection from narcissists]]
 - [[teachings/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/grief-does-not-end-it-transforms|Grief doesn't end, the love transforms]]
+- [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 
 ## Source
 

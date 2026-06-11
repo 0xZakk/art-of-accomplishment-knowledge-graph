@@ -29,6 +29,11 @@ The practical impact: when you see your inherent goodness, the internal war ceas
 - [[teachings/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
 - [[teachings/flow-state-is-embodiment-applied-to-life|Flow state is embodiment applied to life]]
 - [[teachings/connection-over-perfection|Connection over perfection]]
+- [[teachings/defense-agrees-the-world-that-somethings-wrong-with-you|Every defense agrees with the world that something's wrong with you]]
+- [[teachings/constriction-not-truth-identifies-limiting-beliefs|Constriction, not truth, identifies limiting beliefs]]
+- [[teachings/you-have-already-changed-thousands-of-beliefs|You have already changed thousands of beliefs without noticing]]
+- [[teachings/realization-not-behavior-control|Seeing through limiting beliefs is realization, not behavior control]]
+- [[teachings/conditional-happiness-is-a-limiting-belief|Believing you'll be happy when X happens is the most common limiting belief]]
 
 ## Source
 

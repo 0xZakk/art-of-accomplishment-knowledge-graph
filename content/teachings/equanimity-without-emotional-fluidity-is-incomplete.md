@@ -25,6 +25,11 @@ The implication is that meditation and contemplative practice can produce deep p
 - [[teachings/emotional-fluidity-defined|Emotional fluidity defined]]
 - [[teachings/downregulation-is-not-resolution|Downregulation is not resolution]]
 - [[teachings/somatic-bypass-domesticates-instead-of-liberates|Somatic bypass domesticates instead of liberates]]
+- [[teachings/emotions-move-fastest-without-story|Emotions move fastest without story]]
+- [[teachings/shame-about-grief-shuts-down-all-emotions|Shame about grief shuts down all emotions]]
+- [[teachings/joy-is-the-sign-of-emotional-health|Joy is the sign that emotional fluidity is working]]
+- [[teachings/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses them all]]
+- [[teachings/discomfort-is-the-resistance-not-the-emotion|The discomfort of emotions is the resistance to them, not the emotions themselves]]
 
 ## Source
 

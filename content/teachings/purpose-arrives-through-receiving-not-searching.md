@@ -28,6 +28,8 @@ The grief underneath is significant: purpose has been available the whole time. 
 - [[teachings/receiving-requires-vulnerability|Receiving requires vulnerability]]
 - [[teachings/pleasure-requires-receiving-not-effort|Pleasure requires receiving not effort]]
 - [[teachings/asking-how-is-another-wall|Asking 'how do I do this' is itself the wall]]
+- [[teachings/grief-of-self-abandonment|Grief of self-abandonment]]
+- [[teachings/say-yes-then-filter-for-joy|Say yes to what intrigues you, then filter for joy]]
 
 ## Source
 

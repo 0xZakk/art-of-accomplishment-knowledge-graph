@@ -27,6 +27,9 @@ The contradiction itself is diagnostic. When you notice it in yourself—saying 
 - [[teachings/imposter-syndrome-means-not-being-yourself|Imposter syndrome means not being yourself]]
 - [[teachings/authenticity-is-receiving-not-performing|Authenticity is receiving yourself not performing yourself]]
 - [[teachings/suppressing-authentic-expression-increases-self-consciousness|Suppressing authentic expression increases self-consciousness]]
+- [[teachings/the-voice-of-fakeness-is-intuition-not-pathology|The voice of fakeness is intuition, not pathology]]
+- [[teachings/actor-technique-for-stuck-emotions|Pretend you're an actor to access stuck emotions]]
+- [[teachings/the-story-of-unhappiness-hides-real-happiness|The story of unhappiness hides the real happiness in the moment]]
 
 ## Source
 

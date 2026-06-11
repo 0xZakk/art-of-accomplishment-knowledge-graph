@@ -29,6 +29,7 @@ Brett clarifies: drawing a boundary *is* impartial. Being in VIEW might mean bei
 - [[teachings/weaponized-boundaries-are-control-in-disguise|Weaponized boundaries are control in disguise]]
 - [[teachings/boundaries-with-children-require-closeness-and-respect|Boundaries with children require closeness, gentleness, and mutual respect]]
 - [[teachings/boundaries-are-essential-with-mental-health|Boundaries are essential when supporting someone with mental health issues]]
+- [[teachings/boundaries-are-for-you-not-them|Boundaries are primarily for you, not the other person]]
 
 ## Source
 

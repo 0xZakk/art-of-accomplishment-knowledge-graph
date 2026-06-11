@@ -29,6 +29,9 @@ The weightlifting analogy makes it intuitive: you can build significant muscle l
 - [[teachings/performance-and-play-cycle|Performance and play cycle]]
 - [[teachings/busyness-is-not-productivity|Busyness is not productivity]]
 - [[teachings/energy-management-over-time-management|Energy management over time management]]
+- [[teachings/optimal-effort-is-not-maximum-effort|Optimal effort is not maximum effort]]
+- [[teachings/self-attack-during-rest-prolongs-recovery|Self-attack during rest prolongs recovery from months to years]]
+- [[teachings/activation-release-rest-cycle|The activation-release-rest cycle requires genuine rest for integration]]
 
 ## Source
 

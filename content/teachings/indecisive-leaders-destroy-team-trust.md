@@ -23,6 +23,7 @@ Indecision in a leader signals fear, and fear is contagious in organizations. Wh
 - [[teachings/trust-is-the-universal-ingredient-of-functional-teams|Trust is the universal ingredient of functional teams]]
 - [[teachings/indecision-means-unfelt-emotions|Indecision means unfelt emotions]]
 - [[teachings/iterative-mindset-dissolves-procrastination|Iterative mindset dissolves procrastination]]
+- [[teachings/thinking-youre-deciding-means-youre-in-fear|If you think you're making a decision, you're in fear]]
 
 ## Source
 

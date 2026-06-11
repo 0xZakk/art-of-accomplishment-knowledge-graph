@@ -33,6 +33,9 @@ The trigger isn't the problem—it's the messenger.
 
 - [[teachings/triggers-reveal-self-judgment|Triggers reveal what we judge in ourselves]]
 - [[teachings/what-triggers-you-in-others-exists-in-you|What triggers you in others is something you don't like in yourself]]
+- [[teachings/communication-techniques-get-weaponized|Communication techniques get weaponized without the right state]]
+- [[teachings/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
+- [[teachings/own-the-trigger-as-yours|Owning the trigger as yours dissolves the fight]]
 
 ## Source
 

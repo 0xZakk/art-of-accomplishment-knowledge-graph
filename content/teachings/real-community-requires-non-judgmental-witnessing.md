@@ -25,6 +25,9 @@ Signs of a healthy community include: vulnerability top to bottom, emotional flu
 - [[teachings/holding-space-requires-staying-in-yourself|Holding space requires staying in yourself]]
 - [[teachings/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]]
 - [[teachings/loneliness-epidemic-stems-from-bad-models|The loneliness epidemic stems from never seeing healthy community modeled]]
+- [[teachings/holding-emotions-in-community|When one person holds an emotion, others in the group can't hold it]]
+- [[teachings/emotional-titration-is-adaptive|Emotional titration is adaptive, not avoidant]]
+- [[teachings/love-the-part-in-pain-the-way-you-wanted-to-be-loved|Love the part in pain the way you wanted your parents to love you]]
 
 ## Source
 

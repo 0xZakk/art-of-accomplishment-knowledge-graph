@@ -28,6 +28,10 @@ This is the identity of lack — if you define yourself as broken, every action 
 - [[teachings/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
 - [[teachings/not-defending-reveals-inherent-goodness|Not defending reveals inherent goodness]]
 - [[teachings/identity-of-lack-perpetuates-lack|Identity of lack perpetuates lack]]
+- [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
+- [[teachings/self-attack-is-another-form-of-avoidance|Self-attack is another form of avoidance]]
+- [[teachings/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
+- [[teachings/procrastination-is-not-who-you-are|Procrastination is not who you are — and knowing that is the real pain]]
 
 ## Source
 

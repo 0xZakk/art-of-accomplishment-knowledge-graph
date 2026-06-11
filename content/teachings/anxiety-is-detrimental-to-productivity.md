@@ -23,6 +23,11 @@ The Marines capture it: "Slowest steady. Steady is fast." The somatic marker of 
 
 - [[teachings/busyness-is-not-productivity|Busyness is not productivity]]
 - [[teachings/pace-and-spin-measure-real-productivity|Pace and spin measure real productivity]]
+- [[teachings/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]
+- [[teachings/feel-the-false-end-to-dissolve-overwhelm|Feel through the feared outcome to dissolve overwhelm]]
+- [[teachings/fear-of-success-is-fear-of-failure|Fear of success is ultimately fear of failure]]
+- [[teachings/the-mind-inflates-tasks-to-avoid-feelings|The mind inflates tasks to avoid the feelings underneath]]
+- [[teachings/worrying-about-the-future-is-the-pattern-not-the-solution|Worrying about the future is the pattern, not the solution]]
 
 ## Source
 

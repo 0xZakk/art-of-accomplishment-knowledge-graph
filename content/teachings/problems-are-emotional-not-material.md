@@ -25,6 +25,10 @@ This reframe is powerful because it shifts the locus of change from the external
 - [[teachings/bad-decisions-come-from-fear-of-emotions|Bad decisions come from fear of emotions]]
 - [[teachings/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]]
 - [[teachings/fear-of-consequences-is-fear-of-emotional-states|Fear of consequences is really fear of emotional states]]
+- [[teachings/wanting-is-aliveness|Wanting is aliveness]]
+- [[teachings/every-emotion-is-a-signal-pointing-to-an-action|Every emotion is a signal pointing toward an action or a need]]
+- [[teachings/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
+- [[teachings/feeling-life-beats-figuring-it-out|Feeling your life produces clearer decisions than figuring it out]]
 
 ## Source
 

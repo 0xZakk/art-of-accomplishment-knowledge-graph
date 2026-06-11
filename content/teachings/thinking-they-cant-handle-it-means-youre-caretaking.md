@@ -27,6 +27,7 @@ The subtlety compounds: listen carefully to every sentence you speak to someone 
 - [[teachings/not-sharing-hard-truths-prevents-real-love|Not sharing hard truths prevents real love]]
 - [[teachings/weaponizing-non-caretaking-is-still-defense|Weaponizing non-caretaking is just another defense]]
 - [[teachings/resentment-is-the-indicator-of-caretaking|Resentment is the indicator of caretaking]]
+- [[teachings/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
 
 ## Source
 

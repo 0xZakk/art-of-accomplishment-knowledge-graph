@@ -21,6 +21,11 @@ Esme also observes that heavily micromanaged and criticized kids are more likely
 
 - [[teachings/helplessness-dissolves-false-self-reliance|Helplessness dissolves false self-reliance]]
 - [[teachings/authority-distorts-reality-for-leaders|Authority distorts reality for leaders]]
+- [[teachings/bring-problems-to-teenagers-as-shared-challenges|Bring problems to teenagers as shared challenges, not commands]]
+- [[teachings/rebellion-empowers-the-authority|Rebellion empowers the authority figure just as compliance does]]
+- [[teachings/management-communicates-distrust|Managing someone communicates you don't trust them]]
+- [[teachings/feeling-helplessness-creates-agency|Feeling helplessness creates agency, not control]]
+- [[teachings/childhood-criticism-creates-self-distrust|Childhood criticism teaches you not to trust yourself]]
 
 ## Source
 

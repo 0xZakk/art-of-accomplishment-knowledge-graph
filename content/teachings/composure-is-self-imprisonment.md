@@ -28,6 +28,7 @@ When Joe asks her to make "10 times more room" for herself — room for her face
 - [[teachings/responsibility-as-composure-maintenance|Chronic responsibility-taking is really composure maintenance in disguise]]
 - [[teachings/sensitivity-locked-down-for-safety|Extreme sensitivity gets locked down for safety and becomes a hidden gift]]
 - [[teachings/containing-emotions-to-connect-disconnects-you|Containing emotions to connect actually disconnects you]]
+- [[teachings/not-responsible-for-others-emotions|Declaring 'I'm not responsible for how you feel' restores full expression]]
 
 ## Source
 

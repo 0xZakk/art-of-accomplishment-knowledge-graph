@@ -27,6 +27,10 @@ The virtuous cycle: the less you identify with emotions, the more fully they mov
 - [[teachings/feeling-through-requires-letting-identity-restructure|Feeling an emotion fully requires letting your identity restructure]]
 - [[teachings/any-self-definition-limits-you|Any self-definition limits you]]
 - [[teachings/naming-emotions-can-replace-feeling|Naming emotions can replace feeling]]
+- [[teachings/emotions-move-through-a-rainbow-not-discrete-categories|Emotions move through a rainbow rather than discrete categories]]
+- [[teachings/story-dissolution-is-progress-not-a-problem|Story dissolution is progress, not a problem]]
+- [[teachings/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots in life]]
+- [[teachings/emotions-are-the-glue-holding-beliefs-in-place|Emotions are the glue holding beliefs in place]]
 
 ## Source
 

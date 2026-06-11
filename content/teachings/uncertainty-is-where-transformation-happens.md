@@ -22,6 +22,10 @@ The frame shift is from "uncertainty is a problem to solve" to "uncertainty is f
 
 - [[teachings/ownership-of-the-adventure|Taking ownership of the adventure transforms crisis]]
 - [[teachings/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
+- [[teachings/certainty-lives-in-how-you-want-to-be|The only real certainty is how you want to be]]
+- [[teachings/think-individual-and-collective|Think both individual and collective to find practical solutions]]
+- [[teachings/questioning-assumptions-destabilizes-before-it-clarifies|Questioning assumptions destabilizes before it clarifies]]
+- [[teachings/suppressing-transitions-makes-them-worse|Suppressing transitions creates bigger eventual disruptions]]
 
 ## Source
 

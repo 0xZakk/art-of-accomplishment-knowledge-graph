@@ -28,6 +28,8 @@ When it works, principles become decision-making shorthand: "What does this prin
 - [[teachings/wrestle-with-principles-constantly|Wrestling with principles matters more than the principles]]
 - [[teachings/transparency-is-the-antidote-to-politics|Transparency is the antidote to politics]]
 - [[teachings/goals-and-culture-are-experiments-not-mandates|Goals and culture are experiments not mandates]]
+- [[teachings/principles-automate-decision-making|Principles automate decision-making into effortless choices]]
+- [[teachings/principles-make-decisions-for-you|Principles make decisions for you]]
 
 ## Source
 

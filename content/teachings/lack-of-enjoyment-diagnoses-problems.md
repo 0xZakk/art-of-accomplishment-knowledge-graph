@@ -26,6 +26,10 @@ This principle generalizes: if you can't enjoy a process, ask what would need to
 - [[teachings/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]]
 - [[teachings/procrastination-has-wisdom|Procrastination has wisdom]]
 - [[teachings/enjoyment-dissolves-procrastination|Making enjoyment the priority dissolves procrastination]]
+- [[teachings/importance-kills-enjoyment|Making something important is what makes it not fun]]
+- [[teachings/enjoyment-is-the-orientation-for-transformation|The question isn't how to do things you enjoy but how to enjoy what you're doing]]
+- [[teachings/enjoyment-as-the-only-metric|Making enjoyment the only metric paradoxically increases productivity]]
+- [[teachings/enjoyment-as-compass-for-surrender|Enjoyment is the compass for surrender to your deeper call]]
 
 ## Source
 

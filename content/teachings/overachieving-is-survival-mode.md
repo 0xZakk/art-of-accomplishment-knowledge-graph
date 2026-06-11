@@ -25,6 +25,10 @@ The perfectionist also hides the process, showing only the polished result. "I'm
 - [[teachings/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[teachings/regret-comes-from-not-being-yourself|Regret comes from not being yourself]]
 - [[teachings/war-with-your-wants-creates-self-sabotage|War with your wants creates self-sabotage]]
+- [[teachings/negativity-bias-limits-intelligent-people|Negativity bias especially limits intelligent people]]
+- [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
+- [[teachings/depersonalizing-money-creates-freedom|Depersonalizing money creates financial freedom]]
+- [[teachings/alignment-eliminates-procrastination|Deep alignment with what you want eliminates procrastination]]
 
 ## Source
 

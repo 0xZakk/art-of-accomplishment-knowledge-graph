@@ -30,6 +30,9 @@ When organizations lose creative capacity ("we're not creating new anymore, we'r
 - [[teachings/trust-is-the-universal-ingredient-of-functional-teams|Trust is the universal ingredient of functional teams]]
 - [[teachings/product-designed-by-connection-not-ideas|Product designed by connection, not ideas]]
 - [[teachings/asking-questions-is-active-listening|Asking questions is the most powerful form of active listening]]
+- [[teachings/active-listening-is-asking-questions|Active listening means asking questions, not just receiving]]
+- [[teachings/listening-is-the-neglected-half|Listening and receiving are the neglected half of communication and life]]
+- [[teachings/ceo-emotional-avoidance-blocks-team-truth|CEO emotional avoidance blocks the team from finding truth]]
 
 ## Source
 

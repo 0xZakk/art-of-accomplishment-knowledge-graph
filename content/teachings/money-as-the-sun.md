@@ -26,6 +26,8 @@ The shift from scarcity to abundance isn't intellectual—it's somatic. When you
 - [[teachings/money-is-a-screen-for-projection|Money is a screen for projection]]
 - [[teachings/money-beliefs-create-money-reality|Money beliefs create money reality]]
 - [[teachings/depersonalizing-money-creates-freedom|Depersonalizing money creates freedom]]
+- [[teachings/relating-to-parents-mirrors-relating-to-god-and-money|How we relate to parents mirrors how we relate to God and money]]
+- [[teachings/apologize-to-money-for-the-projection|Money is a teacher reflecting your projections back to you]]
 
 ## Source
 

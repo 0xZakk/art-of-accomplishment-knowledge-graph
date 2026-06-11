@@ -26,6 +26,8 @@ The person is high-achieving, doesn't appear depressed, doesn't let anyone see t
 - [[teachings/numbness-as-survival-gift|Emotional numbness can be a survival gift, not a deficit]]
 - [[teachings/high-achieving-can-mask-emotional-numbness|High achievement can completely mask emotional numbness]]
 - [[teachings/childhood-freeze-becomes-adult-trap|The childhood freeze response becomes the adult trap]]
+- [[teachings/expressing-emotions-restores-connection|Feeling and expressing emotion restores connection]]
+- [[teachings/tears-dont-disturb-the-quiet|Tears don't disturb the inner quiet—they help the body]]
 
 ## Source
 

@@ -29,6 +29,9 @@ Joe's own "wonder" principle evolved from "what are you curious about right now?
 - [[teachings/principles-differ-from-values|Principles drive action; values describe morality]]
 - [[teachings/principles-automate-decision-making|Principles automate decision-making into effortless choices]]
 - [[teachings/principles-rollout-must-be-bottom-up|Principles in organizations must emerge bottom-up through shared experimentation]]
+- [[teachings/principles-make-decisions-for-you|Principles make decisions for you]]
+- [[teachings/changing-behavior-changes-consciousness|Changing behavior is the most efficient way to change consciousness]]
+- [[teachings/unconscious-principles-already-run-your-life|Unconscious principles already run your life]]
 
 ## Source
 

@@ -24,6 +24,9 @@ This understanding reframes the common approach of trying to identify and name e
 - [[teachings/emotional-fluidity-defined|Emotional fluidity defined]]
 - [[teachings/emotional-development-stages|Emotional development follows a spiral]]
 - [[teachings/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all of them]]
+- [[teachings/emotions-are-signals-not-commands|When emotions become fluid they give you signals instead of controlling you]]
+- [[teachings/feeling-through-requires-letting-identity-restructure|Feeling an emotion fully requires letting your identity restructure]]
+- [[teachings/story-dissolution-is-progress-not-a-problem|Story dissolution is progress, not a problem]]
 
 ## Source
 

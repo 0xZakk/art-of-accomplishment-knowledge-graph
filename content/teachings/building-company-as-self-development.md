@@ -25,6 +25,8 @@ Joe observes that anyone who genuinely pursues self-understanding eventually arr
 - [[teachings/business-as-self-awareness-practice|Business as self-awareness practice]]
 - [[teachings/ego-obliteration-through-business|Ego obliteration through business]]
 - [[teachings/business-alignment-is-spiritual-alignment|Business alignment is spiritual alignment]]
+- [[teachings/connection-as-the-bottom-line-principle|Connection is the most effective bottom-line principle for life]]
+- [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
 
 ## Source
 

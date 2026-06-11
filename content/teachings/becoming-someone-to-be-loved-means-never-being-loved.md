@@ -26,6 +26,9 @@ Both Joe and Dr. K see this as a necessary developmental stage for many people. 
 - [[teachings/we-attract-what-we-learned-as-love|We attract what we learned as love]]
 - [[teachings/two-forms-of-charisma|There are two forms of charisma]]
 - [[teachings/money-patterns-replay-childhood-connection-patterns|Money patterns replay childhood connection patterns]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/presenting-yourself-prevents-being-loved|Presenting a version of yourself prevents you from being loved]]
+- [[teachings/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
 
 ## Source
 

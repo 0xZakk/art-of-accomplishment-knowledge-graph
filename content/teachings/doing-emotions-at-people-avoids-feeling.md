@@ -31,6 +31,7 @@ This explains why certain emotional patterns cycle endlessly — the emotion nev
 - [[teachings/managing-others-avoids-own-feelings|We manage others' emotions to avoid our own]]
 - [[teachings/empathy-is-being-with-not-in|Empathy is being with someone, not in someone]]
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/you-cant-skip-feeling-to-get-the-emotion|You can't think or shortcut your way past an emotion — you have to let it move]]
 
 ## Source
 

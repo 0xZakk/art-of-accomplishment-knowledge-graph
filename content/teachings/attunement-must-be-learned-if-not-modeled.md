@@ -25,6 +25,9 @@ For sensitive children, the body itself can feel uncomfortable to inhabit, which
 - [[teachings/attunement-patterns-become-adult-cycles|Attunement patterns become adult cycles]]
 - [[teachings/inner-voice-mirrors-parenting|Inner voice mirrors parenting]]
 - [[teachings/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic, not just intellectual]]
+- [[teachings/stone-face-teaches-stone-face|The stone-faced baby experiment shows how suppression is transmitted]]
+- [[teachings/attunement-regulates-both-nervous-systems|Attunement regulates both nervous systems]]
+- [[teachings/attunement-is-listening-without-leaving-yourself|Attunement is listening without leaving yourself]]
 
 ## Source
 

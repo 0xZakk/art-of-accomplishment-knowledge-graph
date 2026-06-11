@@ -27,6 +27,9 @@ Trying to fix someone's emotions communicates that they can't handle it themselv
 - [[teachings/caretaking-creates-resentment-in-the-receiver|Caretaking creates resentment in the receiver]]
 - [[teachings/attunement-regulates-both-nervous-systems|Attunement regulates both nervous systems]]
 - [[teachings/taking-responsibility-for-partners-emotions-breeds-resentment|Taking responsibility for your partner's emotions breeds resentment]]
+- [[teachings/taking-care-of-others-disempowers-them|Taking responsibility for others' happiness disempowers them]]
+- [[teachings/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
+- [[teachings/wanting-someone-to-change-reflects-self-rejection|Wanting someone to change reflects a part of yourself you can't love]]
 
 ## Source
 

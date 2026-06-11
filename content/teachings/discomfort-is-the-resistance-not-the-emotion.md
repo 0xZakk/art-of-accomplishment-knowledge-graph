@@ -29,6 +29,7 @@ This also explains why embracing intensity applies to positive emotions too. Pea
 - [[teachings/resisting-emotion-invites-it-back|Resisting an emotion is exactly what invites it back]]
 - [[teachings/managing-emotions-prolongs-suffering|Managing emotions prolongs suffering]]
 - [[teachings/pleasure-is-available-in-every-emotion|Pleasure is available in every emotion when fully felt]]
+- [[teachings/resistance-changes-the-emotion|Resisting an emotion changes its expression entirely]]
 
 ## Source
 

@@ -27,6 +27,9 @@ In the age of Google, anyone can find answers. The real value is in asking the r
 - [[teachings/being-in-the-question-beats-finding-the-answer|Being in the question beats finding the answer]]
 - [[teachings/experiments-make-knowledge-embodied|Experimentation over dogma]]
 - [[teachings/wonder-is-undoing-not-doing|Cultivating wonder is an undoing not a doing]]
+- [[teachings/wonder-is-awe-not-curiosity-for-an-answer|Wonder is awe, not curiosity hunting for an answer]]
+- [[teachings/knowing-is-the-opposite-of-wonder|Knowing is the opposite of wonder]]
+- [[teachings/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]]
 
 ## Source
 

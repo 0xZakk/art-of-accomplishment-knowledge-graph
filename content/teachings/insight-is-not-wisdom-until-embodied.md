@@ -26,6 +26,9 @@ The journey from insight to wisdom involves: physical movement (stretching, walk
 - [[teachings/knowing-patterns-doesnt-free-you|Knowing patterns doesn't free you]]
 - [[teachings/three-brains-of-transformation|Three brains of transformation]]
 - [[teachings/insight-requires-embodied-integration|Insight requires embodied integration to become wisdom]]
+- [[teachings/gentleness-accelerates-growth|Gentleness accelerates growth]]
+- [[teachings/emotions-are-the-glue-holding-beliefs-in-place|Emotions are the glue holding beliefs in place]]
+- [[teachings/intellect-understands-but-the-body-does-not-change|The intellect can understand a change the body never makes]]
 
 ## Source
 

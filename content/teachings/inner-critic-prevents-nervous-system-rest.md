@@ -28,6 +28,7 @@ Jonny adds that bottom-up approaches (changing physiology through breath, body) 
 - [[teachings/resisting-inner-critic-strengthens-it|Resisting inner critic strengthens it]]
 - [[teachings/resistance-gives-the-inner-critic-its-power|Resistance gives the inner critic its power]]
 - [[teachings/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
+- [[teachings/you-dont-need-the-inner-critic-to-be-productive|You don't need the inner critic to be productive — it drains you]]
 
 ## Source
 

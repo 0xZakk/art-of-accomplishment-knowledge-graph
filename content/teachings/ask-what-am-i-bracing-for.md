@@ -26,6 +26,9 @@ The man in the session demonstrates this in real time: the moment Joe asks "what
 - [[teachings/bracing-identity-of-being-needed|Bracing maintains the identity of being needed]]
 - [[teachings/question-the-assumption-as-self-inquiry|Question the assumption as self-inquiry]]
 - [[teachings/punishing-the-remembering-slows-growth|Punishing the remembering slows growth]]
+- [[teachings/embracing-not-creating-intensity|Embracing intensity means welcoming what's already present, not manufacturing challenge]]
+- [[teachings/subtle-superiority-as-protection|Subtle superiority is a protection pattern that creates isolation]]
+- [[teachings/ouch-technique-for-inner-critic|The 'ouch' technique silences the inner critic and creates genuine rest]]
 
 ## Source
 

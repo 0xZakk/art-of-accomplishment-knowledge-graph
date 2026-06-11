@@ -23,6 +23,11 @@ Joe warns about the peace-without-joy trap: monks who have shifted identity but 
 - [[teachings/emotions-have-intelligent-signals|Emotions have intelligent signals]]
 - [[teachings/managing-emotions-prolongs-suffering|Managing emotions prolongs suffering]]
 - [[teachings/dissociation-as-double-edged-sword|Dissociation as double-edged sword]]
+- [[teachings/stories-and-emotions-are-bidirectional|Stories and emotions are bidirectional — each shapes the other]]
+- [[teachings/emotional-titration-is-adaptive|Emotional titration is adaptive, not avoidant]]
+- [[teachings/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
+- [[teachings/shame-is-anger-turned-inward|Shame is anger turned inward]]
+- [[teachings/feeling-life-beats-figuring-it-out|Feeling your life produces clearer decisions than figuring it out]]
 
 ## Source
 

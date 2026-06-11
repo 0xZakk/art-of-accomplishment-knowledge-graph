@@ -25,6 +25,7 @@ This applies everywhere: in sales, connecting with customers beats perfecting pi
 - [[teachings/perfectionism-is-the-critical-parents-voice|Perfectionism is the critical parent's voice]]
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
 - [[teachings/busyness-is-not-productivity|Busyness is not productivity]]
+- [[teachings/connection-over-perfection|Connection over perfection produces better results than getting it right]]
 
 ## Source
 

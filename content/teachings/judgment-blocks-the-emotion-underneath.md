@@ -27,6 +27,7 @@ The antidote is simple: notice the judgment, then ask "What am I trying not to f
 - [[teachings/judgment-repels-connection|Judgment repels the connection you actually want]]
 - [[teachings/judgment-signals-unfelt-emotion|Judgment toward others signals an unfelt emotion in yourself]]
 - [[teachings/letting-judgment-break-your-heart-open|Letting judgment break your heart open is the path through]]
+- [[teachings/judgment-protects-from-vastness|Judgment protects from a vastness that triggers anxiety]]
 
 ## Source
 

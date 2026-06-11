@@ -29,6 +29,7 @@ The alternative—making it "good right now" at the expense of truth—creates t
 - [[teachings/resentment-is-stored-conflict|Resentment is stored conflict—the longer you avoid it, the bigger the explosion]]
 - [[teachings/peace-comes-from-dropping-the-war-not-avoiding-conflict|Peace comes from dropping the war not avoiding conflict]]
 - [[teachings/not-sharing-hard-truths-prevents-real-love|Not sharing hard truths prevents real love]]
+- [[teachings/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]]
 
 ## Source
 

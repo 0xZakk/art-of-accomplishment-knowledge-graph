@@ -26,6 +26,10 @@ The management stage is seductive because it looks like progress — you appear 
 - [[teachings/emotional-development-stages|Emotional development follows a spiral]]
 - [[teachings/bullying-yourself-creates-resistance|Bullying yourself creates resistance]]
 - [[teachings/managing-emotions-prolongs-suffering|Managing emotions prolongs suffering]]
+- [[teachings/resistance-creates-the-feared-outcome|Resisting an emotion creates the very outcome you fear]]
+- [[teachings/meditation-can-become-self-management|Meditation can become a form of self-management and dissociation]]
+- [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[teachings/what-we-do-for-love-erodes-power|What we do to maintain love erodes our power]]
 
 ## Source
 

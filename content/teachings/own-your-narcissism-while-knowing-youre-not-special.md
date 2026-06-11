@@ -25,6 +25,11 @@ This is especially critical when going from coaching (one-on-one) to facilitatio
 - [[teachings/narcissism-is-a-spectrum-we-are-all-on|Narcissism is a spectrum we are all on]]
 - [[teachings/humility-is-not-making-yourself-small|Humility is not making yourself small]]
 - [[teachings/authority-distorts-reality-for-leaders|Authority distorts reality for leaders]]
+- [[teachings/subtle-superiority-as-protection|Subtle superiority is a protection pattern that creates isolation]]
+- [[teachings/gentle-narcissism-in-the-call-to-coach|Gentle narcissism hides in the call to coach]]
+- [[teachings/teachers-and-students-co-create-dysfunction|Teachers and students co-create dysfunction together]]
+- [[teachings/wanting-to-be-seen-prevents-seeing-others|Wanting to be seen prevents you from seeing others]]
+- [[teachings/coaching-is-self-discovery-not-skill-acquisition|Coaching is self-discovery, not skill acquisition]]
 
 ## Source
 

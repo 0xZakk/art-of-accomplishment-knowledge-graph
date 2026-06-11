@@ -22,6 +22,11 @@ Avoiding money doesn't eliminate cost—it shifts the cost from money to time, e
 - [[teachings/money-is-a-screen-for-projection|Money is a screen for projection]]
 - [[teachings/alignment-eliminates-procrastination|Alignment eliminates procrastination]]
 - [[teachings/war-with-your-wants-creates-self-sabotage|War with your wants creates self-sabotage]]
+- [[teachings/saying-yes-to-what-feels-good-now-gives-energy|Saying yes to what feels good now gives energy that chasing the future drains]]
+- [[teachings/money-beliefs-create-money-reality|Your beliefs about money create your financial reality]]
+- [[teachings/feeling-lack-creates-lack|Feeling lack creates and sustains the lack]]
+- [[teachings/apologize-to-money-for-the-projection|Money is a teacher reflecting your projections back to you]]
+- [[teachings/gratitude-for-abundance-removes-the-fear-of-losing-it|Gratitude for abundance removes the fear of losing it]]
 
 ## Source
 

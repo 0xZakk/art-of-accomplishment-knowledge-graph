@@ -26,6 +26,10 @@ Joe demonstrates this live: the moment the man stops trying to force connection 
 - [[teachings/children-bid-for-connection-not-defiance|Children bid for connection not defiance]]
 - [[teachings/closing-heart-to-protect-traps-you|Closing heart to protect traps you]]
 - [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
+- [[teachings/resisting-help-replays-the-father-relationship|Resisting help replays the relationship with your father]]
+- [[teachings/managing-emotions-is-the-rebel-dilemma|Managing your emotions is the rebel dilemma — either way the emotion controls you]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/rebellion-empowers-the-authority|Rebellion empowers the authority figure just as compliance does]]
 
 ## Source
 

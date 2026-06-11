@@ -27,6 +27,8 @@ Emotions don't have individual off switches. The mechanism that suppresses "nega
 - [[teachings/joy-is-the-sign-of-emotional-health|Joy is the sign that emotional fluidity is working]]
 - [[teachings/not-responsible-for-others-emotions|Declaring 'I'm not responsible for how you feel' restores full expression]]
 - [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[teachings/welcome-all-feelings-to-feel-joy|Joy won't come unless all the other feelings are welcome]]
+- [[teachings/tears-dont-disturb-the-quiet|Tears don't disturb the inner quiet—they help the body]]
 
 ## Source
 

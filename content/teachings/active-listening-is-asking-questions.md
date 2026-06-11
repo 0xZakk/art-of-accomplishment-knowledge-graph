@@ -23,6 +23,9 @@ Asking questions signals genuine interest and creates the conditions for relatio
 - [[teachings/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]]
 - [[teachings/being-interested-not-interesting|Being interested rather than interesting creates connection]]
 - [[teachings/asking-questions-is-active-listening|Asking questions is the most powerful form of active listening]]
+- [[teachings/listening-as-business-accelerator|Listening is one of the most profound business accelerators]]
+- [[teachings/sales-is-connecting-not-convincing|Sales is connecting, not convincing]]
+- [[teachings/product-designed-by-connection-not-ideas|Products designed by connection, not ideas]]
 
 ## Source
 

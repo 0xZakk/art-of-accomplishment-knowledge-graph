@@ -30,6 +30,7 @@ This isn't about becoming indifferent to others. It's about releasing the false 
 - [[teachings/containing-emotions-to-connect-disconnects-you|Containing emotions to connect actually disconnects you]]
 - [[teachings/teach-children-self-referencing|Teaching children to reference themselves builds their internal compass]]
 - [[teachings/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses them all]]
+- [[teachings/childhood-criticism-creates-self-distrust|Childhood criticism teaches you not to trust yourself]]
 
 ## Source
 

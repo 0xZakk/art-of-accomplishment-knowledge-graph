@@ -27,6 +27,9 @@ Brett adds the key distinction: there's ambition that unfolds naturally and ambi
 - [[teachings/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]]
 - [[teachings/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
 - [[teachings/alignment-eliminates-procrastination|Alignment eliminates procrastination]]
+- [[teachings/fitting-in-and-extraordinary-are-incompatible-wants|The desire to fit in and the desire to be extraordinary are incompatible wants that create internal friction]]
+- [[teachings/ambition-survives-beneath-the-resistance|Ambition survives beneath the resistance, waiting to be set free]]
+- [[teachings/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]
 
 ## Source
 

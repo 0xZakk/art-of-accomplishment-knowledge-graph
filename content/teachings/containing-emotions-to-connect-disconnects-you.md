@@ -27,6 +27,8 @@ The containment pattern typically originates in childhood—learning from emotio
 - [[teachings/eighty-percent-of-feared-rejection-is-internal|Eighty percent of feared rejection is internal self-talk]]
 - [[teachings/not-responsible-for-others-emotions|Declaring 'I'm not responsible for how you feel' restores full expression]]
 - [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[teachings/expressing-emotions-restores-connection|Feeling and expressing emotion restores connection]]
+- [[teachings/stone-face-teaches-stone-face|The stone-faced baby experiment shows how suppression is transmitted]]
 
 ## Source
 

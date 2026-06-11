@@ -21,6 +21,10 @@ Joe notes this is universal — yoga, Navy SEALs, same principle. But he warns t
 - [[teachings/body-awareness-is-just-attention|Body awareness is just attention]]
 - [[teachings/pleasure-signals-safety|Pleasure capacity signals nervous system safety]]
 - [[teachings/downregulation-is-not-resolution|Downregulation is useful but not resolution]]
+- [[teachings/unfelt-emotions-create-physical-stress|Unfelt emotions create physical stress through muscle tension]]
+- [[teachings/muscles-constrict-to-block-feeling|We constrict muscles to suppress emotions — breathing reverses this]]
+- [[teachings/somatic-bypass-domesticates-instead-of-liberates|Somatic practices can domesticate rather than liberate]]
+- [[teachings/tools-can-keep-you-stuck|Your healing tools can become tools for staying stuck]]
 
 ## Source
 

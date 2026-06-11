@@ -26,6 +26,9 @@ You can't fully eliminate identity—without any identity you might not be psych
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
 - [[teachings/any-self-definition-limits-you|Any self-definition limits you]]
 - [[teachings/every-epiphany-becomes-the-next-rut|Every epiphany about identity becomes the next identity rut]]
+- [[teachings/the-recent-epiphany-is-also-a-rut|The most recent epiphany becomes the next rut you have to release]]
+- [[teachings/identity-you-cant-see-controls-you-most|The identity you can't see controls you the most]]
+- [[teachings/story-dissolution-is-progress-not-a-problem|Story dissolution is progress, not a problem]]
 
 ## Source
 

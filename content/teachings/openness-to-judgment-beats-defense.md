@@ -24,6 +24,8 @@ This parallels the two friends experiment: when your friend changes to please yo
 - [[teachings/closing-heart-to-protect-traps-you|Closing heart to protect traps you]]
 - [[teachings/opening-heart-to-what-you-resist|Opening heart to what you resist]]
 - [[teachings/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
+- [[teachings/defense-agrees-the-world-that-somethings-wrong-with-you|Every defense agrees with the world that something's wrong with you]]
+- [[teachings/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]]
 
 ## Source
 

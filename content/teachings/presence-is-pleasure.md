@@ -41,6 +41,8 @@ Not trying to change anything. Just noticing that sensations exist and move. And
 - [[teachings/wanting-is-aliveness|Wanting is aliveness]]
 - [[teachings/how-you-do-it-determines-if-you-do-it|How you do something determines if you do it]]
 - [[teachings/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
+- [[teachings/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]]
+- [[teachings/awakening-doesnt-erase-your-humanity|Awakening doesn't erase your humanity — it makes you more sensitive]]
 
 ## Source
 

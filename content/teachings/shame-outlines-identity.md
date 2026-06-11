@@ -30,6 +30,8 @@ The practice is to notice where you feel stagnation and look for the shame under
 - [[teachings/shame-addiction-creates-empty-fulfillment|Shame becomes addictive and creates empty fulfillment]]
 - [[teachings/shame-is-a-signal-of-disconnection|Shame is a signal of disconnection, not a problem to solve]]
 - [[teachings/feel-whats-underneath-the-shame|Feel what's underneath the shame to break stagnation]]
+- [[teachings/loneliness-is-shame-plus-anxiety|Loneliness is shame plus anxiety about interaction]]
+- [[teachings/welcome-shame-dont-push-through-it|Welcome shame rather than pushing through it]]
 
 ## Source
 

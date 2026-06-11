@@ -45,6 +45,8 @@ The most freedom comes from holding self lightly, not from better definitions of
 - [[teachings/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]]
 - [[teachings/identity-creates-rigidity-and-limitation|Identity creates rigidity—the more you identify, the more limited you become]]
 - [[teachings/smart-identity-prevents-trying|The 'smart' identity prevents you from trying—failure would disprove who you are]]
+- [[teachings/experiments-separate-identity-from-behavior|Experiments separate identity from behavior]]
+- [[teachings/you-have-already-changed-thousands-of-beliefs|You have already changed thousands of beliefs without noticing]]
 
 ## Source
 

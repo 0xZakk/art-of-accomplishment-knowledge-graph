@@ -26,6 +26,10 @@ This mirrors the broader teaching that what we chase is often already present â€
 - [[teachings/financial-safety-is-not-about-money|Financial safety is not about money]]
 - [[teachings/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]]
 - [[teachings/external-vs-internal-freedom|External freedom and internal freedom are different things]]
+- [[teachings/wanting-money-is-not-selfish|Wanting money is not selfish â€” it's wanting freedom and safety]]
+- [[teachings/nothing-is-required-for-freedom|Nothing is required for freedom]]
+- [[teachings/the-money-block-is-really-a-safety-block|A money block is usually a safety block in disguise]]
+- [[teachings/holding-opposing-viewpoints-creates-freedom|Holding opposing viewpoints simultaneously creates freedom]]
 
 ## Source
 

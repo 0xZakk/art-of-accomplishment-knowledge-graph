@@ -24,6 +24,11 @@ The trap: this doesn't mean abandoning your own perspective. You can hold your t
 - [[teachings/the-story-you-carry-may-not-be-the-full-truth|The story you carry may not be the full truth]]
 - [[teachings/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]]
 - [[teachings/iteration-beats-perfection|Iteration beats perfection]]
+- [[teachings/holding-opposing-viewpoints-creates-freedom|Holding opposing viewpoints simultaneously creates freedom]]
+- [[teachings/three-categories-of-limiting-beliefs|Limiting beliefs come in three forms: false thoughts, misinterpreted experience, and incomplete story]]
+- [[teachings/no-right-or-wrong-only-perspectives|There is no right or wrong in a fight, only perspectives]]
+- [[teachings/think-individual-and-collective|Think both individual and collective to find practical solutions]]
+- [[teachings/compassion-is-truth-with-an-open-heart|True compassion is speaking truth with an open heart, not being nice]]
 
 ## Source
 

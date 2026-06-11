@@ -29,6 +29,8 @@ The cruelest irony: she turns every insight into another should. When Joe points
 - [[teachings/procrastination-requires-self-abuse|Procrastination requires self-abuse]]
 - [[teachings/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]
 - [[teachings/feeling-your-essential-nature-dissolves-avoidance|Feeling your essential nature dissolves avoidance behaviors]]
+- [[teachings/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
+- [[teachings/should-is-shame-that-stops-behavior|\"Should\" is shame, and shame stops behavior]]
 
 ## Source
 

@@ -26,6 +26,10 @@ This is not a reason to distrust the body, but rather to avoid elevating any sin
 - [[teachings/no-right-or-wrong-only-perspectives|No right or wrong, only perspectives]]
 - [[teachings/confusing-state-with-insight|Confusing state with insight]]
 - [[teachings/cultivating-all-intelligences-creates-clarity|Cultivating all intelligences creates clarity]]
+- [[teachings/crack-the-intellectual-trap-first|For most people, crack the intellectual trap first]]
+- [[teachings/the-gut-points-toward-what-you-want|The gut points you toward what you want before the mind knows it]]
+- [[teachings/embodied-listening-improves-signal-to-noise|Embodied listening improves signal to noise]]
+- [[teachings/three-intelligences-triple-your-intelligence|Head, heart, and gut are three intelligences that triple your capacity]]
 
 ## Source
 

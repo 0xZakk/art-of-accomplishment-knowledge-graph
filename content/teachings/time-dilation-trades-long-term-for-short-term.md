@@ -24,6 +24,9 @@ People often think they're being strategic when they're actually avoiding — gi
 - [[teachings/avoidance-creates-the-pattern-it-fears|Avoidance creates the pattern it fears]]
 - [[teachings/good-decisions-feel-right-now-not-later|Good decisions feel right now, not later]]
 - [[teachings/urgency-as-motivation-is-a-trap|Urgency as motivation is a trap]]
+- [[teachings/the-golden-algorithm|The golden algorithm: we invite back the emotion we avoid, in the way we avoid it]]
+- [[teachings/self-attack-is-another-form-of-avoidance|Self-attack is another form of avoidance]]
+- [[teachings/loving-the-emotion-transforms-it-getting-rid-of-it-doesnt|Loving an emotion transforms it; trying to get rid of it doesn't]]
 
 ## Source
 

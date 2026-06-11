@@ -29,6 +29,8 @@ The solution isn't managing the pattern or understanding it intellectually — i
 - [[teachings/resisting-emotion-invites-it-back|Resisting an emotion is exactly what invites it back]]
 - [[teachings/avoidance-creates-the-pattern-it-fears|Emotional avoidance creates the very pattern it fears]]
 - [[teachings/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
+- [[teachings/the-golden-algorithm|The golden algorithm: we invite back the emotion we avoid, in the way we avoid it]]
+- [[teachings/loving-the-emotion-transforms-it-getting-rid-of-it-doesnt|Loving an emotion transforms it; trying to get rid of it doesn't]]
 
 ## Source
 

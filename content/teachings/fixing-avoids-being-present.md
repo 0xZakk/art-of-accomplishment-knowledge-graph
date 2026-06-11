@@ -30,6 +30,7 @@ When she finally arrives in the present moment, she names it herself: "I'm avoid
 - [[teachings/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
 - [[teachings/feeling-of-failure-drives-fixing|The feeling that everything I touch fails drives compulsive fixing]]
 - [[teachings/judgment-protects-from-vastness|Judgment protects from a vastness that triggers anxiety]]
+- [[teachings/self-attack-after-epiphany-slows-transformation|Beating yourself up after an epiphany slows your transformation]]
 
 ## Source
 

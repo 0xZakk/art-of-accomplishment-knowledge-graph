@@ -29,6 +29,7 @@ This applies to everyone doing transformational work: if you think you've had an
 - [[teachings/let-compliments-move-through-you|Letting compliments move all the way through you destroys ego]]
 - [[teachings/every-epiphany-is-a-rut-waiting-to-happen|Every epiphany is a rut waiting to happen]]
 - [[teachings/humility-requires-self-care|Humility can require self-care]]
+- [[teachings/follow-your-calling-even-when-uncomfortable|Following your calling requires humility even when it's uncomfortable]]
 
 ## Source
 

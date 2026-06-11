@@ -21,6 +21,9 @@ Joe compares it to a soccer team where one player insists on scoring all the goa
 
 - [[teachings/no-right-or-wrong-only-perspectives|No right or wrong, only perspectives]]
 - [[teachings/hearing-objections-before-deciding|Hearing objections before deciding]]
+- [[teachings/you-cannot-judge-the-value-of-your-own-input|You cannot judge the value of your own input]]
+- [[teachings/functional-teams-are-measured-by-wanting-to-be-there|Functional teams are measured by people wanting to be there]]
+- [[teachings/gratitude-reveals-solutions-criticism-hides|Gratitude reveals solutions that criticism hides]]
 
 ## Source
 

@@ -26,6 +26,8 @@ Second, you have to give yourself the same grace you're extending. It's very har
 - [[teachings/feel-whats-underneath-the-shame|Feel what's underneath the shame to break stagnation]]
 - [[teachings/fighting-without-shame-transforms-conflict|Fighting without shame transforms conflict]]
 - [[teachings/anger-and-withdrawal-pass-the-shame|Anger and withdrawal of love are how shame gets passed]]
+- [[teachings/responsibility-without-shame-is-leadership|Taking responsibility without shame is true leadership]]
+- [[teachings/shame-is-a-signal-of-disconnection|Shame is a signal of disconnection, not a problem to solve]]
 
 ## Source
 

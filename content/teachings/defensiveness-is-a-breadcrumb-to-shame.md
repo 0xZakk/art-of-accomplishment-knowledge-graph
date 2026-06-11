@@ -26,6 +26,7 @@ This makes defensiveness a powerful diagnostic tool. Wherever you see defensiven
 - [[teachings/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]]
 - [[teachings/not-defending-reveals-inherent-goodness|Not defending reveals inherent goodness]]
 - [[teachings/shame-hot-potato|Shame gets passed back and forth in fights]]
+- [[teachings/defense-agrees-the-world-that-somethings-wrong-with-you|Every defense agrees with the world that something's wrong with you]]
 
 ## Source
 

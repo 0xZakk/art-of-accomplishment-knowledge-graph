@@ -30,6 +30,7 @@ The liberation is the same in both cases: when you see through the inner critic'
 - [[teachings/inner-critic-mirrors-relationship-patterns|The inner critic mirrors your relationship patterns]]
 - [[teachings/voice-in-head-talks-to-itself|The voice in the head talks to itself more than to you]]
 - [[teachings/should-creates-rebellion-or-submission|Should creates either rebellion or submission, never empowerment]]
+- [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
 
 ## Source
 

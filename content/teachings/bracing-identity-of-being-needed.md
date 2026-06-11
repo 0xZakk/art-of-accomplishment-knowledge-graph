@@ -27,6 +27,9 @@ This is why bracing persists even when someone intellectually knows it's counter
 - [[teachings/ego-arises-to-protect-from-unacceptable-emotions|Ego arises to protect from unacceptable emotions]]
 - [[teachings/overachieving-is-survival-mode|Overachieving is survival mode]]
 - [[teachings/bracing-removes-presence-not-chaos|Bracing removes presence, it doesn't prevent chaos]]
+- [[teachings/subtle-superiority-as-protection|Subtle superiority is a protection pattern that creates isolation]]
+- [[teachings/embracing-not-creating-intensity|Embracing intensity means welcoming what's already present, not manufacturing challenge]]
+- [[teachings/holding-it-together-blocks-support|Holding it together shields you from the support trying to reach you]]
 
 ## Source
 

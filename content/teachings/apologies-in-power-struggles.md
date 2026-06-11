@@ -24,6 +24,8 @@ The way out is to look for an empowered apology you can make mid-fight: "I'm sor
 - [[teachings/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
 - [[teachings/apology-as-transformation-tool|An empowered apology is one of the most powerful tools for self-transformation]]
 - [[teachings/habitual-apologies-increase-conflict|Habitual apologies increase rather than prevent conflict]]
+- [[teachings/upright-apology-changes-behavior|An upright apology actually changes behavior]]
+- [[teachings/apologize-upright-without-shame|An upright apology empowers; a shame-laden one loops you back into the pattern]]
 
 ## Source
 

@@ -27,6 +27,8 @@ This is deeply reassuring: once you see a pattern, you're already through the ha
 - [[teachings/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]]
 - [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
 - [[teachings/self-attack-after-epiphany-slows-transformation|Beating yourself up after an epiphany slows your transformation]]
+- [[teachings/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]]
+- [[teachings/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
 
 ## Source
 

@@ -24,6 +24,10 @@ The two common responses to passive aggression — walking on eggshells or getti
 - [[teachings/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]]
 - [[teachings/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
 - [[teachings/passive-aggression-develops-when-anger-is-forbidden|Passive aggression develops when direct anger is forbidden]]
+- [[teachings/childhood-origins-of-anger-repression|Anger repression gets installed through three childhood pathways]]
+- [[teachings/dont-try-to-change-passive-aggression-in-others|Trying to change someone's passive aggression enters the same dynamic]]
+- [[teachings/passive-aggression-is-unowned-aggression|Passive aggression is aggression that isn't being owned as aggression]]
+- [[teachings/anger-at-you-is-not-evidence-you-did-wrong|Someone's anger at you is not evidence you did something wrong]]
 
 ## Source
 

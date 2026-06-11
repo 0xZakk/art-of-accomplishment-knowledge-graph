@@ -27,6 +27,11 @@ Joe's personal story illustrates the shift: his "should" to make money in ventur
 - [[teachings/craving-versus-wanting|Craving and wanting are fundamentally different experiences]]
 - [[teachings/goals-generate-questions-not-destinations|Goals generate questions, not destinations]]
 - [[teachings/wanting-is-aliveness|Wanting is a form of aliveness close to love]]
+- [[teachings/saying-yes-to-what-feels-good-now-gives-energy|Saying yes to what feels good now gives energy that chasing the future drains]]
+- [[teachings/wanting-matters-more-than-what-you-want|Wanting matters more than what you want]]
+- [[teachings/connection-as-the-bottom-line-principle|Connection is the most effective bottom-line principle for life]]
+- [[teachings/not-trying-gets-more-done|Not trying gets more done than trying]]
+- [[teachings/managing-reality-costs-more-energy-than-enjoying-it|Managing reality costs more energy than enjoying it]]
 
 ## Source
 

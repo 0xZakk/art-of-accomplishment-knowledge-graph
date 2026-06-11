@@ -23,6 +23,10 @@ This isn't selfish — it's honest about the relational nature of transformation
 - [[teachings/community-amplifies-transformation|Community amplifies transformation]]
 - [[teachings/community-health-is-individual-health|Community health is individual health]]
 - [[teachings/emotional-depth-can-create-loneliness|Being raised with emotional depth can create loneliness]]
+- [[teachings/parenting-is-the-deepest-ego-work|Parenting is the deepest ego work you can do]]
+- [[teachings/parenting-as-ego-dissolution|Parenting is one of the deepest ego dissolution practices available]]
+- [[teachings/parenting-as-self-development-practice|Parenting is a profound self-development practice]]
+- [[teachings/teach-children-self-referencing|Teaching children to reference themselves builds their internal compass]]
 
 ## Source
 

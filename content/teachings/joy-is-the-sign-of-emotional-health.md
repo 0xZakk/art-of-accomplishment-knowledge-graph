@@ -28,6 +28,7 @@ The practical marker: not fake niceness or performed happiness, but spontaneous,
 - [[teachings/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]]
 - [[teachings/joy-wont-enter-where-emotions-unwelcome|Joy won't come into a house where her children aren't welcome]]
 - [[teachings/joy-is-the-matriarch|Joy is the matriarch of the emotional family]]
+- [[teachings/welcome-all-feelings-to-feel-joy|Joy won't come unless all the other feelings are welcome]]
 
 ## Source
 

@@ -21,6 +21,11 @@ This framework avoids the trap of using measurement as self-abuse. Joe is clear 
 - [[teachings/emotional-fluidity-is-already-there|Emotional fluidity is already present underneath resistance]]
 - [[teachings/pleasure-signals-safety|Pleasure capacity signals nervous system safety]]
 - [[teachings/joy-wont-enter-where-emotions-unwelcome|Joy won't enter where her children aren't welcome]]
+- [[teachings/transformation-requires-all-three-levels|Guaranteed transformation requires working the head, heart, and nervous system together]]
+- [[teachings/three-systems-intellect-emotion-nervous-system|Intellect, emotion, and nervous system are three interacting systems]]
+- [[teachings/feeling-life-beats-figuring-it-out|Feeling your life produces clearer decisions than figuring it out]]
+- [[teachings/emotional-development-stages|Emotional development follows predictable stages]]
+- [[teachings/crack-the-intellectual-trap-first|For most people, crack the intellectual trap first]]
 
 ## Source
 

@@ -24,6 +24,9 @@ Joe's specific progression is revealing. He ends the inquiry by asking you to lo
 - [[teachings/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]]
 - [[teachings/curiosity-transforms-relationship-to-emotions|Curiosity transforms your relationship to difficult emotions]]
 - [[teachings/emotional-inquiry-as-embodied-exploration|Emotional inquiry is embodied exploration, not intellectual analysis]]
+- [[teachings/emotions-are-signals-not-commands|When emotions become fluid they give you signals instead of controlling you]]
+- [[teachings/welcoming-childhood-hurt-expands-love|Welcoming childhood hurt expands capacity to love]]
+- [[teachings/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
 
 ## Source
 

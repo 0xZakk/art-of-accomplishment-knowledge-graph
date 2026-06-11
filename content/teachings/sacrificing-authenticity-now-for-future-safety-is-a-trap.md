@@ -24,6 +24,11 @@ When people consistently show up as themselves despite consequences, the part of
 - [[teachings/being-yourself-designs-your-life|Being yourself designs your life]]
 - [[teachings/regret-comes-from-not-being-yourself|Regret comes from not being yourself]]
 - [[teachings/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
+- [[teachings/fear-of-losing-relatability-signals-transformation|Fear of losing relatability signals transformation]]
+- [[teachings/vulnerability-aligns-world-around-truth|Vulnerability aligns the world around your truth instead of your presentation]]
+- [[teachings/be-yourself-and-the-relationship-question-answers-itself|Be fully yourself and the relationship question answers itself]]
+- [[teachings/fear-reveals-where-identity-is-threatened|Fear reveals where our identity feels threatened]]
+- [[teachings/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]]
 
 ## Source
 

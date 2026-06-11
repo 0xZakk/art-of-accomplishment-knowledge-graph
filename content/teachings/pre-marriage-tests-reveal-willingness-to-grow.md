@@ -23,6 +23,8 @@ Tara arrived at these by identifying what mattered most to her: someone who want
 
 - [[teachings/marriage-as-dojo-for-self-development|Marriage as a dojo for self-development]]
 - [[teachings/sincerity-is-prerequisite-for-transformation|Sincerity is prerequisite for transformation]]
+- [[teachings/self-love-sets-the-capacity-limit-for-loving-others|Self-love sets the capacity limit for loving a partner]]
+- [[teachings/you-must-know-you-can-leave-to-love|You must know you can leave to truly love]]
 
 ## Source
 

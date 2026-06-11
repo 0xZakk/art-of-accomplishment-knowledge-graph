@@ -28,6 +28,7 @@ This pattern isn't unique to Joe. The relationship we have with money almost alw
 - [[teachings/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood emotional patterns]]
 - [[teachings/money-resistance-mirrors-childhood-wounds|Money resistance often mirrors childhood wounds around love and worth]]
 - [[teachings/money-patterns-replay-childhood-connection-patterns|Money patterns replay childhood connection patterns]]
+- [[teachings/money-mirrors-the-relationship-with-your-father|Money chasing can be a projection of chasing a parent's love]]
 
 ## Source
 

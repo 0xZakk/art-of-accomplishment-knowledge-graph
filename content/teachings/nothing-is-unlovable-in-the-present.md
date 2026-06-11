@@ -25,6 +25,10 @@ Clint has already worked through the past and feels good about it despite mistak
 - [[teachings/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
 - [[teachings/you-cant-stop-being-present|You can't stop being present]]
 - [[teachings/self-compassion-before-external-success|Self-compassion before external success]]
+- [[teachings/peace-with-yourself-is-only-available-now|Peace with yourself is only available right now]]
+- [[teachings/saying-yes-to-what-feels-good-now-gives-energy|Saying yes to what feels good now gives energy that chasing the future drains]]
+- [[teachings/the-stuckness-is-happening-in-the-room|The stuckness you came to solve is happening right now in the room]]
+- [[teachings/idealizing-the-future-keeps-you-from-the-present|Idealizing the future keeps you from what's available now]]
 
 ## Source
 

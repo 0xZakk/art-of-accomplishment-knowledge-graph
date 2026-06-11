@@ -29,6 +29,7 @@ A feeling that is resisted shows up as a different feeling entirely — resisted
 - [[teachings/stuckness-is-resistance-to-the-abyss|Stuckness is resistance to the abyss, not the abyss itself]]
 - [[teachings/craving-is-the-pushing-away|Craving is the pushing away]]
 - [[teachings/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
+- [[teachings/the-abyss-you-avoid-is-your-freedom|The abyss you avoid is your freedom]]
 
 ## Source
 

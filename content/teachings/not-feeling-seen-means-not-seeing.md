@@ -22,6 +22,10 @@ The hack breaks the symmetry: by choosing to see first, you drop the very defens
 - [[teachings/every-fight-is-about-feeling-unseen|Every fight is about feeling unseen]]
 - [[teachings/triggers-are-projections-of-your-own-patterns|Every trigger in a partner is a projection of your own pattern]]
 - [[teachings/seeing-others-is-the-exit-from-feeling-unseen|Seeing others is the counterintuitive exit from feeling unseen]]
+- [[teachings/open-your-heart-to-stop-caring-what-they-think|Opening your heart to someone dissolves your concern with their judgment]]
+- [[teachings/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
+- [[teachings/wanting-to-be-seen-prevents-seeing-others|Wanting to be seen prevents you from seeing others]]
+- [[teachings/listening-before-being-seen|Letting go of being seen allows you to be seen]]
 
 ## Source
 

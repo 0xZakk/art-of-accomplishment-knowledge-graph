@@ -31,6 +31,7 @@ The resentment that builds from self-abandonment eventually becomes aggression o
 - [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 - [[teachings/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
 - [[teachings/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
+- [[teachings/loving-to-manage-stops-working|Loving something to make it go away stops working]]
 
 ## Source
 

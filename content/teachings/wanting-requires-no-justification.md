@@ -25,6 +25,8 @@ The permission to want is not about what you want but about whether you're allow
 - [[teachings/wanting-matters-more-than-what-you-want|Wanting matters more than what you want]]
 - [[teachings/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]]
 - [[teachings/war-with-your-wants-creates-self-sabotage|War with your wants creates self-sabotage]]
+- [[teachings/wanting-money-is-not-selfish|Wanting money is not selfish — it's wanting freedom and safety]]
+- [[teachings/saying-yes-to-what-feels-good-now-gives-energy|Saying yes to what feels good now gives energy that chasing the future drains]]
 
 ## Source
 

@@ -25,6 +25,10 @@ The deeper reason companies don't track joy: most people believe joy must be ear
 - [[teachings/enjoyment-is-the-true-measure-of-efficiency|Enjoyment is the true measure of efficiency]]
 - [[teachings/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]]
 - [[teachings/five-star-meetings-hack|Five-star meetings hack]]
+- [[teachings/lack-of-enjoyment-diagnoses-problems|Lack of enjoyment diagnoses the real problem]]
+- [[teachings/enjoyment-dissolves-procrastination|Making enjoyment the priority dissolves procrastination]]
+- [[teachings/responding-is-not-doing|Responding feels like doing but often changes nothing]]
+- [[teachings/functional-teams-are-measured-by-wanting-to-be-there|Functional teams are measured by people wanting to be there]]
 
 ## Source
 

@@ -25,6 +25,11 @@ This is particularly devastating for coaches, consultants, and anyone whose live
 - [[teachings/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
 - [[teachings/identity-of-lack-perpetuates-lack|Identity of lack perpetuates lack]]
 - [[teachings/performing-for-connection-blocks-authentic-earning|Performing for connection blocks authentic earning]]
+- [[teachings/wanting-to-be-needed-limits-wealth|Wanting to be needed limits wealth; wanting to be unnecessary grows it]]
+- [[teachings/obligation-oppresses-every-domain|Obligation oppresses every domain it touches — money, work, relationships]]
+- [[teachings/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]]
+- [[teachings/chasing-connection-prevents-connection|Chasing a relationship to cure loneliness prevents real connection]]
+- [[teachings/seeking-power-is-an-expression-of-fear|Seeking power is always an expression of fear]]
 
 ## Source
 

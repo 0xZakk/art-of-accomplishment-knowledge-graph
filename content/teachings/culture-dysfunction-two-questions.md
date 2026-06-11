@@ -25,6 +25,10 @@ This maps directly to Joe's relationship work: in personal conflicts, both peopl
 - [[teachings/feeling-seen-dissolves-politics|Feeling seen dissolves politics]]
 - [[teachings/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
 - [[teachings/authority-issues-are-not-seeing-humans|Authority issues are not seeing humans]]
+- [[teachings/company-is-relationships-and-decisions|A company is just relationships and decisions]]
+- [[teachings/hearing-objections-before-deciding|Hearing objections before deciding — even if you decide the same thing — changes everything]]
+- [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
+- [[teachings/you-cant-build-culture-you-cant-see|You can't build a culture you can't see in yourself]]
 
 ## Source
 

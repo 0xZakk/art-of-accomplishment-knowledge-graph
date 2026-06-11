@@ -27,6 +27,8 @@ When we recognize the trappedness as historical rather than current, the anger b
 - [[teachings/fear-creates-binary-thinking-and-false-ends|Fear creates binary thinking and false ends]]
 - [[teachings/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuckness]]
 - [[teachings/childhood-freeze-becomes-adult-trap|The childhood freeze response becomes the adult trap]]
+- [[teachings/you-are-already-doing-what-you-fear|You are already doing to yourself what you fear others will do]]
+- [[teachings/anger-at-you-is-not-evidence-you-did-wrong|Someone's anger at you is not evidence you did something wrong]]
 
 ## Source
 

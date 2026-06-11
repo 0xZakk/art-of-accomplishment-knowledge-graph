@@ -29,6 +29,7 @@ The woman in the coaching session described it perfectly: "I went into the hole 
 - [[teachings/fear-is-present-on-every-path|Fear is present on every path so face it directly]]
 - [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 - [[teachings/avoidance-is-the-stuckness-not-the-feeling|The avoidance of the feeling is the stuckness, not the feeling itself]]
+- [[teachings/craving-is-the-pushing-away|Craving is the pushing away]]
 
 ## Source
 

@@ -29,6 +29,10 @@ This reveals why self-help strategies often fail: telling yourself to love yours
 - [[teachings/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness, not the feeling]]
 - [[teachings/caretaking-as-strategy-to-feel-love|Caretaking as strategy to feel love]]
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/loving-yourself-makes-you-happy-in-the-moment|Loving the part in pain makes you happy in the moment]]
+- [[teachings/three-ways-we-push-love-away-chase-avoid-fight|We push away love by chasing it, avoiding it, or fighting]]
+- [[teachings/acceptance-is-not-love|Getting to acceptance without love repeats the pattern]]
+- [[teachings/negative-self-talk-reveals-how-love-was-wired|Negative self-talk reveals how love was wired in childhood]]
 
 ## Source
 

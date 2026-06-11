@@ -29,6 +29,7 @@ A client crying without knowing why after a silent retreat illustrates the ideal
 - [[teachings/grief-sustained-transforms-everything|Sustained grief transforms everything it touches]]
 - [[teachings/story-dissolution-is-progress-not-a-problem|Story dissolution is progress, not a problem]]
 - [[teachings/progression-from-anger-to-deeper-emotions|The progression from anger reveals grief and fear underneath]]
+- [[teachings/emotional-titration-is-adaptive|Emotional titration is adaptive, not avoidant]]
 
 ## Source
 

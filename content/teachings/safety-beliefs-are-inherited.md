@@ -27,6 +27,9 @@ This reveals how children inherit not just behaviors but beliefs about what's po
 - [[teachings/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood patterns]]
 - [[teachings/parent-self-relationship-shapes-child-relationship|Parent-self relationship shapes child relationship]]
 - [[teachings/money-wounds-trace-to-parent-wounds|Money wounds trace to parent wounds]]
+- [[teachings/the-money-block-is-really-a-safety-block|A money block is usually a safety block in disguise]]
+- [[teachings/financial-safety-is-not-about-money|Financial safety is not actually about money]]
+- [[teachings/childhood-criticism-creates-self-distrust|Childhood criticism teaches you not to trust yourself]]
 
 ## Source
 

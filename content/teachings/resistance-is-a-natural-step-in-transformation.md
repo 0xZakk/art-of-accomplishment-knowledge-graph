@@ -24,6 +24,10 @@ David White's essay on denial captures this beautifully: "To deny denial is to i
 - [[teachings/chaos-is-necessary-for-growth|Chaos is necessary for growth]]
 - [[teachings/denial-has-a-functional-purpose|Denial has a functional purpose]]
 - [[teachings/resisting-fear-leaks-it-sideways|Resisting fear doesn't eliminate it — it leaks out sideways]]
+- [[teachings/resistance-in-course-mirrors-resistance-in-life|The resistance that blocks you in a course is the same resistance blocking your life]]
+- [[teachings/tension-is-required-for-healthy-systems|All living systems require tension to stay healthy]]
+- [[teachings/the-resistance-to-asking-protects-an-unfelt-sadness|The resistance to asking protects an unfelt sadness]]
+- [[teachings/trying-is-resistance-to-experience|Trying is resistance to the current experience]]
 
 ## Source
 

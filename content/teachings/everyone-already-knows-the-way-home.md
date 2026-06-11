@@ -30,6 +30,8 @@ This also carries a profound implication for self-work: you don't need to acquir
 - [[teachings/welcoming-is-self-love|Welcoming whatever arises is self-love]]
 - [[teachings/coaching-is-self-discovery-not-skill-acquisition|Coaching is self-discovery, not skill acquisition]]
 - [[teachings/being-held-requires-dropping-the-performance|Being held requires dropping the performance]]
+- [[teachings/shame-after-feeling-good-pattern|Shame arises after feeling good as a learned pattern]]
+- [[teachings/wanting-to-control-perception-is-absurd|Wanting to control others' perception of you is absurd]]
 
 ## Source
 

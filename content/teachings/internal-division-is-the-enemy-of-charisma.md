@@ -27,6 +27,10 @@ The path to internal unity isn't performing wholeness but welcoming all emotions
 - [[teachings/two-forms-of-charisma|There are two forms of charisma]]
 - [[teachings/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]]
 - [[teachings/inherent-goodness-eliminates-internal-friction|Inherent goodness eliminates internal friction]]
+- [[teachings/charismatic-figures-validate-unmet-needs|Charismatic figures gain power by validating unmet needs]]
+- [[teachings/subtle-superiority-as-protection|Subtle superiority is a protection pattern that creates isolation]]
+- [[teachings/false-humility-as-defense|False humility is a defense against being seen]]
+- [[teachings/actor-technique-for-stuck-emotions|Pretend you're an actor to access stuck emotions]]
 
 ## Source
 

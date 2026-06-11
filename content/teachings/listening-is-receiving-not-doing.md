@@ -30,6 +30,9 @@ Joe warns against making listening into a rule or morality: "It almost feels lik
 - [[teachings/pleasure-requires-receiving-not-effort|Pleasure requires receiving, not effort]]
 - [[teachings/authenticity-is-receiving-not-performing|Authenticity is receiving, not performing]]
 - [[teachings/deep-listening-requires-self-listening|Deep listening requires listening to yourself simultaneously]]
+- [[teachings/allowing-is-a-superpower-we-ignore|Allowing is a superpower we systematically ignore]]
+- [[teachings/unconditional-listening-transforms-relationships|Listening with unconditional acceptance transforms relationships]]
+- [[teachings/listen-to-yourself-with-unconditional-acceptance|Listening to yourself with unconditional acceptance is the fastest path to listening well]]
 
 ## Source
 

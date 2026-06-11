@@ -27,6 +27,9 @@ The patterns are often multiple and overlapping, and they're typically wired in 
 - [[teachings/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
 - [[teachings/fear-of-losing-yourself-blocks-intimacy|Fear of losing yourself is what blocks intimacy]]
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/jealousy-pushes-away-the-love-it-wants|Jealousy is a bid for love that pushes love away]]
+- [[teachings/chasing-love-signals-you-dont-deserve-it|Chasing love signals that you don't deserve it]]
+- [[teachings/three-ways-we-push-love-away-chase-avoid-fight|We push away love by chasing it, avoiding it, or fighting]]
 
 ## Source
 

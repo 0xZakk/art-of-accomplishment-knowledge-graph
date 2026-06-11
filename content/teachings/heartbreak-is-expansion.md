@@ -31,6 +31,8 @@ Neuroscience research supports this: women in Western society tend to be more op
 - [[teachings/love-requires-willingness-to-be-hurt|Love requires willingness to be hurt]]
 - [[teachings/mourning-a-relationship-prevents-repeating-it|Fully mourning a relationship prevents you from repeating it]]
 - [[teachings/expansiveness-underneath-resistance-to-love|The expansiveness underneath resistance to love is overwhelming and amazing]]
+- [[teachings/heartbreak-is-the-mechanism-of-boundaries|Heartbreak is the mechanism of healthy boundaries]]
+- [[teachings/grief-unlocks-joy-after-narcissistic-abuse|Grief unlocks joy after narcissistic abuse]]
 
 ## Source
 

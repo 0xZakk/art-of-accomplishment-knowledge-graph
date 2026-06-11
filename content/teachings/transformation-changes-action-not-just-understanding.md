@@ -23,6 +23,10 @@ The scariest transformations are the ones where you can't choose the old way any
 - [[teachings/transformation-is-experiments-not-epiphany|Transformation is experiments, not epiphany]]
 - [[teachings/transformation-requires-experience-not-information|Transformation requires experience, not information]]
 - [[teachings/changing-behavior-changes-consciousness|Changing behavior changes consciousness]]
+- [[teachings/transformation-requires-all-three-levels|Guaranteed transformation requires working the head, heart, and nervous system together]]
+- [[teachings/insight-requires-embodied-integration|Insight requires embodied integration to become wisdom]]
+- [[teachings/insight-is-not-wisdom-until-embodied|Insight is not wisdom until it is embodied]]
+- [[teachings/you-have-already-changed-thousands-of-beliefs|You have already changed thousands of beliefs without noticing]]
 
 ## Source
 

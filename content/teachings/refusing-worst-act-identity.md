@@ -26,6 +26,8 @@ Emile also challenges the prison practice of always leading with your crime — 
 - [[teachings/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
 - [[teachings/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
 - [[teachings/growth-means-shedding-identities|Growth means shedding identities]]
+- [[teachings/identity-shift-resists-toxic-systems|A new identity gives you strength to resist toxic systems]]
+- [[teachings/self-loathing-as-accidental-doorway|Self-loathing can accidentally open a doorway to courage]]
 
 ## Source
 

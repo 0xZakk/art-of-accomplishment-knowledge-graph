@@ -23,6 +23,9 @@ Joe's practical advice for cultivating community: practice vulnerability, impart
 - [[teachings/real-community-requires-non-judgmental-witnessing|Real community requires non-judgmental witnessing, not fixing]]
 - [[teachings/unmet-needs-drive-self-reliance|Unmet needs drive self-reliance]]
 - [[teachings/dismissing-deep-connection-as-cult-diminishes-life|Dismissing deep community as 'cult behavior' diminishes the possibility of authentic living]]
+- [[teachings/deep-community-dissolves-identity|Deep community is scary because it dissolves identity]]
+- [[teachings/community-is-more-important-than-the-teacher|Community is far more important than the teacher for transformation]]
+- [[teachings/lonely-people-are-usually-sweethearts|Most lonely people are actually sweethearts]]
 
 ## Source
 

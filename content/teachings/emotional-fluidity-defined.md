@@ -29,6 +29,9 @@ Key distinctions: emotional fluidity is NOT detached observation ("The Watcher")
 - [[teachings/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
 - [[teachings/emotions-move-fastest-without-story|Emotions move fastest without story]]
 - [[teachings/emotions-move-through-a-rainbow-not-discrete-categories|Emotions move through a rainbow rather than discrete categories]]
+- [[teachings/emotional-development-stages|Emotional development follows predictable stages]]
+- [[teachings/pleasure-as-emotional-fluidity-practice|Practicing pleasure is a powerful way to build emotional fluidity]]
+- [[teachings/emotions-are-signals-not-commands|When emotions become fluid they give you signals instead of controlling you]]
 
 ## Source
 

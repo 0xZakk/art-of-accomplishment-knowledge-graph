@@ -24,6 +24,8 @@ The practical implication is profound: if you want to access what you're feeling
 - [[teachings/dissociation-as-double-edged-sword|Dissociation as double-edged sword]]
 - [[teachings/interoception-makes-emotional-work-easier|Interoception makes emotional work easier]]
 - [[teachings/love-and-sorrow-share-the-same-body|Love and sorrow share the same body]]
+- [[teachings/suppressing-emotions-has-a-physical-price|Suppressing emotions has a physical price the body pays]]
+- [[teachings/holding-it-together-blocks-support|Holding it together shields you from the support trying to reach you]]
 
 ## Source
 

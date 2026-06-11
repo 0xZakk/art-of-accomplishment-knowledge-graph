@@ -27,6 +27,10 @@ This isn't mental gymnastics. It's entering a neutral internal space, imagining 
 - [[teachings/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
 - [[teachings/any-self-definition-limits-you|Any self-definition limits you]]
 - [[teachings/identity-of-lack-perpetuates-lack|Identity of lack perpetuates lack]]
+- [[teachings/the-purge-of-contradicting-beliefs|Holding a new identity triggers a purge of contradicting beliefs]]
+- [[teachings/every-epiphany-becomes-the-next-rut|Every epiphany about identity becomes the next identity rut]]
+- [[teachings/identity-stress-comes-from-defending-a-fixed-self|Identity stress comes from defending a fixed self-concept]]
+- [[teachings/identity-you-cant-see-controls-you-most|The identity you can't see controls you the most]]
 
 ## Source
 

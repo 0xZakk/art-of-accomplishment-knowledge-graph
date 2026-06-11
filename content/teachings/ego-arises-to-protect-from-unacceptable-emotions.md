@@ -25,6 +25,10 @@ Joe quotes an Irish mystic named Wu Wei Wu: "Fight your ego, try to destroy your
 - [[teachings/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]]
 - [[teachings/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
 - [[teachings/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]]
+- [[teachings/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
+- [[teachings/emptiness-is-the-source-of-empathic-attunement|Emptiness is the source of empathic attunement]]
+- [[teachings/holding-it-together-blocks-support|Holding it together shields you from the support trying to reach you]]
+- [[teachings/resisting-emotion-invites-it-back|Resisting an emotion is exactly what invites it back]]
 
 ## Source
 

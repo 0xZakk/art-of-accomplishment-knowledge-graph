@@ -26,6 +26,10 @@ Crucially, this means allowing tension that naturally arises rather than manufac
 - [[teachings/allowing-conflict-not-creating-it|Allowing conflict, not creating it]]
 - [[teachings/adversity-refines-rather-than-destroys|Adversity refines rather than destroys]]
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/love-requires-willingness-to-be-hurt|Love requires willingness to be hurt]]
+- [[teachings/you-cant-make-yourself-cry|You can't make yourself feel emotions by trying]]
+- [[teachings/containing-emotions-to-connect-disconnects-you|Containing emotions to connect actually disconnects you]]
+- [[teachings/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
 
 ## Source
 

@@ -26,6 +26,10 @@ What makes this insight powerful is that it cuts both ways. We can use the feeli
 - [[teachings/financial-safety-is-not-about-money|Financial safety is not about money]]
 - [[teachings/knowing-yourself-is-the-only-safety|Knowing yourself is the only safety]]
 - [[teachings/safety-can-disconnect-from-reality|The pursuit of safety can disconnect you from reality]]
+- [[teachings/unsafety-as-belief-anchor|The belief 'I'll be unsafe' anchors other limiting beliefs]]
+- [[teachings/pleasure-is-the-path-to-gut-awakening|Pleasure is the safe path to the gut awakening]]
+- [[teachings/the-money-block-is-really-a-safety-block|A money block is usually a safety block in disguise]]
+- [[teachings/safety-is-tuned-not-maximized|Safety in teams is tuned like a guitar string, not maximized]]
 
 ## Source
 

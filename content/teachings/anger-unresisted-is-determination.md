@@ -30,6 +30,7 @@ The key distinction is between victim anger ("I'm so tired of being stuck") and 
 - [[teachings/anger-release-ends-in-clarity-and-determination|Clean anger release ends in clarity and determination about yourself, not others]]
 - [[teachings/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
 - [[teachings/suppressing-anger-kills-your-fire|Suppressing anger kills your fire, determination, and clarity]]
+- [[teachings/anger-is-clarity-and-determination|Anger at its core is clarity and determination]]
 
 ## Source
 

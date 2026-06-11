@@ -26,6 +26,8 @@ There's also the trap of feeling *responsible for* others, which is actually dis
 - [[teachings/blame-is-an-unowned-want|Blame is an unowned want]]
 - [[teachings/feeling-helplessness-creates-agency|Feeling helplessness creates agency]]
 - [[teachings/blame-is-corrosive-shame-passing|Blame is corrosive shame-passing that never resolves anything]]
+- [[teachings/taking-care-of-others-disempowers-them|Taking responsibility for others' happiness disempowers them]]
+- [[teachings/apologize-for-disempowering-others|Apologizing for disempowering people undoes the self-reliance loop]]
 
 ## Source
 

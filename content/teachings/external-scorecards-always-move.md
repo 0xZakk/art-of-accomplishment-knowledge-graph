@@ -26,6 +26,7 @@ Kay's childhood reveals why: his parents' approval was tied to performance ("do 
 - [[teachings/self-trust-as-the-only-scorecard|Self-trust is the only scorecard that can't be taken away]]
 - [[teachings/goals-as-self-abuse-versus-creativity|Goals as self-abuse versus creativity]]
 - [[teachings/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
+- [[teachings/rudderlessness-is-freedom-in-disguise|Feeling rudderless is freedom in disguise]]
 
 ## Source
 

@@ -27,6 +27,8 @@ The financial safety question was never financial. It was about an unresolved re
 - [[teachings/inner-child-holds-money-permission|The inner child holds the permission around money]]
 - [[teachings/hug-the-demon-dont-slay-it|Hug the demon, don't slay it]]
 - [[teachings/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood emotional patterns]]
+- [[teachings/the-money-block-is-really-a-safety-block|A money block is usually a safety block in disguise]]
+- [[teachings/wanting-money-is-not-selfish|Wanting money is not selfish — it's wanting freedom and safety]]
 
 ## Source
 

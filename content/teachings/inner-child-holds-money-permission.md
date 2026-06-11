@@ -23,6 +23,10 @@ The resolution doesn't come from arguing with the child or proving there's enoug
 - [[teachings/financial-safety-is-not-about-money|Financial safety is not actually about money]]
 - [[teachings/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood patterns]]
 - [[teachings/money-wounds-trace-to-parent-wounds|Money wounds trace to parent wounds]]
+- [[teachings/wanting-money-is-not-selfish|Wanting money is not selfish — it's wanting freedom and safety]]
+- [[teachings/hug-the-demon-dont-slay-it|Hug the demon, don't slay it]]
+- [[teachings/depersonalizing-money-creates-freedom|Depersonalizing money creates financial freedom]]
+- [[teachings/apologize-to-money-for-the-projection|Money is a teacher reflecting your projections back to you]]
 
 ## Source
 

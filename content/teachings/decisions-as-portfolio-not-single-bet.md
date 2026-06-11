@@ -25,6 +25,7 @@ The shift is from outcomes to process: be grounded, be openhearted, speak what's
 
 - [[teachings/speaking-truth-dissolves-approval-seeking|Speaking your truth dissolves the need for approval]]
 - [[teachings/we-are-always-running-experiments|We are always running experiments]]
+- [[teachings/decisions-reveal-emotional-avoidance|Every decision is an attempt to avoid an emotion]]
 
 ## Source
 

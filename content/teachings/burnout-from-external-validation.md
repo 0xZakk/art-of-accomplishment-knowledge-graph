@@ -24,6 +24,10 @@ Joe's question "What makes progress external and not internal?" cuts to the hear
 - [[teachings/burnout-is-sustained-adrenaline-depletion|Burnout is sustained adrenaline depletion]]
 - [[teachings/chase-your-own-approval|Chase your own approval]]
 - [[teachings/progress-is-internal-not-external|Real progress is internal awareness, not external achievement]]
+- [[teachings/authenticity-matters-more-than-self-improvement|Authenticity matters more than self-improvement]]
+- [[teachings/enjoyment-as-the-only-metric|Making enjoyment the only metric paradoxically increases productivity]]
+- [[teachings/sensitivity-increases-with-practice|Sensitivity to discord increases with practice]]
+- [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
 
 ## Source
 

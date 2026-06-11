@@ -29,6 +29,9 @@ The old stories came up to serve us. Appreciating them, being gentle with themâ€
 - [[teachings/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
 - [[teachings/fear-of-losing-insight-blocks-integration|Fear of losing an insight blocks its integration]]
 - [[teachings/wisdom-is-when-you-dont-need-to-remember|Wisdom is when you don't need to remember the insight]]
+- [[teachings/insight-is-not-wisdom-until-embodied|Insight is not wisdom until it is embodied]]
+- [[teachings/insight-requires-embodied-integration|Insight requires embodied integration to become wisdom]]
+- [[teachings/forgiveness-is-a-three-step-process|Forgiveness is a three-step process of heart, head, and gut]]
 
 ## Source
 

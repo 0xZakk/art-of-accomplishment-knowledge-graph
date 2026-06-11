@@ -31,6 +31,7 @@ The real question isn't who's right — it's what emotions you'd have to feel if
 - [[teachings/partners-teach-what-you-need-to-learn|Partners are attracted because they teach what you need to learn]]
 - [[teachings/depersonalize-the-problem|Depersonalize the problem — it's a patient on the table]]
 - [[teachings/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
+- [[teachings/logical-conviction-hijacks-empathy|Logical conviction hijacks empathetic people]]
 
 ## Source
 

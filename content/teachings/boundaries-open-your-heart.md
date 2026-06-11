@@ -30,6 +30,7 @@ The fear of the other person's response is inevitable, especially for new bounda
 - [[teachings/boundary-firmness-eliminates-fear-of-attack|Boundary firmness eliminates fear of attack]]
 - [[teachings/boundaries-and-openness-are-the-same-thing|Drawing boundaries and opening your heart are the same thing]]
 - [[teachings/boundary-versus-ultimatum|The difference between a boundary and an ultimatum is fear]]
+- [[teachings/boundaries-are-scariest-because-of-freedom|What's scariest about boundaries is the freedom on the other side]]
 
 ## Source
 

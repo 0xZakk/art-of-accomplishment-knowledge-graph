@@ -27,6 +27,10 @@ Joe puts his own life in the same frame: "I am dedicated to building this busine
 - [[teachings/rudderlessness-is-freedom-in-disguise|Rudderlessness is freedom in disguise]]
 - [[teachings/nothing-is-required-for-freedom|Nothing is required for freedom]]
 - [[teachings/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
+- [[teachings/emotional-repression-causes-depression-and-shoulds|Emotional repression is the root cause of depression and shoulds]]
+- [[teachings/feeling-bad-perpetuates-the-trauma-cycle|Believing you're bad perpetuates the trauma cycle]]
+- [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[teachings/should-is-obligation-wearing-a-mask|Every should is obligation wearing a mask]]
 
 ## Source
 

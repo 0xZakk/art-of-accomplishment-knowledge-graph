@@ -26,6 +26,7 @@ The participant fears that surrendering to the longing would make them helpless,
 - [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 - [[teachings/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
 - [[teachings/love-requires-willingness-to-be-hurt|Love requires willingness to be hurt]]
+- [[teachings/loving-to-manage-stops-working|Loving something to make it go away stops working]]
 
 ## Source
 

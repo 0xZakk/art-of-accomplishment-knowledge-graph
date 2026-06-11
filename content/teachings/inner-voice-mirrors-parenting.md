@@ -24,6 +24,7 @@ This means the inner critic isn't random—it has a specific origin and a specif
 - [[teachings/inner-critic-is-not-your-voice|The inner critic is not your voice — it's inherited]]
 - [[teachings/voice-in-head-talks-to-itself|The voice in the head talks to itself more than to you]]
 - [[teachings/external-patterns-mirror-internal-ones|External relationship patterns mirror internal ones]]
+- [[teachings/inner-critic-is-an-inherited-voice-not-you|The inner critic is an inherited voice, not you talking to yourself]]
 
 ## Source
 

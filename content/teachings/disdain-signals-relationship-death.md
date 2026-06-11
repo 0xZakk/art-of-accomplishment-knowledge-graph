@@ -24,6 +24,10 @@ The most common avoidant trajectory is: don't fight, don't fight, don't fight, d
 - [[teachings/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]]
 - [[teachings/every-fight-can-bring-you-closer|Every fight can bring you closer together]]
 - [[teachings/measure-how-you-fight-not-how-often|Relationship health is measured by how you fight, not how often]]
+- [[teachings/resentment-is-stored-conflict|Resentment is stored conflict—the longer you avoid it, the bigger the explosion]]
+- [[teachings/truth-over-comfort-in-relationships|Prioritizing truth over comfort creates lasting relationships]]
+- [[teachings/truth-telling-revives-dead-relationships|Speaking your truth revives dead relationships]]
+- [[teachings/every-fight-is-about-feeling-unseen|Every relationship fight is fundamentally about feeling unseen]]
 
 ## Source
 

@@ -26,6 +26,8 @@ The somatic test for a good boundary is expansion: you feel more love, more open
 - [[teachings/caretaking-kills-desire|Caretaking kills desire]]
 - [[teachings/boundaries-open-your-heart|Boundaries must open your heart, not close it]]
 - [[teachings/boundary-versus-ultimatum|The difference between a boundary and an ultimatum is fear]]
+- [[teachings/strong-boundaries-are-an-act-of-compassion|Strong boundaries are an act of compassion to self and other]]
+- [[teachings/boundaries-are-for-you-not-them|Boundaries are primarily for you, not the other person]]
 
 ## Source
 

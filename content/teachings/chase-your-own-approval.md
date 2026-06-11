@@ -25,6 +25,10 @@ A life organized around your own approval feels empowered, grounded, and capable
 - [[teachings/approval-seeking-pushes-people-away|Seeking approval pushes people away]]
 - [[teachings/being-yourself-designs-your-life|Being yourself designs your life]]
 - [[teachings/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]]
+- [[teachings/no-external-validation-works-without-self-validation|No amount of external validation works if you won't validate yourself]]
+- [[teachings/unfelt-emotions-drive-you-into-others-opinions|Unfelt emotions drive you out of yourself and into others' opinions]]
+- [[teachings/purpose-seeking-often-masks-approval-seeking|Purpose-seeking often masks approval-seeking]]
+- [[teachings/speaking-truth-dissolves-approval-seeking|Speaking your truth dissolves the need for external approval]]
 
 ## Source
 

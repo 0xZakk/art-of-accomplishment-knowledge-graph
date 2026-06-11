@@ -27,6 +27,7 @@ The butler isn't personal — it shows up for everyone. In group settings, Joe n
 - [[teachings/intuition-sees-what-logic-cannot|Intuition sees what logic cannot]]
 - [[teachings/confidence-comes-from-reps-not-reading|Confidence comes from embodied reps not intellectual understanding]]
 - [[teachings/transformation-is-archaeology-not-invention|Transformation work is unearthing what already exists, not inventing something new]]
+- [[teachings/flow-requires-forgetting-yourself|Flow in speaking requires forgetting you're speaking]]
 
 ## Source
 

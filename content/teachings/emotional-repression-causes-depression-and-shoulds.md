@@ -30,6 +30,7 @@ The summary is devastating in its simplicity: "You are not feeling the emotion u
 - [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
 - [[teachings/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]
 - [[teachings/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
+- [[teachings/purposelessness-as-freedom|Purposelessness reframed as freedom]]
 
 ## Source
 

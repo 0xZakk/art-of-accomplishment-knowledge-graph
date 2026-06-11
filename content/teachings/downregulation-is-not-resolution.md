@@ -25,6 +25,10 @@ The real work is seeing through the thoughts that create the stress, particularl
 - [[teachings/breath-regulates-the-nervous-system|Breath regulates the nervous system]]
 - [[teachings/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]]
 - [[teachings/address-root-blockers-not-symptoms|Address root blockers, not symptoms]]
+- [[teachings/regulate-the-nervous-system-before-learning-from-anxiety|Regulate the nervous system before you can learn from anxiety]]
+- [[teachings/attention-alone-reduces-stress|Paying attention to stress without trying to change it reduces it]]
+- [[teachings/muscles-constrict-to-block-feeling|We constrict muscles to suppress emotions — breathing reverses this]]
+- [[teachings/breathe-into-anxiety-to-find-excitement|Breathing into anxiety to enjoy it turns it into excitement]]
 
 ## Source
 

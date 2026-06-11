@@ -26,6 +26,10 @@ This applies far beyond adventure sports. A CEO who can name their fear ("I'm sc
 - [[teachings/embrace-intensity-for-transformation|Embrace intensity for transformation]]
 - [[teachings/fear-hot-potato|Fear you refuse to feel gets handed to others]]
 - [[teachings/embracing-fear-produces-flow-state|Embracing fear produces flow state]]
+- [[teachings/fear-path-has-no-end|The fear path has no end — deeper levels always reveal themselves]]
+- [[teachings/resisting-fear-leaks-it-sideways|Resisting fear doesn't eliminate it — it leaks out sideways]]
+- [[teachings/facing-fear-builds-empowerment|Facing the feeling you're avoiding is how empowerment comes]]
+- [[teachings/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
 
 ## Source
 

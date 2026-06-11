@@ -23,6 +23,9 @@ The invitation is to let the evidence of your actions update your self-concept, 
 - [[teachings/worrying-about-the-future-is-the-pattern-not-the-solution|Worrying about the future is the pattern, not the solution]]
 - [[teachings/facing-fear-builds-empowerment|Facing fear builds empowerment]]
 - [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[teachings/self-reliance-comes-from-parentified-childhood|Self-reliance comes from a childhood where you took care of your parents]]
+- [[teachings/show-up-as-yourself-to-answer-stay-or-leave|Showing up as yourself answers the stay-or-leave question]]
+- [[teachings/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
 
 ## Source
 

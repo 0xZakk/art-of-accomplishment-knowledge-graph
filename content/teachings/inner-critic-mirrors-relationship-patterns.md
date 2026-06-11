@@ -29,6 +29,7 @@ When Joe points this out, Clint says he gets it with his wife but has trouble se
 - [[teachings/inner-critic-uses-same-cult-dynamics|The inner critic uses the same dynamics as cults and political manipulation]]
 - [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
 - [[teachings/acceptance-is-not-love|Getting to acceptance without love repeats the pattern]]
+- [[teachings/should-is-obligation-wearing-a-mask|Every should is obligation wearing a mask]]
 
 ## Source
 

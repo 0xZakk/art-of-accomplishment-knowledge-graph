@@ -28,6 +28,8 @@ The lesson isn't that anger is inherently destructive, but that using one emotio
 - [[teachings/self-loathing-as-accidental-doorway|Self-loathing can accidentally open a doorway to courage]]
 - [[teachings/fear-as-road-map-not-enemy|Fear is a road map, not an enemy to conquer]]
 - [[teachings/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]
+- [[teachings/survival-mechanisms-deserve-honor|Survival mechanisms deserve honor, not shame]]
+- [[teachings/shame-is-anger-turned-inward|Shame is anger turned inward]]
 
 ## Source
 

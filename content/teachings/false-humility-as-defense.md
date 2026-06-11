@@ -30,6 +30,7 @@ The irony is that one of the man's deepest needs is to be "not just accepted, bu
 - [[teachings/let-compliments-move-through-you|Letting compliments move all the way through you destroys ego]]
 - [[teachings/hedging-reveals-shame-about-wanting|Hedging language reveals shame about wanting]]
 - [[teachings/putting-yourself-above-others-is-protection|Putting yourself above others is a subtle form of protection]]
+- [[teachings/shame-interrupts-openness|Shame interrupts openness and pulls you out of spaciousness]]
 
 ## Source
 

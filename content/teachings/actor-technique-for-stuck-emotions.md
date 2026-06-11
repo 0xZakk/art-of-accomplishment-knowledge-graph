@@ -27,6 +27,11 @@ The subtlety is that this isn't about forcing an emotion. It's an invitation —
 - [[teachings/exercises-need-body-emotion-and-voice|Exercises need body, emotion, and voice]]
 - [[teachings/feeling-through-requires-letting-identity-restructure|Feeling an emotion fully requires letting your identity restructure]]
 - [[teachings/experiments-make-knowledge-embodied|Experiments make knowledge embodied]]
+- [[teachings/actor-technique-for-anger-release|The actor technique lets you release anger while maintaining awareness]]
+- [[teachings/contradiction-reveals-the-mask|Contradiction between words and body reveals the mask we're wearing]]
+- [[teachings/speaking-from-discomfort-not-past-it|Speaking from discomfort rather than past it]]
+- [[teachings/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]
+- [[teachings/the-voice-of-fakeness-is-intuition-not-pathology|The voice of fakeness is intuition, not pathology]]
 
 ## Source
 

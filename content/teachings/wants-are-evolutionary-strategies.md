@@ -32,6 +32,8 @@ This reframes the entire moral framework around selfishness: there are no bad wa
 - [[teachings/wanting-is-aliveness|Wanting is aliveness]]
 - [[teachings/self-interest-evolves-into-altruism|Self-interest naturally evolves into altruism]]
 - [[teachings/inherent-goodness-reframes-shameful-wants|Seeing yourself as inherently good reframes shameful wants]]
+- [[teachings/wants-motivate-where-shoulds-stagnate|Wants motivate where shoulds stagnate]]
+- [[teachings/shame-is-love-in-disguise|Shame is love in disguise—it shows you care]]
 
 ## Source
 

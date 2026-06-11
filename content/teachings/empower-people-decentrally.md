@@ -23,6 +23,7 @@ The key mental model: empowerment plus quality assurance, delivered through stru
 
 - [[teachings/structural-changes-beat-direct-interventions|Structural changes beat direct interventions]]
 - [[teachings/culture-dysfunction-two-questions|All cultural dysfunction comes from two questions]]
+- [[teachings/empowered-organizations-need-elegant-structure|Empowered organizations need elegant structure that creates safety with maximum autonomy]]
 
 ## Source
 

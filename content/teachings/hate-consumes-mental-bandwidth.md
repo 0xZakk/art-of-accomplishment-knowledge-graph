@@ -29,6 +29,8 @@ Brett points out that some of that unowned, unprocessed rage was itself a source
 - [[teachings/hardened-heart-from-unprocessed-loss|A hardened heart comes from unprocessed loss]]
 - [[teachings/identity-collapse-follows-peak-achievement|Identity collapse follows peak achievement]]
 - [[teachings/empathy-makes-warriors-more-effective|Empathy makes warriors more effective, not weaker]]
+- [[teachings/love-that-comes-with-abuse-gets-met-with-aggression|When love arrived with abuse, love later gets met with aggression]]
+- [[teachings/dissociation-as-double-edged-sword|Dissociation is a double-edged sword]]
 
 ## Source
 

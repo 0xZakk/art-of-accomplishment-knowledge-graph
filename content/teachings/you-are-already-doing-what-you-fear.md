@@ -30,6 +30,7 @@ The strategy worked perfectly then. The problem is you're still running it. And 
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 - [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 - [[teachings/childhood-freeze-becomes-adult-trap|The childhood freeze response becomes the adult trap]]
+- [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
 
 ## Source
 

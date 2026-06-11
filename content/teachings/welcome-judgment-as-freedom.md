@@ -29,6 +29,8 @@ Critically, this isn't masochism. It's about freedom — "a place where I get to
 - [[teachings/triggers-as-freedom-opportunities|Triggers as freedom opportunities]]
 - [[teachings/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]]
 - [[teachings/intuition-sees-what-logic-cannot|Intuition sees what the logical mind cannot]]
+- [[teachings/you-cannot-judge-the-value-of-your-own-input|You cannot judge the value of your own input]]
+- [[teachings/procrastination-as-wisdom-signal|Procrastination can be a signal that your priorities are misaligned]]
 
 ## Source
 

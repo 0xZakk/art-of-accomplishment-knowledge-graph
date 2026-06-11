@@ -25,6 +25,9 @@ This doesn't mean no one is responsible—it means responsibility is handled sep
 - [[teachings/shame-stagnates-behavior|Shame stagnates behavior]]
 - [[teachings/see-whats-right-and-build-on-it|See what's right and build on it]]
 - [[teachings/gratitude-reveals-solutions-deficit-thinking-hides|Gratitude reveals solutions deficit thinking hides]]
+- [[teachings/depersonalize-the-problem|Depersonalize the problem — it's a patient on the table]]
+- [[teachings/gratitude-reveals-solutions-criticism-hides|Gratitude reveals solutions that criticism hides]]
+- [[teachings/blame-is-an-unowned-want|Blame is an unowned want]]
 
 ## Source
 

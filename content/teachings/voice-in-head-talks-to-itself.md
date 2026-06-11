@@ -25,6 +25,7 @@ Joe points out the irony: if your mother constantly told you to shave more, you'
 - [[teachings/inner-voice-mirrors-parenting|The inner critic mirrors how you were parented]]
 - [[teachings/the-voice-of-fakeness-is-intuition-not-pathology|The voice of fakeness is intuition, not pathology]]
 - [[teachings/inner-critic-uses-same-cult-dynamics|The inner critic uses the same dynamics as cults and political manipulation]]
+- [[teachings/inner-critic-is-an-inherited-voice-not-you|The inner critic is an inherited voice, not you talking to yourself]]
 
 ## Source
 

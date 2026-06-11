@@ -25,6 +25,11 @@ When a debt collector compartmentalizes their heart and goes in hard, the custom
 - [[teachings/being-yourself-designs-your-life|Being yourself designs your life]]
 - [[teachings/connection-enables-accomplishment|Connection enables accomplishment]]
 - [[teachings/internal-alignment-mirrors-organizational-alignment|Internal alignment mirrors organizational alignment]]
+- [[teachings/improvement-culture-kills-natural-learning|Improvement culture kills natural learning]]
+- [[teachings/business-alignment-is-spiritual-alignment|Business alignment and spiritual alignment are the same thing]]
+- [[teachings/gentle-narcissism-in-the-call-to-coach|Gentle narcissism hides in the call to coach]]
+- [[teachings/performing-for-connection-blocks-authentic-earning|Performing for connection blocks authentic earning]]
+- [[teachings/authenticity-matters-more-than-self-improvement|Authenticity matters more than self-improvement]]
 
 ## Source
 

@@ -28,6 +28,11 @@ For Ant personally, the No Doctrine is a practice that directly addresses his co
 - [[teachings/vulnerability-transforms-business-performance|Vulnerability transforms business performance]]
 - [[teachings/conflict-avoidant-leaders-trade-short-term-for-long-term-pain|Conflict-avoidant leaders trade short-term for long-term pain]]
 - [[teachings/authenticity-transforms-business|Authenticity transforms business]]
+- [[teachings/leaders-vulnerability-cascades-through-the-team|A leader's vulnerability cascades through the entire team]]
+- [[teachings/truth-lands-as-relief-in-the-body|Truth lands as relief in the body, not as attack]]
+- [[teachings/everyone-can-see-what-you-think-youre-hiding|Everyone can see what you think you're hiding]]
+- [[teachings/every-no-is-new-information|Every 'no' is new information that creates clarity]]
+- [[teachings/watching-a-leader-fail-teaches-more-than-success|Watching a leader fail openly teaches more than their success]]
 
 ## Source
 

@@ -27,6 +27,9 @@ People living by principles never worry about someone's power over them — they
 - [[teachings/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
 - [[teachings/blame-is-an-unowned-want|Blame is an unowned want]]
 - [[teachings/apology-as-transformation-tool|An empowered apology is one of the most powerful tools for self-transformation]]
+- [[teachings/rebellion-empowers-the-authority|Rebellion empowers the authority figure just as compliance does]]
+- [[teachings/feeling-helplessness-creates-empowerment|Going through helplessness is what creates empowerment]]
+- [[teachings/shame-outlines-identity|Shame outlines identity—what you can't see controls you]]
 
 ## Source
 

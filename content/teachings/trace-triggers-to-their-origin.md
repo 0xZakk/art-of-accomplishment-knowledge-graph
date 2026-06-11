@@ -26,6 +26,9 @@ This practice works because the body remembers what the mind has forgotten or ne
 - [[teachings/feeling-the-held-back-emotion-ends-trauma-repetition|Feeling the held-back emotion ends trauma repetition]]
 - [[teachings/theta-programming-shapes-adult-reality|Theta programming shapes adult reality]]
 - [[teachings/fully-feeling-stops-the-pattern|Fully falling in love with the avoided feeling is the quickest way to stop a negative pattern]]
+- [[teachings/feeling-life-beats-figuring-it-out|Feeling your life produces clearer decisions than figuring it out]]
+- [[teachings/the-golden-algorithm|The golden algorithm: we invite back the emotion we avoid, in the way we avoid it]]
+- [[teachings/engineering-heartbreak-to-avoid-heartbreak|We engineer heartbreak to avoid the heartbreak we haven't felt]]
 
 ## Source
 

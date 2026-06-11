@@ -25,6 +25,7 @@ Companies that hook into authentic human desires—altruism, self-interest, team
 - [[teachings/your-nature-knows-what-you-need-next|Your nature knows what you need next]]
 - [[teachings/goals-as-self-abuse-versus-creativity|Goals as self-abuse versus creativity]]
 - [[teachings/internal-alignment-mirrors-organizational-alignment|Internal alignment mirrors organizational alignment]]
+- [[teachings/authenticity-transforms-business|Authenticity transforms business more effectively than improvement metrics]]
 
 ## Source
 

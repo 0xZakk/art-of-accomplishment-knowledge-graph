@@ -24,6 +24,10 @@ This illustrates a principle: you don't need someone's backstory to see their pa
 - [[teachings/go-deeper-into-the-defense|Go deeper into the defense]]
 - [[teachings/holding-it-together-blocks-support|Holding it together shields you from the support trying to reach you]]
 - [[teachings/being-held-requires-dropping-the-performance|Being held requires dropping the performance]]
+- [[teachings/the-stuckness-is-happening-in-the-room|The stuckness you came to solve is happening right now in the room]]
+- [[teachings/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
+- [[teachings/coaching-expression-must-be-yours-not-your-teachers|Your coaching expression must be yours, not your teacher's]]
+- [[teachings/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
 
 ## Source
 

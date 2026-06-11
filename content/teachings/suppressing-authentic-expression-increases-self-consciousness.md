@@ -28,6 +28,8 @@ The comic had also been told by coaches to do "dead pan" — which Joe points ou
 - [[teachings/connection-dissolves-self-consciousness|Connection dissolves self-consciousness]]
 - [[teachings/welcoming-fear-cures-phobia|Welcoming fear cures phobia]]
 - [[teachings/contradiction-reveals-the-mask|Contradiction between words and body reveals the mask we're wearing]]
+- [[teachings/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
+- [[teachings/performing-for-connection-blocks-authentic-earning|Performing for connection blocks authentic earning]]
 
 ## Source
 

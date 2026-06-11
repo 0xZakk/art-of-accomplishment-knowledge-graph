@@ -28,6 +28,7 @@ The false end is a feature of binary thinking under fear—everything becomes pa
 - [[teachings/fear-creates-binary-thinking-and-false-ends|Fear creates binary thinking and false ends]]
 - [[teachings/feel-fear-to-see-opportunity|Feel the fear fully to see the opportunities in chaos]]
 - [[teachings/fear-in-the-head-creates-binary-thinking|Fear in the head creates binary thinking and false ends]]
+- [[teachings/nervous-system-fight-or-flight-collapses-thinking|Fight-or-flight collapses thinking into binaries and false ends]]
 
 ## Source
 

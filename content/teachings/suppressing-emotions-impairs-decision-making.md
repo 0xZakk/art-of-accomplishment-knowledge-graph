@@ -27,6 +27,7 @@ She had told herself that separating from her feelings made her more effective. 
 - [[teachings/bad-decisions-come-from-fear-of-emotions|Bad decisions come from fear of emotions]]
 - [[teachings/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]
 - [[teachings/decisions-are-made-in-the-emotional-brain|Decisions are made in the emotional center of the brain, not through analysis]]
+- [[teachings/feeling-life-beats-figuring-it-out|Feeling your life produces clearer decisions than figuring it out]]
 
 ## Source
 

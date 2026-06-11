@@ -28,6 +28,7 @@ This reframes marriage from a relationship to maintain into a practice to engage
 - [[teachings/life-changes-trigger-marriage-growth-cycles|Life changes trigger marriage growth cycles]]
 - [[teachings/self-love-sets-the-capacity-limit-for-loving-others|Self-love sets the capacity limit for loving a partner]]
 - [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
+- [[teachings/you-must-know-you-can-leave-to-love|You must know you can leave to truly love]]
 
 ## Source
 

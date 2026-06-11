@@ -27,6 +27,9 @@ Joe extends this to physical practice: standing on a cliff, he visualizes failur
 - [[teachings/pre-grieving-loss-creates-resilience|Pre-grieving loss creates resilience]]
 - [[teachings/feel-fear-to-see-opportunity|Feel the fear fully to see the opportunities in chaos]]
 - [[teachings/safety-can-disconnect-from-reality|The pursuit of safety can disconnect you from reality]]
+- [[teachings/clarity-comes-after-feeling-not-before|Clarity comes after feeling the emotion not before]]
+- [[teachings/enjoy-the-sensations-of-awakening|Enjoying the sensations rather than bracing eases the integration]]
+- [[teachings/fear-is-present-on-every-path|Fear is present on every path so face it directly]]
 
 ## Source
 

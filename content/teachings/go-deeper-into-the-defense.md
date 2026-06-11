@@ -22,6 +22,9 @@ This is a recurring pattern in Joe's coaching: rather than opposing resistance, 
 - [[teachings/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
 - [[teachings/emotional-fluidity-is-already-there|You already have emotional fluidity—you just need to stop blocking it]]
 - [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[teachings/emptiness-is-the-source-of-empathic-attunement|Emptiness is the source of empathic attunement]]
+- [[teachings/tears-dont-disturb-the-quiet|Tears don't disturb the inner quiet—they help the body]]
+- [[teachings/not-feeling-may-be-repression|Thinking you can't feel may actually be repression]]
 
 ## Source
 

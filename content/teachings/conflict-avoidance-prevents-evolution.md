@@ -27,6 +27,7 @@ The key distinction: this isn't about creating conflict or using conflict as a m
 - [[teachings/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]]
 - [[teachings/resentment-is-stored-conflict|Resentment is stored conflict—the longer you avoid it, the bigger the explosion]]
 - [[teachings/allowing-conflict-not-creating-it|Healthy conflict is allowing what's there, not creating fights]]
+- [[teachings/tension-is-required-for-healthy-systems|All living systems require tension to stay healthy]]
 
 ## Source
 

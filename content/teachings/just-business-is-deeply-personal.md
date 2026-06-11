@@ -25,6 +25,9 @@ The principle extends beyond firing: any time we shut down emotionally in a busi
 - [[teachings/depersonalizing-money-creates-freedom|Depersonalizing money creates financial freedom]]
 - [[teachings/shame-stagnates-behavior|Shame stagnates behavior]]
 - [[teachings/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]]
+- [[teachings/own-the-trigger-as-yours|Owning the trigger as yours dissolves the fight]]
+- [[teachings/gentle-narcissism-in-the-call-to-coach|Gentle narcissism hides in the call to coach]]
+- [[teachings/speaking-truth-requires-open-heart-not-management|Speaking truth requires an open heart, not management of others' reactions]]
 
 ## Source
 

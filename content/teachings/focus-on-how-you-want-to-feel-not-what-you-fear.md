@@ -29,6 +29,9 @@ As Aaron frames it: "Fear is a misuse of the imagination." The same imagination 
 - [[teachings/embracing-fear-versus-avoiding-fear|Embracing fear versus avoiding fear]]
 - [[teachings/feel-your-way-to-freedom|Feel your way to freedom]]
 - [[teachings/confidence-comes-from-authenticity-not-achievement|Confidence comes from authenticity not achievement]]
+- [[teachings/gold-lies-beyond-what-you-fear|The gold in life lies just beyond what you're afraid to face]]
+- [[teachings/feel-fear-to-see-opportunity|Feel the fear fully to see the opportunities in chaos]]
+- [[teachings/anxiety-signals-an-unarticulated-need|Anxiety signals an unarticulated need or unset boundary]]
 
 ## Source
 

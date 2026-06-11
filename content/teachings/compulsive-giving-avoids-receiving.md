@@ -26,6 +26,9 @@ When Joe was in his self-reliant phase, the people around him were accustomed to
 - [[teachings/giving-without-exchange-is-destructive|Giving without exchange is destructive]]
 - [[teachings/three-dangerous-motivations-for-coaching|Three dangerous motivations for coaching]]
 - [[teachings/self-reliance-blocks-receiving-support|Self-reliance blocks the ability to receive support]]
+- [[teachings/the-fantasy-of-perfect-help-keeps-you-alone|The fantasy of perfect help guarantees you stay alone]]
+- [[teachings/self-reliance-as-intimacy-avoidance|Self-reliance can be a form of intimacy avoidance]]
+- [[teachings/unrequested-help-hands-someone-your-fear|Unrequested help hands your fear to someone else to hold]]
 
 ## Source
 

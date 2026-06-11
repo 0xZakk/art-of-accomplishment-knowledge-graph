@@ -25,6 +25,10 @@ Joe adds a crucial observation: when someone's inner critic is constantly runnin
 - [[teachings/recovery-time-is-part-of-the-work|Recovery time is part of the work]]
 - [[teachings/extend-rest-beyond-readiness|Extend rest beyond readiness]]
 - [[teachings/inner-critic-prevents-nervous-system-rest|The inner critic prevents the rest needed for nervous system integration]]
+- [[teachings/self-attack-during-rest-prolongs-recovery|Self-attack during rest prolongs recovery from months to years]]
+- [[teachings/transformation-requires-all-three-levels|Guaranteed transformation requires working the head, heart, and nervous system together]]
+- [[teachings/rest-from-the-inner-critic|What you really need is rest from your inner critic]]
+- [[teachings/optimize-for-downtime-not-just-productivity|Optimize for downtime, not just productivity]]
 
 ## Source
 

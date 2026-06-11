@@ -45,6 +45,7 @@ Joe created the Connection Course because he saw this pattern everywhere. The fo
 - [[teachings/compassion-is-truth-with-an-open-heart|True compassion is speaking truth with an open heart, not being nice]]
 - [[teachings/moving-emotions-dissolves-depression|Moving the emotion dissolves depression]]
 - [[teachings/hearing-objections-before-deciding|Hearing objections before deciding — even if you decide the same thing — changes everything]]
+- [[teachings/saying-ouch-reveals-how-abusive-self-talk-is|Saying \"ouch\" out loud reveals how abusive your self-talk really is]]
 
 ## Source
 

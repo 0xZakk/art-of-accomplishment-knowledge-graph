@@ -29,6 +29,9 @@ When the man opens his heart to the imperfection of capitalism — not as defeat
 - [[teachings/jealousy-is-control-disguised-as-love|Jealousy is control disguised as love]]
 - [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
 - [[teachings/opening-heart-to-what-you-resist|Opening your heart to what you resist dissolves rigidity]]
+- [[teachings/holding-opposing-viewpoints-creates-freedom|Holding opposing viewpoints simultaneously creates freedom]]
+- [[teachings/relationship-control-mirrors-leadership-control|Relationship control mirrors leadership control]]
+- [[teachings/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
 
 ## Source
 

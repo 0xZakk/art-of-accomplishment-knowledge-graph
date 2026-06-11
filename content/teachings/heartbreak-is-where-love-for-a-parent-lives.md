@@ -32,6 +32,7 @@ Joe promises that by continuing to feel through these layers, the man can reach 
 - [[teachings/disgust-at-a-parent-reflects-absent-self-care|Disgust at a parent reflects their absence of self-care]]
 - [[teachings/criticism-turns-family-into-obligation|Criticism turns family relationships into obligation]]
 - [[teachings/open-heart-with-strong-boundaries|Loving parents requires both open heart and strong boundaries]]
+- [[teachings/trauma-stays-until-you-feel-the-hurt-underneath|Trauma controls you until you feel the hurt underneath it]]
 
 ## Source
 

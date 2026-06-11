@@ -24,6 +24,11 @@ Even if being authentic doesn't save the relationship, it teaches you how to be 
 - [[teachings/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[teachings/authenticity-is-a-path-not-destination|Authenticity is a path, not a destination]]
 - [[teachings/being-yourself-gets-you-promoted-or-freed|Being yourself gets you promoted or freed]]
+- [[teachings/show-up-as-yourself-to-answer-stay-or-leave|Showing up as yourself answers the stay-or-leave question]]
+- [[teachings/the-real-question-is-can-i-stay-with-myself|Stay-or-leave is really the question 'can I stay with myself?']]
+- [[teachings/commitment-is-staying-in-connection-not-staying-together|Real commitment is to stay in connection, not to stay together]]
+- [[teachings/heartbreak-is-the-mechanism-of-boundaries|Heartbreak is the mechanism of healthy boundaries]]
+- [[teachings/not-sharing-hard-truths-prevents-real-love|Not sharing hard truths prevents real love]]
 
 ## Source
 

@@ -30,6 +30,7 @@ The person doing the passive aggression feels stuck and oppressed — they rarel
 - [[teachings/childhood-origins-of-anger-repression|Anger repression gets installed through three childhood pathways]]
 - [[teachings/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuckness]]
 - [[teachings/anger-is-love-with-a-boundary|Unresisted anger is love expressing a clear boundary]]
+- [[teachings/unresisted-emotions-become-virtues|Fully felt and unresisted, every emotion becomes a virtue]]
 
 ## Source
 

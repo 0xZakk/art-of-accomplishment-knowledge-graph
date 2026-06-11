@@ -26,6 +26,7 @@ This is not brokenness — it was brilliant survival strategy. But the cost is t
 - [[teachings/joy-is-the-matriarch|Joy is the matriarch of the emotional family]]
 - [[teachings/numbness-as-survival-gift|Emotional numbness can be a survival gift, not a deficit]]
 - [[teachings/joy-is-the-sign-of-emotional-health|Joy is the sign that emotional fluidity is working]]
+- [[teachings/welcome-all-feelings-to-feel-joy|Joy won't come unless all the other feelings are welcome]]
 
 ## Source
 

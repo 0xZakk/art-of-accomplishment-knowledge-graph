@@ -25,6 +25,10 @@ The insight lands somatically for the caller, whose body "explodes with joy" as 
 - [[teachings/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
 - [[teachings/fear-of-stagnation-creates-stagnation|Fear of stagnation creates stagnation]]
 - [[teachings/self-care-actions-are-proof-of-self-care-capacity|Self-care actions are proof of self-care capacity]]
+- [[teachings/the-mind-inflates-tasks-to-avoid-feelings|The mind inflates tasks to avoid the feelings underneath]]
+- [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
+- [[teachings/anxiety-is-a-signal-of-life-out-of-alignment|Anxiety is a signal that your life is out of alignment]]
+- [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
 
 ## Source
 

@@ -28,6 +28,8 @@ The fastest way to build this skill isn't practicing with others — it's listen
 - [[teachings/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]]
 - [[teachings/view-framework-for-listening|VIEW framework for listening]]
 - [[teachings/deep-listening-requires-self-listening|Deep listening requires listening to yourself simultaneously]]
+- [[teachings/listen-as-if-the-other-person-is-right|Listen as if the other person is right]]
+- [[teachings/listening-is-receiving-not-doing|Listening is receiving, not doing]]
 
 ## Source
 

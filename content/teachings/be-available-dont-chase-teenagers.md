@@ -21,6 +21,10 @@ When he does speak, he's direct rather than skirting around. Many parents want t
 
 - [[teachings/kids-need-to-feel-liked-not-just-loved|Kids need to feel liked by their parents, not just loved]]
 - [[teachings/being-interested-not-interesting|Being interested rather than interesting creates connection]]
+- [[teachings/connection-is-the-core-of-parenting|Connection is the core need in parenting, not obedience]]
+- [[teachings/emotional-depth-can-create-loneliness|Being raised with emotional depth can create loneliness]]
+- [[teachings/model-emotions-for-children|Model emotions for children rather than managing them into feeling]]
+- [[teachings/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
 
 ## Source
 

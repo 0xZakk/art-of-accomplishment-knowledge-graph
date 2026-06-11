@@ -22,6 +22,11 @@ The shift from perfectionism to connection is also a shift from arrogance to hum
 
 - [[teachings/connection-over-perfection|Connection over perfection]]
 - [[teachings/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]]
+- [[teachings/perfection-over-connection-holds-people-back|Prioritizing perfection over connection holds people back]]
+- [[teachings/authenticity-matters-more-than-self-improvement|Authenticity matters more than self-improvement]]
+- [[teachings/perfectionism-is-a-fear-response-that-creates-chaos|Perfectionism is a fear response that creates the chaos it tries to prevent]]
+- [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
+- [[teachings/perfectionist-pessimism-drives-procrastination|Perfectionist pessimism drives procrastination—'I'll never get this right so why start']]
 
 ## Source
 

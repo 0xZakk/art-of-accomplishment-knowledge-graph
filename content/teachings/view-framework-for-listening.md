@@ -46,6 +46,10 @@ How is their world? How are they looking at things? A sense of "check this out" 
 
 - [[teachings/being-interested-not-interesting|Being interested, not interesting]]
 - [[teachings/how-we-listen-shapes-what-we-hear|How we listen shapes what people share]]
+- [[teachings/listen-as-if-the-other-person-is-right|Listen as if the other person is right]]
+- [[teachings/truth-is-felt-not-performed|Truth is a felt experience, not a performance]]
+- [[teachings/empathy-is-being-with-not-in|Empathy is being with someone, not in someone]]
+- [[teachings/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]
 
 ## Source
 

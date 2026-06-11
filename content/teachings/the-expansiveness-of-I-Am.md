@@ -43,6 +43,8 @@ Joe demonstrates that when we simply ask "How do I live my purpose right now?"â€
 - [[teachings/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
 - [[teachings/grief-of-self-abandonment|Grief of self-abandonment]]
 - [[teachings/aloneness-without-loneliness|Aloneness without loneliness is a sign of authentic self-discovery]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/fear-reveals-where-identity-is-threatened|Fear reveals where our identity feels threatened]]
 
 ## Source
 

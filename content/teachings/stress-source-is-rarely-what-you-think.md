@@ -25,6 +25,8 @@ This has profound implications for problem-solving: we often pour energy into fi
 - [[teachings/you-are-wrong-about-your-problem|You are wrong about your problem]]
 - [[teachings/overwhelm-is-unfelt-emotions|Overwhelm is unfelt emotions]]
 - [[teachings/emotional-release-resolves-work-overwhelm|Emotional release resolves work overwhelm]]
+- [[teachings/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms; unresisted stress enlivens]]
+- [[teachings/loving-to-manage-stops-working|Loving something to make it go away stops working]]
 
 ## Source
 

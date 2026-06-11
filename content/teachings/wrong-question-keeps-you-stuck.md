@@ -25,6 +25,11 @@ This is a pattern Joe sees frequently: people frame their problem in a way that 
 - [[teachings/money-is-a-screen-for-projection|Money is a screen for projection]]
 - [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates stuckness]]
 - [[teachings/address-root-blockers-not-symptoms|Address root blockers, not symptoms]]
+- [[teachings/wanting-money-is-not-selfish|Wanting money is not selfish — it's wanting freedom and safety]]
+- [[teachings/money-blocks-mask-deeper-fears|Money blocks usually mask a deeper relationship with safety]]
+- [[teachings/money-patterns-replay-childhood-connection-patterns|Money patterns replay childhood connection patterns]]
+- [[teachings/financial-safety-is-not-about-money|Financial safety is not actually about money]]
+- [[teachings/you-cannot-judge-the-value-of-your-own-input|You cannot judge the value of your own input]]
 
 ## Source
 

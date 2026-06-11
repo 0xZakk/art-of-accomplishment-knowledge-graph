@@ -20,6 +20,10 @@ This distinction is crucial because many parents misinterpret connection-based p
 
 - [[teachings/connection-is-the-core-of-parenting|Connection is the core need in parenting]]
 - [[teachings/holding-space-requires-staying-in-yourself|Holding space requires staying in yourself]]
+- [[teachings/dont-shame-kids-love-yourself|To not harm your children, love yourself]]
+- [[teachings/attunement-patterns-become-adult-cycles|Attunement patterns in childhood become the emotional cycles of adult life]]
+- [[teachings/teach-children-self-referencing|Teaching children to reference themselves builds their internal compass]]
+- [[teachings/parenting-as-self-development-practice|Parenting is a profound self-development practice]]
 
 ## Source
 

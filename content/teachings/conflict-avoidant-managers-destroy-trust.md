@@ -27,6 +27,9 @@ Trust is built by having difficult conversations, not avoiding them. Not doing w
 - [[teachings/trust-is-the-universal-ingredient-of-functional-teams|Trust is the universal ingredient of functional teams]]
 - [[teachings/conflict-builds-trust|Conflict is necessary for building trust]]
 - [[teachings/conflict-avoidant-leaders-trade-short-term-for-long-term-pain|Conflict-avoidant leaders trade short-term comfort for long-term pain]]
+- [[teachings/defensiveness-kills-team-communication|Allowing defensiveness kills team communication]]
+- [[teachings/unfelt-team-emotions-create-dysfunction|Unfelt emotions in a team create all the dysfunction]]
+- [[teachings/resentment-is-stored-conflict|Resentment is stored conflict—the longer you avoid it, the bigger the explosion]]
 
 ## Source
 

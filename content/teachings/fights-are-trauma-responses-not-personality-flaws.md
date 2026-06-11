@@ -30,6 +30,8 @@ The opportunity is to calm the nervous system (breathe, feel your body) so you c
 - [[teachings/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
 - [[teachings/fights-can-heal-or-retraumatize|Fights can heal trauma or create more of it]]
 - [[teachings/childhood-freeze-becomes-adult-trap|The childhood freeze response becomes the adult trap]]
+- [[teachings/avoidance-creates-the-pattern-it-fears|Emotional avoidance creates the very pattern it fears]]
+- [[teachings/fully-feeling-stops-the-pattern|Fully falling in love with the avoided feeling is the quickest way to stop a negative pattern]]
 
 ## Source
 

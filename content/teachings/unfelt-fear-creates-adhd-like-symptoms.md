@@ -27,6 +27,10 @@ The tell is reliable: if you find yourself compulsively distracted, the question
 - [[teachings/dissociation-as-double-edged-sword|Dissociation as double-edged sword]]
 - [[teachings/unfelt-emotions-create-physical-stress|Unfelt emotions create physical stress]]
 - [[teachings/procrastination-is-emotional-avoidance|Procrastination is the avoidance of an emotional state]]
+- [[teachings/avoidance-chain-from-essence-to-addiction|The avoidance chain runs from essential self through thinking to addiction]]
+- [[teachings/the-mind-inflates-tasks-to-avoid-feelings|The mind inflates tasks to avoid the feelings underneath]]
+- [[teachings/perfectionist-pessimism-drives-procrastination|Perfectionist pessimism drives procrastination—'I'll never get this right so why start']]
+- [[teachings/negative-reinforcement-creates-procrastination-loops|Negative self-reinforcement creates procrastination loops]]
 
 ## Source
 

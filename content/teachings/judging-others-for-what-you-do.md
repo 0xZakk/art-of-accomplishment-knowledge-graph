@@ -25,6 +25,8 @@ When they do the thing she judges — "obviously Joe, it is way worse than when 
 - [[teachings/wanting-to-be-seen-prevents-seeing-others|Wanting to be seen prevents you from seeing others]]
 - [[teachings/wanting-to-control-perception-is-absurd|Wanting to control others' perception of you is absurd]]
 - [[teachings/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
+- [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
+- [[teachings/rebellion-empowers-the-authority|Rebellion empowers the authority figure just as compliance does]]
 
 ## Source
 

@@ -22,6 +22,10 @@ This reframing matters because it means connection is always available. It's not
 - [[teachings/connection-enables-accomplishment|Connection enables accomplishment]]
 - [[teachings/confidence-is-connection-to-yourself|Confidence is connection to yourself]]
 - [[teachings/body-awareness-is-just-attention|Body awareness is just attention]]
+- [[teachings/connection-cannot-be-broken-without-your-consent|No one can break your connection without your agreement]]
+- [[teachings/people-want-connection-not-perfection|People want to feel connected with you, not impressed by you]]
+- [[teachings/holding-space-requires-staying-in-yourself|Holding space for others requires staying centered in yourself]]
+- [[teachings/returning-to-connection-is-noticing-not-effort|Returning to connection is about noticing, not effort]]
 
 ## Source
 

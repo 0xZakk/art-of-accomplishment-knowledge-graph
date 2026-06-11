@@ -31,6 +31,7 @@ The first step, before seeing anyone else, is to see yourself: "Of course I just
 - [[teachings/active-listening-is-asking-questions|Active listening is asking questions]]
 - [[teachings/listening-before-being-seen|Letting go of being seen allows you to be seen]]
 - [[teachings/not-feeling-seen-means-not-seeing|When you don't feel seen, you're also not seeing]]
+- [[teachings/empathy-is-being-with-not-in|Empathy is being with someone, not in someone]]
 
 ## Source
 

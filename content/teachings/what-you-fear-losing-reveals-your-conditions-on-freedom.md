@@ -26,6 +26,10 @@ This isn't an argument for seeking loss. It's a diagnostic tool. Whatever you're
 - [[teachings/anxiety-changes-form-not-substance|Anxiety changes form but not substance]]
 - [[teachings/nothing-is-required-for-freedom|Nothing is required for freedom]]
 - [[teachings/loss-can-deepen-freedom|Loss can deepen freedom]]
+- [[teachings/anxiety-points-to-self-abandonment|Anxiety is a road sign that shows you where you're abandoning yourself]]
+- [[teachings/fear-of-consequences-is-fear-of-emotional-states|Fear of consequences is really fear of emotional states]]
+- [[teachings/fear-path-has-no-end|The fear path has no end — deeper levels always reveal themselves]]
+- [[teachings/peace-is-harder-to-allow-than-pain|Peace and joy are harder to allow than pain]]
 
 ## Source
 

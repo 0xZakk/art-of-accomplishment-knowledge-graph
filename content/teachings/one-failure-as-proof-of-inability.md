@@ -26,6 +26,10 @@ Joe validates the self-doubt: "It's good that you don't think you can do it, bec
 - [[teachings/experiments-make-knowledge-embodied|Experimentation over dogma in self-development]]
 - [[teachings/bad-decisions-come-from-fear-of-emotions|Bad decisions come from fear of emotions]]
 - [[teachings/clarity-comes-after-feeling-not-before|Clarity comes after feeling the emotion not before]]
+- [[teachings/exploration-not-achievement-is-the-real-urge|Exploration not achievement is the real urge underneath potential anxiety]]
+- [[teachings/intuition-sees-what-logic-cannot|Intuition sees what the logical mind cannot]]
+- [[teachings/skepticism-after-not-before-experiments|Skepticism belongs after the experiment, not before]]
+- [[teachings/you-cannot-judge-the-value-of-your-own-input|You cannot judge the value of your own input]]
 
 ## Source
 

@@ -29,6 +29,9 @@ This isn't an argument for seeking suffering. But it reframes loss: the things w
 - [[teachings/comfort-can-prevent-transformation|Comfort can prevent transformation]]
 - [[teachings/growth-means-shedding-identities|Growth means shedding identities]]
 - [[teachings/what-you-fear-losing-reveals-your-conditions-on-freedom|What you fear losing reveals your conditions on freedom]]
+- [[teachings/what-shifts-is-the-doer-not-your-capacity|What shifts in awakening is the doer, not your capacity to function]]
+- [[teachings/worth-is-who-you-are-not-what-you-produce|We are worth who we are, not what we produce]]
+- [[teachings/feel-fear-to-see-opportunity|Feel the fear fully to see the opportunities in chaos]]
 
 ## Source
 

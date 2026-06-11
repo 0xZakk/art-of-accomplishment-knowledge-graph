@@ -27,6 +27,10 @@ Joe also recommends doing this practice in both directions — visualizing the w
 - [[teachings/helplessness-is-the-cayenne-pepper-of-fear|Helplessness is the most potent ingredient of fear]]
 - [[teachings/naming-emotions-can-replace-feeling|Naming emotions can replace feeling]]
 - [[teachings/unfelt-emotions-create-physical-stress|Unfelt emotions create physical stress]]
+- [[teachings/welcoming-helplessness-not-managing-it|The freedom is in wanting to feel helpless again]]
+- [[teachings/helplessness-is-gateway-to-surrender|Helplessness is the gateway to surrender]]
+- [[teachings/suppressing-emotions-has-a-physical-price|Suppressing emotions has a physical price the body pays]]
+- [[teachings/control-patterns-reveal-hidden-helplessness|Your most controlling patterns reveal your hidden helplessness]]
 
 ## Source
 

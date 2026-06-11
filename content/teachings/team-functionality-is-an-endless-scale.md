@@ -20,6 +20,8 @@ This reveals the artificial ceiling people place on team development. Revenue, m
 
 - [[teachings/functional-teams-are-measured-by-wanting-to-be-there|Functional teams are measured by wanting to be there]]
 - [[teachings/disconnection-precedes-company-decline|Disconnection precedes company decline]]
+- [[teachings/only-work-with-great-people|Only work with great people]]
+- [[teachings/dysfunction-tolerance-depends-on-market-context|How much dysfunction a company survives depends on market context]]
 
 ## Source
 

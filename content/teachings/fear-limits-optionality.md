@@ -40,6 +40,11 @@ Inaction has consequences too. The "known" path has its own risks.
 
 - [[teachings/stuck-is-a-feeling-not-reality|Stuck is a feeling, not a reality]]
 - [[teachings/craving-versus-wanting|The difference between craving and wanting]]
+- [[teachings/hearing-objections-before-deciding|Hearing objections before deciding — even if you decide the same thing — changes everything]]
+- [[teachings/seeking-power-is-an-expression-of-fear|Seeking power is always an expression of fear]]
+- [[teachings/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]]
+- [[teachings/todo-lists-can-be-inner-critic|To-do lists can be your inner critic on paper]]
+- [[teachings/discovery-not-improvement|Discovery, not improvement]]
 
 ## Source
 

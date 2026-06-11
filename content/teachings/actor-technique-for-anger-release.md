@@ -26,6 +26,7 @@ The key insight is that anger moves faster when some part of you stays outside t
 - [[teachings/express-anger-without-directing-it|You can express anger without directing it at anyone]]
 - [[teachings/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuckness]]
 - [[teachings/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
+- [[teachings/compassion-can-block-anger|Using compassion to bypass anger blocks the emotional process]]
 
 ## Source
 

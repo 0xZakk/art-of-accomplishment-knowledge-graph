@@ -41,6 +41,11 @@ When growth becomes obligation, it stagnates. When it flows from genuine desire,
 - [[teachings/self-improvement-is-self-annihilation|Self-improvement is a form of self-annihilation]]
 - [[teachings/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]]
 - [[teachings/wanting-is-aliveness|Wanting is aliveness]]
+- [[teachings/wants-motivate-where-shoulds-stagnate|Wants motivate where shoulds stagnate]]
+- [[teachings/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]]
+- [[teachings/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
+- [[teachings/when-love-shows-up-unloved-parts-surface|When love shows up, unloved parts surface to be loved]]
+- [[teachings/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]]
 
 ## Source
 

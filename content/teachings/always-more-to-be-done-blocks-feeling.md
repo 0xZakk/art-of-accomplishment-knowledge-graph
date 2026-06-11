@@ -23,6 +23,10 @@ Joe drew the deeper connection: "I don't have time to feel because there's somet
 - [[teachings/overachieving-is-survival-mode|Overachieving is survival mode]]
 - [[teachings/stress-addiction-reproduces-childhood|Stress addiction reproduces childhood]]
 - [[teachings/busyness-is-not-productivity|Busyness is not productivity]]
+- [[teachings/success-without-connection-creates-emptiness|Success without connection creates emptiness]]
+- [[teachings/the-mind-inflates-tasks-to-avoid-feelings|The mind inflates tasks to avoid the feelings underneath]]
+- [[teachings/not-trying-gets-more-done|Not trying gets more done than trying]]
+- [[teachings/gratitude-arrives-when-you-stop-striving|Gratitude arrives when you stop striving]]
 
 ## Source
 

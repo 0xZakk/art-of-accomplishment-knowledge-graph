@@ -24,6 +24,11 @@ This reframes the pursuit of connection entirely. Rather than chasing a particul
 - [[teachings/being-with-emotions-beats-fixing-them|Being with emotions beats fixing them]]
 - [[teachings/emotions-are-always-present|Emotions are always present]]
 - [[teachings/connection-starts-within-not-between|Connection starts within, not between]]
+- [[teachings/connection-cannot-be-broken-without-your-consent|No one can break your connection without your agreement]]
+- [[teachings/doing-emotions-at-people-avoids-feeling|Doing emotions at people means you're not actually feeling them]]
+- [[teachings/returning-to-connection-is-noticing-not-effort|Returning to connection is about noticing, not effort]]
+- [[teachings/stop-being-the-victim-to-love-the-angry-person|You can't love someone you see as your oppressor]]
+- [[teachings/feeling-through-requires-letting-identity-restructure|Feeling an emotion fully requires letting your identity restructure]]
 
 ## Source
 

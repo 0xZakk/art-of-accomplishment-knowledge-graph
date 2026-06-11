@@ -31,6 +31,7 @@ This reframe transforms procrastination from a problem to solve into a signal to
 - [[teachings/intuition-sees-what-logic-cannot|Intuition sees what the logical mind cannot]]
 - [[teachings/resistance-has-wisdom-to-listen-to|Resistance contains wisdom worth listening to]]
 - [[teachings/bullying-yourself-creates-resistance|Bullying yourself into action creates resistance]]
+- [[teachings/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]
 
 ## Source
 

@@ -28,6 +28,7 @@ This insight reveals that our deepest relational templates — formed before we 
 - [[teachings/internal-authority-mirrors-external|Internal authority mirrors external]]
 - [[teachings/money-is-a-screen-for-projection|Money is a screen for projection]]
 - [[teachings/money-patterns-replay-childhood-connection-patterns|Money patterns replay childhood connection patterns]]
+- [[teachings/money-beliefs-create-money-reality|Your beliefs about money create your financial reality]]
 
 ## Source
 

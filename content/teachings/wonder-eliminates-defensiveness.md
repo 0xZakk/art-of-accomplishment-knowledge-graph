@@ -26,6 +26,8 @@ Being defensive is also a sign that something has been triggered—that what was
 - [[teachings/triggers-reveal-self-judgment|Triggers reveal what we judge in ourselves]]
 - [[teachings/defense-feels-like-attack|Defense feels like attack to the other person]]
 - [[teachings/not-defending-reveals-inherent-goodness|Not defending yourself reveals your inherent goodness]]
+- [[teachings/openness-to-judgment-beats-defense|Openness to judgment is more comfortable than defense]]
+- [[teachings/defensiveness-is-a-breadcrumb-to-shame|Defensiveness is a breadcrumb back to shame]]
 
 ## Source
 

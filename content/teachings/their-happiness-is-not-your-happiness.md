@@ -26,6 +26,8 @@ The same pattern replays in adult relationships. You can't control another perso
 - [[teachings/caretaking-creates-resentment-in-the-receiver|Caretaking creates resentment in the receiver]]
 - [[teachings/being-with-emotions-beats-fixing-them|Being with someone's emotions beats fixing them]]
 - [[teachings/taking-responsibility-for-partners-emotions-breeds-resentment|Taking responsibility for your partner's emotions breeds resentment]]
+- [[teachings/taking-care-of-others-disempowers-them|Taking responsibility for others' happiness disempowers them]]
+- [[teachings/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
 
 ## Source
 

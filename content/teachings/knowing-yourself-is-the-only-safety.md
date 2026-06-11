@@ -23,6 +23,11 @@ This is the deeper answer to overwhelm: not better time management or stress red
 
 - [[teachings/pleasure-signals-safety|Pleasure capacity signals nervous system safety]]
 - [[teachings/discovery-not-improvement|It's discovery, not improvement]]
+- [[teachings/overwhelm-is-unfelt-emotions|Overwhelm is the accumulation of unfelt emotions]]
+- [[teachings/pleasure-capacity-is-trainable|Pleasure capacity is trainable]]
+- [[teachings/overwhelm-is-leaving-flow-to-manage-reality|Overwhelm begins when you leave flow to manage reality]]
+- [[teachings/safety-is-an-illusion-of-comfort|Safety is an illusion—it means feeling comfortable, not being objectively safe]]
+- [[teachings/feel-the-false-end-to-dissolve-overwhelm|Feel through the feared outcome to dissolve overwhelm]]
 
 ## Source
 

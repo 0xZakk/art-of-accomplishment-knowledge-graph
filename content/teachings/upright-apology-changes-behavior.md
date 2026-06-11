@@ -31,6 +31,9 @@ Joe learned this after a therapist asked him: "What does fault have to do with a
 - [[teachings/shame-stagnates-fights-like-it-stagnates-individuals|Shame stagnates fights the same way it stagnates individuals]]
 - [[teachings/empathic-acknowledgment-is-presence|Empathic acknowledgment is presence, not fixing]]
 - [[teachings/apology-as-transformation-tool|An empowered apology is one of the most powerful tools for self-transformation]]
+- [[teachings/apologize-upright-without-shame|An upright apology empowers; a shame-laden one loops you back into the pattern]]
+- [[teachings/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
+- [[teachings/shame-is-anger-turned-inward|Shame is anger turned inward]]
 
 ## Source
 

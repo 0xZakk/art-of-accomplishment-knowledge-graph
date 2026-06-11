@@ -25,6 +25,9 @@ The implication is that transformation isn't about becoming a bigger self — it
 - [[teachings/the-expansiveness-of-I-Am|The expansiveness of I Am]]
 - [[teachings/dissolution-of-self-happens-many-ways|Dissolution of self happens many ways]]
 - [[teachings/aloneness-without-loneliness|Aloneness without loneliness is a sign of authentic self-discovery]]
+- [[teachings/story-dissolution-is-progress-not-a-problem|Story dissolution is progress, not a problem]]
+- [[teachings/the-recent-epiphany-is-also-a-rut|The most recent epiphany becomes the next rut you have to release]]
+- [[teachings/to-me-by-me-through-me-as-me|Developmental stages: to me, by me, through me, as me]]
 
 ## Source
 

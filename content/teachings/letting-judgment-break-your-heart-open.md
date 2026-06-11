@@ -28,6 +28,8 @@ This connects to the distinction between past shame and current shame. Past sham
 - [[teachings/being-undefended-erodes-narcissism|Being undefended erodes narcissism]]
 - [[teachings/heartbreak-opens-when-fear-is-felt|Heartbreak opens when fear is finally felt]]
 - [[teachings/judgment-blocks-the-emotion-underneath|Judgment blocks the emotion underneath]]
+- [[teachings/shame-is-love-in-disguise|Shame is love in disguise—it shows you care]]
+- [[teachings/welcome-judgment-as-freedom|Welcoming judgment creates freedom rather than fear]]
 
 ## Source
 

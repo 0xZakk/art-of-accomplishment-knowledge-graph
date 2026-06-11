@@ -25,6 +25,10 @@ This isn't moral relativism — it's a deeper morality. Conceptual right and wro
 - [[teachings/binary-thinking-signals-fear|Binary thinking signals fear]]
 - [[teachings/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]]
 - [[teachings/making-someone-wrong-prevents-healing|Making someone wrong prevents healing]]
+- [[teachings/doubt-is-leaving-your-heart|Doubt is leaving your heart]]
+- [[teachings/no-right-or-wrong-only-perspectives|There is no right or wrong in a fight, only perspectives]]
+- [[teachings/holding-opposing-viewpoints-creates-freedom|Holding opposing viewpoints simultaneously creates freedom]]
+- [[teachings/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic, not just intellectual]]
 
 ## Source
 

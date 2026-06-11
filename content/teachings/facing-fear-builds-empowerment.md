@@ -30,6 +30,7 @@ The avoidance of an emotion ironically creates more of that emotion. Not looking
 - [[teachings/appreciation-dissolves-unsafety|Appreciation and connection dissolve unsafety]]
 - [[teachings/allowing-the-victim-creates-empowerment|Fully allowing the victim experience naturally creates empowerment]]
 - [[teachings/helplessness-is-the-emotion-being-avoided|The feeling being avoided underneath 'I've got this' is helplessness]]
+- [[teachings/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots in life]]
 
 ## Source
 

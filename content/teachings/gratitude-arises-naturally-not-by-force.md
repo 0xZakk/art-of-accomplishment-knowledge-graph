@@ -25,6 +25,11 @@ The distinction between top-down imposed gratitude (which feels tyrannical) and 
 - [[teachings/felt-gratitude-not-performed-gratitude|Felt gratitude, not performed gratitude]]
 - [[teachings/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]]
 - [[teachings/tools-stop-working-when-weaponized|Tools stop working when used for self-improvement]]
+- [[teachings/gratitude-is-a-full-body-sport|Gratitude is a full-body sensation, not a mental exercise]]
+- [[teachings/returning-to-connection-is-noticing-not-effort|Returning to connection is about noticing, not effort]]
+- [[teachings/allowing-the-victim-creates-empowerment|Fully allowing the victim experience naturally creates empowerment]]
+- [[teachings/gratitude-works-when-felt-witnessed-and-sustained|Gratitude works when it is felt, witnessed, and sustained]]
+- [[teachings/when-love-shows-up-unloved-parts-surface|When love shows up, unloved parts surface to be loved]]
 
 ## Source
 

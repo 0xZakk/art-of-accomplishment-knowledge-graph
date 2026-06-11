@@ -30,6 +30,7 @@ This pattern often originates from early experiences where depending on others l
 - [[teachings/self-reliance-blocks-receiving-support|Self-reliance blocks the ability to receive support]]
 - [[teachings/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]]
 - [[teachings/asking-for-what-you-want-dissolves-resentment|Asking for what you want dissolves resentment]]
+- [[teachings/the-fantasy-of-perfect-help-keeps-you-alone|The fantasy of perfect help guarantees you stay alone]]
 
 ## Source
 

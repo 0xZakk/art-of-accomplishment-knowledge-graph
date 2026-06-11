@@ -29,6 +29,8 @@ Joe notes it's incredibly ineffective to try to change someone, comparing it to 
 - [[teachings/dont-try-to-change-passive-aggression-in-others|Trying to change someone's passive aggression enters the same dynamic]]
 - [[teachings/heartbreak-is-the-mechanism-of-boundaries|Heartbreak is the mechanism of healthy boundaries]]
 - [[teachings/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
+- [[teachings/anger-at-without-permission-is-manipulation|Expressing anger at someone without permission is a bid for control]]
+- [[teachings/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]]
 
 ## Source
 

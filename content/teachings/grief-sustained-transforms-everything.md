@@ -30,6 +30,8 @@ The key insight is that grief, when allowed to complete itself, doesn't stay abo
 - [[teachings/grief-of-self-abandonment|Grief of self-abandonment]]
 - [[teachings/stronger-stories-slow-emotional-movement|The stronger the story, the slower emotions move]]
 - [[teachings/grief-unlocks-joy-after-narcissistic-abuse|Grief unlocks joy after narcissistic abuse]]
+- [[teachings/deep-healing-has-a-regression-phase|Deep healing includes a regression phase before breakthrough]]
+- [[teachings/emotional-titration-is-adaptive|Emotional titration is adaptive, not avoidant]]
 
 ## Source
 

@@ -20,6 +20,9 @@ Joe observes that the only discount they offer is a community discount, because 
 
 - [[teachings/real-community-requires-non-judgmental-witnessing|Real community requires non-judgmental witnessing]]
 - [[teachings/deep-community-dissolves-identity|Deep community dissolves identity]]
+- [[teachings/community-is-more-important-than-the-teacher|Community is far more important than the teacher for transformation]]
+- [[teachings/experiential-learning-over-intellectual-understanding|Experiential learning transforms deeper than intellectual understanding]]
+- [[teachings/recovery-time-is-part-of-the-work|Recovery and integration time is part of the work]]
 
 ## Source
 

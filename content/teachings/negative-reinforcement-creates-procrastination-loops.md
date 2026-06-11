@@ -27,6 +27,7 @@ The solution is surprisingly simple: every time you think about the problem, env
 - [[teachings/bullying-yourself-creates-resistance|Bullying yourself creates resistance]]
 - [[teachings/avoidance-chain-from-essence-to-addiction|The avoidance chain runs from essential self through thinking to addiction]]
 - [[teachings/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck in the patterns you regret]]
+- [[teachings/procrastination-is-not-who-you-are|Procrastination is not who you are — and knowing that is the real pain]]
 
 ## Source
 

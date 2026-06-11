@@ -28,6 +28,8 @@ The way we hold on tighter is through doing: "How do I fix it? What's wrong with
 - [[teachings/softening-not-solving-breaks-the-loop|Softening, not solving, breaks self-imposed loops]]
 - [[teachings/allowing-the-victim-creates-empowerment|Fully allowing the victim experience naturally creates empowerment]]
 - [[teachings/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
+- [[teachings/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
+- [[teachings/trying-to-feel-joy-pushes-it-away|Trying to feel joy is the resistance that pushes it away]]
 
 ## Source
 

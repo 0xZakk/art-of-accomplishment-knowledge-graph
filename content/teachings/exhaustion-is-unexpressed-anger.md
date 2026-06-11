@@ -28,6 +28,9 @@ The mechanism: when anger can't move outward — at the situation, at the illnes
 - [[teachings/shame-is-anger-turned-inward|Shame is anger turned inward]]
 - [[teachings/caretaking-kills-desire|Caretaking kills desire]]
 - [[teachings/anger-backlog-must-clear|There is often a backlog of anger that must clear before you can settle]]
+- [[teachings/shoulding-yourself-to-hold-space-prevents-it|Telling yourself you should hold space is what prevents you from holding space]]
+- [[teachings/chronic-pain-and-emotional-suppression|Chronic pain deepens when emotional expression is suppressed]]
+- [[teachings/suppressing-anger-kills-your-fire|Suppressing anger kills your fire, determination, and clarity]]
 
 ## Source
 

@@ -25,6 +25,10 @@ The practical step: pick one thing that matters to you and experiment to find th
 - [[teachings/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]]
 - [[teachings/self-attack-during-rest-prolongs-recovery|Self-attack during rest prolongs recovery]]
 - [[teachings/extend-rest-beyond-readiness|Extend rest beyond readiness]]
+- [[teachings/falling-in-love-with-practice|Falling in love with practice beats forcing yourself to practice]]
+- [[teachings/energy-management-over-time-management|Energy management matters more than time management]]
+- [[teachings/enjoyment-as-the-only-metric|Making enjoyment the only metric paradoxically increases productivity]]
+- [[teachings/optimize-for-downtime-not-just-productivity|Optimize for downtime, not just productivity]]
 
 ## Source
 

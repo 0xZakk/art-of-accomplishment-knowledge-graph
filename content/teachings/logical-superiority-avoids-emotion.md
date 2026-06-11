@@ -30,6 +30,8 @@ The practical move: when you notice yourself feeling "better than" during a figh
 - [[teachings/superiority-in-relationships-is-a-shame-defense|Superiority in relationships is a shame defense]]
 - [[teachings/logical-vs-emotional-partner-dynamic|The logical vs emotional partner dynamic is a trap]]
 - [[teachings/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
+- [[teachings/partners-teach-what-you-need-to-learn|Partners are attracted because they teach what you need to learn]]
+- [[teachings/no-right-or-wrong-only-perspectives|There is no right or wrong in a fight, only perspectives]]
 
 ## Source
 

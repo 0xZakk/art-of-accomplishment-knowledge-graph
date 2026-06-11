@@ -29,6 +29,8 @@ The trap most people fall into is reciprocal withholding: "I'm not going to open
 - [[teachings/every-fight-can-bring-you-closer|Every fight can bring you closer together]]
 - [[teachings/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
 - [[teachings/seeing-others-is-the-exit-from-feeling-unseen|Seeing others is the counterintuitive exit from feeling unseen]]
+- [[teachings/fighting-without-shame-transforms-conflict|Fighting without shame transforms conflict]]
+- [[teachings/listening-before-being-seen|Letting go of being seen allows you to be seen]]
 
 ## Source
 

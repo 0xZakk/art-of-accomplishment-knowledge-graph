@@ -25,6 +25,10 @@ The antidote: leaders need to actively humanize themselves—make fun of themsel
 
 - [[teachings/leaders-must-say-what-they-want-cleanly|Leaders must say what they want cleanly]]
 - [[teachings/complimenting-makes-you-the-authority|Complimenting others' work makes you the authority in the room]]
+- [[teachings/structure-creates-safety-not-oppression|Providing structure through principles creates safety, not oppression]]
+- [[teachings/internal-authority-mirrors-external|How you treat your internal authority mirrors how you treat external ones]]
+- [[teachings/rebellion-and-approval-seeking-are-same-coin|Rebelling against authority and seeking its approval are two sides of the same coin]]
+- [[teachings/rebellion-empowers-the-authority|Rebellion empowers the authority figure just as compliance does]]
 
 ## Source
 

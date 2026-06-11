@@ -24,6 +24,11 @@ The sensation comes with a relief of pressure — ego pressure releasing — bec
 - [[teachings/felt-gratitude-not-performed-gratitude|Felt gratitude, not performed gratitude]]
 - [[teachings/pleasure-is-noticing-sensations-moving|Pleasure is noticing sensations moving]]
 - [[teachings/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]]
+- [[teachings/gratitude-works-when-felt-witnessed-and-sustained|Gratitude works when it is felt, witnessed, and sustained]]
+- [[teachings/discomfort-is-the-resistance-not-the-emotion|The discomfort of emotions is the resistance to them, not the emotions themselves]]
+- [[teachings/pleasure-is-available-in-every-emotion|Pleasure is available in every emotion when fully felt]]
+- [[teachings/gratitude-changes-identity|Gratitude changes your sense of self and identity]]
+- [[teachings/gratitude-arises-naturally-not-by-force|Gratitude arises naturally, not by force]]
 
 ## Source
 

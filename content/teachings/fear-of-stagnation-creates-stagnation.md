@@ -25,6 +25,11 @@ The fear of stagnation shows up most intensely when you question your measuremen
 - [[teachings/fear-limits-optionality|Fear limits optionality]]
 - [[teachings/should-creates-stress-not-change|Should creates stress, not change]]
 - [[teachings/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]]
+- [[teachings/fear-of-success-is-fear-of-failure|Fear of success is ultimately fear of failure]]
+- [[teachings/feel-fear-to-see-opportunity|Feel the fear fully to see the opportunities in chaos]]
+- [[teachings/worrying-about-the-future-is-the-pattern-not-the-solution|Worrying about the future is the pattern, not the solution]]
+- [[teachings/fear-of-success-creates-doubt-too|Fear of success creates doubt just like fear of failure]]
+- [[teachings/loss-can-deepen-freedom|Loss can deepen freedom]]
 
 ## Source
 

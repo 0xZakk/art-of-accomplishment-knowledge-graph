@@ -26,6 +26,9 @@ This is a powerful retrospective test. You can't always catch caretaking in the 
 - [[teachings/gentleness-accelerates-growth|Gentleness accelerates growth]]
 - [[teachings/boundaries-increase-capacity-to-love|Boundaries increase capacity to love]]
 - [[teachings/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
+- [[teachings/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others' emotions to avoid your own]]
+- [[teachings/weaponizing-non-caretaking-is-still-defense|Weaponizing non-caretaking is just another defense]]
+- [[teachings/caretaking-prevents-hitting-bottom|Caretaking prevents the other person from hitting bottom]]
 
 ## Source
 

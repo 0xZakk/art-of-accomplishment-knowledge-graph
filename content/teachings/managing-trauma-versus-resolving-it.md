@@ -24,6 +24,9 @@ In a very large number of cases, trauma can actually be resolved — not just ma
 - [[teachings/feeling-the-held-back-emotion-ends-trauma-repetition|Feeling the held-back emotion ends trauma repetition]]
 - [[teachings/insight-requires-embodied-integration|Insight requires embodied integration]]
 - [[teachings/self-compassion-is-the-real-outcome|Self-compassion is the real outcome of healing]]
+- [[teachings/attachment-is-bigger-than-trauma-events|Attachment is bigger than traumatic events]]
+- [[teachings/trauma-addiction-is-choosing-the-familiar|Trauma addiction is choosing what's familiar, not what's safe]]
+- [[teachings/body-work-opens-what-mental-process-cannot|Body work opens what mental process cannot]]
 
 ## Source
 

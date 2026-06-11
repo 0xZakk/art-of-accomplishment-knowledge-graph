@@ -28,6 +28,9 @@ This reframes the entire project of "being authentic." It's not about what you s
 - [[teachings/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[teachings/vulnerability-is-truth-plus-fear|Vulnerability is truth plus fear]]
 - [[teachings/speaking-from-discomfort-not-past-it|Speaking from discomfort rather than past it]]
+- [[teachings/own-the-trigger-as-yours|Owning the trigger as yours dissolves the fight]]
+- [[teachings/not-speaking-truth-is-self-harm|Not speaking your truth is self-harm]]
+- [[teachings/view-framework-for-listening|The VIEW framework for deep listening]]
 
 ## Source
 

@@ -27,6 +27,8 @@ The early version might be "You're putting me in my trauma right now" (still bla
 - [[teachings/every-fight-can-bring-you-closer|Every fight can bring you closer together]]
 - [[teachings/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
 - [[teachings/fights-can-heal-or-retraumatize|Fights can heal trauma or create more of it]]
+- [[teachings/fights-are-trauma-responses-not-personality-flaws|Losing control in a fight is a trauma response, not a personality flaw]]
+- [[teachings/being-together-in-emotions-not-caretaking|Being together in emotions is different from caretaking them]]
 
 ## Source
 

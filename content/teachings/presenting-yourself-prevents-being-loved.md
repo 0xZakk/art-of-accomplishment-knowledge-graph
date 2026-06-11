@@ -26,6 +26,10 @@ The codependence trap is circular: you present a version of yourself to get love
 - [[teachings/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
 - [[teachings/performing-for-connection-blocks-authentic-earning|Performing for connection blocks authentic earning]]
 - [[teachings/obligation-as-love-strategy-backfires|Using obligation as a strategy to get love always backfires]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/acceptance-is-not-love|Getting to acceptance without love repeats the pattern]]
+- [[teachings/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]]
+- [[teachings/self-love-is-the-capacity-limit-for-loving-others|Self-love is the capacity limit for loving others]]
 
 ## Source
 

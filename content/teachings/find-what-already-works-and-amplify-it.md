@@ -27,6 +27,9 @@ This principle applies everywhere—in teams, in personal growth, in organizatio
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
 - [[teachings/find-whats-working-and-spread-it|Find what's already working and spread it rather than fixing what's broken]]
 - [[teachings/gratitude-solves-problems-by-seeing-whats-right|Gratitude solves problems by seeing what's right and growing it]]
+- [[teachings/ungratitude-removes-half-your-solutions|Ungratitude removes half your solutions]]
+- [[teachings/gratitude-reveals-abundance-already-present|Gratitude reveals abundance that is already present]]
+- [[teachings/gratitude-reveals-solutions-criticism-hides|Gratitude reveals solutions that criticism hides]]
 
 ## Source
 

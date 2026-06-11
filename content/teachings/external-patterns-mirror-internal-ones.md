@@ -44,6 +44,8 @@ Can't set external boundaries while allowing internal abuse. The inside has to s
 - [[teachings/parent-self-relationship-shapes-child-relationship|Your relationship with yourself shapes your relationship with your children]]
 - [[teachings/positive-self-talk-can-be-passive-aggression|Positive self-talk can be a form of self-directed passive aggression]]
 - [[teachings/inner-critic-mirrors-relationship-patterns|The inner critic mirrors your relationship patterns]]
+- [[teachings/inner-voice-mirrors-parenting|The inner critic mirrors how you were parented]]
+- [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
 
 ## Source
 

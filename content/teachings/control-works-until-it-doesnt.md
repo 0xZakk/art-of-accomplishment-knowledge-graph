@@ -24,6 +24,10 @@ The paradox is that the same dissociation and control that created the PTSD beca
 - [[teachings/burnout-is-sustained-adrenaline-depletion|Burnout is sustained adrenaline depletion]]
 - [[teachings/overachieving-is-survival-mode|Overachieving is survival mode]]
 - [[teachings/dissociation-as-double-edged-sword|Dissociation is a double-edged sword]]
+- [[teachings/childhood-freeze-becomes-adult-trap|The childhood freeze response becomes the adult trap]]
+- [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[teachings/fight-or-collapse-is-a-false-dichotomy|Fight or collapse is a false dichotomy born from power-over thinking]]
+- [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 
 ## Source
 

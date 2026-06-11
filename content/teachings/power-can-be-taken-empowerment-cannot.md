@@ -25,6 +25,11 @@ Empowerment is a feeling and a state, not a life condition. You can be in povert
 - [[teachings/empowerment-is-love-without-submission|Empowerment is love without submission]]
 - [[teachings/empowerment-and-unconditional-love-are-the-same|Empowerment and unconditional love are the same]]
 - [[teachings/resourcefulness-over-resources|Resourcefulness over resources]]
+- [[teachings/empowerment-outlasts-power|Empowerment outlasts power because it can't be taken away]]
+- [[teachings/seeking-power-is-an-expression-of-fear|Seeking power is always an expression of fear]]
+- [[teachings/internal-principles-create-empowerment|Living by internal principles creates empowerment and dissolves drama]]
+- [[teachings/feeling-helplessness-creates-agency|Feeling helplessness creates agency, not control]]
+- [[teachings/weaponized-boundaries-are-control-in-disguise|Weaponized boundaries are control in disguise]]
 
 ## Source
 

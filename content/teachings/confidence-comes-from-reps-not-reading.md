@@ -26,6 +26,7 @@ This applies far beyond speaking — to coaching, relationships, conflict, leade
 - [[teachings/experiments-make-knowledge-embodied|Experimentation over dogma in self-development]]
 - [[teachings/flow-requires-forgetting-yourself|Flow in speaking requires forgetting you're speaking]]
 - [[teachings/the-butler-is-always-there|The subconscious always has the answer on a platter — you just need to slow down to see it]]
+- [[teachings/avoidance-of-one-emotion-closes-a-life-channel|One negative emotional experience can close an entire channel of life]]
 
 ## Source
 

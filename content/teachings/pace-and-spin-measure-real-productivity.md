@@ -25,6 +25,8 @@ Together, these two metrics cut through the illusion of productive busyness. You
 - [[teachings/busyness-is-not-productivity|Busyness is not productivity]]
 - [[teachings/alignment-eliminates-procrastination|Alignment eliminates procrastination]]
 - [[teachings/do-the-uncomfortable-thing-first|Do the uncomfortable thing first]]
+- [[teachings/enjoyment-is-the-true-measure-of-efficiency|Enjoyment is the true measure of efficiency]]
+- [[teachings/energy-management-over-time-management|Energy management matters more than time management]]
 
 ## Source
 

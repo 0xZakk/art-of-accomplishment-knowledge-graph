@@ -26,6 +26,10 @@ This mirrors the Art of Accomplishment approach to the inner critic and other pr
 - [[teachings/numbness-as-survival-gift|Numbness as survival gift]]
 - [[teachings/welcome-the-inner-critic|Welcome the inner critic]]
 - [[teachings/self-loathing-as-accidental-doorway|Self-loathing can accidentally open a doorway to courage]]
+- [[teachings/manufactured-rage-masks-fear|Manufactured rage masks fear and creates destruction]]
+- [[teachings/fear-as-road-map-not-enemy|Fear is a road map, not an enemy to conquer]]
+- [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[teachings/hug-the-demon-dont-slay-it|Hug the demon, don't slay it]]
 
 ## Source
 

@@ -21,6 +21,11 @@ This approach treats the teenager as capable of participating in their own devel
 
 - [[teachings/be-available-dont-chase-teenagers|Be available to your teenager, don't chase them]]
 - [[teachings/name-the-problem-without-solving-it|Name the problem without solving it]]
+- [[teachings/micromanaging-comes-from-feeling-out-of-control|Micromanaging comes from feeling out of control]]
+- [[teachings/management-communicates-distrust|Managing someone communicates you don't trust them]]
+- [[teachings/emotional-depth-can-create-loneliness|Being raised with emotional depth can create loneliness]]
+- [[teachings/parent-self-relationship-shapes-child-relationship|Your relationship with yourself shapes your relationship with your children]]
+- [[teachings/kids-need-to-feel-liked-not-just-loved|Kids need to feel liked by their parents, not just loved]]
 
 ## Source
 

@@ -27,6 +27,10 @@ When you acknowledge that consciousness is part of the equation, work becomes ar
 - [[teachings/purpose-is-in-the-how-not-the-what|Purpose is in the how, not the what]]
 - [[teachings/business-as-self-awareness-practice|Business as self-awareness practice]]
 - [[teachings/just-business-is-deeply-personal|'Just business' is deeply personal]]
+- [[teachings/lack-of-enjoyment-diagnoses-problems|Lack of enjoyment diagnoses the real problem]]
+- [[teachings/worth-is-who-you-are-not-what-you-produce|We are worth who we are, not what we produce]]
+- [[teachings/enjoyment-as-the-only-metric|Making enjoyment the only metric paradoxically increases productivity]]
+- [[teachings/you-cannot-judge-the-value-of-your-own-input|You cannot judge the value of your own input]]
 
 ## Source
 

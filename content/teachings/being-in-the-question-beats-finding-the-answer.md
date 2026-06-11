@@ -27,6 +27,8 @@ Joe can hold certainty about his next step while remaining in wonder about wheth
 - [[teachings/discovery-not-improvement|Discovery not improvement]]
 - [[teachings/integration-means-more-mystery-not-more-answers|Healthy integration means more mystery, not more answers]]
 - [[teachings/questioning-assumptions-destabilizes-before-it-clarifies|Questioning assumptions destabilizes before it clarifies]]
+- [[teachings/wonder-is-awe-not-curiosity-for-an-answer|Wonder is awe, not curiosity hunting for an answer]]
+- [[teachings/liminal-space-is-where-breakthroughs-happen|Liminal space is where breakthroughs happen]]
 
 ## Source
 

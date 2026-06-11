@@ -29,6 +29,8 @@ The key insight is that you cannot fight your way out of a war. Every layer of f
 - [[teachings/welcome-the-inner-critic|Welcoming the inner critic dissolves its power]]
 - [[teachings/shame-hides-under-loving-attention|Shame hides from loving attention like a child under the couch]]
 - [[teachings/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
+- [[teachings/three-ways-we-push-love-away-chase-avoid-fight|We push away love by chasing it, avoiding it, or fighting]]
+- [[teachings/resisting-fear-leaks-it-sideways|Resisting fear doesn't eliminate it — it leaks out sideways]]
 
 ## Source
 

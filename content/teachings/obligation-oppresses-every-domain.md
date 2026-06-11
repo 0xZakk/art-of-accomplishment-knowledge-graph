@@ -29,6 +29,9 @@ Obligation toward self is equally destructive. The inner critic creates obligati
 - [[teachings/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]]
 - [[teachings/depersonalizing-money-creates-freedom|Depersonalizing money creates financial freedom]]
 - [[teachings/craving-versus-wanting|The difference between craving and wanting]]
+- [[teachings/seeking-power-is-an-expression-of-fear|Seeking power is always an expression of fear]]
+- [[teachings/owning-wants-means-being-okay-with-having-them|Owning your wants means being okay with having them]]
+- [[teachings/wants-motivate-where-shoulds-stagnate|Wants motivate where shoulds stagnate]]
 
 ## Source
 

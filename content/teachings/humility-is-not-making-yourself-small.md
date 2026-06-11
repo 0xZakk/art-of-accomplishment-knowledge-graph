@@ -27,6 +27,8 @@ Deflecting a compliment or a promotion with "oh no, it was nothing" isn't humili
 - [[teachings/empowerment-and-unconditional-love-are-the-same|Empowerment and unconditional love are the same feeling]]
 - [[teachings/humility-requires-self-care|Humility can require self-care]]
 - [[teachings/follow-your-calling-even-when-uncomfortable|Following your calling requires humility even when it's uncomfortable]]
+- [[teachings/humility-is-not-taking-life-personally|Humility is not taking life personally]]
+- [[teachings/let-compliments-move-through-you|Letting compliments move all the way through you destroys ego]]
 
 ## Source
 

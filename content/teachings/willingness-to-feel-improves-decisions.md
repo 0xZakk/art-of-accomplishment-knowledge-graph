@@ -27,6 +27,7 @@ Being willing to feel everything also increases sensitivity to one's own emotion
 - [[teachings/decisions-reveal-emotional-avoidance|Every decision is an attempt to avoid an emotion]]
 - [[teachings/thinking-youre-deciding-means-youre-in-fear|If you think you're making a decision, you're in fear]]
 - [[teachings/confirmation-bias-from-emotional-avoidance|Confirmation bias protects us from emotions we won't feel]]
+- [[teachings/intelligence-is-gated-by-what-you-wont-feel|Intelligence is gated by the emotions you won't feel]]
 
 ## Source
 

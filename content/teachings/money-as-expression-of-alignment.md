@@ -25,6 +25,10 @@ Money in alignment isn't about having more or less—it's about whether the flow
 - [[teachings/money-is-a-screen-for-projection|Money is a screen for projection]]
 - [[teachings/money-beliefs-create-money-reality|Money beliefs create money reality]]
 - [[teachings/being-yourself-designs-your-life|Being yourself designs your life]]
+- [[teachings/depersonalizing-money-creates-freedom|Depersonalizing money creates financial freedom]]
+- [[teachings/energetic-exchange-requires-felt-cost|Energetic exchange requires a felt cost to be transformative]]
+- [[teachings/money-patterns-replay-childhood-connection-patterns|Money patterns replay childhood connection patterns]]
+- [[teachings/wanting-money-is-not-selfish|Wanting money is not selfish — it's wanting freedom and safety]]
 
 ## Source
 

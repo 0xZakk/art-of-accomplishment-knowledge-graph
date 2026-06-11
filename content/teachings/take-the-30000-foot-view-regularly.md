@@ -27,6 +27,7 @@ The 14-day experiment: each day, practice one of the three strategies (plant a s
 - [[teachings/find-the-leverage-on-your-todo-list|Find the one thing that makes everything else easier or irrelevant]]
 - [[teachings/think-like-a-farmer-about-time|Think like a farmer — plant seeds for the future]]
 - [[teachings/we-are-always-running-experiments|We are always running experiments]]
+- [[teachings/exploration-not-achievement-is-the-real-urge|Exploration not achievement is the real urge underneath potential anxiety]]
 
 ## Source
 

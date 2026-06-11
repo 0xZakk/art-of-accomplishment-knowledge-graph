@@ -28,6 +28,8 @@ This applies across domains: in leadership, inviting disagreement produces bette
 - [[teachings/conflict-builds-trust|Conflict builds trust]]
 - [[teachings/boundaries-open-your-heart|Boundaries open your heart]]
 - [[teachings/relationship-control-mirrors-leadership-control|Relationship control mirrors leadership control]]
+- [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
+- [[teachings/speaking-truth-requires-open-heart-not-management|Speaking truth requires an open heart, not management of others' reactions]]
 
 ## Source
 

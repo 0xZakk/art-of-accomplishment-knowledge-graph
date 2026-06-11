@@ -23,6 +23,11 @@ When Bobby imagines being responsible for nothing—and no one else being respon
 
 - [[teachings/self-criticism-intensifies-with-intelligence|Self-criticism intensifies with intelligence]]
 - [[teachings/stress-about-stress-doubles-the-stress|Stress about stress doubles the stress]]
+- [[teachings/responsibility-as-composure-maintenance|Chronic responsibility-taking is really composure maintenance in disguise]]
+- [[teachings/every-epiphany-is-a-rut-waiting-to-happen|Every epiphany is a rut waiting to happen]]
+- [[teachings/ownership-of-the-adventure|Taking ownership of the adventure transforms crisis]]
+- [[teachings/saying-yes-to-what-feels-good-now-gives-energy|Saying yes to what feels good now gives energy that chasing the future drains]]
+- [[teachings/blame-blocks-leadership|Blame prevents stepping into leadership]]
 
 ## Source
 

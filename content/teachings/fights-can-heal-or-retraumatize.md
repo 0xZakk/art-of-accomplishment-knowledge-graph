@@ -29,6 +29,7 @@ Once the nervous system associates a partner's anger with genuine danger, the en
 - [[teachings/relationship-agreements-create-safe-conflict|Relationship agreements create a safe playing field for conflict]]
 - [[teachings/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
 - [[teachings/fights-are-trauma-responses-not-personality-flaws|Losing control in a fight is a trauma response, not a personality flaw]]
+- [[teachings/love-that-comes-with-abuse-gets-met-with-aggression|When love arrived with abuse, love later gets met with aggression]]
 
 ## Source
 

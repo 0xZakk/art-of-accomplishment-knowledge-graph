@@ -26,6 +26,10 @@ Internal freedom — the one every spiritual tradition points to — requires no
 - [[teachings/depersonalizing-money-creates-freedom|Depersonalizing money creates freedom]]
 - [[teachings/financial-safety-is-not-about-money|Financial safety is not about money]]
 - [[teachings/freedom-is-recognized-not-achieved|Freedom is recognized, not achieved]]
+- [[teachings/wanting-money-is-not-selfish|Wanting money is not selfish — it's wanting freedom and safety]]
+- [[teachings/money-as-oppression-or-empowerment|Money is either oppression or empowerment depending on alignment]]
+- [[teachings/the-money-block-is-really-a-safety-block|A money block is usually a safety block in disguise]]
+- [[teachings/power-can-be-taken-empowerment-cannot|Power can be taken away from you but empowerment cannot]]
 
 ## Source
 

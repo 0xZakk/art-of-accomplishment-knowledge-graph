@@ -28,6 +28,8 @@ Joe emphasizes three concrete steps: adjust your expectations of them, prioritiz
 - [[teachings/high-eq-without-boundaries-leads-to-depletion|High EQ without boundaries leads to depletion]]
 - [[teachings/boundary-firmness-eliminates-fear-of-attack|Boundary firmness eliminates fear of attack]]
 - [[teachings/boundaries-not-view-for-narcissists|Boundaries, not VIEW, are the tool for narcissists]]
+- [[teachings/pre-grieving-loss-creates-resilience|Pre-grieving potential loss creates resilience and the courage to draw boundaries]]
+- [[teachings/a-boundary-with-a-return-prevents-abandonment|Draw a boundary that includes coming back so they don't feel abandoned]]
 
 ## Source
 

@@ -28,6 +28,8 @@ Brett demonstrates this concretely with his business crisis: when a major client
 - [[teachings/feel-the-false-end-to-dissolve-overwhelm|Feel the false end to dissolve overwhelm]]
 - [[teachings/keeping-it-together-blocks-team-trust|Keeping it together as a leader blocks team trust]]
 - [[teachings/fear-of-consequences-is-fear-of-emotional-states|Fear of consequences is really fear of emotional states]]
+- [[teachings/being-yourself-gets-you-promoted-or-freed|Being yourself either gets you promoted or freed]]
+- [[teachings/boundaries-are-essential-with-mental-health|Boundaries are essential when supporting someone with mental health issues]]
 
 ## Source
 

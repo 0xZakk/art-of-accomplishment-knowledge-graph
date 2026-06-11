@@ -25,6 +25,7 @@ Joe redirects: rather than analyzing what makes them charismatic, use your react
 
 - [[teachings/two-forms-of-charisma|There are two forms of charisma]]
 - [[teachings/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
+- [[teachings/internal-division-is-the-enemy-of-charisma|Internal division is the enemy of charisma]]
 
 ## Source
 

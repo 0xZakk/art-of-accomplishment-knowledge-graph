@@ -22,6 +22,11 @@ Joe suggests asking before marriage: "Are you both willing to work and change yo
 
 - [[teachings/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]]
 - [[teachings/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]]
+- [[teachings/self-love-sets-the-capacity-limit-for-loving-others|Self-love sets the capacity limit for loving a partner]]
+- [[teachings/compromise-builds-resentment|Compromise means neglecting yourself and it always builds resentment]]
+- [[teachings/self-love-is-the-capacity-limit-for-loving-others|Self-love is the capacity limit for loving others]]
+- [[teachings/marriage-as-dojo-for-self-development|Marriage as a dojo for self-development]]
+- [[teachings/be-yourself-and-the-relationship-question-answers-itself|Be fully yourself and the relationship question answers itself]]
 
 ## Source
 

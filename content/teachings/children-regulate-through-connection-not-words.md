@@ -26,6 +26,10 @@ Kids are "full feeling machines in a dream state" until their intellect comes on
 - [[teachings/connection-is-the-core-of-parenting|Connection is the core of parenting]]
 - [[teachings/attunement-regulates-both-nervous-systems|Attunement regulates both nervous systems]]
 - [[teachings/model-emotions-for-children|Model emotions for children]]
+- [[teachings/expressing-emotions-restores-connection|Feeling and expressing emotion restores connection]]
+- [[teachings/theta-programming-shapes-adult-reality|Theta programming shapes adult reality]]
+- [[teachings/attunement-patterns-become-adult-cycles|Attunement patterns in childhood become the emotional cycles of adult life]]
+- [[teachings/childhood-calm-down-trains-us-out-of-excitement|'Calm down' trains us out of excitement in childhood]]
 
 ## Source
 

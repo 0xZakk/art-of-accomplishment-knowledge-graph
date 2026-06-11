@@ -25,6 +25,11 @@ The insight is structural: if connection requires something external to happen f
 - [[teachings/chasing-connection-prevents-connection|Chasing connection prevents connection]]
 - [[teachings/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]]
 - [[teachings/avoidance-creates-the-pattern-it-fears|Avoidance creates the pattern it fears]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/aloneness-without-loneliness|Aloneness without loneliness is a sign of authentic self-discovery]]
+- [[teachings/money-mirrors-the-relationship-with-your-father|Money chasing can be a projection of chasing a parent's love]]
+- [[teachings/nothing-is-unlovable-in-the-present|Nothing is unlovable in the present moment]]
+- [[teachings/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
 
 ## Source
 

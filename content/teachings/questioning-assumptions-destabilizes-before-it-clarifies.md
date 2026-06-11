@@ -26,6 +26,7 @@ The litmus tests for genuine inquiry (versus intellectual posturing) are: it get
 - [[teachings/integration-means-more-mystery-not-more-answers|Healthy integration means more mystery, not more answers]]
 - [[teachings/being-in-the-question-beats-finding-the-answer|Being in the question is more powerful than finding the answer]]
 - [[teachings/thinking-youre-deciding-means-youre-in-fear|If you think you're making a decision, you're in fear]]
+- [[teachings/over-awareness-creates-paralysis|Over-awareness of your parts creates decision paralysis]]
 
 ## Source
 

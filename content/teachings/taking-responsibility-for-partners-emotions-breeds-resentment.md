@@ -29,6 +29,8 @@ The alternative isn't coldness or indifference — it's presence without fixing.
 - [[teachings/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
 - [[teachings/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
 - [[teachings/their-happiness-is-not-your-happiness|Their happiness is not your happiness and never was]]
+- [[teachings/taking-care-of-others-disempowers-them|Taking responsibility for others' happiness disempowers them]]
+- [[teachings/what-we-do-for-love-erodes-power|What we do to maintain love erodes our power]]
 
 ## Source
 

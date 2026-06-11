@@ -30,6 +30,7 @@ The alternative isn't indifference — it's allowing. Be kind, be compassionate,
 - [[teachings/taking-responsibility-for-partners-emotions-breeds-resentment|Taking responsibility for your partner's emotions breeds resentment]]
 - [[teachings/what-we-do-for-love-erodes-power|What we do to maintain love erodes our power]]
 - [[teachings/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
+- [[teachings/false-love-erodes-power-in-relationships|Maintaining false love erodes power and attraction in relationships]]
 
 ## Source
 

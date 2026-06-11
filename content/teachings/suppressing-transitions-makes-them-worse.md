@@ -27,6 +27,8 @@ He frames societal transitions as roughly 80-year cycles where institutions need
 - [[teachings/fear-of-stagnation-creates-stagnation|Fear of stagnation creates stagnation]]
 - [[teachings/feel-fear-to-see-opportunity|Feel the fear fully to see the opportunities in chaos]]
 - [[teachings/tension-is-required-for-healthy-systems|All living systems require tension to stay healthy]]
+- [[teachings/think-individual-and-collective|Think both individual and collective to find practical solutions]]
+- [[teachings/false-ends-keep-you-stuck|The brain creates false endings that paralyze action]]
 
 ## Source
 

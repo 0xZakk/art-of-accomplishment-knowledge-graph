@@ -23,6 +23,11 @@ The antidote isn't less intelligence—it's deliberately turning that same analy
 - [[teachings/perfectionism-is-the-critical-parents-voice|Perfectionism is the critical parent's voice]]
 - [[teachings/self-judgment-defends-against-emotions|Self-judgment defends against emotions]]
 - [[teachings/goals-as-self-abuse-versus-creativity|Goals as self-abuse versus creativity]]
+- [[teachings/negativity-bias-limits-intelligent-people|Negativity bias especially limits intelligent people]]
+- [[teachings/gratitude-reveals-solutions-criticism-hides|Gratitude reveals solutions that criticism hides]]
+- [[teachings/perfectionism-as-safety-strategy|Perfectionism originates as a childhood safety strategy]]
+- [[teachings/self-understanding-over-self-improvement|Self-understanding replaces self-improvement]]
+- [[teachings/inner-voice-mirrors-parenting|The inner critic mirrors how you were parented]]
 
 ## Source
 

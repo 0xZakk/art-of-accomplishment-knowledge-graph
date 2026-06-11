@@ -30,6 +30,7 @@ The critical points: you're not trying to eliminate the voice (that would be man
 - [[teachings/inner-critic-is-not-your-voice|The inner critic is not your voice — it's inherited]]
 - [[teachings/ouch-technique-for-inner-critic|The 'ouch' technique silences the inner critic and creates genuine rest]]
 - [[teachings/resistance-gives-the-inner-critic-its-power|Resistance gives the inner critic its power]]
+- [[teachings/change-your-relationship-to-the-critic-not-the-critic-itself|Change your relationship to the critic, not the critic itself]]
 
 ## Source
 

@@ -25,6 +25,10 @@ The distinction also extends to anxiety funneling through anger—people getting
 - [[teachings/fear-is-excitement-without-the-breath|Fear is excitement without the breath]]
 - [[teachings/fear-constricts-excitement-expands|Fear constricts, excitement expands]]
 - [[teachings/anxiety-is-constricted-life-force|Anxiety is constricted life force]]
+- [[teachings/anxiety-can-be-excitement-that-isnt-felt-all-the-way|Anxiety is sometimes excitement that isn't being felt all the way]]
+- [[teachings/anxiety-is-repressed-excitement|Anxiety is often repressed excitement]]
+- [[teachings/feeling-excitement-cracks-the-identity|Feeling excitement cracks the identity open]]
+- [[teachings/fear-distinguish-excitement-from-a-signal|Fear is either excitement without the breath or a signal to take care of something]]
 
 ## Source
 

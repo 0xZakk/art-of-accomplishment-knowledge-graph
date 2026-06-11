@@ -23,6 +23,8 @@ The critical step is simply recognizing it: "All they have to do is recognize it
 - [[teachings/great-leaders-follow-conviction|Great leaders follow their conviction and the conviction of others]]
 - [[teachings/blame-blocks-leadership|Blame prevents stepping into leadership]]
 - [[teachings/empower-people-decentrally|Empower people decentrally]]
+- [[teachings/complimenting-makes-you-the-authority|Complimenting others' work makes you the authority in the room]]
+- [[teachings/name-the-problem-without-solving-it|Name the problem without solving it]]
 
 ## Source
 

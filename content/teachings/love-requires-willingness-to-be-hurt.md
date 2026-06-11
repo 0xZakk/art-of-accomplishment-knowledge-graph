@@ -29,6 +29,7 @@ Joe's client illustrated this viscerally: intellectually knowing that openhearte
 - [[teachings/untangle-what-was-wired-with-love|Healing requires untangling what was wired together with love in childhood]]
 - [[teachings/fear-of-losing-yourself-blocks-intimacy|Fear of losing yourself is what blocks intimacy]]
 - [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
+- [[teachings/accepting-love-requires-tolerating-safety|Accepting love requires a nervous system that can tolerate safety]]
 
 ## Source
 

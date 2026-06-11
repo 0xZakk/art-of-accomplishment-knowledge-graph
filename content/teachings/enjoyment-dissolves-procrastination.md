@@ -34,6 +34,7 @@ This is fundamentally different from "take the pressure off yourself," which is 
 - [[teachings/falling-in-love-with-practice|Falling in love with practice beats forcing yourself to practice]]
 - [[teachings/lack-of-enjoyment-diagnoses-problems|Lack of enjoyment diagnoses the real problem]]
 - [[teachings/enjoyment-is-more-efficient-than-pushing-through|Finding enjoyment in work is more efficient than pushing through]]
+- [[teachings/enjoyment-is-the-pace-keeper-for-feeling|Enjoyment is the pace-keeper for how deep to feel]]
 
 ## Source
 

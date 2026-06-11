@@ -25,6 +25,10 @@ The real cost of trying not to offend: "It would look like I'm disappearing. Lik
 - [[teachings/wanting-to-control-perception-is-absurd|Wanting to control perception is absurd]]
 - [[teachings/controlling-reputation-is-unwinnable|Controlling reputation is unwinnable]]
 - [[teachings/disappearing-as-survival-strategy|Disappearing as survival strategy]]
+- [[teachings/you-cannot-judge-the-value-of-your-own-input|You cannot judge the value of your own input]]
+- [[teachings/triggers-as-freedom-opportunities|Triggers reveal where freedom is available]]
+- [[teachings/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
+- [[teachings/judging-others-for-what-you-do|We judge others for exactly what we're doing ourselves]]
 
 ## Source
 

@@ -24,6 +24,8 @@ This applies well beyond AI. Any domain where fear drives the "safety" response 
 - [[teachings/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
 - [[teachings/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
 - [[teachings/fear-creates-binary-thinking-and-false-ends|Fear creates binary thinking and false ends]]
+- [[teachings/unsafety-as-belief-anchor|The belief 'I'll be unsafe' anchors other limiting beliefs]]
+- [[teachings/worth-is-who-you-are-not-what-you-produce|We are worth who we are, not what we produce]]
 
 ## Source
 

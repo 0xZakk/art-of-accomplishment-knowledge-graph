@@ -20,6 +20,11 @@ When money is an expression of who you are, having more means more empowerment. 
 
 - [[teachings/being-yourself-designs-your-life|Being yourself designs your life]]
 - [[teachings/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]]
+- [[teachings/external-vs-internal-freedom|External freedom and internal freedom are different things]]
+- [[teachings/money-shame-creates-disconnection|Money shame creates disconnection]]
+- [[teachings/depersonalizing-money-creates-freedom|Depersonalizing money creates financial freedom]]
+- [[teachings/money-is-a-screen-for-projection|Money is a screen for projection]]
+- [[teachings/wanting-money-is-not-selfish|Wanting money is not selfish — it's wanting freedom and safety]]
 
 ## Source
 

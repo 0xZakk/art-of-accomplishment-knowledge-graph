@@ -24,6 +24,10 @@ Yet the scapegoat role can also be a gift. Because the rebel is pushed outside t
 - [[teachings/childhood-freeze-becomes-adult-trap|Childhood freeze becomes adult trap]]
 - [[teachings/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]]
 - [[teachings/rebellion-is-the-only-self-under-control|Rebellion becomes the only sense of self under suffocating control]]
+- [[teachings/guilt-is-inherited-fear-in-disguise|Guilt is inherited fear in disguise]]
+- [[teachings/staying-calm-is-a-childhood-role|Staying calm can be a childhood role taken on to stay safe]]
+- [[teachings/rebellion-empowers-the-authority|Rebellion empowers the authority figure just as compliance does]]
+- [[teachings/not-responsible-for-others-emotions|Declaring 'I'm not responsible for how you feel' restores full expression]]
 
 ## Source
 

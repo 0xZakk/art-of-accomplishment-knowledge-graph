@@ -26,6 +26,10 @@ The way out isn't for either person to stop being who they are, but to leave fig
 - [[teachings/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
 - [[teachings/fights-are-always-about-being-seen-and-safe|Fights are always about being seen and safe]]
 - [[teachings/chasing-love-is-also-pushing-it-away|Chasing love is also pushing it away]]
+- [[teachings/withholding-truth-kills-intimacy|Withholding truth kills intimacy from both sides]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/chasing-love-signals-you-dont-deserve-it|Chasing love signals that you don't deserve it]]
+- [[teachings/three-ways-we-push-love-away-chase-avoid-fight|We push away love by chasing it, avoiding it, or fighting]]
 
 ## Source
 

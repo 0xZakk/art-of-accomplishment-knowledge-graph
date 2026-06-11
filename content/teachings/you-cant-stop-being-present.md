@@ -24,6 +24,8 @@ This mirrors a broader pattern in Joe's teaching: the things we strive to achiev
 - [[teachings/purpose-is-in-the-how-not-the-what|Purpose is in the how, not the what]]
 - [[teachings/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
 - [[teachings/feeling-your-essential-nature-dissolves-avoidance|Feeling your essential nature dissolves avoidance behaviors]]
+- [[teachings/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
+- [[teachings/returning-to-connection-is-noticing-not-effort|Returning to connection is about noticing, not effort]]
 
 ## Source
 

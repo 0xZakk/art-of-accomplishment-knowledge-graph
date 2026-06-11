@@ -26,6 +26,10 @@ These two dimensions — attachment quality and traumatic events — are related
 - [[teachings/we-attract-what-we-learned-as-love|We attract what we learned as love]]
 - [[teachings/connection-is-the-core-of-parenting|Connection is the core of parenting]]
 - [[teachings/trauma-addiction-is-choosing-the-familiar|Trauma addiction is choosing what's familiar, not what's safe]]
+- [[teachings/shame-about-your-role-in-trauma-runs-deepest|Shame about your role in your own trauma runs deepest]]
+- [[teachings/managing-trauma-versus-resolving-it|Managing trauma versus resolving it]]
+- [[teachings/seeing-parents-terror-dissolves-resentment|Seeing parents' terror dissolves resentment]]
+- [[teachings/the-ancillary-pain-of-not-being-seen|The ancillary pain of not being seen must also be processed]]
 
 ## Source
 

@@ -23,6 +23,11 @@ The same pattern appears whenever purpose is externalized: the pursuit of money,
 
 - [[teachings/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
 - [[teachings/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
+- [[teachings/business-as-self-awareness-practice|Business is a self-awareness practice, not separate from life]]
+- [[teachings/enjoyment-is-more-efficient-than-pushing-through|Finding enjoyment in work is more efficient than pushing through]]
+- [[teachings/business-alignment-is-spiritual-alignment|Business alignment and spiritual alignment are the same thing]]
+- [[teachings/saying-yes-to-what-feels-good-now-gives-energy|Saying yes to what feels good now gives energy that chasing the future drains]]
+- [[teachings/comfort-can-prevent-transformation|Comfort can prevent transformation]]
 
 ## Source
 

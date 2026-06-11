@@ -28,6 +28,8 @@ The point isn't to fix the inner critic or make it go away. It's to stop taking 
 - [[teachings/respond-differently-to-the-inner-critic|Respond differently to the inner critic]]
 - [[teachings/resisting-inner-critic-strengthens-it|Resisting inner critic strengthens it]]
 - [[teachings/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
+- [[teachings/change-your-relationship-to-the-critic-not-the-critic-itself|Change your relationship to the critic, not the critic itself]]
+- [[teachings/you-dont-need-the-inner-critic-to-be-productive|You don't need the inner critic to be productive — it drains you]]
 
 ## Source
 

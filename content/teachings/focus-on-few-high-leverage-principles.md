@@ -27,6 +27,10 @@ Trying to have the perfect marriage is hell. Trying to have a loving marriage is
 
 - [[teachings/find-what-already-works-and-amplify-it|Find what already works and amplify it]]
 - [[teachings/connection-over-perfection|Connection over perfection]]
+- [[teachings/perfection-over-connection-holds-people-back|Prioritizing perfection over connection holds people back]]
+- [[teachings/authenticity-matters-more-than-self-improvement|Authenticity matters more than self-improvement]]
+- [[teachings/connection-as-the-bottom-line-principle|Connection is the most effective bottom-line principle for life]]
+- [[teachings/connection-over-perfection-in-process|Connection over perfection transforms the process]]
 
 ## Source
 

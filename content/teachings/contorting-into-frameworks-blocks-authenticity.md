@@ -26,6 +26,11 @@ The session ends with her apologizing to herself: "I'm so sorry for trying to fo
 - [[teachings/purpose-seeking-often-masks-approval-seeking|Purpose-seeking often masks approval-seeking]]
 - [[teachings/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
 - [[teachings/any-self-definition-limits-you|Any self-definition limits you]]
+- [[teachings/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
+- [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
+- [[teachings/self-attack-after-epiphany-slows-transformation|Beating yourself up after an epiphany slows your transformation]]
+- [[teachings/judging-others-for-what-you-do|We judge others for exactly what we're doing ourselves]]
+- [[teachings/wanting-to-control-perception-is-absurd|Wanting to control others' perception of you is absurd]]
 
 ## Source
 

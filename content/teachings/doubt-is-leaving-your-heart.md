@@ -49,6 +49,7 @@ When you notice doubt arising, you can recognize it as a signal that you've just
 - [[teachings/doubt-as-emotional-protection|Doubt as emotional protection]]
 - [[teachings/welcome-doubt-instead-of-running|Welcoming doubt instead of running from it opens the heart]]
 - [[teachings/doubt-is-self-focused-service-dissolves-it|Doubt is self-focused; openhearted service dissolves it]]
+- [[teachings/you-cannot-question-and-love-at-the-same-time|You have to stop loving to question a relationship]]
 
 ## Source
 

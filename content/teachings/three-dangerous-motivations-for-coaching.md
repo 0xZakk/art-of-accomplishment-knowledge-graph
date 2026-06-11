@@ -31,6 +31,9 @@ Joe's filter: he wants to work with people deeply committed to their self-awaren
 - [[teachings/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others to avoid your feelings]]
 - [[teachings/saving-others-is-a-strategy-for-enoughness|Saving others is a strategy for enoughness]]
 - [[teachings/compulsive-giving-avoids-receiving|Compulsive giving is a self-reliance strategy to avoid receiving]]
+- [[teachings/coaching-is-self-discovery-not-skill-acquisition|Coaching is self-discovery, not skill acquisition]]
+- [[teachings/coaching-expression-must-be-yours-not-your-teachers|Your coaching expression must be yours, not your teacher's]]
+- [[teachings/you-are-a-terrible-boss-to-yourself|You are a terrible boss to yourself and that's why you're stuck]]
 
 ## Source
 

@@ -23,6 +23,11 @@ This pattern applies to everything people attach their freedom to. The object ch
 - [[teachings/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
 - [[teachings/external-scorecards-always-move|External scorecards always move]]
 - [[teachings/fear-patterns-reveal-identity|Fear patterns reveal identity]]
+- [[teachings/fear-of-consequences-is-fear-of-emotional-states|Fear of consequences is really fear of emotional states]]
+- [[teachings/gratitude-for-abundance-removes-the-fear-of-losing-it|Gratitude for abundance removes the fear of losing it]]
+- [[teachings/money-mirrors-the-relationship-with-your-father|Money chasing can be a projection of chasing a parent's love]]
+- [[teachings/loss-can-deepen-freedom|Loss can deepen freedom]]
+- [[teachings/what-you-fear-losing-reveals-your-conditions-on-freedom|What you fear losing reveals your conditions on freedom]]
 
 ## Source
 

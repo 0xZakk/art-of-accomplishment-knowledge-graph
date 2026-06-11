@@ -27,6 +27,8 @@ The prototype is a baby crying in a crib: the moment the baby stops crying and g
 - [[teachings/self-reliance-as-intimacy-avoidance|Self-reliance can be a form of intimacy avoidance]]
 - [[teachings/self-reliance-blocks-receiving-support|Self-reliance blocks the ability to receive support]]
 - [[teachings/vulnerability-invites-support|Vulnerability invites the support self-reliance blocks]]
+- [[teachings/love-that-comes-with-abuse-gets-met-with-aggression|When love arrived with abuse, love later gets met with aggression]]
+- [[teachings/vulnerability-is-personal-not-moral|What's vulnerable is personal, not a universal morality]]
 
 ## Source
 

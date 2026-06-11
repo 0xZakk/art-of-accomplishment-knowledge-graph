@@ -24,6 +24,7 @@ The practical implication: working on yourself isn't selfish preparation for rel
 - [[teachings/you-get-the-love-you-can-accept|You only get the love you can let in]]
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 - [[teachings/love-yourself-how-you-wanted-to-be-loved|Love yourself the way you always wanted to be loved]]
+- [[teachings/marriage-as-dojo-for-self-development|Marriage as a dojo for self-development]]
 
 ## Source
 

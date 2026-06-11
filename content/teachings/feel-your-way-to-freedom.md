@@ -28,6 +28,8 @@ The phrase points to a paradox at the heart of transformation: the path to freed
 - [[teachings/gold-lies-beyond-what-you-fear|The gold in life lies just beyond what you're afraid to face]]
 - [[teachings/allowing-replaces-striving-on-the-back-nine|Allowing replaces striving on the back nine of life]]
 - [[teachings/focus-on-how-you-want-to-feel-not-what-you-fear|Focus on how you want to feel not what you fear]]
+- [[teachings/confidence-comes-from-authenticity-not-achievement|Confidence comes from authenticity not achievement]]
+- [[teachings/adversity-refines-rather-than-destroys|Adversity refines rather than destroys]]
 
 ## Source
 

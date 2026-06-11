@@ -29,6 +29,7 @@ This is why embracing intensity is essential to this work — not just the inten
 - [[teachings/pleasure-is-available-in-every-emotion|Pleasure is available in every emotion when fully felt]]
 - [[teachings/expansiveness-underneath-resistance-to-love|The expansiveness underneath resistance to love is overwhelming and amazing]]
 - [[teachings/drawing-boundaries-dissolves-triggers|Drawing boundaries dissolves triggers]]
+- [[teachings/love-dissolves-identity-which-is-scary|Love dissolves identity, which is why it's frightening]]
 
 ## Source
 

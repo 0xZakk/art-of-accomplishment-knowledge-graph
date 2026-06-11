@@ -27,6 +27,7 @@ This connects directly to the "how much do you love me" question in culture. Peo
 - [[teachings/asking-questions-is-active-listening|Asking questions is the most powerful form of active listening]]
 - [[teachings/you-cannot-judge-the-value-of-your-own-input|You cannot judge the value of your own input]]
 - [[teachings/communication-techniques-get-weaponized|Communication techniques get weaponized without the right state]]
+- [[teachings/fear-limits-optionality|Fear limits what options you can see]]
 
 ## Source
 

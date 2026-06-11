@@ -29,6 +29,7 @@ Joe points out this is what our mind does with sadness generally — it tells us
 - [[teachings/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]
 - [[teachings/chronic-stuckness-leads-to-depression|Chronic stuckness leads to depression through self-oppression]]
 - [[teachings/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
+- [[teachings/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
 
 ## Source
 

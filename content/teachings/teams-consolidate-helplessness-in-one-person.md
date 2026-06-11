@@ -30,6 +30,7 @@ This applies equally to families: Joe shares a moment with his daughter where th
 - [[teachings/helplessness-is-the-emotion-being-avoided|The feeling being avoided underneath 'I've got this' is helplessness]]
 - [[teachings/welcoming-helplessness-not-managing-it|The freedom is in wanting to feel helpless again]]
 - [[teachings/helplessness-is-the-cayenne-pepper-of-fear|Helplessness is the most potent ingredient of fear]]
+- [[teachings/feeling-helplessness-creates-empowerment|Going through helplessness is what creates empowerment]]
 
 ## Source
 

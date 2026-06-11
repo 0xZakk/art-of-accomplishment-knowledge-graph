@@ -30,6 +30,7 @@ When principles are working, decisions become choices. The deliberation disappea
 - [[teachings/wrestle-with-principles-constantly|The process of wrestling with principles matters more than the principles themselves]]
 - [[teachings/changing-behavior-changes-consciousness|Changing behavior is the most efficient way to change consciousness]]
 - [[teachings/principles-differ-from-values|Principles drive action; values describe morality]]
+- [[teachings/connection-as-the-bottom-line-principle|Connection is the most effective bottom-line principle for life]]
 
 ## Source
 

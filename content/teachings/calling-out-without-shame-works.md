@@ -25,6 +25,11 @@ He also shares the story of a woman who told a notorious yelling CEO: "I see how
 - [[teachings/shame-free-problem-solving|Shame-free problem solving]]
 - [[teachings/shame-never-changes-behavior|Shame never changes behavior]]
 - [[teachings/connection-dissolves-shame|Connection dissolves shame]]
+- [[teachings/ceo-emotional-avoidance-blocks-team-truth|CEO emotional avoidance blocks the team from finding truth]]
+- [[teachings/you-cant-build-culture-you-cant-see|You can't build a culture you can't see in yourself]]
+- [[teachings/transparency-is-the-antidote-to-politics|Transparency is the best antidote to politics]]
+- [[teachings/unfelt-team-emotions-create-dysfunction|Unfelt emotions in a team create all the dysfunction]]
+- [[teachings/you-are-a-terrible-boss-to-yourself|You are a terrible boss to yourself and that's why you're stuck]]
 
 ## Source
 

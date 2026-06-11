@@ -24,6 +24,7 @@ The only way to clear this is to address the resentment directly — the person 
 - [[teachings/safety-comes-from-working-through-conflict|Safety comes from working through conflict]]
 - [[teachings/resentment-signals-a-boundary-needed|Resentment signals a boundary that needs to be drawn]]
 - [[teachings/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
+- [[teachings/resentment-points-to-unexpressed-wants|Resentment points to unexpressed wants, not always boundaries]]
 
 ## Source
 

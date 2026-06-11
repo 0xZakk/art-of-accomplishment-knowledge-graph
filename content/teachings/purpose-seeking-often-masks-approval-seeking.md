@@ -26,6 +26,7 @@ The flip is from approval to recognition: doing what hurts too much not to do, e
 - [[teachings/searching-for-purpose-assumes-you-lack-it|Searching for purpose assumes you don't already have it]]
 - [[teachings/chase-your-own-approval|Chase your own approval]]
 - [[teachings/purpose-is-recognition-not-decision|Purpose is recognition, not decision]]
+- [[teachings/no-external-validation-works-without-self-validation|No amount of external validation works if you won't validate yourself]]
 
 ## Source
 

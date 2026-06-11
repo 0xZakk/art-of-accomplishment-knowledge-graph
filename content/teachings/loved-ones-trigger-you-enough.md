@@ -25,6 +25,10 @@ The real work isn't seeking triggers — it's allowing peace. The hardest thing 
 - [[teachings/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]]
 - [[teachings/we-attract-what-we-learned-as-love|We attract what we learned as love]]
 - [[teachings/drawing-boundaries-dissolves-triggers|Drawing boundaries dissolves triggers]]
+- [[teachings/own-the-trigger-as-yours|Owning the trigger as yours dissolves the fight]]
+- [[teachings/enjoyment-is-the-pace-keeper-for-feeling|Enjoyment is the pace-keeper for how deep to feel]]
+- [[teachings/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]]
+- [[teachings/wanting-someone-to-change-reflects-self-rejection|Wanting someone to change reflects a part of yourself you can't love]]
 
 ## Source
 

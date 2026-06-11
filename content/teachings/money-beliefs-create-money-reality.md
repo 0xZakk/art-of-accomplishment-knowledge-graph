@@ -27,6 +27,7 @@ When he saw and felt the belief, it fell away, and his material world changed ra
 - [[teachings/poverty-mentality-is-about-love-not-money|Poverty mentality is about love, not money]]
 - [[teachings/money-shame-creates-disconnection|Money shame creates disconnection]]
 - [[teachings/money-resistance-mirrors-childhood-wounds|Money resistance often mirrors childhood wounds around love and worth]]
+- [[teachings/money-mirrors-the-relationship-with-your-father|Money chasing can be a projection of chasing a parent's love]]
 
 ## Source
 

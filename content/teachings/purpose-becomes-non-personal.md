@@ -25,6 +25,10 @@ Brett frames this as purpose being an emergent property of how you are being, ra
 - [[teachings/purpose-matures-into-choicelessness|Purpose matures into choicelessness]]
 - [[teachings/humility-is-not-taking-life-personally|Humility is not taking life personally]]
 - [[teachings/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]]
+- [[teachings/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
+- [[teachings/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
+- [[teachings/the-empty-space-is-the-path-to-freedom|The empty space you've been avoiding is the path to freedom]]
+- [[teachings/you-cannot-judge-the-value-of-your-own-input|You cannot judge the value of your own input]]
 
 ## Source
 

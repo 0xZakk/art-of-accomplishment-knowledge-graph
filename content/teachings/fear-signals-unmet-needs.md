@@ -25,6 +25,10 @@ Joe observes that generalized anxiety is perpetuated because people aren't getti
 - [[teachings/fear-as-road-map-not-enemy|Fear as road map not enemy]]
 - [[teachings/owning-your-needs-is-not-selfish|Owning your needs is not selfish]]
 - [[teachings/resentment-signals-a-boundary-needed|Resentment signals a boundary needed]]
+- [[teachings/anxiety-signals-unmet-needs-at-multiple-depths|Anxiety signals unmet needs at multiple depths]]
+- [[teachings/keeping-it-together-blocks-team-trust|Keeping it together as a leader blocks team trust]]
+- [[teachings/anxiety-points-to-self-abandonment|Anxiety is a road sign that shows you where you're abandoning yourself]]
+- [[teachings/every-emotion-is-a-signal-pointing-to-an-action|Every emotion is a signal pointing toward an action or a need]]
 
 ## Source
 

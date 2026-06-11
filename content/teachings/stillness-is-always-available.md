@@ -23,6 +23,10 @@ This shifts rest from something you have to earn or schedule into something you 
 - [[teachings/rest-from-the-inner-critic|What you really need is rest from your inner critic]]
 - [[teachings/be-your-own-light|Be your own light]]
 - [[teachings/attunement-to-self-produces-intuition|Attunement to self produces intuition]]
+- [[teachings/ouch-technique-for-inner-critic|The 'ouch' technique silences the inner critic and creates genuine rest]]
+- [[teachings/numbness-as-survival-gift|Emotional numbness can be a survival gift, not a deficit]]
+- [[teachings/over-awareness-creates-paralysis|Over-awareness of your parts creates decision paralysis]]
+- [[teachings/welcoming-not-managing-leads-to-awakening|Welcoming everything, not managing it, is what leads to awakening]]
 
 ## Source
 

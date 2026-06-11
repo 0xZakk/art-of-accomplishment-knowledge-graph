@@ -27,6 +27,10 @@ This creates a vicious cycle: loneliness → threat perception → withdrawal �
 - [[teachings/loneliness-is-shame-plus-anxiety|Loneliness is shame plus anxiety about interaction]]
 - [[teachings/avoidance-creates-the-pattern-it-fears|Avoidance creates the pattern it fears]]
 - [[teachings/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck]]
+- [[teachings/solitude-versus-loneliness|Solitude and loneliness are fundamentally different]]
+- [[teachings/loneliness-fully-felt-is-love|Loneliness fully felt reveals itself as love]]
+- [[teachings/fully-feeling-stops-the-pattern|Fully falling in love with the avoided feeling is the quickest way to stop a negative pattern]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 
 ## Source
 

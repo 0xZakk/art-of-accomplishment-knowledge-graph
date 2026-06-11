@@ -29,6 +29,11 @@ The resolution isn't finding the perfect place to belong—that doesn't exist. E
 - [[teachings/being-yourself-designs-your-life|Being yourself causes the world to arrange itself around you]]
 - [[teachings/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]]
 - [[teachings/imposter-syndrome-means-not-being-yourself|Imposter syndrome means not being yourself]]
+- [[teachings/welcoming-yourself-dissolves-the-need-to-reject|Welcoming yourself dissolves the need to reject]]
+- [[teachings/aloneness-without-loneliness|Aloneness without loneliness is a sign of authentic self-discovery]]
+- [[teachings/welcoming-is-self-love|Welcoming whatever arises is self-love]]
+- [[teachings/welcoming-not-managing-leads-to-awakening|Welcoming everything, not managing it, is what leads to awakening]]
+- [[teachings/deep-community-dissolves-identity|Deep community is scary because it dissolves identity]]
 
 ## Source
 

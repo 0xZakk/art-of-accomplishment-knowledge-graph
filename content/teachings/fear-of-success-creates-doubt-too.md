@@ -40,6 +40,10 @@ If you keep sabotaging success you're capable of achieving, the issue might not 
 - [[teachings/ego-resists-change-in-either-direction|Ego resists change in either direction]]
 - [[teachings/war-with-your-wants-creates-self-sabotage|Being at war with your wants creates self-sabotage]]
 - [[teachings/fear-of-success-is-fear-of-failure|Fear of success is ultimately fear of failure]]
+- [[teachings/fear-reveals-where-identity-is-threatened|Fear reveals where our identity feels threatened]]
+- [[teachings/smart-identity-prevents-trying|The 'smart' identity prevents you from trying—failure would disprove who you are]]
+- [[teachings/clarity-comes-after-feeling-not-before|Clarity comes after feeling the emotion not before]]
+- [[teachings/false-ends-keep-you-stuck|The brain creates false endings that paralyze action]]
 
 ## Source
 

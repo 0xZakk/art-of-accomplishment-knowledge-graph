@@ -25,6 +25,8 @@ The practice applies to every relationship, not just those facing visible death 
 
 - [[teachings/acknowledging-death-compresses-life|Acknowledging death compresses and intensifies life]]
 - [[teachings/pre-grieving-loss-creates-resilience|Pre-grieving loss creates resilience]]
+- [[teachings/near-death-reveals-peace-already-present|Near-death experiences reveal peace that was already there]]
+- [[teachings/dissociation-as-double-edged-sword|Dissociation is a double-edged sword]]
 
 ## Source
 

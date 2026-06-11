@@ -31,6 +31,7 @@ Principled living also forces you to feel the emotions you'd rather avoid — th
 - [[teachings/principles-automate-decision-making|Principles automate decision-making into effortless choices]]
 - [[teachings/connection-as-the-bottom-line-principle|Connection is the most effective bottom-line principle for life]]
 - [[teachings/life-is-the-sum-of-decisions|Your life is the sum of the decisions you've made]]
+- [[teachings/wrestle-with-principles-constantly|The process of wrestling with principles matters more than the principles themselves]]
 
 ## Source
 

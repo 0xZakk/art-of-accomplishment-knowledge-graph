@@ -25,6 +25,7 @@ This is distinct from discernment, which is simply knowing a distinction without
 - [[teachings/judgment-blocks-the-emotion-underneath|Judgment blocks the emotion underneath]]
 - [[teachings/judgment-repels-connection|Judgment repels the connection you actually want]]
 - [[teachings/welcome-judgment-as-freedom|Welcoming judgment creates freedom rather than fear]]
+- [[teachings/judgment-protects-from-vastness|Judgment protects from a vastness that triggers anxiety]]
 
 ## Source
 

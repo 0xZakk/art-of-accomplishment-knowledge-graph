@@ -45,6 +45,11 @@ People who can't own their wants ask for them sideways:
 
 - [[teachings/wanting-is-aliveness|Wanting is aliveness]]
 - [[teachings/war-with-your-wants-creates-self-sabotage|Being at war with your wants creates self-sabotage]]
+- [[teachings/their-happiness-is-not-your-happiness|Their happiness is not your happiness and never was]]
+- [[teachings/caretaking-kills-desire|Caretaking kills sexual desire in relationships]]
+- [[teachings/self-reliance-comes-from-parentified-childhood|Self-reliance comes from a childhood where you took care of your parents]]
+- [[teachings/you-get-the-love-you-can-accept|You only get the love you can let in]]
+- [[teachings/when-love-shows-up-unloved-parts-surface|When love shows up, unloved parts surface to be loved]]
 
 ## Source
 

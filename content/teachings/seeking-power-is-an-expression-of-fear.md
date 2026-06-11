@@ -30,6 +30,7 @@ Once you have power, you must work to maintain it. The cycle never satisfies bec
 - [[teachings/depersonalizing-money-creates-freedom|Depersonalizing money creates financial freedom]]
 - [[teachings/craving-versus-wanting|The difference between craving and wanting]]
 - [[teachings/power-seeking-as-fear-expression|Power seeking is the ultimate expression of fear]]
+- [[teachings/obligation-oppresses-every-domain|Obligation oppresses every domain it touches — money, work, relationships]]
 
 ## Source
 

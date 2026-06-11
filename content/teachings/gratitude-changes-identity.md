@@ -25,6 +25,10 @@ Gratitude also speeds transformation by changing the internal narrative. Instead
 - [[teachings/self-concept-shapes-outer-reality|Self-concept shapes outer reality]]
 - [[teachings/identity-of-lack-perpetuates-lack|Identity of lack perpetuates lack]]
 - [[teachings/shame-stagnates-behavior|Shame stagnates behavior]]
+- [[teachings/gratitude-is-a-full-body-sport|Gratitude is a full-body sensation, not a mental exercise]]
+- [[teachings/gratitude-works-when-felt-witnessed-and-sustained|Gratitude works when it is felt, witnessed, and sustained]]
+- [[teachings/gratitude-embodies-epiphanies|Gratitude embodies epiphanies — it lets realizations settle into the body]]
+- [[teachings/apologize-for-disempowering-others|Apologizing for disempowering people undoes the self-reliance loop]]
 
 ## Source
 

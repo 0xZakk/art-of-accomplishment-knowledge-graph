@@ -29,6 +29,9 @@ The real work is simpler and harder: be with the partner's pain when you can. Le
 - [[teachings/heartbreak-is-expansion|Heartbreak is expansion]]
 - [[teachings/shame-is-anger-turned-inward|Shame is anger turned inward]]
 - [[teachings/framing-problems-around-others-reveals-codependence|Framing problems around others reveals codependence]]
+- [[teachings/being-with-emotions-beats-fixing-them|Being with someone's emotions is more powerful than trying to fix them]]
+- [[teachings/blame-is-an-unowned-want|Blame is an unowned want]]
+- [[teachings/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck in the patterns you regret]]
 
 ## Source
 

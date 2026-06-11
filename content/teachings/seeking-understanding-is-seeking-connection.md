@@ -25,6 +25,10 @@ This reframe changes everything. If the problem were unclear communication, the 
 - [[teachings/connection-over-perfection|Connection over perfection]]
 - [[teachings/chasing-understanding-creates-control|Chasing understanding feels like control to others]]
 - [[teachings/people-want-connection-not-perfection|People want connection not perfection]]
+- [[teachings/speaking-from-discomfort-not-past-it|Speaking from discomfort rather than past it]]
+- [[teachings/containing-emotions-to-connect-disconnects-you|Containing emotions to connect actually disconnects you]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/empathy-without-buying-the-story|Empathy means being with someone without buying their story]]
 
 ## Source
 

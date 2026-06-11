@@ -31,6 +31,7 @@ The solution follows directly from the diagnosis: change the emotional state of 
 - [[teachings/procrastination-has-wisdom|Procrastination contains wisdom worth listening to]]
 - [[teachings/enjoyment-dissolves-procrastination|Making enjoyment the priority dissolves procrastination]]
 - [[teachings/unfelt-fear-creates-adhd-like-symptoms|Unfelt fear creates ADHD-like symptoms and distraction]]
+- [[teachings/procrastination-as-wisdom-signal|Procrastination can be a signal that your priorities are misaligned]]
 
 ## Source
 

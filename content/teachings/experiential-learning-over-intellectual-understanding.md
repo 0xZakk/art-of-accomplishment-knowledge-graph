@@ -25,6 +25,10 @@ This suggests that the most powerful learning isn't additive (gaining new inform
 - [[teachings/experiments-make-knowledge-embodied|Experiments make knowledge embodied]]
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
 - [[teachings/the-best-teacher-just-went-through-it|The best teacher just went through it]]
+- [[teachings/intellect-understands-but-the-body-does-not-change|The intellect can understand a change the body never makes]]
+- [[teachings/exercises-need-body-emotion-and-voice|Effective exercises integrate body, emotion, and voice]]
+- [[teachings/changing-behavior-changes-consciousness|Changing behavior is the most efficient way to change consciousness]]
+- [[teachings/recovery-time-is-part-of-the-work|Recovery and integration time is part of the work]]
 
 ## Source
 

@@ -24,6 +24,10 @@ Brett's experience demonstrates this layering: feeling anxiety in his throat led
 - [[teachings/fear-signals-unmet-needs|Fear signals unmet needs]]
 - [[teachings/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
 - [[teachings/address-root-blockers-not-symptoms|Address root blockers, not symptoms]]
+- [[teachings/anxiety-is-a-signal-of-life-out-of-alignment|Anxiety is a signal that your life is out of alignment]]
+- [[teachings/anxiety-as-constricted-life-force|Anxiety is constricted life force, not a problem to eliminate]]
+- [[teachings/anxiety-can-be-excitement-that-isnt-felt-all-the-way|Anxiety is sometimes excitement that isn't being felt all the way]]
+- [[teachings/anxiety-signals-an-unarticulated-need|Anxiety signals an unarticulated need or unset boundary]]
 
 ## Source
 

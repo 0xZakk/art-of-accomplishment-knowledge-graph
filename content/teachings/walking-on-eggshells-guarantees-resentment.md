@@ -30,6 +30,8 @@ The path out isn't to attack, but to say what needs saying — directly, kindly,
 - [[teachings/not-sharing-hard-truths-prevents-real-love|Not sharing hard truths prevents real love]]
 - [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 - [[teachings/heartbreak-is-the-mechanism-of-boundaries|Heartbreak is the mechanism of healthy boundaries]]
+- [[teachings/resentment-saturates-every-fight|Resentment saturates every fight]]
+- [[teachings/what-we-do-for-love-erodes-power|What we do to maintain love erodes our power]]
 
 ## Source
 

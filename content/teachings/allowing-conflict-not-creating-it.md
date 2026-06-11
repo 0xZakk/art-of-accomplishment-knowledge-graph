@@ -26,6 +26,8 @@ The reward of allowing conflict isn't winning. It's evolution—a solution or in
 - [[teachings/truth-over-comfort-in-relationships|Truth over comfort in relationships]]
 - [[teachings/dominate-dont-convince|Dominate, don't convince]]
 - [[teachings/peace-comes-from-dropping-the-war-not-avoiding-conflict|Peace comes from dropping the war not avoiding conflict]]
+- [[teachings/resentment-is-stored-conflict|Resentment is stored conflict—the longer you avoid it, the bigger the explosion]]
+- [[teachings/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]]
 
 ## Source
 

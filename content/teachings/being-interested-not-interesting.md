@@ -36,6 +36,9 @@ But it only works if the interest is genuine. We can feel manipulation immediate
 - [[teachings/view-framework-for-listening|The VIEW framework for deep listening]]
 - [[teachings/how-we-listen-shapes-what-we-hear|How we listen shapes what people share]]
 - [[teachings/asking-questions-is-active-listening|Asking questions is the most powerful form of active listening]]
+- [[teachings/active-listening-is-asking-questions|Active listening means asking questions, not just receiving]]
+- [[teachings/you-cannot-judge-the-value-of-your-own-input|You cannot judge the value of your own input]]
+- [[teachings/compassion-is-truth-with-an-open-heart|True compassion is speaking truth with an open heart, not being nice]]
 
 ## Source
 

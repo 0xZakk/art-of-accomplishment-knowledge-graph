@@ -28,6 +28,9 @@ The choice becomes clear: be yourself, heal your shame, give others the opportun
 - [[teachings/safety-comes-from-working-through-conflict|Safety comes from working through conflict]]
 - [[teachings/conflict-avoidant-leaders-trade-short-term-for-long-term-pain|Conflict avoidant leaders trade short-term for long-term pain]]
 - [[teachings/conflict-avoidant-managers-destroy-trust|Conflict-avoidant managers destroy trust]]
+- [[teachings/depersonalize-the-problem|Depersonalize the problem — it's a patient on the table]]
+- [[teachings/truth-over-comfort-in-relationships|Prioritizing truth over comfort creates lasting relationships]]
+- [[teachings/resentment-is-stored-conflict|Resentment is stored conflict—the longer you avoid it, the bigger the explosion]]
 
 ## Source
 

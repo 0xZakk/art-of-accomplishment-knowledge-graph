@@ -27,6 +27,8 @@ The moment she stops trying to make it important and drops into source, a piece 
 - [[teachings/nothing-is-required-for-freedom|Nothing is required for freedom]]
 - [[teachings/creative-block-is-trying-to-get-somewhere|Creative block is trying to get somewhere]]
 - [[teachings/source-is-always-there-just-drop-down|Source is always there — just drop down]]
+- [[teachings/liminal-space-is-where-breakthroughs-happen|Liminal space is where breakthroughs happen]]
+- [[teachings/importance-kills-enjoyment|Making something important is what makes it not fun]]
 
 ## Source
 

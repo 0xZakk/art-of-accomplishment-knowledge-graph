@@ -23,6 +23,8 @@ Their surprise: when both kids left for the first time, they expected it to be d
 
 - [[teachings/marriage-as-dojo-for-self-development|Marriage as a dojo for self-development]]
 - [[teachings/chaos-is-necessary-for-growth|Chaos is necessary for growth]]
+- [[teachings/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger your wounds]]
+- [[teachings/tension-is-required-for-healthy-systems|All living systems require tension to stay healthy]]
 
 ## Source
 

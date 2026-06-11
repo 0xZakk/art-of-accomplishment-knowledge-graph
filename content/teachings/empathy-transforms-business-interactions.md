@@ -25,6 +25,9 @@ In product development, focus groups fail because they ask emotional questions t
 - [[teachings/all-decisions-are-emotional|All decisions are emotional]]
 - [[teachings/sales-is-connecting-not-convincing|Sales is connecting, not convincing]]
 - [[teachings/feeling-seen-dissolves-politics|Feeling seen dissolves politics]]
+- [[teachings/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]
+- [[teachings/intuition-sees-what-logic-cannot|Intuition sees what the logical mind cannot]]
+- [[teachings/confirmation-bias-from-emotional-avoidance|Confirmation bias protects us from emotions we won't feel]]
 
 ## Source
 

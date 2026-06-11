@@ -20,6 +20,11 @@ Joe also warns that people weaponize safety as control: "I don't feel safe" beco
 
 - [[teachings/trust-is-the-universal-ingredient-of-functional-teams|Trust is the universal ingredient of functional teams]]
 - [[teachings/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms, unresisted stress enlivens]]
+- [[teachings/safety-comes-from-working-through-conflict|Safety is created by working through conflict, not avoiding it]]
+- [[teachings/safety-is-an-illusion-of-comfort|Safety is an illusion—it means feeling comfortable, not being objectively safe]]
+- [[teachings/safety-can-disconnect-from-reality|The pursuit of safety can disconnect you from reality]]
+- [[teachings/unsafety-as-belief-anchor|The belief 'I'll be unsafe' anchors other limiting beliefs]]
+- [[teachings/defensiveness-kills-team-communication|Allowing defensiveness kills team communication]]
 
 ## Source
 

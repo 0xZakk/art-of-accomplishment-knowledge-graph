@@ -23,6 +23,11 @@ This also explains why leaders with a lot of self-shame create political culture
 
 - [[teachings/leaders-and-culture-co-create|Leaders and culture co-create]]
 - [[teachings/relationship-reflects-self-relationship|Your relationship with another reflects your relationship with yourself]]
+- [[teachings/calling-out-without-shame-works|Calling people out without shame works]]
+- [[teachings/company-is-relationships-and-decisions|A company is just relationships and decisions]]
+- [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
+- [[teachings/suppressed-wants-become-politics|Suppressed wants become organizational politics]]
+- [[teachings/culture-dysfunction-two-questions|All cultural dysfunction comes from two questions: who's in charge and how much do you love me]]
 
 ## Source
 

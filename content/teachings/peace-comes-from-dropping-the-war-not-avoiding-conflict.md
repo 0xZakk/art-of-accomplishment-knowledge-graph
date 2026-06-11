@@ -26,6 +26,7 @@ Joe connects this to nature: we can feel the peace of nature, and yet there is t
 - [[teachings/allowing-conflict-not-creating-it|Allowing conflict not creating it]]
 - [[teachings/resentment-is-stored-conflict|Resentment is stored conflict]]
 - [[teachings/truth-over-comfort-in-relationships|Prioritizing truth over comfort creates lasting relationships]]
+- [[teachings/fighting-resistance-creates-more-resistance|Fighting resistance always creates more resistance]]
 
 ## Source
 

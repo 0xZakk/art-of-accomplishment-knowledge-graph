@@ -27,6 +27,8 @@ This applies everywhere — in business, the no from a customer reveals what the
 - [[teachings/opening-heart-to-what-you-resist|Opening your heart to what you resist dissolves rigidity]]
 - [[teachings/opening-heart-to-the-no-creates-better-outcomes|Opening your heart to the 'no' creates better outcomes]]
 - [[teachings/relationship-control-mirrors-leadership-control|Relationship control mirrors leadership control]]
+- [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
+- [[teachings/no-doctrine-leads-with-disagreement|Leading with 'no' gets to truth faster than platitudes]]
 
 ## Source
 

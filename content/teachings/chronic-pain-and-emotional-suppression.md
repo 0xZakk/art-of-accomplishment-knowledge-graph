@@ -30,6 +30,8 @@ His wife's discomfort may not even be his pain — it may be watching him try to
 - [[teachings/pulling-the-brakes-blocks-flow|Pulling the brakes on self-expression blocks flow and worsens suffering]]
 - [[teachings/allowing-the-victim-creates-empowerment|Fully allowing the victim experience naturally creates empowerment]]
 - [[teachings/shame-about-grief-shuts-down-all-emotions|Shame about grief shuts down all emotions]]
+- [[teachings/trauma-stays-until-you-feel-the-hurt-underneath|Trauma controls you until you feel the hurt underneath it]]
+- [[teachings/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
 
 ## Source
 

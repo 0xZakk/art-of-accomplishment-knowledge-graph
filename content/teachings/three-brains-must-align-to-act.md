@@ -26,6 +26,9 @@ This maps directly to Joe's broader framework of transformation requiring all th
 - [[teachings/alignment-eliminates-procrastination|Alignment eliminates procrastination]]
 - [[teachings/procrastination-has-wisdom|Procrastination contains wisdom worth listening to]]
 - [[teachings/intuition-sees-what-logic-cannot|Intuition sees what the logical mind cannot]]
+- [[teachings/bullying-yourself-creates-resistance|Bullying yourself into action creates resistance]]
+- [[teachings/procrastination-as-wisdom-signal|Procrastination can be a signal that your priorities are misaligned]]
+- [[teachings/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
 
 ## Source
 

@@ -29,6 +29,7 @@ The reframe is liberating: you don't need to know your potential or your purpose
 - [[teachings/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
 - [[teachings/wanting-matters-more-than-what-you-want|Wanting matters more than what you want]]
 - [[teachings/stuckness-is-resistance-to-the-abyss|Stuckness is resistance to the abyss, not the abyss itself]]
+- [[teachings/ambition-survives-beneath-the-resistance|Ambition survives beneath the resistance, waiting to be set free]]
 
 ## Source
 

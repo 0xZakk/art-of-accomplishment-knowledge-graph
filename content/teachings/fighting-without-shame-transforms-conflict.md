@@ -28,6 +28,7 @@ The friends' fight ended "in a relatively short period of time" precisely becaus
 - [[teachings/measure-how-you-fight-not-how-often|Relationship health is measured by how you fight, not how often]]
 - [[teachings/shame-hot-potato|Shame gets passed back and forth in fights]]
 - [[teachings/shame-stagnates-fights-like-it-stagnates-individuals|Shame stagnates fights the same way it stagnates individuals]]
+- [[teachings/every-fight-is-about-feeling-unseen|Every relationship fight is fundamentally about feeling unseen]]
 
 ## Source
 

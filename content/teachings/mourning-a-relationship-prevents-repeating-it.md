@@ -27,6 +27,7 @@ The people who remain friends after breakups, or who find genuinely different re
 - [[teachings/grief-sustained-transforms-everything|Grief sustained transforms everything]]
 - [[teachings/grief-unlocks-joy-after-narcissistic-abuse|Grief unlocks joy after narcissistic abuse]]
 - [[teachings/grieve-the-relationship-to-avoid-repeating-it|Grieve the relationship to avoid repeating it]]
+- [[teachings/deep-healing-has-a-regression-phase|Deep healing includes a regression phase before breakthrough]]
 
 ## Source
 

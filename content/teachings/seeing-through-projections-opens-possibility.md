@@ -23,6 +23,11 @@ This connects to wonder, impartiality, vulnerability, and empathy — all traits
 - [[teachings/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]]
 - [[teachings/holding-opposing-viewpoints-creates-freedom|Holding opposing viewpoints creates freedom]]
 - [[teachings/being-in-the-question-beats-finding-the-answer|Being in the question beats finding the answer]]
+- [[teachings/we-create-our-world-not-just-see-it|We create our projected world through attraction, manipulation, and selective evidence]]
+- [[teachings/the-kaleidoscope-fear|The fear that everything is projection dissolves into freedom]]
+- [[teachings/four-types-of-projection|There are four distinct types of projection]]
+- [[teachings/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]]
+- [[teachings/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
 
 ## Source
 

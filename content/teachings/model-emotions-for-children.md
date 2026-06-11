@@ -29,6 +29,9 @@ For older kids (10+), Joe recommends making it collaborative: "This is what I've
 - [[teachings/give-teenagers-something-harmless-to-rebel-against|Give teenagers something harmless to rebel against]]
 - [[teachings/boundaries-with-children-require-closeness-and-respect|Boundaries with children require closeness, gentleness, and mutual respect]]
 - [[teachings/dont-shame-kids-love-yourself|To not harm your children, love yourself]]
+- [[teachings/express-anger-without-directing-it|You can express anger without directing it at anyone]]
+- [[teachings/a-boundary-with-a-return-prevents-abandonment|Draw a boundary that includes coming back so they don't feel abandoned]]
+- [[teachings/expressing-emotions-restores-connection|Feeling and expressing emotion restores connection]]
 
 ## Source
 

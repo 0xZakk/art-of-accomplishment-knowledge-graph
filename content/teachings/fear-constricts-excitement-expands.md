@@ -25,6 +25,10 @@ The key insight is that welcoming fear allows it to transform. You can stand on 
 - [[teachings/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]]
 - [[teachings/embracing-fear-versus-avoiding-fear|Embracing fear versus avoiding fear]]
 - [[teachings/imposter-fear-is-excitement-without-breath|Imposter fear is excitement without breath]]
+- [[teachings/embracing-fear-produces-flow-state|Embracing fear produces flow state]]
+- [[teachings/grounded-vs-ungrounded-excitement|Grounded excitement signals readiness; ungrounded excitement covers anxiety]]
+- [[teachings/fear-is-excitement-without-the-breath|Fear is excitement without the breath]]
+- [[teachings/anxiety-signals-an-unarticulated-need|Anxiety signals an unarticulated need or unset boundary]]
 
 ## Source
 

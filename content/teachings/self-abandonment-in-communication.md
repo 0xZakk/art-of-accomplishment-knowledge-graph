@@ -25,6 +25,9 @@ The deeper root: a childhood pattern where happiness seemed dependent on managin
 - [[teachings/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]]
 - [[teachings/disappearing-as-survival-strategy|Disappearing as survival strategy]]
 - [[teachings/listening-to-yourself-transforms-communication|Listening to yourself transforms communication]]
+- [[teachings/deep-listening-requires-self-listening|Deep listening requires listening to yourself simultaneously]]
+- [[teachings/emptiness-is-the-source-of-empathic-attunement|Emptiness is the source of empathic attunement]]
+- [[teachings/listening-before-being-seen|Letting go of being seen allows you to be seen]]
 
 ## Source
 

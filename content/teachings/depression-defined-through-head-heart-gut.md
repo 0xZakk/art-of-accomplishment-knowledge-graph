@@ -27,6 +27,8 @@ A fourth dimension is connection: depressed people isolate, either physically or
 - [[teachings/the-story-of-brokenness-is-the-problem|The story of brokenness is the problem]]
 - [[teachings/inner-critic-prevents-nervous-system-rest|The inner critic prevents nervous system rest]]
 - [[teachings/burnout-is-sustained-adrenaline-depletion|Burnout is sustained adrenaline depletion]]
+- [[teachings/chronic-stuckness-leads-to-depression|Chronic stuckness leads to depression through self-oppression]]
+- [[teachings/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]
 
 ## Source
 

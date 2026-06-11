@@ -23,6 +23,9 @@ The reframe isn't just easier for the parent—it's the self-talk the child inte
 
 - [[teachings/connection-is-the-core-of-parenting|Connection is the core need in parenting]]
 - [[teachings/attunement-patterns-become-adult-cycles|Attunement patterns in childhood become adult emotional cycles]]
+- [[teachings/expressing-emotions-restores-connection|Feeling and expressing emotion restores connection]]
+- [[teachings/dont-shame-kids-love-yourself|To not harm your children, love yourself]]
+- [[teachings/containing-emotions-to-connect-disconnects-you|Containing emotions to connect actually disconnects you]]
 
 ## Source
 

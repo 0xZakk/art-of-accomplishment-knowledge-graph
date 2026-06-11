@@ -23,6 +23,7 @@ We're born with aggression, and life gives us things to be angry about. If that 
 - [[teachings/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
 - [[teachings/passive-aggression-is-unowned-aggression|Passive aggression is aggression that isn't being owned as aggression]]
 - [[teachings/passive-aggression-invites-active-aggression|Passive aggression invites active aggression from others]]
+- [[teachings/positive-self-talk-can-be-passive-aggression|Positive self-talk can be a form of self-directed passive aggression]]
 
 ## Source
 

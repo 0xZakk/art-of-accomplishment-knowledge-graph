@@ -29,6 +29,10 @@ Before feeling his fear: over-promise, under-deliver, speak only to positives. A
 - [[teachings/chameleon-leadership-creates-uncertainty|Chameleon leadership creates uncertainty]]
 - [[teachings/organizations-must-remove-fear-to-innovate|Organizations must remove fear to innovate]]
 - [[teachings/pre-grieving-loss-creates-resilience|Pre-grieving potential loss creates resilience and the courage to draw boundaries]]
+- [[teachings/defensiveness-kills-team-communication|Allowing defensiveness kills team communication]]
+- [[teachings/fear-signals-unmet-needs|Fear is a signal that needs aren't being met]]
+- [[teachings/leaders-vulnerability-cascades-through-the-team|A leader's vulnerability cascades through the entire team]]
+- [[teachings/fear-as-road-map-not-enemy|Fear is a road map, not an enemy to conquer]]
 
 ## Source
 

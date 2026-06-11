@@ -28,6 +28,7 @@ This is counter-intuitive because shame feels like accountability. It feels like
 - [[teachings/shame-locks-in-bad-habits|Shame locks in the very habits it punishes]]
 - [[teachings/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]]
 - [[teachings/procrastination-is-not-who-you-are|Procrastination is not who you are — and knowing that is the real pain]]
+- [[teachings/what-triggers-you-in-others-exists-in-you|What triggers you in others is something you don't like in yourself]]
 
 ## Source
 

@@ -43,6 +43,9 @@ Not by avoiding attraction (impossible) but by changing the internal pattern tha
 - [[teachings/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger your wounds]]
 - [[teachings/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic, not just intellectual]]
 - [[teachings/what-we-do-for-love-erodes-power|What we do to maintain love erodes our power]]
+- [[teachings/love-wired-with-pain-feels-like-love|Whatever was wired with love feels like love, even when it isn't]]
+- [[teachings/negative-self-talk-reveals-how-love-was-wired|Negative self-talk reveals how love was wired in childhood]]
+- [[teachings/trauma-addiction-is-choosing-the-familiar|Trauma addiction is choosing what's familiar, not what's safe]]
 
 ## Source
 

@@ -25,6 +25,11 @@ Perfection is inherently disconnecting because it puts a polished surface betwee
 - [[teachings/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]]
 - [[teachings/being-interested-not-interesting|Being interested, not interesting]]
 - [[teachings/approval-seeking-pushes-people-away|Seeking approval pushes people away]]
+- [[teachings/perfection-over-connection-holds-people-back|Prioritizing perfection over connection holds people back]]
+- [[teachings/connection-over-perfection|Connection over perfection produces better results than getting it right]]
+- [[teachings/connection-starts-within-not-between|Connection starts within, not between people]]
+- [[teachings/connection-cannot-be-broken-without-your-consent|No one can break your connection without your agreement]]
+- [[teachings/wanting-someone-to-change-reflects-self-rejection|Wanting someone to change reflects a part of yourself you can't love]]
 
 ## Source
 

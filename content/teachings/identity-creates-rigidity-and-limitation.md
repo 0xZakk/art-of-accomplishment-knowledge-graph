@@ -26,6 +26,8 @@ Identity doesn't just limit what you do—it limits what you can perceive. When 
 - [[teachings/ego-resists-change-in-either-direction|The ego resists change in either direction]]
 - [[teachings/the-expansiveness-of-I-Am|The expansiveness of I Am]]
 - [[teachings/smart-identity-prevents-trying|The 'smart' identity prevents you from trying—failure would disprove who you are]]
+- [[teachings/experiments-separate-identity-from-behavior|Experiments separate identity from behavior]]
+- [[teachings/identity-stress-comes-from-defending-a-fixed-self|Identity stress comes from defending a fixed self-concept]]
 
 ## Source
 

@@ -42,6 +42,7 @@ The want becomes the identity, and having would destroy that identity.
 - [[teachings/depersonalizing-money-creates-freedom|Depersonalizing money creates financial freedom]]
 - [[teachings/you-get-the-love-you-can-accept|You only get the love you can let in]]
 - [[teachings/seeking-power-is-an-expression-of-fear|Seeking power is always an expression of fear]]
+- [[teachings/craving-versus-wanting|The difference between craving and wanting]]
 
 ## Source
 

@@ -31,6 +31,7 @@ The path through isn't to fight the guilt or comply with it, but to see the fear
 - [[teachings/not-responsible-for-others-emotions|Declaring 'I'm not responsible for how you feel' restores full expression]]
 - [[teachings/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]
 - [[teachings/seeing-parents-terror-dissolves-resentment|Seeing parents' terror dissolves resentment]]
+- [[teachings/eighty-percent-of-feared-rejection-is-internal|Eighty percent of feared rejection is internal self-talk]]
 
 ## Source
 

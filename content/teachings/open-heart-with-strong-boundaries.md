@@ -29,6 +29,8 @@ The key insight is that the boundary and the love practice start internally, not
 - [[teachings/seeing-parents-terror-dissolves-resentment|Seeing parents' terror dissolves resentment]]
 - [[teachings/parenting-as-ego-dissolution|Parenting is one of the deepest ego dissolution practices available]]
 - [[teachings/opening-heart-to-what-you-resist|Opening your heart to what you resist dissolves rigidity]]
+- [[teachings/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]]
+- [[teachings/draw-the-boundary-to-get-love-without-the-grit|Draw a boundary to get love without the thing it was married to]]
 
 ## Source
 

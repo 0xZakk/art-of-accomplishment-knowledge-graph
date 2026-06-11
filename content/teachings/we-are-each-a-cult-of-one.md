@@ -29,6 +29,7 @@ The statement "I'm a cult of one and that's okay" produces both joy and nervousn
 - [[teachings/cult-dynamics-are-universal-human-tendencies|Cult dynamics exist on a spectrum present in all human groups]]
 - [[teachings/seeding-authority-feels-like-belonging|Ceding authority to a group feels like belonging and safety]]
 - [[teachings/dismissing-deep-connection-as-cult-diminishes-life|Dismissing deep community as 'cult behavior' diminishes the possibility of authentic living]]
+- [[teachings/self-referential-humor-prevents-group-rigidity|Self-referential humor about cult tendencies keeps groups self-aware]]
 
 ## Source
 

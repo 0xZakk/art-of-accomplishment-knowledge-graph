@@ -21,6 +21,11 @@ This is why Joe's work doesn't translate easily into bullet points or summaries.
 - [[teachings/address-blockers-not-symptoms|Address the blockers, not the symptoms]]
 - [[teachings/flow-state-is-embodiment|Flow state in sport is the same skill as embodiment in life]]
 - [[teachings/should-creates-stress-not-change|Should creates stress, not change]]
+- [[teachings/intellect-understands-but-the-body-does-not-change|The intellect can understand a change the body never makes]]
+- [[teachings/transformation-requires-all-three-levels|Guaranteed transformation requires working the head, heart, and nervous system together]]
+- [[teachings/crack-the-intellectual-trap-first|For most people, crack the intellectual trap first]]
+- [[teachings/experiential-learning-over-intellectual-understanding|Experiential learning transforms deeper than intellectual understanding]]
+- [[teachings/unconscious-principles-already-run-your-life|Unconscious principles already run your life]]
 
 ## Source
 

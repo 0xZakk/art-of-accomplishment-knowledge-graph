@@ -23,6 +23,9 @@ The shift from "should/have to/got to" to "want" isn't semantic — it reconnect
 - [[teachings/wanting-is-aliveness|Wanting is aliveness]]
 - [[teachings/should-creates-stress-not-change|Should creates stress, not change]]
 - [[teachings/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]]
+- [[teachings/wants-motivate-where-shoulds-stagnate|Wants motivate where shoulds stagnate]]
+- [[teachings/wanting-matters-more-than-what-you-want|Wanting matters more than what you want]]
+- [[teachings/saying-no-restores-agency-and-want|Saying no restores agency and reconnects you to your want]]
 
 ## Source
 

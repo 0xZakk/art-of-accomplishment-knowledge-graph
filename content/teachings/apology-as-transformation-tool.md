@@ -29,6 +29,7 @@ A practical cue: keep the word "you" out of the apology entirely. Make it about 
 - [[teachings/habitual-apologies-increase-conflict|Habitual apologies increase rather than prevent conflict]]
 - [[teachings/apologies-in-power-struggles|Apologies in power struggles are surrogates for being seen]]
 - [[teachings/blame-shame-guilt-indicate-disempowerment|Blame, shame, and guilt are reliable indicators of disempowerment]]
+- [[teachings/apologize-upright-without-shame|An upright apology empowers; a shame-laden one loops you back into the pattern]]
 
 ## Source
 

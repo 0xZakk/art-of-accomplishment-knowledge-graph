@@ -27,6 +27,8 @@ The path through is not to resolve the guilt intellectually ("nothing is wrong w
 - [[teachings/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness not the feeling]]
 - [[teachings/progression-from-anger-to-deeper-emotions|Progression from anger to deeper emotions]]
 - [[teachings/guilt-is-inherited-fear-in-disguise|Guilt is inherited fear in disguise]]
+- [[teachings/guilt-means-you-stopped-listening-to-your-wants|Guilt means you've stopped listening to your deepest wants]]
+- [[teachings/seeing-parents-terror-dissolves-resentment|Seeing parents' terror dissolves resentment]]
 
 ## Source
 

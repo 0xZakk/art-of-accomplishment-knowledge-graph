@@ -29,6 +29,11 @@ The discomfort people associate with emotions comes from resisting them, not fro
 - [[teachings/anger-is-love-with-a-boundary|Anger is love with a boundary]]
 - [[teachings/anxiety-signals-unmet-needs-at-multiple-depths|Anxiety signals unmet needs at multiple depths]]
 - [[teachings/discomfort-is-the-resistance-not-the-emotion|Discomfort is the resistance, not the emotion]]
+- [[teachings/every-emotion-is-a-signal-pointing-to-an-action|Every emotion is a signal pointing toward an action or a need]]
+- [[teachings/feeling-life-beats-figuring-it-out|Feeling your life produces clearer decisions than figuring it out]]
+- [[teachings/emotions-are-signals-not-commands|When emotions become fluid they give you signals instead of controlling you]]
+- [[teachings/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
+- [[teachings/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]]
 
 ## Source
 

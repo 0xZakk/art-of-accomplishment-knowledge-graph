@@ -29,6 +29,9 @@ The avoidance strategy always creates the very condition it's trying to prevent.
 - [[teachings/seeing-a-pattern-means-youre-halfway-through|Seeing a pattern means you're halfway through]]
 - [[teachings/fully-feeling-stops-the-pattern|Fully falling in love with the avoided feeling is the quickest way to stop a negative pattern]]
 - [[teachings/engineering-heartbreak-to-avoid-heartbreak|We engineer heartbreak to avoid the heartbreak we haven't felt]]
+- [[teachings/the-golden-algorithm|The golden algorithm: we invite back the emotion we avoid, in the way we avoid it]]
+- [[teachings/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
+- [[teachings/feel-the-emotions-while-you-act|The method works powerfully only when you feel the emotions while doing it]]
 
 ## Source
 

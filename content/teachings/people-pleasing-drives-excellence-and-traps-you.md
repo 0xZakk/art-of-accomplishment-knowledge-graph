@@ -27,6 +27,11 @@ The paradox intensifies with parenting: Aaron recognizes that what "worked" for 
 - [[teachings/overachieving-is-survival-mode|Overachieving is survival mode]]
 - [[teachings/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]]
 - [[teachings/performing-for-connection-blocks-authentic-earning|Performing for connection blocks authentic earning]]
+- [[teachings/parenting-is-letting-them-find-their-own-line|Parenting is letting them find their own line down the mountain]]
+- [[teachings/adversity-refines-rather-than-destroys|Adversity refines rather than destroys]]
+- [[teachings/feel-your-way-to-freedom|Feel your way to freedom]]
+- [[teachings/confidence-comes-from-authenticity-not-achievement|Confidence comes from authenticity not achievement]]
+- [[teachings/gold-lies-beyond-what-you-fear|The gold in life lies just beyond what you're afraid to face]]
 
 ## Source
 

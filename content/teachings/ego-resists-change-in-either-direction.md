@@ -42,6 +42,10 @@ We're different all the time. Different with different people, at different ages
 - [[teachings/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]]
 - [[teachings/the-expansiveness-of-I-Am|The expansiveness of I Am]]
 - [[teachings/any-self-definition-limits-you|Any way you define yourself limits you]]
+- [[teachings/identity-creates-rigidity-and-limitation|Identity creates rigidity—the more you identify, the more limited you become]]
+- [[teachings/smart-identity-prevents-trying|The 'smart' identity prevents you from trying—failure would disprove who you are]]
+- [[teachings/humility-is-not-taking-life-personally|Humility is not taking life personally]]
+- [[teachings/humility-requires-self-care|Humility can require self-care]]
 
 ## Source
 

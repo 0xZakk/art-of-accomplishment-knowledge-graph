@@ -27,6 +27,7 @@ Joe surfaced the contradiction: "God's able to love you, but the person you want
 - [[teachings/control-is-the-trade-for-self-love|Control is the trade for self-love]]
 - [[teachings/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
 - [[teachings/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
+- [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 
 ## Source
 

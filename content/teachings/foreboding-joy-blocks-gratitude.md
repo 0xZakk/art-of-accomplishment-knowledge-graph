@@ -31,6 +31,8 @@ This connects to why gratitude practices meet resistance in teams. The skeptic w
 - [[teachings/when-love-shows-up-unloved-parts-surface|When love shows up, unloved parts surface to be loved]]
 - [[teachings/positive-self-talk-can-be-passive-aggression|Positive self-talk can be a form of self-directed passive aggression]]
 - [[teachings/feel-fear-to-see-opportunity|Feel the fear fully to see the opportunities in chaos]]
+- [[teachings/peace-is-harder-to-allow-than-pain|Peace and joy are harder to allow than pain]]
+- [[teachings/engineering-heartbreak-to-avoid-heartbreak|We engineer heartbreak to avoid the heartbreak we haven't felt]]
 
 ## Source
 

@@ -30,6 +30,11 @@ The deeper realization was letting go of feeling responsible for his partner's h
 - [[teachings/fixing-avoids-being-present|Fixing avoids being present]]
 - [[teachings/being-with-emotions-beats-fixing-them|Being with emotions beats fixing them]]
 - [[teachings/caretaking-kills-desire|Caretaking kills desire]]
+- [[teachings/marriage-as-dojo-for-self-development|Marriage as a dojo for self-development]]
+- [[teachings/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger your wounds]]
+- [[teachings/accepting-and-asking-are-not-opposites|Accepting someone as they are and asking for what you want are not opposites]]
+- [[teachings/relationship-triggers-are-yours|Your relationship triggers are about you, not them]]
+- [[teachings/talk-about-how-you-want-to-relate|Talk about how you want to relate to each other]]
 
 ## Source
 

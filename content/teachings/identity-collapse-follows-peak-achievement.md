@@ -29,6 +29,8 @@ Joe draws the parallel to CEOs and spiritual seekers: anyone who feels "finished
 - [[teachings/hate-consumes-mental-bandwidth|Hate consumes mental bandwidth needed for flow]]
 - [[teachings/growth-stops-when-you-think-youve-made-it|Growth stops when you think you've made it]]
 - [[teachings/hardened-heart-from-unprocessed-loss|A hardened heart comes from unprocessed loss]]
+- [[teachings/empathy-makes-warriors-more-effective|Empathy makes warriors more effective, not weaker]]
+- [[teachings/self-reliance-is-a-defense-against-helplessness|Self-reliance is a defense against helplessness]]
 
 ## Source
 

@@ -29,6 +29,9 @@ This is consistent with the broader principle that any emotion, when met with co
 - [[teachings/loving-anxiety-versus-being-with-it|Loving anxiety versus being with it]]
 - [[teachings/connection-dissolves-self-consciousness|Connection dissolves self-consciousness]]
 - [[teachings/suppressing-authentic-expression-increases-self-consciousness|Suppressing authentic expression increases self-consciousness]]
+- [[teachings/open-your-heart-to-stop-caring-what-they-think|Opening your heart to someone dissolves your concern with their judgment]]
+- [[teachings/resisting-fear-leaks-it-sideways|Resisting fear doesn't eliminate it — it leaks out sideways]]
+- [[teachings/fear-of-losing-relatability-signals-transformation|Fear of losing relatability signals transformation]]
 
 ## Source
 

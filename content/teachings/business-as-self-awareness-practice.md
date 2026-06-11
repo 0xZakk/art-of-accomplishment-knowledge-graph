@@ -23,6 +23,9 @@ This perspective reframes entrepreneurship as an art form. The way you build, pr
 - [[teachings/just-business-is-deeply-personal|Just business is deeply personal]]
 - [[teachings/ego-obliteration-through-business|Ego obliteration through business]]
 - [[teachings/business-prevents-spiritual-bypassing|Business prevents spiritual bypassing because reality keeps showing up]]
+- [[teachings/business-as-means-to-end-destroys-it|Treating business as a means to an end eventually destroys it]]
+- [[teachings/consciousness-is-the-product|Your consciousness is the product you deliver to the world]]
+- [[teachings/embrace-intensity-in-business|Embracing intensity in business reveals what you're avoiding]]
 
 ## Source
 

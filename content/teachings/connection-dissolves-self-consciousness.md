@@ -28,6 +28,8 @@ Joe asks her to name any performer she admires who holds back their emotions. Sh
 - [[teachings/suppressing-authentic-expression-increases-self-consciousness|Suppressing authentic expression increases self-consciousness]]
 - [[teachings/welcoming-fear-cures-phobia|Welcoming fear cures phobia]]
 - [[teachings/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]
+- [[teachings/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
+- [[teachings/emptiness-is-the-source-of-empathic-attunement|Emptiness is the source of empathic attunement]]
 
 ## Source
 

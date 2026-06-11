@@ -28,6 +28,7 @@ The distinction matters: forced positivity ("everything's great!") without feeli
 - [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 - [[teachings/discomfort-is-the-resistance-not-the-emotion|The discomfort of emotions is the resistance to them, not the emotions themselves]]
 - [[teachings/craving-is-the-pushing-away|Craving is the pushing away]]
+- [[teachings/the-resistance-to-asking-protects-an-unfelt-sadness|The resistance to asking protects an unfelt sadness]]
 
 ## Source
 

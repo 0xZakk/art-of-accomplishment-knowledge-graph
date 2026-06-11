@@ -22,6 +22,8 @@ This requires a paradox: everyone must take personal responsibility for themselv
 
 - [[teachings/real-community-requires-non-judgmental-witnessing|Real community requires non-judgmental witnessing, not fixing]]
 - [[teachings/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]]
+- [[teachings/loneliness-epidemic-stems-from-bad-models|The loneliness epidemic stems from never seeing healthy community modeled]]
+- [[teachings/dismissing-deep-connection-as-cult-diminishes-life|Dismissing deep community as 'cult behavior' diminishes the possibility of authentic living]]
 
 ## Source
 

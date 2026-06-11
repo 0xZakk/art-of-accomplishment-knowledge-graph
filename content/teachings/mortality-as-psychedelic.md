@@ -24,6 +24,7 @@ This isn't a philosophical exercise but a lived reality. Michael notices that mo
 - [[teachings/saying-yes-to-the-hardest-thing|Saying yes to the hardest thing transforms everything else]]
 - [[teachings/embrace-intensity-for-transformation|Embrace intensity for transformation]]
 - [[teachings/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness, not the feeling]]
+- [[teachings/acknowledging-death-compresses-life|Acknowledging death compresses and intensifies life]]
 
 ## Source
 

@@ -25,6 +25,11 @@ The resolution isn't choosing one over the other but recognizing the pattern. Wh
 - [[teachings/being-yourself-designs-your-life|Being yourself designs your life]]
 - [[teachings/alignment-beats-effort|Alignment beats effort]]
 - [[teachings/any-self-definition-limits-you|Any self-definition limits you]]
+- [[teachings/wanting-to-fit-in-and-be-extraordinary-conflict|Wanting to fit in and wanting to be extraordinary cancel each other out]]
+- [[teachings/ambition-without-identity-is-relief|Ambition without identity attachment is relief, not pressure]]
+- [[teachings/wanting-matters-more-than-what-you-want|Wanting matters more than what you want]]
+- [[teachings/ambition-survives-beneath-the-resistance|Ambition survives beneath the resistance, waiting to be set free]]
+- [[teachings/allowing-replaces-striving-on-the-back-nine|Allowing replaces striving on the back nine of life]]
 
 ## Source
 

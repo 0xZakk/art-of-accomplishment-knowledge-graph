@@ -30,6 +30,7 @@ The relationship itself becomes a spiritual path — every conflict is an opport
 - [[teachings/measure-how-you-fight-not-how-often|Relationship health is measured by how you fight, not how often]]
 - [[teachings/safe-agreements-make-conflict-transformative|Safe agreements make conflict transformative]]
 - [[teachings/relationship-agreements-create-safe-conflict|Relationship agreements create a safe playing field for conflict]]
+- [[teachings/safety-enables-productive-conflict|Safety enables productive conflict rather than preventing it]]
 
 ## Source
 

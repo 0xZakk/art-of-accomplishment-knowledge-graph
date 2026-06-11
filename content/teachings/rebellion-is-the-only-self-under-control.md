@@ -27,6 +27,8 @@ The solution Joe offers isn't permissiveness — it's partnership. He still teac
 - [[teachings/rebellion-empowers-the-authority|Rebellion empowers the authority figure just as compliance does]]
 - [[teachings/scapegoat-holds-the-family-shadow|The scapegoat holds the family shadow]]
 - [[teachings/childhood-criticism-creates-self-distrust|Childhood criticism teaches you not to trust yourself]]
+- [[teachings/not-responsible-for-others-emotions|Declaring 'I'm not responsible for how you feel' restores full expression]]
+- [[teachings/should-creates-rebellion-or-submission|Should creates either rebellion or submission, never empowerment]]
 
 ## Source
 

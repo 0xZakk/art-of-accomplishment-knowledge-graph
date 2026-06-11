@@ -25,6 +25,8 @@ The pattern is self-reinforcing. The more desperately you want to be seen, the l
 - [[teachings/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
 - [[teachings/rebellion-empowers-the-authority|Rebellion empowers the authority figure just as compliance does]]
 - [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
+- [[teachings/feeling-seen-dissolves-politics|When everyone feels seen, organizational politics dissolve]]
+- [[teachings/wanting-to-control-perception-is-absurd|Wanting to control others' perception of you is absurd]]
 
 ## Source
 

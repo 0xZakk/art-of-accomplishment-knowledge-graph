@@ -29,6 +29,7 @@ The implication is profound: your life is nothing but a series of choices and de
 - [[teachings/you-have-already-changed-thousands-of-beliefs|You have already changed thousands of beliefs without noticing]]
 - [[teachings/awareness-not-action-plans-transforms|Awareness transforms behavior where action plans fail]]
 - [[teachings/transformation-requires-experience-not-information|Transformation requires experience, not information]]
+- [[teachings/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]]
 
 ## Source
 

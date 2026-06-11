@@ -25,6 +25,10 @@ This reframe turns conflict from a zero-sum game (someone must be wrong) into a 
 - [[teachings/seeing-their-truth-not-finding-the-truth|Seeing their truth, not finding 'the' truth]]
 - [[teachings/blame-is-an-unowned-want|Blame is an unowned want]]
 - [[teachings/never-compromise-find-solutions-for-both|Never compromise — find solutions that work for both]]
+- [[teachings/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
+- [[teachings/depersonalize-the-problem|Depersonalize the problem — it's a patient on the table]]
+- [[teachings/no-right-or-wrong-only-perspectives|There is no right or wrong in a fight, only perspectives]]
+- [[teachings/mirroring-reveals-how-much-we-misunderstand|Mirroring reveals how much we misunderstand each other]]
 
 ## Source
 

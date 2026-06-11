@@ -46,6 +46,10 @@ Fear also makes us see consequences as final. But what happens after the feared 
 - [[teachings/fear-limits-optionality|Fear limits what options you can see]]
 - [[teachings/self-judgment-defends-against-emotions|Self-judgment is a defense against feeling emotions]]
 - [[teachings/avoidance-is-the-stuckness-not-the-feeling|The avoidance of the feeling is the stuckness, not the feeling itself]]
+- [[teachings/fear-is-present-on-every-path|Fear is present on every path so face it directly]]
+- [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[teachings/stuckness-is-resistance-to-the-abyss|Stuckness is resistance to the abyss, not the abyss itself]]
+- [[teachings/clarity-comes-after-feeling-not-before|Clarity comes after feeling the emotion not before]]
 
 ## Source
 

@@ -25,6 +25,8 @@ The trap: the mind hears this and says "okay, I'll accept that I don't have cont
 - [[teachings/feeling-helplessness-creates-agency|Feeling helplessness creates agency, not control]]
 - [[teachings/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]]
 - [[teachings/welcoming-helplessness-not-managing-it|The freedom is in wanting to feel helpless again]]
+- [[teachings/control-patterns-reveal-hidden-helplessness|Your most controlling patterns reveal your hidden helplessness]]
+- [[teachings/feeling-helplessness-creates-empowerment|Going through helplessness is what creates empowerment]]
 
 ## Source
 

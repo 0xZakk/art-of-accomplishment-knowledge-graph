@@ -26,6 +26,7 @@ This parallels the broader teaching about internal versus external authority. Th
 - [[teachings/be-your-own-light|Be your own light]]
 - [[teachings/surrender-outcomes-to-decide-clearly|Surrender outcomes to decide clearly]]
 - [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
+- [[teachings/letting-go-is-non-management|Letting go is the non-management of your experience]]
 
 ## Source
 

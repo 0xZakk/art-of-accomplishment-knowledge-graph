@@ -58,6 +58,8 @@ When we truly ask and truly listen, the answer is clear: the grief just is. It's
 - [[teachings/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
 - [[teachings/self-blame-holds-onto-what-you-lost|Self-blame is a way of holding onto what you've lost]]
 - [[teachings/stories-cannot-survive-death|Our stories and identities cannot survive death]]
+- [[teachings/grief-does-not-end-it-transforms|Grief doesn't end, the love transforms]]
+- [[teachings/releasing-self-judgment-requires-grieving-it|Releasing lifelong self-judgment requires grieving it]]
 
 ## Source
 

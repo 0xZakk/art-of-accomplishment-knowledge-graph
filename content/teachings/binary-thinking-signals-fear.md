@@ -40,6 +40,11 @@ The fear is the real issue, not the belief.
 - [[teachings/any-self-definition-limits-you|Any way you define yourself limits you]]
 - [[teachings/fear-limits-optionality|Fear limits what options you can see]]
 - [[teachings/stuck-is-a-feeling-not-reality|Stuck is a feeling, not a reality]]
+- [[teachings/false-ends-keep-you-stuck|The brain creates false endings that paralyze action]]
+- [[teachings/fear-in-the-head-creates-binary-thinking|Fear in the head creates binary thinking and false ends]]
+- [[teachings/power-dynamics-are-two-scared-people|All power dynamics are two scared people defending themselves]]
+- [[teachings/fear-creates-binary-thinking-and-false-ends|Fear creates binary thinking and false ends]]
+- [[teachings/physical-constriction-signals-limiting-beliefs|Physical constriction and tension signal where limiting beliefs live]]
 
 ## Source
 

@@ -28,6 +28,8 @@ The grieving process itself contains many micro-insights—memories surface, con
 - [[teachings/emotions-are-the-glue-holding-beliefs-in-place|Emotions are the glue holding beliefs in place]]
 - [[teachings/stories-and-emotions-are-bidirectional|Stories and emotions are bidirectional — each shapes the other]]
 - [[teachings/moving-emotions-dissolves-stories|Moving emotions dissolves stories and creates clarity]]
+- [[teachings/story-dissolution-is-progress-not-a-problem|Story dissolution is progress, not a problem]]
+- [[teachings/anger-release-ends-in-clarity-and-determination|Clean anger release ends in clarity and determination about yourself, not others]]
 
 ## Source
 

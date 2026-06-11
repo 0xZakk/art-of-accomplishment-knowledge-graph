@@ -26,6 +26,9 @@ This is a common pattern: the gap between competence and visibility is almost al
 - [[teachings/imposter-syndrome-roots-in-conditional-love|Imposter syndrome roots in conditional love]]
 - [[teachings/hiding-makes-you-feel-more-like-an-imposter|Hiding makes you feel more like an imposter]]
 - [[teachings/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
+- [[teachings/shame-outlines-identity|Shame outlines identity—what you can't see controls you]]
+- [[teachings/false-humility-as-defense|False humility is a defense against being seen]]
+- [[teachings/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
 
 ## Source
 

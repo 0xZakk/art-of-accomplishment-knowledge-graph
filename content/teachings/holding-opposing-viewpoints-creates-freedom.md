@@ -28,6 +28,10 @@ The practical implication: let your mind do all the processing — the spreadshe
 - [[teachings/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
 - [[teachings/any-self-definition-limits-you|Any self-definition limits you]]
 - [[teachings/opening-heart-to-what-you-resist|Opening your heart to what you resist dissolves rigidity]]
+- [[teachings/jealousy-masks-rejected-parts-of-self|Jealousy masks rejected parts of self]]
+- [[teachings/intuition-sees-what-logic-cannot|Intuition sees what the logical mind cannot]]
+- [[teachings/no-right-or-wrong-only-perspectives|There is no right or wrong in a fight, only perspectives]]
+- [[teachings/you-cannot-judge-the-value-of-your-own-input|You cannot judge the value of your own input]]
 
 ## Source
 

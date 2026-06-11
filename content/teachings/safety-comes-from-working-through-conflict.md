@@ -23,6 +23,11 @@ The practical implication: as a leader, be the example. Start meetings with "Wha
 
 - [[teachings/agitator-avoider-dynamic|The agitator/avoider dynamic in relationships]]
 - [[teachings/dominate-dont-convince|Dominate, don't convince]]
+- [[teachings/safety-is-tuned-not-maximized|Safety in teams is tuned like a guitar string, not maximized]]
+- [[teachings/safety-enables-productive-conflict|Safety enables productive conflict rather than preventing it]]
+- [[teachings/safety-can-disconnect-from-reality|The pursuit of safety can disconnect you from reality]]
+- [[teachings/defensiveness-kills-team-communication|Allowing defensiveness kills team communication]]
+- [[teachings/politics-arise-when-success-is-not-performance-based|Politics arise when success is not tied to performance]]
 
 ## Source
 

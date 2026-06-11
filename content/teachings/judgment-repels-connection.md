@@ -28,6 +28,8 @@ The trap is that judgment gives a short-term high — like scrolling — of feel
 - [[teachings/connection-over-perfection|Connection over perfection]]
 - [[teachings/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
 - [[teachings/judgment-blocks-the-emotion-underneath|Judgment blocks the emotion underneath]]
+- [[teachings/self-editing-is-self-judgment|The constant self-editing is a form of self-judgment]]
+- [[teachings/seeing-others-dissolves-their-judgment|Seeing others dissolves their judgment and criticism]]
 
 ## Source
 

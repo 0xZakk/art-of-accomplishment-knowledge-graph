@@ -25,6 +25,10 @@ This pattern extends beyond purpose. Whenever something lands in the body and th
 - [[teachings/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]]
 - [[teachings/being-in-the-question-beats-finding-the-answer|Being in the question beats finding the answer]]
 - [[teachings/purpose-arrives-through-receiving-not-searching|Purpose arrives through receiving not searching]]
+- [[teachings/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
+- [[teachings/say-yes-then-filter-for-joy|Say yes to what intrigues you, then filter for joy]]
+- [[teachings/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
+- [[teachings/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
 
 ## Source
 

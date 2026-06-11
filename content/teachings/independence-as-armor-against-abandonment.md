@@ -25,6 +25,10 @@ The armor that protects you from abandonment also prevents connection. And witho
 - [[teachings/we-push-away-support-we-dont-trust|We push away support we don't trust]]
 - [[teachings/we-attract-what-we-learned-as-love|We attract what we learned as love]]
 - [[teachings/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
+- [[teachings/the-story-you-carry-may-not-be-the-full-truth|The story you carry about your wound may not be the full truth]]
+- [[teachings/you-must-know-you-can-leave-to-love|You must know you can leave to truly love]]
+- [[teachings/self-reliance-as-intimacy-avoidance|Self-reliance can be a form of intimacy avoidance]]
+- [[teachings/self-reliance-blocks-receiving-support|Self-reliance blocks the ability to receive support]]
 
 ## Source
 

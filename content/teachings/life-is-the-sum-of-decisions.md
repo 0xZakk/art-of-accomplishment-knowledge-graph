@@ -26,6 +26,8 @@ This makes decision-making refinement one of the highest leverage points availab
 - [[teachings/company-is-relationships-and-decisions|Company is relationships and decisions]]
 - [[teachings/willingness-to-feel-improves-decisions|Willingness to feel improves decisions]]
 - [[teachings/principles-make-decisions-for-you|Principles make decisions for you]]
+- [[teachings/principles-automate-decision-making|Principles automate decision-making into effortless choices]]
+- [[teachings/internal-principles-create-empowerment|Living by internal principles creates empowerment and dissolves drama]]
 
 ## Source
 

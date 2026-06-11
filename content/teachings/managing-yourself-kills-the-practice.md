@@ -24,6 +24,10 @@ The insight: any tool used for self-management becomes self-management. Stay in 
 - [[teachings/loving-to-manage-stops-working|Loving something to make it go away stops working]]
 - [[teachings/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
 - [[teachings/tools-stop-working-when-weaponized|Tools stop working when used for self-improvement]]
+- [[teachings/test-teachings-through-experiments|Test teachings through experiments rather than believing them]]
+- [[teachings/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
+- [[teachings/turning-insight-into-practice-can-backfire|Turning insight into practice can backfire]]
+- [[teachings/passive-consumption-never-transforms|Passive consumption of wisdom never transforms you]]
 
 ## Source
 

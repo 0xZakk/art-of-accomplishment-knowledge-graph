@@ -25,6 +25,11 @@ This is distinct from performing success. The POW camp story illustrates the dif
 - [[teachings/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
 - [[teachings/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]]
 - [[teachings/being-yourself-gets-you-promoted-or-freed|Being yourself gets you promoted or freed]]
+- [[teachings/empowerment-outlasts-power|Empowerment outlasts power because it can't be taken away]]
+- [[teachings/empowerment-is-love-without-submission|Empowerment is love without submission or fight]]
+- [[teachings/power-can-be-taken-empowerment-cannot|Power can be taken away from you but empowerment cannot]]
+- [[teachings/vulnerability-aligns-world-around-truth|Vulnerability aligns the world around your truth instead of your presentation]]
+- [[teachings/protecting-others-from-truth-disempowers-everyone|Protecting others from your truth disempowers everyone]]
 
 ## Source
 

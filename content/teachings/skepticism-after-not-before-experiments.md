@@ -23,6 +23,10 @@ The antidote isn't credulity—it's sequencing. Stay open during the experiment,
 - [[teachings/sincerity-is-prerequisite-for-transformation|Sincerity is the prerequisite for transformation]]
 - [[teachings/discovery-not-improvement|Transformation is discovery, not improvement]]
 - [[teachings/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]]
+- [[teachings/one-failure-as-proof-of-inability|Treating one failure as proof of inability ensures you never start]]
+- [[teachings/passive-consumption-never-transforms|Passive consumption of wisdom never transforms you]]
+- [[teachings/good-teachings-inevitably-get-corrupted|Good teachings inevitably get corrupted into new moralities]]
+- [[teachings/test-teachings-through-experiments|Test teachings through experiments rather than believing them]]
 
 ## Source
 

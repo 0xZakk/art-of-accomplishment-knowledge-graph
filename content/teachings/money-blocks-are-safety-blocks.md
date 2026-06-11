@@ -26,6 +26,10 @@ Going directly into the feeling of unsafety—not thinking about it, not avoidin
 - [[teachings/money-beliefs-create-money-reality|Money beliefs create money reality]]
 - [[teachings/money-wounds-trace-to-parent-wounds|Money wounds trace to parent wounds]]
 - [[teachings/money-blocks-mask-deeper-fears|Money blocks usually mask a deeper relationship with safety]]
+- [[teachings/the-money-block-is-really-a-safety-block|A money block is usually a safety block in disguise]]
+- [[teachings/facing-fear-builds-empowerment|Facing the feeling you're avoiding is how empowerment comes]]
+- [[teachings/appreciation-dissolves-unsafety|Appreciation and connection dissolve unsafety]]
+- [[teachings/fear-of-consequences-is-fear-of-emotional-states|Fear of consequences is really fear of emotional states]]
 
 ## Source
 

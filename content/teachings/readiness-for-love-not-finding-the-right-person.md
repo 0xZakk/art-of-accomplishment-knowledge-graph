@@ -25,6 +25,9 @@ Joe also notes that the list of requirements people create ("here's the six thin
 - [[teachings/be-yourself-and-the-relationship-question-answers-itself|Be yourself and the relationship question answers itself]]
 - [[teachings/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]]
 - [[teachings/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger you]]
+- [[teachings/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
+- [[teachings/chasing-connection-prevents-connection|Chasing a relationship to cure loneliness prevents real connection]]
+- [[teachings/we-fool-ourselves-its-the-wrong-person|We fool ourselves by blaming the wrong person or circumstance]]
 
 ## Source
 

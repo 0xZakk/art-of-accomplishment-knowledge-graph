@@ -28,6 +28,7 @@ The resistance doesn't just slow the emotion down — it fundamentally alters wh
 - [[teachings/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
 - [[teachings/resistance-creates-the-feared-outcome|Resisting an emotion creates the very outcome you fear]]
 - [[teachings/discomfort-is-the-resistance-not-the-emotion|The discomfort of emotions is the resistance to them, not the emotions themselves]]
+- [[teachings/the-resistance-to-asking-protects-an-unfelt-sadness|The resistance to asking protects an unfelt sadness]]
 
 ## Source
 

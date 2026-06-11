@@ -26,6 +26,8 @@ Any identity that depends on outcomes (smart, successful, talented) creates frag
 - [[teachings/fear-of-success-creates-doubt-too|Fear of success creates doubt too]]
 - [[teachings/fear-limits-optionality|Fear limits optionality]]
 - [[teachings/any-self-definition-limits-you|Any way you define yourself limits you]]
+- [[teachings/ego-resists-change-in-either-direction|Ego resists change in either direction]]
+- [[teachings/false-ends-keep-you-stuck|The brain creates false endings that paralyze action]]
 
 ## Source
 

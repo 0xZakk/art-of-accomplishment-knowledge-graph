@@ -26,6 +26,11 @@ Intensity, properly met, actually helps — it prevents overthinking and keeps m
 - [[teachings/emotional-fluidity-defined|Emotional fluidity defined]]
 - [[teachings/overwhelm-is-unfelt-emotions|Overwhelm is unfelt emotions]]
 - [[teachings/embrace-intensity-in-business|Embrace intensity in business]]
+- [[teachings/emotional-titration-is-adaptive|Emotional titration is adaptive, not avoidant]]
+- [[teachings/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]
+- [[teachings/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]
+- [[teachings/feeling-life-beats-figuring-it-out|Feeling your life produces clearer decisions than figuring it out]]
+- [[teachings/anxiety-is-detrimental-to-productivity|Anxiety reduces productivity despite the illusion it helps]]
 
 ## Source
 

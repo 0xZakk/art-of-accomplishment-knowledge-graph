@@ -25,6 +25,11 @@ This echoes the broader teaching that transformation is not building something n
 - [[teachings/transformation-is-archaeology-not-invention|Transformation is archaeology not invention]]
 - [[teachings/discovery-not-improvement|Discovery not improvement]]
 - [[teachings/freedom-is-recognized-not-achieved|Freedom is recognized not achieved]]
+- [[teachings/growth-stops-when-you-think-youve-made-it|Growth stops when you think you've made it]]
+- [[teachings/the-recent-epiphany-is-also-a-rut|The most recent epiphany becomes the next rut you have to release]]
+- [[teachings/what-shifts-is-the-doer-not-your-capacity|What shifts in awakening is the doer, not your capacity to function]]
+- [[teachings/identity-collapse-follows-peak-achievement|Identity collapse follows peak achievement]]
+- [[teachings/sense-of-self-expands-then-dissolves|The sense of self expands from personal to universal, then dissolves]]
 
 ## Source
 

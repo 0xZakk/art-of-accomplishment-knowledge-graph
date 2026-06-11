@@ -24,6 +24,9 @@ This has practical consequences for goal-setting: attuning to yourself might rev
 - [[teachings/attunement-reduces-mental-chatter|Attunement reduces mental chatter and reveals quiet wants]]
 - [[teachings/body-awareness-is-just-attention|Body awareness is just attention]]
 - [[teachings/attunement-is-listening-without-leaving-yourself|Attunement is listening without leaving yourself]]
+- [[teachings/deep-listening-requires-self-listening|Deep listening requires listening to yourself simultaneously]]
+- [[teachings/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]
+- [[teachings/the-gut-points-toward-what-you-want|The gut points you toward what you want before the mind knows it]]
 
 ## Source
 

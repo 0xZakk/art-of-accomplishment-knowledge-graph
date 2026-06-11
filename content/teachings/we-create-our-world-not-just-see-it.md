@@ -26,6 +26,8 @@ Brett adds a powerful metaphor: target fixation. Like a motorcyclist looking at 
 - [[teachings/confirmation-bias-from-emotional-avoidance|Confirmation bias from emotional avoidance]]
 - [[teachings/four-types-of-projection|There are four distinct types of projection]]
 - [[teachings/fully-feeling-stops-the-pattern|Fully falling in love with the avoided feeling is the quickest way to stop a negative pattern]]
+- [[teachings/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
+- [[teachings/engineering-heartbreak-to-avoid-heartbreak|We engineer heartbreak to avoid the heartbreak we haven't felt]]
 
 ## Source
 

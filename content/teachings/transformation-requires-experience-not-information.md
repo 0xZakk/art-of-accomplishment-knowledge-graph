@@ -25,6 +25,9 @@ The distinction matters because information-seeking can masquerade as growth. Wa
 - [[teachings/sincerity-is-prerequisite-for-transformation|Sincerity is prerequisite for transformation]]
 - [[teachings/awareness-not-action-plans-transforms|Awareness transforms behavior where action plans fail]]
 - [[teachings/changing-behavior-changes-consciousness|Changing behavior is the most efficient way to change consciousness]]
+- [[teachings/unconscious-principles-already-run-your-life|Unconscious principles already run your life]]
+- [[teachings/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]]
+- [[teachings/passive-consumption-never-transforms|Passive consumption of wisdom never transforms you]]
 
 ## Source
 

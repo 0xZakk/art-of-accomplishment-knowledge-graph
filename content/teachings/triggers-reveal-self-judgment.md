@@ -35,6 +35,9 @@ The freedom isn't in proving people wrong—it's in no longer needing to.
 - [[teachings/what-triggers-you-in-others-exists-in-you|What triggers you in others is something you don't like in yourself]]
 - [[teachings/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
 - [[teachings/triggers-as-freedom-opportunities|Triggers reveal where freedom is available]]
+- [[teachings/triggers-are-projections-of-your-own-patterns|Every trigger in your partner is a projection of your own pattern]]
+- [[teachings/own-the-trigger-as-yours|Owning the trigger as yours dissolves the fight]]
+- [[teachings/relationship-triggers-are-yours|Your relationship triggers are about you, not them]]
 
 ## Source
 

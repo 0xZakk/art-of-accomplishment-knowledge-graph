@@ -28,6 +28,8 @@ The formula: "I am going to go and take care of myself." Not "I am going to do s
 - [[teachings/boundaries-say-what-you-will-do-not-what-they-must|Boundaries say what you will do, not what they must do]]
 - [[teachings/boundaries-are-the-deepest-non-management|Boundaries are the deepest non-management]]
 - [[teachings/saying-no-restores-agency-and-want|Saying no restores agency and reconnects you to your want]]
+- [[teachings/blame-substitutes-for-a-missing-boundary|Blame and resentment stand in for a boundary you haven't set]]
+- [[teachings/boundaries-are-for-you-not-them|Boundaries are primarily for you, not the other person]]
 
 ## Source
 

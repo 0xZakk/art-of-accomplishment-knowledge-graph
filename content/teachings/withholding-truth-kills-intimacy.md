@@ -27,6 +27,10 @@ The cruel irony is that both partners believe they're being compassionate by wit
 - [[teachings/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]]
 - [[teachings/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]]
 - [[teachings/resentment-is-stored-conflict|Resentment is stored conflict]]
+- [[teachings/chaser-withdrawer-dynamic|The chaser-withdrawer dynamic makes both partners feel like they're dying]]
+- [[teachings/caretaking-kills-desire|Caretaking kills sexual desire in relationships]]
+- [[teachings/truth-over-comfort-in-relationships|Prioritizing truth over comfort creates lasting relationships]]
+- [[teachings/loving-to-manage-stops-working|Loving something to make it go away stops working]]
 
 ## Source
 

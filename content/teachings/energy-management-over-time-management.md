@@ -25,6 +25,9 @@ This extends beyond individuals. If a CEO pushes through, the company culture pu
 - [[teachings/busyness-is-not-productivity|Busyness is not productivity]]
 - [[teachings/enjoyment-is-more-efficient-than-pushing-through|Finding enjoyment in work is more efficient than pushing through]]
 - [[teachings/enjoyment-is-the-true-measure-of-efficiency|Enjoyment is the true measure of efficiency]]
+- [[teachings/not-trying-gets-more-done|Not trying gets more done than trying]]
+- [[teachings/managing-reality-costs-more-energy-than-enjoying-it|Managing reality costs more energy than enjoying it]]
+- [[teachings/enjoyment-as-the-only-metric|Making enjoyment the only metric paradoxically increases productivity]]
 
 ## Source
 

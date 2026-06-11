@@ -26,6 +26,10 @@ When both partners adopt this stance — working on themselves rather than each 
 - [[teachings/every-fight-can-bring-you-closer|Every fight can bring you closer]]
 - [[teachings/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
 - [[teachings/compromise-builds-resentment|Compromise means neglecting yourself and it always builds resentment]]
+- [[teachings/marriage-as-dojo-for-self-development|Marriage as a dojo for self-development]]
+- [[teachings/heartbreak-is-the-mechanism-of-boundaries|Heartbreak is the mechanism of healthy boundaries]]
+- [[teachings/accepting-and-asking-are-not-opposites|Accepting someone as they are and asking for what you want are not opposites]]
+- [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 
 ## Source
 

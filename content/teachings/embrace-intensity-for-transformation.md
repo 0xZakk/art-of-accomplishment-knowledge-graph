@@ -25,6 +25,10 @@ This also means the defense mechanism of dismissal — "we've done something lik
 - [[teachings/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]]
 - [[teachings/embracing-not-creating-intensity|Embracing intensity means welcoming what's already present, not manufacturing challenge]]
 - [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[teachings/embrace-intensity-in-business|Embracing intensity in business reveals what you're avoiding]]
+- [[teachings/welcoming-not-managing-leads-to-awakening|Welcoming everything, not managing it, is what leads to awakening]]
+- [[teachings/enjoy-the-sensations-of-awakening|Enjoying the sensations rather than bracing eases the integration]]
+- [[teachings/appreciation-dissolves-unsafety|Appreciation and connection dissolve unsafety]]
 
 ## Source
 

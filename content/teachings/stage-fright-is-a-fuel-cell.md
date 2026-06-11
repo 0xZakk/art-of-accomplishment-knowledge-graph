@@ -24,6 +24,10 @@ Tara describes the transformation as alchemical — "turning shit into gold." Yo
 - [[teachings/fear-is-excitement-without-the-breath|Fear is excitement without the breath]]
 - [[teachings/embrace-intensity-for-transformation|Embrace intensity for transformation]]
 - [[teachings/embracing-intensity-curbs-addiction|Embracing intensity curbs addiction]]
+- [[teachings/anxiety-can-be-excitement-that-isnt-felt-all-the-way|Anxiety is sometimes excitement that isn't being felt all the way]]
+- [[teachings/shame-differentiates-stage-fright-from-ordinary-fear|Shame differentiates stage fright from ordinary fear]]
+- [[teachings/fear-is-present-on-every-path|Fear is present on every path so face it directly]]
+- [[teachings/avoidance-of-one-emotion-closes-a-life-channel|One negative emotional experience can close an entire channel of life]]
 
 ## Source
 

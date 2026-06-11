@@ -27,6 +27,7 @@ The healing path isn't to destroy the blank space but to expand around it. Joe i
 - [[teachings/joy-wont-enter-where-emotions-unwelcome|Joy won't come into a house where her children aren't welcome]]
 - [[teachings/disappearing-as-survival-strategy|Disappearing is a sophisticated survival strategy]]
 - [[teachings/parenting-as-ego-dissolution|Parenting is one of the deepest ego dissolution practices available]]
+- [[teachings/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses them all]]
 
 ## Source
 

@@ -28,6 +28,7 @@ The people we actually trust and want to be around are the ones who show up as t
 - [[teachings/unfelt-emotions-drive-you-into-others-opinions|Unfelt emotions drive you out of yourself and into others' opinions]]
 - [[teachings/speaking-truth-dissolves-approval-seeking|Speaking your truth dissolves the need for external approval]]
 - [[teachings/chase-your-own-approval|Chase your own approval instead of others'—do I approve of that?]]
+- [[teachings/chasing-approval-separates-you-from-yourself|Chasing approval separates you from yourself]]
 
 ## Source
 

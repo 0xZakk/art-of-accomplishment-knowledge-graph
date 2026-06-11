@@ -18,6 +18,10 @@ When someone isn't performing well, they don't enjoy it either. The question isn
 
 - [[teachings/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]]
 - [[teachings/functional-teams-are-measured-by-wanting-to-be-there|Functional teams are measured by people wanting to be there]]
+- [[teachings/team-functionality-is-an-endless-scale|Team functionality is an endless scale, not a binary]]
+- [[teachings/the-leaders-job-is-not-to-take-care-of-everyone|The leader's job is not to take care of everyone]]
+- [[teachings/peer-accountability-outperforms-hierarchical-accountability|Peer accountability outperforms hierarchical accountability]]
+- [[teachings/unfelt-team-emotions-create-dysfunction|Unfelt emotions in a team create all the dysfunction]]
 
 ## Source
 

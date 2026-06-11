@@ -21,6 +21,11 @@ This dual perspective also shifts you from fear to purpose: when the question be
 
 - [[teachings/community-health-is-individual-health|Community health is individual health]]
 - [[teachings/doubt-is-self-focused-service-dissolves-it|Doubt is self-focused, service dissolves it]]
+- [[teachings/feel-fear-to-see-opportunity|Feel the fear fully to see the opportunities in chaos]]
+- [[teachings/suppressing-transitions-makes-them-worse|Suppressing transitions creates bigger eventual disruptions]]
+- [[teachings/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
+- [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[teachings/show-up-as-yourself-to-answer-stay-or-leave|Showing up as yourself answers the stay-or-leave question]]
 
 ## Source
 

@@ -29,6 +29,7 @@ The mechanism is that shame blocks emotional fluidity, and emotions are what all
 - [[teachings/shame-stagnates-emotional-fluidity|Shame stagnates emotional fluidity]]
 - [[teachings/shame-blocks-feeling-how-good-life-is|Shame blocks you from feeling how good life actually is]]
 - [[teachings/shame-stagnates-behavior|Shame stagnates behavior]]
+- [[teachings/shame-locks-in-bad-habits|Shame locks in the very habits it punishes]]
 
 ## Source
 

@@ -29,6 +29,8 @@ This doesn't mean practices are bad. It means the relationship to the practice m
 - [[teachings/coaching-is-self-discovery-not-skill-acquisition|Coaching is self-discovery, not skill acquisition]]
 - [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 - [[teachings/facing-fear-builds-empowerment|Facing the feeling you're avoiding is how empowerment comes]]
+- [[teachings/clarity-comes-after-feeling-not-before|Clarity comes after feeling the emotion not before]]
+- [[teachings/allowing-the-victim-creates-empowerment|Fully allowing the victim experience naturally creates empowerment]]
 
 ## Source
 

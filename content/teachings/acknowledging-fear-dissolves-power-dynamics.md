@@ -30,6 +30,8 @@ Brett's personal example illustrates how fast this works. After years of playing
 - [[teachings/embracing-fear-versus-avoiding-fear|Embracing fear versus avoiding fear]]
 - [[teachings/savior-role-is-flight-from-self|The savior role is flight from yourself to control others]]
 - [[teachings/drama-triangle-maps-to-fight-flight-freeze|The drama triangle maps to fight, flight, and freeze responses]]
+- [[teachings/feeling-helplessness-creates-empowerment|Going through helplessness is what creates empowerment]]
+- [[teachings/being-undefended-erodes-narcissism|Being undefended erodes narcissism]]
 
 ## Source
 

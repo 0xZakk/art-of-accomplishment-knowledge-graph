@@ -33,6 +33,7 @@ The practical approach: you don't have to worry too much about the nuance. Just 
 - [[teachings/shame-stagnates-behavior|Shame stagnates behavior]]
 - [[teachings/self-attack-is-another-form-of-avoidance|Self-attack is another form of avoidance]]
 - [[teachings/embracing-intensity-curbs-addiction|Embracing intensity removes the need for addictive escape]]
+- [[teachings/shame-outlines-identity|Shame outlines identity—what you can't see controls you]]
 
 ## Source
 

@@ -27,6 +27,10 @@ The metaphor of wings captures it: birds don't worry about the branch breaking b
 - [[teachings/knowing-yourself-is-the-only-safety|Knowing yourself is the only safety]]
 - [[teachings/confidence-is-connection-to-yourself|Confidence is connection to yourself]]
 - [[teachings/the-expansiveness-of-I-Am|The expansiveness of I Am]]
+- [[teachings/the-purge-of-contradicting-beliefs|Holding a new identity triggers a purge of contradicting beliefs]]
+- [[teachings/self-care-actions-are-proof-of-self-care-capacity|Self-care actions are proof of self-care capacity]]
+- [[teachings/understanding-the-self-is-where-the-path-begins|Understanding the self you're interacting with is where the path begins]]
+- [[teachings/control-works-until-it-doesnt|Control works until it doesn't]]
 
 ## Source
 

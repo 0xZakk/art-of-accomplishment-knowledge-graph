@@ -28,6 +28,8 @@ This has profound practical implications: every strategy we use to avoid feeling
 - [[teachings/joy-wont-enter-where-emotions-unwelcome|Joy won't come into a house where her children aren't welcome]]
 - [[teachings/joy-is-the-sign-of-emotional-health|Joy is the sign that emotional fluidity is working]]
 - [[teachings/joy-dissolves-identity|Joy dissolves identity and that's what makes it scary]]
+- [[teachings/welcome-all-feelings-to-feel-joy|Joy won't come unless all the other feelings are welcome]]
+- [[teachings/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses them all]]
 
 ## Source
 

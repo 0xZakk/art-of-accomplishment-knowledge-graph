@@ -26,6 +26,9 @@ This is why the welcoming of fear is not just personal development—it's a lead
 - [[teachings/ceo-as-everyones-caretaker-is-unsustainable|CEO as everyone's caretaker is unsustainable]]
 - [[teachings/welcoming-fear-over-conquering-it|Welcoming fear is safer than conquering it]]
 - [[teachings/teams-consolidate-helplessness-in-one-person|Teams consolidate unfelt helplessness in one person]]
+- [[teachings/defensiveness-kills-team-communication|Allowing defensiveness kills team communication]]
+- [[teachings/holding-emotions-in-community|When one person holds an emotion, others in the group can't hold it]]
+- [[teachings/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
 
 ## Source
 

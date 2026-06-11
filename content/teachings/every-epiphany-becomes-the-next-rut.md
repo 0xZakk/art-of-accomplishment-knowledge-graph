@@ -25,6 +25,10 @@ The healthy response isn't despair but lightness—holding each new identity mor
 - [[teachings/growth-means-shedding-identities|Growth means shedding identities]]
 - [[teachings/ego-resists-change-in-either-direction|The ego resists change in either direction]]
 - [[teachings/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
+- [[teachings/self-concept-shapes-outer-reality|Self-concept shapes outer reality]]
+- [[teachings/sense-of-self-expands-then-dissolves|The sense of self expands from personal to universal, then dissolves]]
+- [[teachings/identity-you-cant-see-controls-you-most|The identity you can't see controls you the most]]
+- [[teachings/welcoming-not-managing-leads-to-awakening|Welcoming everything, not managing it, is what leads to awakening]]
 
 ## Source
 

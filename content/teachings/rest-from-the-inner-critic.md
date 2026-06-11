@@ -28,6 +28,7 @@ This explains why doom-scrolling and social media never truly restore: they dist
 - [[teachings/inner-critic-prevents-nervous-system-rest|The inner critic prevents the rest needed for nervous system integration]]
 - [[teachings/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
 - [[teachings/stillness-is-always-available|There is a part of you that is always at rest]]
+- [[teachings/you-dont-need-the-inner-critic-to-be-productive|You don't need the inner critic to be productive — it drains you]]
 
 ## Source
 

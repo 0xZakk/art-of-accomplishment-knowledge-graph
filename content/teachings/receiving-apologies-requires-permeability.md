@@ -23,6 +23,10 @@ When you constrict and defend, that's the signal that you've lost permeability. 
 
 - [[teachings/receiving-compliments-dissolves-unworthiness|Receiving compliments dissolves unworthiness]]
 - [[teachings/receiving-requires-vulnerability|Receiving requires vulnerability]]
+- [[teachings/apologize-upright-without-shame|An upright apology empowers; a shame-laden one loops you back into the pattern]]
+- [[teachings/apologies-in-power-struggles|Apologies in power struggles are surrogates for being seen]]
+- [[teachings/apology-as-transformation-tool|An empowered apology is one of the most powerful tools for self-transformation]]
+- [[teachings/habitual-apologies-increase-conflict|Habitual apologies increase rather than prevent conflict]]
 
 ## Source
 

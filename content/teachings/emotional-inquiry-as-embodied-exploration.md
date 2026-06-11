@@ -24,6 +24,9 @@ This is fundamentally different from therapeutic approaches that ask "what does 
 - [[teachings/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]]
 - [[teachings/emotions-respond-to-how-you-relate-to-them|Emotions respond dynamically to how you relate to them]]
 - [[teachings/curiosity-transforms-relationship-to-emotions|Curiosity transforms your relationship to difficult emotions]]
+- [[teachings/attention-alone-reduces-stress|Paying attention to stress without trying to change it reduces it]]
+- [[teachings/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
+- [[teachings/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]
 
 ## Source
 

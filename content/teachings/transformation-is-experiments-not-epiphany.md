@@ -26,6 +26,10 @@ This framing — transformation as accumulated experiments rather than a single 
 - [[teachings/confidence-comes-from-reps-not-reading|Confidence comes from reps, not reading]]
 - [[teachings/insight-requires-embodied-integration|Insight requires embodied integration]]
 - [[teachings/watching-a-leader-fail-teaches-more-than-success|Watching a leader fail openly teaches more than their success]]
+- [[teachings/leaders-vulnerability-cascades-through-the-team|A leader's vulnerability cascades through the entire team]]
+- [[teachings/stress-transmutes-into-creative-energy-when-felt|Stress transmutes into creative energy when fully felt]]
+- [[teachings/anxiety-signals-an-unarticulated-need|Anxiety signals an unarticulated need or unset boundary]]
+- [[teachings/truth-lands-as-relief-in-the-body|Truth lands as relief in the body, not as attack]]
 
 ## Source
 

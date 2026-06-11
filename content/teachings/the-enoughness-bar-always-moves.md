@@ -28,6 +28,8 @@ The question isn't how to become enough. The question is: who taught you that yo
 - [[teachings/saving-others-is-a-strategy-for-enoughness|Saving others is a strategy for enoughness]]
 - [[teachings/control-is-the-trade-for-self-love|Control is the trade for self-love]]
 - [[teachings/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
+- [[teachings/self-love-sets-the-capacity-limit-for-loving-others|Self-love sets the capacity limit for loving a partner]]
+- [[teachings/you-cant-earn-being|You can't earn the right to just be]]
 
 ## Source
 

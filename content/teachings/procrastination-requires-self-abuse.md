@@ -31,6 +31,8 @@ This reframes the entire problem. Instead of asking "How do I stop procrastinati
 - [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
 - [[teachings/avoidance-chain-from-essence-to-addiction|The avoidance chain runs from essential self through thinking to addiction]]
 - [[teachings/procrastination-as-wisdom-signal|Procrastination can be a signal that your priorities are misaligned]]
+- [[teachings/the-story-of-brokenness-is-the-problem|The story about how you're broken is the problem, not the brokenness]]
+- [[teachings/alignment-eliminates-procrastination|Deep alignment with what you want eliminates procrastination]]
 
 ## Source
 

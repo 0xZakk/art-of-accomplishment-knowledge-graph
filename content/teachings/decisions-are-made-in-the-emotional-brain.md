@@ -22,6 +22,8 @@ Most people believe the path to good decisions is better thinking and analysis. 
 - [[teachings/emotional-fluidity-defined|Emotional fluidity defined]]
 - [[teachings/all-decisions-are-emotional|All decisions are emotional, never purely rational]]
 - [[teachings/suppressing-emotions-impairs-decision-making|Suppressing emotions impairs decision making]]
+- [[teachings/feeling-life-beats-figuring-it-out|Feeling your life produces clearer decisions than figuring it out]]
+- [[teachings/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]
 
 ## Source
 

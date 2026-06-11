@@ -26,6 +26,9 @@ This is an important part of daily practice during the transition from composure
 - [[teachings/body-awareness-is-just-attention|Body awareness is just attention]]
 - [[teachings/attention-alone-reduces-stress|Attention alone reduces stress]]
 - [[teachings/expansiveness-underneath-resistance-to-love|The expansiveness underneath resistance to love is overwhelming and amazing]]
+- [[teachings/enjoyment-is-the-pace-keeper-for-feeling|Enjoyment is the pace-keeper for how deep to feel]]
+- [[teachings/enjoy-the-sensations-of-awakening|Enjoying the sensations rather than bracing eases the integration]]
+- [[teachings/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
 
 ## Source
 

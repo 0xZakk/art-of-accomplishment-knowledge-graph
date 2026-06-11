@@ -29,6 +29,7 @@ The approach is not about wallowing or being consumed. It's about discovering th
 - [[teachings/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
 - [[teachings/resistance-gives-the-inner-critic-its-power|Resistance gives the inner critic its power]]
 - [[teachings/welcome-doubt-instead-of-running|Welcoming doubt instead of running from it opens the heart]]
+- [[teachings/fear-is-present-on-every-path|Fear is present on every path so face it directly]]
 
 ## Source
 

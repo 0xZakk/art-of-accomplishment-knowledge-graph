@@ -25,6 +25,9 @@ This is why diversification of stage matters in support groups and why hierarchy
 - [[teachings/experiential-learning-over-intellectual-understanding|Experiential learning over intellectual understanding]]
 - [[teachings/coaching-expression-must-be-yours-not-your-teachers|Coaching expression must be yours not your teachers]]
 - [[teachings/community-is-more-important-than-the-teacher|Community is more important than the teacher]]
+- [[teachings/passive-consumption-never-transforms|Passive consumption of wisdom never transforms you]]
+- [[teachings/coaching-is-self-discovery-not-skill-acquisition|Coaching is self-discovery, not skill acquisition]]
+- [[teachings/intellect-understands-but-the-body-does-not-change|The intellect can understand a change the body never makes]]
 
 ## Source
 

@@ -25,6 +25,9 @@ Maladaptive behavior in uncertainty assumes certainty where it doesn't exist ("I
 - [[teachings/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist neurologically]]
 - [[teachings/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]]
 - [[teachings/certainty-lives-in-how-you-want-to-be|The only real certainty is how you want to be]]
+- [[teachings/feel-fear-to-see-opportunity|Feel the fear fully to see the opportunities in chaos]]
+- [[teachings/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]]
+- [[teachings/fear-in-the-head-creates-binary-thinking|Fear in the head creates binary thinking and false ends]]
 
 ## Source
 

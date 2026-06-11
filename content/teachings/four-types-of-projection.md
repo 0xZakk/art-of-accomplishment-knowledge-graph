@@ -31,6 +31,9 @@ Joe distinguishes four types of projection, each operating at a different level:
 - [[teachings/any-self-definition-limits-you|Any self-definition limits you]]
 - [[teachings/triggers-reveal-disowned-parts-of-self|Triggers and admiration both reveal disowned parts of yourself]]
 - [[teachings/we-create-our-world-not-just-see-it|We create our projected world through attraction, manipulation, and selective evidence]]
+- [[teachings/triggers-reveal-unaccepted-parts-of-yourself|Every trigger reveals an unaccepted part of yourself]]
+- [[teachings/the-kaleidoscope-fear|The fear that everything is projection dissolves into freedom]]
+- [[teachings/seeing-through-projections-opens-possibility|Seeing through projections opens up possibility like seeing new uses for a brick]]
 
 ## Source
 

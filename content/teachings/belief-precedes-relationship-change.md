@@ -20,6 +20,11 @@ A billionaire who could build a ten-billion-dollar company genuinely believed he
 
 - [[teachings/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]]
 - [[teachings/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]]
+- [[teachings/failure-is-just-an-idea|Failure is just an idea, not a reality]]
+- [[teachings/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
+- [[teachings/force-required-to-close-equals-force-to-maintain|The force required to close a deal equals the force needed to maintain it]]
+- [[teachings/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]]
+- [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 
 ## Source
 

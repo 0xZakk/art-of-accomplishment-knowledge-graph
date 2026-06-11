@@ -25,6 +25,7 @@ This insight directly undermines the belief that "it's hard" to change limiting 
 - [[teachings/realization-not-behavior-control|Seeing through limiting beliefs is realization, not behavior control]]
 - [[teachings/changing-behavior-changes-consciousness|Changing behavior is the most efficient way to change consciousness]]
 - [[teachings/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]]
+- [[teachings/unconscious-principles-already-run-your-life|Unconscious principles already run your life]]
 
 ## Source
 

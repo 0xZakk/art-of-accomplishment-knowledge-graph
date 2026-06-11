@@ -31,6 +31,8 @@ The key insight is recognizing that doubt is not providing useful information ab
 - [[teachings/doubt-protects-from-unwanted-emotions|Doubt protects you from emotions you don't want to feel]]
 - [[teachings/doubt-is-leaving-your-heart|Doubt is leaving your heart]]
 - [[teachings/welcome-doubt-instead-of-running|Welcoming doubt instead of running from it opens the heart]]
+- [[teachings/doubt-from-childhood-blame-patterns|Doubt originates from childhood patterns of self-blame when others got angry]]
+- [[teachings/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots in life]]
 
 ## Source
 

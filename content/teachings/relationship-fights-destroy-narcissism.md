@@ -26,6 +26,10 @@ Brett recognized the same pattern: after a similar crisis in his relationship, h
 - [[teachings/every-fight-can-bring-you-closer|Every fight can bring you closer together]]
 - [[teachings/heartbreak-is-expansion|Heartbreak is expansion]]
 - [[teachings/you-must-know-you-can-leave-to-love|You must know you can leave to truly love]]
+- [[teachings/marriage-as-dojo-for-self-development|Marriage as a dojo for self-development]]
+- [[teachings/superiority-in-relationships-is-a-shame-defense|Superiority in relationships is a shame defense]]
+- [[teachings/partners-teach-what-you-need-to-learn|Partners are attracted because they teach what you need to learn]]
+- [[teachings/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
 
 ## Source
 

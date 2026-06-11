@@ -24,6 +24,10 @@ The critical shift is from "I need more resources" to "I need more resourcefulne
 - [[teachings/money-blocks-are-safety-blocks|Money blocks are safety blocks]]
 - [[teachings/identity-of-lack-perpetuates-lack|Identity of lack perpetuates lack]]
 - [[teachings/financial-safety-is-not-about-money|Financial safety is not about money]]
+- [[teachings/money-blocks-mask-deeper-fears|Money blocks usually mask a deeper relationship with safety]]
+- [[teachings/wanting-money-is-not-selfish|Wanting money is not selfish — it's wanting freedom and safety]]
+- [[teachings/the-money-block-is-really-a-safety-block|A money block is usually a safety block in disguise]]
+- [[teachings/seeking-power-is-an-expression-of-fear|Seeking power is always an expression of fear]]
 
 ## Source
 

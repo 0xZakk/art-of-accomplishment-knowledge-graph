@@ -30,6 +30,7 @@ The man says he "sits on this all the time" and knows he's ignoring it. Joe refr
 - [[teachings/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]]
 - [[teachings/shame-about-anxiety-creates-more-anxiety|Shame about anxiety creates more anxiety]]
 - [[teachings/false-humility-as-defense|False humility is a defense against being seen]]
+- [[teachings/the-fear-of-being-seen-is-the-belief-youre-broken|The fear of being seen is the belief that you're inherently broken]]
 
 ## Source
 

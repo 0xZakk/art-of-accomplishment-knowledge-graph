@@ -26,6 +26,8 @@ The radical simplicity of this insight is also why it's hard to sell: people wan
 - [[teachings/bullying-yourself-creates-resistance|Bullying yourself creates resistance]]
 - [[teachings/peace-comes-from-dropping-the-war-not-avoiding-conflict|Peace comes from dropping the war not avoiding conflict]]
 - [[teachings/you-are-wrong-about-your-problem|You are probably wrong about what your problem is]]
+- [[teachings/external-patterns-mirror-internal-ones|External relationship patterns mirror internal ones]]
+- [[teachings/not-defending-reveals-inherent-goodness|Not defending yourself reveals your inherent goodness]]
 
 ## Source
 

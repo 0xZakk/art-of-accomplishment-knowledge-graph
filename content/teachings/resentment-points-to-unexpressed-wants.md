@@ -26,6 +26,10 @@ The principle: before reaching for a boundary, first express what you want. Ther
 - [[teachings/asking-for-what-you-want-dissolves-resentment|Asking for what you want dissolves resentment]]
 - [[teachings/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]]
 - [[teachings/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]]
+- [[teachings/the-real-boundary-is-i-get-my-boundaries|The real boundary is not the situation but knowing you get your boundaries]]
+- [[teachings/blame-substitutes-for-a-missing-boundary|Blame and resentment stand in for a boundary you haven't set]]
+- [[teachings/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
+- [[teachings/resentment-saturates-every-fight|Resentment saturates every fight]]
 
 ## Source
 

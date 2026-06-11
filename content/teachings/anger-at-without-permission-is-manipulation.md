@@ -30,6 +30,7 @@ Joe also makes an important exception: people who have been self-abusive—beati
 - [[teachings/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]]
 - [[teachings/emotional-abuse-is-using-emotions-to-control|Emotional abuse is using emotions to control someone]]
 - [[teachings/welcoming-not-just-accepting-emotions|Welcoming emotions is fundamentally different from accepting them]]
+- [[teachings/stop-being-the-victim-to-love-the-angry-person|You can't love someone you see as your oppressor]]
 
 ## Source
 

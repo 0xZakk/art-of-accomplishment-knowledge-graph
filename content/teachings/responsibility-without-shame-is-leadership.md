@@ -27,6 +27,8 @@ This applies personally too: constantly blaming yourself is less effective than 
 - [[teachings/shame-free-problem-solving|Shame-free problem solving]]
 - [[teachings/blame-blocks-leadership|Blame blocks leadership]]
 - [[teachings/calling-out-without-shame-works|Calling out without shame works]]
+- [[teachings/only-one-person-needs-to-drop-the-hot-potato|Only one person needs to drop the shame hot potato]]
+- [[teachings/apologize-for-disempowering-others|Apologizing for disempowering people undoes the self-reliance loop]]
 
 ## Source
 

@@ -30,6 +30,8 @@ The instruction becomes: appreciate yourself in the midst of your unsafety. Not 
 - [[teachings/turning-insight-into-practice-can-backfire|Turning insight into practice can backfire]]
 - [[teachings/facing-fear-builds-empowerment|Facing the feeling you're avoiding is how empowerment comes]]
 - [[teachings/allowing-the-victim-creates-empowerment|Fully allowing the victim experience naturally creates empowerment]]
+- [[teachings/helplessness-is-the-emotion-being-avoided|The feeling being avoided underneath 'I've got this' is helplessness]]
+- [[teachings/money-blocks-mask-deeper-fears|Money blocks usually mask a deeper relationship with safety]]
 
 ## Source
 

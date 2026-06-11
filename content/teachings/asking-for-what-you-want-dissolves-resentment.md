@@ -28,6 +28,8 @@ The resentment wasn't about the friend or the situation—it was about Joe's dau
 - [[teachings/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
 - [[teachings/self-reliance-as-intimacy-avoidance|Self-reliance can be a form of intimacy avoidance]]
 - [[teachings/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]]
+- [[teachings/caretaking-creates-resentment-in-the-receiver|Caretaking creates resentment in the receiver]]
+- [[teachings/suppressed-wants-come-from-grief-of-unmet-needs|Suppressed wants protect you from the grief of unmet childhood needs]]
 
 ## Source
 

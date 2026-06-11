@@ -26,6 +26,10 @@ If they're willing to explore, you support each other in healing. If they're unw
 - [[teachings/wanting-matters-more-than-what-you-want|Wanting matters more than what you want]]
 - [[teachings/both-partners-must-want-better|Both partners must want better]]
 - [[teachings/compromise-builds-resentment|Compromise means neglecting yourself and it always builds resentment]]
+- [[teachings/not-sharing-hard-truths-prevents-real-love|Not sharing hard truths prevents real love]]
+- [[teachings/wanting-someone-to-change-reflects-self-rejection|Wanting someone to change reflects a part of yourself you can't love]]
+- [[teachings/self-love-is-the-capacity-limit-for-loving-others|Self-love is the capacity limit for loving others]]
+- [[teachings/every-fight-is-about-feeling-unseen|Every relationship fight is fundamentally about feeling unseen]]
 
 ## Source
 

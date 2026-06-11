@@ -25,6 +25,8 @@ This is one of the most practical applications of emotional fluidity: when you f
 - [[teachings/moving-emotions-dissolves-depression|Moving emotions dissolves depression]]
 - [[teachings/exhaustion-is-unexpressed-anger|Exhaustion is unexpressed anger]]
 - [[teachings/unfelt-emotions-create-physical-stress|Unfelt emotions create physical stress through muscle tension]]
+- [[teachings/feel-the-false-end-to-dissolve-overwhelm|Feel through the feared outcome to dissolve overwhelm]]
+- [[teachings/overwhelm-is-leaving-flow-to-manage-reality|Overwhelm begins when you leave flow to manage reality]]
 
 ## Source
 

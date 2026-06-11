@@ -29,6 +29,8 @@ This must be framed as experimentation, not improvement. The moment it becomes a
 - [[teachings/respond-differently-to-the-inner-critic|Respond differently to the inner critic as a practice]]
 - [[teachings/play-with-your-inner-critic-dont-fight-it|Play with the inner critic rather than fighting it]]
 - [[teachings/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
+- [[teachings/change-your-relationship-to-the-critic-not-the-critic-itself|Change your relationship to the critic, not the critic itself]]
+- [[teachings/ouch-technique-for-inner-critic|The 'ouch' technique silences the inner critic and creates genuine rest]]
 
 ## Source
 

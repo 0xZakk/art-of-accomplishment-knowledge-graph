@@ -27,6 +27,11 @@ The man's father showed the same pattern in his own failed entrepreneurial ventu
 - [[teachings/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
 - [[teachings/intrinsic-value-needs-no-earning|Intrinsic value needs no earning]]
 - [[teachings/imposter-syndrome-means-not-being-yourself|Imposter syndrome means not being yourself]]
+- [[teachings/performing-for-connection-blocks-authentic-earning|Performing for connection blocks authentic earning]]
+- [[teachings/money-patterns-replay-childhood-connection-patterns|Money patterns replay childhood connection patterns]]
+- [[teachings/putting-yourself-above-others-is-protection|Putting yourself above others is a subtle form of protection]]
+- [[teachings/subtle-superiority-as-protection|Subtle superiority is a protection pattern that creates isolation]]
+- [[teachings/self-possessed-presence-transforms-relationships|Self-possessed presence transforms how others relate to you]]
 
 ## Source
 

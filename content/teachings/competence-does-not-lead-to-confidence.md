@@ -25,6 +25,9 @@ The practical approach: fail. Just fail. It's faster and dirtier than trying to 
 
 - [[teachings/vulnerability-cures-imposter-syndrome-faster-than-competence|Vulnerability cures imposter syndrome faster than competence]]
 - [[teachings/facing-fear-builds-empowerment|Facing fear builds empowerment]]
+- [[teachings/imposter-syndrome-means-not-being-yourself|Imposter syndrome is a sign you're not being yourself]]
+- [[teachings/confidence-is-connection-to-yourself|Confidence is how connected you are to yourself, not a skill you build]]
+- [[teachings/passive-consumption-never-transforms|Passive consumption of wisdom never transforms you]]
 
 ## Source
 

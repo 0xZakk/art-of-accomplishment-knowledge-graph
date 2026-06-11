@@ -21,6 +21,9 @@ High achievement and emotional numbness can coexist perfectly because achievemen
 
 - [[teachings/overachieving-is-survival-mode|Overachieving is a survival strategy for not being seen]]
 - [[teachings/disappearing-as-survival-strategy|Disappearing is a sophisticated survival strategy]]
+- [[teachings/numbness-as-survival-gift|Emotional numbness can be a survival gift, not a deficit]]
+- [[teachings/winning-feels-good-because-you-stop-needing-the-next-thing|Winning feels good because you briefly stop needing the next thing]]
+- [[teachings/the-empty-space-is-the-path-to-freedom|The empty space you've been avoiding is the path to freedom]]
 
 ## Source
 

@@ -28,6 +28,8 @@ The compression happens because acknowledging death dissolves the stories and id
 - [[teachings/near-death-reveals-peace-already-present|Near-death experiences reveal peace that was already there]]
 - [[teachings/say-goodbye-like-its-the-last-time|Always say goodbye like it's the last time]]
 - [[teachings/the-abyss-is-where-you-dont-exist|The abyss we fear is the place where we don't exist]]
+- [[teachings/emotional-titration-is-adaptive|Emotional titration is adaptive, not avoidant]]
+- [[teachings/stories-cannot-survive-death|Our stories and identities cannot survive death]]
 
 ## Source
 

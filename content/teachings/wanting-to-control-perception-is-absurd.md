@@ -29,6 +29,8 @@ The coaching technique itself is worth noting: rather than arguing against the b
 - [[teachings/teach-children-self-referencing|Teaching children to reference themselves builds their internal compass]]
 - [[teachings/coaching-expression-must-be-yours-not-your-teachers|Your coaching expression must be yours, not your teacher's]]
 - [[teachings/feeling-your-essential-nature-dissolves-avoidance|Feeling your essential nature dissolves avoidance behaviors]]
+- [[teachings/everyone-already-knows-the-way-home|Everyone already knows the way home]]
+- [[teachings/you-are-a-terrible-boss-to-yourself|You are a terrible boss to yourself and that's why you're stuck]]
 
 ## Source
 

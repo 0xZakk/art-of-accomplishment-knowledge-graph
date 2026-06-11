@@ -29,6 +29,9 @@ Joe Hudson adds the complementary insight: the destruction that happens when you
 - [[teachings/follow-your-calling-even-when-uncomfortable|Follow your calling even when uncomfortable]]
 - [[teachings/adversity-refines-rather-than-destroys|Adversity refines rather than destroys]]
 - [[teachings/feel-your-way-to-freedom|Feel your way to freedom]]
+- [[teachings/allowing-replaces-striving-on-the-back-nine|Allowing replaces striving on the back nine of life]]
+- [[teachings/parenting-is-letting-them-find-their-own-line|Parenting is letting them find their own line down the mountain]]
+- [[teachings/focus-on-how-you-want-to-feel-not-what-you-fear|Focus on how you want to feel not what you fear]]
 
 ## Source
 

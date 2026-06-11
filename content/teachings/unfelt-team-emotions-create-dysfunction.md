@@ -26,6 +26,10 @@ The more functional version: "I have very little confidence that we're going to 
 - [[teachings/keeping-it-together-blocks-team-trust|Keeping it together blocks team trust]]
 - [[teachings/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]]
 - [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
+- [[teachings/defensiveness-kills-team-communication|Allowing defensiveness kills team communication]]
+- [[teachings/conflict-avoidant-managers-destroy-trust|Conflict-avoidant managers destroy trust]]
+- [[teachings/calling-out-without-shame-works|Calling people out without shame works]]
+- [[teachings/politics-arise-when-success-is-not-performance-based|Politics arise when success is not tied to performance]]
 
 ## Source
 

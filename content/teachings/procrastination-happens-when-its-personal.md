@@ -29,6 +29,10 @@ One powerful reframe: seeing that the mission is beyond you. A woman who procras
 - [[teachings/perfectionism-is-the-critical-parents-voice|Perfectionism is the critical parent's voice internalized]]
 - [[teachings/codependence-comes-from-not-owning-wants|Codependence comes from not owning your wants]]
 - [[teachings/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
+- [[teachings/procrastination-is-emotional-avoidance|Procrastination is the avoidance of an emotional state]]
+- [[teachings/first-domino-principle|People who don't procrastinate pick the right first domino]]
+- [[teachings/your-own-perfectionist-boss|You become your own oppressive boss]]
+- [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
 
 ## Source
 

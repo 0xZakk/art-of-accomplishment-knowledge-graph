@@ -27,6 +27,8 @@ This reframes boundaries not as walls or restrictions, but as the foundation of 
 - [[teachings/management-communicates-distrust|Management communicates distrust]]
 - [[teachings/boundaries-are-for-you-not-them|Boundaries are primarily for you, not the other person]]
 - [[teachings/boundaries-say-what-you-will-do-not-what-they-must|Boundaries say what you will do, not what they must do]]
+- [[teachings/boundary-versus-ultimatum|The difference between a boundary and an ultimatum is fear]]
+- [[teachings/saying-no-restores-agency-and-want|Saying no restores agency and reconnects you to your want]]
 
 ## Source
 

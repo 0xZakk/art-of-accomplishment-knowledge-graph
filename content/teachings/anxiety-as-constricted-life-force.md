@@ -25,6 +25,11 @@ This maps to the epigenetic research Joe cites: anxious mice who aren't properly
 - [[teachings/muscles-constrict-to-block-feeling|Muscles constrict to block feeling]]
 - [[teachings/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms, unresisted stress enlivens]]
 - [[teachings/anxiety-changes-form-not-substance|Anxiety changes form, not substance]]
+- [[teachings/attention-alone-reduces-stress|Paying attention to stress without trying to change it reduces it]]
+- [[teachings/anxiety-is-repressed-excitement|Anxiety is often repressed excitement]]
+- [[teachings/anxiety-is-a-signal-of-life-out-of-alignment|Anxiety is a signal that your life is out of alignment]]
+- [[teachings/regulate-the-nervous-system-before-learning-from-anxiety|Regulate the nervous system before you can learn from anxiety]]
+- [[teachings/tension-is-required-for-healthy-systems|All living systems require tension to stay healthy]]
 
 ## Source
 

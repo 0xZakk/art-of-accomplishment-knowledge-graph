@@ -27,6 +27,9 @@ This connects to why acknowledging death compresses life: the peace isn't someth
 - [[teachings/source-is-always-there-just-drop-down|Source is always there, just drop down]]
 - [[teachings/acknowledging-death-compresses-life|Acknowledging death compresses and intensifies life]]
 - [[teachings/the-abyss-is-where-you-dont-exist|The abyss we fear is the place where we don't exist]]
+- [[teachings/enjoy-the-sensations-of-awakening|Enjoying the sensations rather than bracing eases the integration]]
+- [[teachings/what-shifts-is-the-doer-not-your-capacity|What shifts in awakening is the doer, not your capacity to function]]
+- [[teachings/see-through-consequences-to-feel-free|Seeing through worst-case consequences creates freedom to act]]
 
 ## Source
 

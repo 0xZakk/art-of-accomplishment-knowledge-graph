@@ -30,6 +30,7 @@ Brett adds that the very perception of someone as an "asshole" points to where y
 - [[teachings/pleasure-dissolves-the-boundary-of-self|Deep pleasure dissolves the boundary of self]]
 - [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 - [[teachings/triggers-reveal-unaccepted-parts-of-yourself|Every trigger reveals an unaccepted part of yourself]]
+- [[teachings/a-boundary-with-a-return-prevents-abandonment|Draw a boundary that includes coming back so they don't feel abandoned]]
 
 ## Source
 

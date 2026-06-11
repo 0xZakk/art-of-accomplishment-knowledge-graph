@@ -29,6 +29,8 @@ The antidote isn't to convince yourself something doesn't matter. It's to priori
 - [[teachings/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses love and awareness]]
 - [[teachings/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
 - [[teachings/falling-in-love-with-practice|Falling in love with practice beats forcing yourself to practice]]
+- [[teachings/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]
+- [[teachings/enjoyment-as-the-only-metric|Making enjoyment the only metric paradoxically increases productivity]]
 
 ## Source
 

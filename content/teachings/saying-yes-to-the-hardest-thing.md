@@ -28,6 +28,8 @@ Michael arrives at a surprising place: "It's so fun even the parts that I hate a
 - [[teachings/accepting-death-enables-choice|Accepting death enables genuine choice]]
 - [[teachings/embrace-intensity-for-transformation|Embrace intensity for transformation]]
 - [[teachings/embracing-not-creating-intensity|Embracing not creating intensity]]
+- [[teachings/community-forms-spontaneously-around-vulnerability|Community forms spontaneously around genuine vulnerability]]
+- [[teachings/denial-has-a-functional-purpose|Denial has a functional purpose that protects the ability to build a life]]
 
 ## Source
 

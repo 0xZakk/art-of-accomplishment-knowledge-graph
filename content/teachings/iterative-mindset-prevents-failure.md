@@ -29,6 +29,8 @@ The iterative mindset compounds over time. Every company Joe knows that disrupte
 - [[teachings/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]]
 - [[teachings/iterative-mindset-dissolves-procrastination|An iterative mindset dissolves procrastination by removing the possibility of failure]]
 - [[teachings/reward-failure-in-culture|Reward failure to create innovative culture]]
+- [[teachings/performance-and-play-cycle|Cycling between performance and play accelerates learning]]
+- [[teachings/feeling-your-essential-nature-dissolves-avoidance|Feeling your essential nature dissolves avoidance behaviors]]
 
 ## Source
 

@@ -26,6 +26,9 @@ This echoes Joe's core teaching about the inner critic and unwanted parts: fight
 - [[teachings/resisting-parts-creates-more-of-them|Resisting parts creates more of them]]
 - [[teachings/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]]
 - [[teachings/financial-safety-is-not-about-money|Financial safety is not actually about money]]
+- [[teachings/inner-child-holds-money-permission|The inner child holds the permission around money decisions]]
+- [[teachings/feeling-bad-perpetuates-the-trauma-cycle|Believing you're bad perpetuates the trauma cycle]]
+- [[teachings/trauma-stays-until-you-feel-the-hurt-underneath|Trauma controls you until you feel the hurt underneath it]]
 
 ## Source
 

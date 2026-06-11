@@ -28,6 +28,7 @@ The experiment of trying to stop all feeling makes this viscerally obvious — s
 - [[teachings/muscles-constrict-to-block-feeling|We constrict muscles to suppress emotions — breathing reverses this]]
 - [[teachings/managing-emotions-prolongs-suffering|Managing emotions prolongs suffering]]
 - [[teachings/emotional-release-resolves-work-overwhelm|Emotional release resolves work overwhelm]]
+- [[teachings/suppressing-emotions-has-a-physical-price|Suppressing emotions has a physical price the body pays]]
 
 ## Source
 

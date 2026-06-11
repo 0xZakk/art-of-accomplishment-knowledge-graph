@@ -25,6 +25,10 @@ This reframes generosity entirely. It's not fundamentally about transferring som
 - [[teachings/generosity-dissolves-ego|Generosity dissolves ego]]
 - [[teachings/being-together-in-emotions-not-caretaking|Being together in emotions, not caretaking]]
 - [[teachings/welcoming-helplessness-not-managing-it|Welcoming helplessness, not managing it]]
+- [[teachings/seeing-is-the-core-of-generosity|Seeing people deeply is at the core of all forms of generosity]]
+- [[teachings/generosity-is-being-not-giving|True generosity is a way of being, not an act of giving]]
+- [[teachings/surrender-to-the-ineffable-not-a-person|Surrendering to the ineffable is fundamentally different from surrendering to a guru]]
+- [[teachings/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
 
 ## Source
 

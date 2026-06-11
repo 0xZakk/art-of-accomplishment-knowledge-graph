@@ -27,6 +27,8 @@ This is also why business is "hard mode" for spiritual practice — there are co
 - [[teachings/do-the-uncomfortable-thing-first|Do the uncomfortable thing first]]
 - [[teachings/business-alignment-is-spiritual-alignment|Business alignment and spiritual alignment are the same thing]]
 - [[teachings/embracing-not-creating-intensity|Embracing intensity means welcoming what's already present, not manufacturing challenge]]
+- [[teachings/business-as-self-awareness-practice|Business is a self-awareness practice, not separate from life]]
+- [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
 
 ## Source
 

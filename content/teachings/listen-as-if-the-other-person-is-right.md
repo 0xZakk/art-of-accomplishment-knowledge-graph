@@ -28,6 +28,7 @@ These two stances together — reverence and wonder — transform the quality of
 - [[teachings/depersonalize-the-problem|Depersonalize the problem — it's a patient on the table]]
 - [[teachings/listen-to-yourself-with-unconditional-acceptance|Listening to yourself with unconditional acceptance is the fastest path to listening well]]
 - [[teachings/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
+- [[teachings/view-framework-for-listening|The VIEW framework for deep listening]]
 
 ## Source
 

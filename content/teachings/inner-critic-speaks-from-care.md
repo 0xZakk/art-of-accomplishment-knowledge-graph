@@ -20,6 +20,10 @@ When you can translate the inner critic's harsh words into the care underneath, 
 
 - [[teachings/welcome-the-inner-critic|Welcoming the inner critic dissolves its power]]
 - [[teachings/inner-critic-as-guide|The inner critic is a guide to unhealed parts]]
+- [[teachings/you-dont-need-the-inner-critic-to-be-productive|You don't need the inner critic to be productive — it drains you]]
+- [[teachings/the-inner-critic-cares-for-you-dysfunctionally|The inner critic is dysfunctional care, not an enemy]]
+- [[teachings/change-your-relationship-to-the-critic-not-the-critic-itself|Change your relationship to the critic, not the critic itself]]
+- [[teachings/play-with-your-inner-critic-dont-fight-it|Play with the inner critic rather than fighting it]]
 
 ## Source
 

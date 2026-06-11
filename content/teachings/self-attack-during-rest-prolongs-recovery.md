@@ -25,6 +25,9 @@ Joe reframes rest as an accomplishment — asking clients to measure how well th
 - [[teachings/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
 - [[teachings/rest-from-the-inner-critic|What you really need is rest from your inner critic]]
 - [[teachings/punishing-the-remembering-slows-growth|Punishing yourself for remembering slows growth]]
+- [[teachings/activation-release-rest-cycle|The activation-release-rest cycle requires genuine rest for integration]]
+- [[teachings/burnout-is-sustained-adrenaline-depletion|Burnout is sustained adrenaline depletion across body, mind, and emotion]]
+- [[teachings/inner-critic-prevents-nervous-system-rest|The inner critic prevents the rest needed for nervous system integration]]
 
 ## Source
 

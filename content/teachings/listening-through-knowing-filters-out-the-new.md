@@ -30,6 +30,11 @@ This connects to why companies lose creativity. Once a team has a fixed identity
 - [[teachings/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]]
 - [[teachings/knowing-is-the-opposite-of-wonder|Knowing is the opposite of wonder]]
 - [[teachings/being-in-the-question-beats-finding-the-answer|Being in the question beats finding the answer]]
+- [[teachings/embodied-listening-improves-signal-to-noise|Embodied listening improves signal to noise]]
+- [[teachings/deep-listening-requires-self-listening|Deep listening requires listening to yourself simultaneously]]
+- [[teachings/unconditional-listening-transforms-relationships|Listening with unconditional acceptance transforms relationships]]
+- [[teachings/attunement-reduces-mental-chatter|Attunement reduces mental chatter and reveals quiet wants]]
+- [[teachings/listening-is-receiving-not-doing|Listening is receiving, not doing]]
 
 ## Source
 

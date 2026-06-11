@@ -21,6 +21,10 @@ The state is gone, but the learning may still be metabolizing. Additionally, whe
 
 - [[teachings/insight-requires-embodied-integration|Insight requires embodied integration to become wisdom]]
 - [[teachings/foreboding-joy-resists-gratitude|Foreboding joy resists gratitude]]
+- [[teachings/fear-of-losing-insight-blocks-integration|Fear of losing an insight blocks its integration]]
+- [[teachings/wisdom-is-when-you-dont-need-to-remember|Wisdom is when you don't need to remember the insight]]
+- [[teachings/insight-is-not-wisdom-until-embodied|Insight is not wisdom until it is embodied]]
+- [[teachings/gentleness-accelerates-growth|Gentleness accelerates growth]]
 
 ## Source
 

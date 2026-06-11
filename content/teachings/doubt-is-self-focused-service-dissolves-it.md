@@ -25,6 +25,10 @@ The practical application: when imposter syndrome shows up, ask "How do I do thi
 - [[teachings/doubt-is-leaving-your-heart|Doubt is leaving your heart]]
 - [[teachings/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]]
 - [[teachings/fear-of-success-creates-doubt-too|Fear of success creates doubt too]]
+- [[teachings/you-cannot-question-and-love-at-the-same-time|You have to stop loving to question a relationship]]
+- [[teachings/doubt-as-emotional-protection|Doubt as emotional protection]]
+- [[teachings/welcome-doubt-instead-of-running|Welcoming doubt instead of running from it opens the heart]]
+- [[teachings/imposter-syndrome-means-not-being-yourself|Imposter syndrome is a sign you're not being yourself]]
 
 ## Source
 

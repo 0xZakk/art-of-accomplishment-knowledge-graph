@@ -25,6 +25,10 @@ The fix isn't to become less analytical. It's to apply the same analytical rigor
 - [[teachings/self-judgment-defends-against-emotions|Self-judgment defends against emotions]]
 - [[teachings/perfectionism-is-the-critical-parents-voice|Perfectionism is the critical parent's voice]]
 - [[teachings/gratitude-reveals-solutions-criticism-hides|Gratitude reveals solutions that criticism hides]]
+- [[teachings/self-criticism-intensifies-with-intelligence|Self-criticism intensifies with intelligence—the smarter you are, the more nuanced your inner critic]]
+- [[teachings/inner-voice-mirrors-parenting|The inner critic mirrors how you were parented]]
+- [[teachings/hearing-objections-before-deciding|Hearing objections before deciding — even if you decide the same thing — changes everything]]
+- [[teachings/overachieving-is-survival-mode|Overachieving is a survival strategy for not being seen]]
 
 ## Source
 

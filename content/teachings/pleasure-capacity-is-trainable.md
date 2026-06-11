@@ -28,6 +28,10 @@ The inverse relationship between enjoyment and vigilance explains why letting yo
 - [[teachings/foreboding-joy-blocks-gratitude|Foreboding joy blocks gratitude]]
 - [[teachings/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant]]
 - [[teachings/pleasure-is-available-in-every-emotion|Pleasure is available in every emotion when fully felt]]
+- [[teachings/pleasure-requires-receiving-not-effort|Pleasure requires receiving not effort]]
+- [[teachings/pleasure-is-the-path-to-gut-awakening|Pleasure is the safe path to the gut awakening]]
+- [[teachings/accepting-love-requires-tolerating-safety|Accepting love requires a nervous system that can tolerate safety]]
+- [[teachings/pleasure-settles-the-nervous-system-into-intelligence|Pleasure settles the nervous system back into intelligence]]
 
 ## Source
 

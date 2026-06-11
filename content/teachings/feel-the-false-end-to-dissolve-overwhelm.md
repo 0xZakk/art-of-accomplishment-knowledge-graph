@@ -23,6 +23,10 @@ The key distinction: intellectual understanding of "why" you're overwhelmed can 
 
 - [[teachings/false-ends-keep-you-stuck|False ends keep you stuck]]
 - [[teachings/overwhelm-is-unfelt-emotions|Overwhelm is the accumulation of unfelt emotions]]
+- [[teachings/emotional-release-resolves-work-overwhelm|Emotional release resolves work overwhelm]]
+- [[teachings/overwhelm-is-leaving-flow-to-manage-reality|Overwhelm begins when you leave flow to manage reality]]
+- [[teachings/anxiety-is-detrimental-to-productivity|Anxiety reduces productivity despite the illusion it helps]]
+- [[teachings/feel-then-act|Feel the emotion first, then take the action]]
 
 ## Source
 

@@ -25,6 +25,11 @@ The martial arts version: your whole body stays relaxed until the moment of impa
 - [[teachings/evolution-doesnt-require-striving|Evolution doesn't require striving]]
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
 - [[teachings/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]
+- [[teachings/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
+- [[teachings/feeling-your-essential-nature-dissolves-avoidance|Feeling your essential nature dissolves avoidance behaviors]]
+- [[teachings/letting-go-comes-from-seeing-the-pain-of-holding-on|Letting go comes from seeing the pain of holding on]]
+- [[teachings/trying-to-feel-joy-pushes-it-away|Trying to feel joy is the resistance that pushes it away]]
+- [[teachings/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
 
 ## Source
 

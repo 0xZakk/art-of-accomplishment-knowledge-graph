@@ -25,6 +25,8 @@ People who develop self-compassion become less reactive, less neurotic, less off
 - [[teachings/self-compassion-before-external-success|Self-compassion before external success]]
 - [[teachings/managing-trauma-versus-resolving-it|Managing trauma versus resolving it]]
 - [[teachings/shame-dissolves-when-felt-not-fought|Shame dissolves when felt not fought]]
+- [[teachings/body-work-opens-what-mental-process-cannot|Body work opens what mental process cannot]]
+- [[teachings/trauma-addiction-is-choosing-the-familiar|Trauma addiction is choosing what's familiar, not what's safe]]
 
 ## Source
 

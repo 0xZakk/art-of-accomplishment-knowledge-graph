@@ -33,6 +33,8 @@ What makes this particularly insidious is that loneliness has an addictive quali
 - [[teachings/chronic-loneliness-creates-threat-perception|Chronic loneliness shifts the world into a threat]]
 - [[teachings/shame-is-a-signal-of-disconnection|Shame is a signal of disconnection, not a problem to solve]]
 - [[teachings/lonely-people-are-usually-sweethearts|Most lonely people are actually sweethearts]]
+- [[teachings/exposure-to-being-seen-cures-loneliness|Being seen repeatedly dissolves shame and cures loneliness]]
+- [[teachings/shame-outlines-identity|Shame outlines identity—what you can't see controls you]]
 
 ## Source
 

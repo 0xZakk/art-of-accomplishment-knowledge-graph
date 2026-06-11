@@ -24,6 +24,9 @@ Brett's freewriting experiment illustrates this perfectly: rigid "write every mo
 - [[teachings/should-creates-stress-not-change|Should creates stress, not change]]
 - [[teachings/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]]
 - [[teachings/todo-lists-can-be-inner-critic|To-do lists can be inner critic]]
+- [[teachings/stay-in-discomfort-iterate-on-shoulds|Stay when experiments get uncomfortable, iterate when they become shoulds]]
+- [[teachings/test-teachings-through-experiments|Test teachings through experiments rather than believing them]]
+- [[teachings/follow-your-migratory-path|Follow your natural migratory path through experiments]]
 
 ## Source
 

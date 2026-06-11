@@ -25,6 +25,11 @@ Technique without presence is dangerous. There are plenty of places to learn tec
 - [[teachings/highest-generosity-is-presence|The highest generosity is presence]]
 - [[teachings/loving-presence-must-be-embodied|Loving presence must be embodied]]
 - [[teachings/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]]
+- [[teachings/emptiness-is-the-source-of-empathic-attunement|Emptiness is the source of empathic attunement]]
+- [[teachings/everyone-already-knows-the-way-home|Everyone already knows the way home]]
+- [[teachings/coaching-is-self-discovery-not-skill-acquisition|Coaching is self-discovery, not skill acquisition]]
+- [[teachings/numbness-as-survival-gift|Emotional numbness can be a survival gift, not a deficit]]
+- [[teachings/welcoming-not-managing-leads-to-awakening|Welcoming everything, not managing it, is what leads to awakening]]
 
 ## Source
 

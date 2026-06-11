@@ -27,6 +27,9 @@ This applies directly to boundaries: the fear of drawing a boundary is the fear 
 - [[teachings/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[teachings/boundary-firmness-eliminates-fear-of-attack|Boundary firmness eliminates fear of attack]]
 - [[teachings/boundaries-are-scariest-because-of-freedom|What's scariest about boundaries is the freedom on the other side]]
+- [[teachings/boundaries-are-for-you-not-them|Boundaries are primarily for you, not the other person]]
+- [[teachings/pre-grieving-loss-creates-resilience|Pre-grieving potential loss creates resilience and the courage to draw boundaries]]
+- [[teachings/show-up-as-yourself-to-answer-stay-or-leave|Showing up as yourself answers the stay-or-leave question]]
 
 ## Source
 

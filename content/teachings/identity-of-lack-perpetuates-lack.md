@@ -25,6 +25,11 @@ Joe and his wife practiced daily gratitude for their material possessions and we
 - [[teachings/any-self-definition-limits-you|Any self-definition limits you]]
 - [[teachings/the-expansiveness-of-I-Am|The expansiveness of I Am]]
 - [[teachings/wanting-is-aliveness|Wanting is aliveness]]
+- [[teachings/feeling-lack-creates-lack|Feeling lack creates and sustains the lack]]
+- [[teachings/lack-self-talk-rewrites-your-reality|Repeated lack self-talk rewrites how you see reality]]
+- [[teachings/gratitude-for-abundance-removes-the-fear-of-losing-it|Gratitude for abundance removes the fear of losing it]]
+- [[teachings/gratitude-reveals-abundance-already-present|Gratitude reveals abundance that is already present]]
+- [[teachings/wanting-to-be-needed-limits-wealth|Wanting to be needed limits wealth; wanting to be unnecessary grows it]]
 
 ## Source
 

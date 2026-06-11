@@ -25,6 +25,8 @@ This applies to negotiation too: Joe recommends starting with "how do you want t
 - [[teachings/leaders-and-culture-co-create|Leaders and culture co-create]]
 - [[teachings/energy-management-over-time-management|Energy management matters more than time management]]
 - [[teachings/not-trying-gets-more-done|Not trying gets more done than trying]]
+- [[teachings/managing-reality-costs-more-energy-than-enjoying-it|Managing reality costs more energy than enjoying it]]
+- [[teachings/enjoyment-is-the-true-measure-of-efficiency|Enjoyment is the true measure of efficiency]]
 
 ## Source
 

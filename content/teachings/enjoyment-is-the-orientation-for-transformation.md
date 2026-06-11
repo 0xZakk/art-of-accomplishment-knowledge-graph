@@ -26,6 +26,9 @@ Joe illustrates this with the story of driving by a house that once triggered a 
 - [[teachings/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]]
 - [[teachings/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]]
 - [[teachings/enjoyment-as-compass-for-surrender|Enjoyment is the compass for surrender to your deeper call]]
+- [[teachings/enjoyment-is-the-pace-keeper-for-feeling|Enjoyment is the pace-keeper for how deep to feel]]
+- [[teachings/enjoyment-is-available-now-not-later|Enjoyment is available now, not in some future you're chasing]]
+- [[teachings/lack-of-enjoyment-diagnoses-problems|Lack of enjoyment diagnoses the real problem]]
 
 ## Source
 

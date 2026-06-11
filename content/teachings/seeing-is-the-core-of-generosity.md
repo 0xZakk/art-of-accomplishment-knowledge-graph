@@ -24,6 +24,7 @@ Scott's dying observation captures this perfectly: there are a million acts of g
 - [[teachings/generosity-is-being-not-giving|True generosity is being, not giving]]
 - [[teachings/being-seen-transforms-behavior|Being seen transforms behavior]]
 - [[teachings/unconditional-listening-transforms-relationships|Unconditional listening transforms relationships]]
+- [[teachings/highest-generosity-is-presence|The highest act of generosity is simply being with someone without needing anything to change]]
 
 ## Source
 

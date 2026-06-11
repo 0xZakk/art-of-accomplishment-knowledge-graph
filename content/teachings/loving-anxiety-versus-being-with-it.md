@@ -27,6 +27,10 @@ This parallels a deep tissue massage metaphor: if you're distracted during a dee
 - [[teachings/management-is-war-with-yourself|Management is war with yourself]]
 - [[teachings/curiosity-transforms-relationship-to-emotions|Curiosity transforms relationship to emotions]]
 - [[teachings/attention-alone-reduces-stress|Paying attention to stress without trying to change it reduces it]]
+- [[teachings/meditation-can-become-self-management|Meditation can become a form of self-management and dissociation]]
+- [[teachings/breathe-into-anxiety-to-find-excitement|Breathing into anxiety to enjoy it turns it into excitement]]
+- [[teachings/regulate-the-nervous-system-before-learning-from-anxiety|Regulate the nervous system before you can learn from anxiety]]
+- [[teachings/pleasure-grounds-the-sensitive-system|Pleasure and bodily sensation ground the sensitive system as it opens]]
 
 ## Source
 

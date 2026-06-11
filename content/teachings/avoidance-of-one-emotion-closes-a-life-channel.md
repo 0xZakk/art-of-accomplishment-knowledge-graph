@@ -25,6 +25,11 @@ The insight is that the emotional experience itself was neutral — it could hav
 - [[teachings/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness not the feeling]]
 - [[teachings/fear-constricts-excitement-expands|Fear constricts excitement expands]]
 - [[teachings/embracing-fear-versus-avoiding-fear|Embracing fear versus avoiding fear]]
+- [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[teachings/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
+- [[teachings/fear-is-present-on-every-path|Fear is present on every path so face it directly]]
+- [[teachings/containing-emotions-to-connect-disconnects-you|Containing emotions to connect actually disconnects you]]
+- [[teachings/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots in life]]
 
 ## Source
 

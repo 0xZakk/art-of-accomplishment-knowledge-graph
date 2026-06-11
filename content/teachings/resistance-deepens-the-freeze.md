@@ -27,6 +27,9 @@ This applies on a nervous system level specifically. The freeze response was ori
 - [[teachings/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]]
 - [[teachings/childhood-freeze-becomes-adult-trap|The childhood freeze response becomes the adult trap]]
 - [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[teachings/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuckness]]
+- [[teachings/you-are-already-doing-what-you-fear|You are already doing to yourself what you fear others will do]]
+- [[teachings/stuckness-is-resistance-to-the-abyss|Stuckness is resistance to the abyss, not the abyss itself]]
 
 ## Source
 

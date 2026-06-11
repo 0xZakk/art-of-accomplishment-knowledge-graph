@@ -27,6 +27,10 @@ This creates adults who suppress their wants, who feel guilty for having desires
 - [[teachings/wanting-requires-no-justification|Wanting requires no justification]]
 - [[teachings/inner-voice-mirrors-parenting|Inner voice mirrors parenting]]
 - [[teachings/should-is-a-mechanism-of-shame|Should is a mechanism of shame]]
+- [[teachings/wanting-money-is-not-selfish|Wanting money is not selfish — it's wanting freedom and safety]]
+- [[teachings/selfishness-is-the-engine-of-unity|Selfishness is the engine of unity]]
+- [[teachings/codependence-comes-from-not-owning-wants|Codependence comes from not owning your wants]]
+- [[teachings/wants-are-evolutionary-strategies|Wants are strategies for essential human needs]]
 
 ## Source
 

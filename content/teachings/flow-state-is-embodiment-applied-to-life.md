@@ -27,6 +27,8 @@ The client even demonstrated it mid-session without realizing — dropping into 
 - [[teachings/presence-is-pleasure|Presence is pleasure]]
 - [[teachings/play-tennis-in-life|Apply your embodied skill from one domain to all of life]]
 - [[teachings/questioning-feeling-destroys-feeling|Questioning whether you're feeling destroys the feeling]]
+- [[teachings/not-feeling-may-be-repression|Thinking you can't feel may actually be repression]]
+- [[teachings/emotional-fluidity-is-already-there|You already have emotional fluidity—you just need to stop blocking it]]
 
 ## Source
 

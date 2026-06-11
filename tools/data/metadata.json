@@ -1,5 +1,13 @@
 [
   {
+    "slug": "a-boundary-with-a-return-prevents-abandonment",
+    "title": "Draw a boundary that includes coming back so they don't feel abandoned"
+  },
+  {
+    "slug": "abuse-creates-either-the-enduring-or-the-victim",
+    "title": "Abuse creates either the endurer or the perpetual victim"
+  },
+  {
     "slug": "acceptance-is-not-love",
     "title": "Getting to acceptance without love repeats the pattern"
   },
@@ -12,8 +20,24 @@
     "title": "Accepting death enables genuine choice about how to live"
   },
   {
+    "slug": "accepting-love-is-the-game-you-actually-want-to-play",
+    "title": "Accepting love is the game you actually want to play"
+  },
+  {
+    "slug": "accepting-love-requires-tolerating-safety",
+    "title": "Accepting love requires a nervous system that can tolerate safety"
+  },
+  {
     "slug": "accomplishment-is-undoing-not-doing",
     "title": "Accomplishment is an undoing, not a doing"
+  },
+  {
+    "slug": "accountability-is-curiosity-not-punishment",
+    "title": "Accountability is curiosity, not punishment"
+  },
+  {
+    "slug": "achievement-does-not-fill-the-hole",
+    "title": "Achievement never fills the hole it promises to fill"
   },
   {
     "slug": "acknowledging-death-compresses-life",
@@ -104,6 +128,10 @@
     "title": "\\\"Always more to be done\\\" blocks feeling"
   },
   {
+    "slug": "ambition-survives-beneath-the-resistance",
+    "title": "Ambition survives beneath the resistance, waiting to be set free"
+  },
+  {
     "slug": "ambition-without-identity-is-relief",
     "title": "Ambition without identity attachment is relief, not pressure"
   },
@@ -116,6 +144,10 @@
     "title": "Expressing anger at someone without permission is a bid for control"
   },
   {
+    "slug": "anger-at-you-is-not-evidence-you-did-wrong",
+    "title": "Someone's anger at you is not evidence you did something wrong"
+  },
+  {
     "slug": "anger-backlog-must-clear",
     "title": "There is often a backlog of anger that must clear before you can settle"
   },
@@ -124,8 +156,20 @@
     "title": "The champagne bottle effect of releasing stored anger"
   },
   {
+    "slug": "anger-is-an-act-of-vulnerability",
+    "title": "Anger is an act of vulnerability and a bid for engagement"
+  },
+  {
+    "slug": "anger-is-clarity-and-determination",
+    "title": "Anger at its core is clarity and determination"
+  },
+  {
     "slug": "anger-is-love-with-a-boundary",
     "title": "Unresisted anger is love expressing a clear boundary"
+  },
+  {
+    "slug": "anger-moves-the-endurer-into-buried-sadness",
+    "title": "Anger is the doorway from endurance into buried sadness"
   },
   {
     "slug": "anger-reaches-clarity-after-movement",
@@ -148,16 +192,36 @@
     "title": "Anger unresisted becomes determination and clarity"
   },
   {
+    "slug": "announce-widely-to-shift-identity",
+    "title": "Announcing widely surfaces emotion and shifts the identity others hold for you"
+  },
+  {
     "slug": "anxiety-as-constricted-life-force",
     "title": "Anxiety is constricted life force, not a problem to eliminate"
+  },
+  {
+    "slug": "anxiety-can-be-excitement-that-isnt-felt-all-the-way",
+    "title": "Anxiety is sometimes excitement that isn't being felt all the way"
   },
   {
     "slug": "anxiety-changes-form-not-substance",
     "title": "Anxiety changes form but not substance"
   },
   {
+    "slug": "anxiety-is-a-signal-of-life-out-of-alignment",
+    "title": "Anxiety is a signal that your life is out of alignment"
+  },
+  {
     "slug": "anxiety-is-detrimental-to-productivity",
     "title": "Anxiety reduces productivity despite the illusion it helps"
+  },
+  {
+    "slug": "anxiety-is-repressed-excitement",
+    "title": "Anxiety is often repressed excitement"
+  },
+  {
+    "slug": "anxiety-points-to-self-abandonment",
+    "title": "Anxiety is a road sign that shows you where you're abandoning yourself"
   },
   {
     "slug": "anxiety-signals-an-unarticulated-need",
@@ -176,12 +240,24 @@
     "title": "Apologies in power struggles are surrogates for being seen"
   },
   {
+    "slug": "apologize-for-disempowering-others",
+    "title": "Apologizing for disempowering people undoes the self-reliance loop"
+  },
+  {
+    "slug": "apologize-to-money-for-the-projection",
+    "title": "Money is a teacher reflecting your projections back to you"
+  },
+  {
+    "slug": "apologize-upright-without-shame",
+    "title": "An upright apology empowers; a shame-laden one loops you back into the pattern"
+  },
+  {
     "slug": "apology-as-transformation-tool",
     "title": "An empowered apology is one of the most powerful tools for self-transformation"
   },
   {
-    "slug": "applied-self-awareness-is-understanding-plus-action",
-    "title": "Applied self-awareness is understanding plus action"
+    "slug": "appearing-calm-trades-away-joy-and-power",
+    "title": "Appearing calm trades away your joy, power, and love"
   },
   {
     "slug": "appreciation-dissolves-unsafety",
@@ -194,6 +270,14 @@
   {
     "slug": "art-is-not-important-and-thats-freedom",
     "title": "Art is not important, and that's freedom"
+  },
+  {
+    "slug": "ask-for-care-instead-of-helping-as-a-surrogate",
+    "title": "Ask for the care you want instead of helping as a surrogate"
+  },
+  {
+    "slug": "ask-for-help-is-accountability-with-love",
+    "title": "Asking for specific help is accountability with love, not surveillance"
   },
   {
     "slug": "ask-listen-questions-or-advice",
@@ -222,6 +306,10 @@
   {
     "slug": "attention-alone-reduces-stress",
     "title": "Paying attention to stress without trying to change it reduces it"
+  },
+  {
+    "slug": "attention-becomes-a-surrogate-for-love",
+    "title": "Attention becomes a surrogate for love, and the surrogate repels real love"
   },
   {
     "slug": "attuned-response-dissolves-trauma-patterns",
@@ -264,6 +352,10 @@
     "title": "Authenticity is receiving yourself not performing yourself"
   },
   {
+    "slug": "authenticity-matters-more-than-self-improvement",
+    "title": "Authenticity matters more than self-improvement"
+  },
+  {
     "slug": "authenticity-transforms-business",
     "title": "Authenticity transforms business more effectively than improvement metrics"
   },
@@ -300,8 +392,32 @@
     "title": "Avoiding shame creates more shame through disconnection"
   },
   {
+    "slug": "awakening-doesnt-erase-your-humanity",
+    "title": "Awakening doesn't erase your humanity \u2014 it makes you more sensitive"
+  },
+  {
+    "slug": "awakening-happens-in-head-heart-and-gut",
+    "title": "Awakening happens through the head, the heart, and the gut"
+  },
+  {
+    "slug": "awakening-is-not-a-finish-line",
+    "title": "Awakening is not a finish line \u2014 evolution keeps going"
+  },
+  {
     "slug": "awakening-is-not-an-endpoint",
     "title": "Awakening is not an endpoint\u2014evolution never ends"
+  },
+  {
+    "slug": "awakening-is-not-personal",
+    "title": "Awakening is not personal \u2014 it is the erosion of self over time"
+  },
+  {
+    "slug": "awakening-is-not-the-end-of-the-journey",
+    "title": "Awakening is not a conclusion, just part of the journey"
+  },
+  {
+    "slug": "awakening-is-not-what-you-think",
+    "title": "Awakening is not what your mind can think it is"
   },
   {
     "slug": "awareness-changes-what-shoulds-cannot",
@@ -314,6 +430,10 @@
   {
     "slug": "bad-decisions-come-from-fear-of-emotions",
     "title": "Bad decisions come from fear of emotional consequences"
+  },
+  {
+    "slug": "balance-grief-with-self-care",
+    "title": "Balance time spent with grief one-to-one with self-care"
   },
   {
     "slug": "be-available-dont-chase-teenagers",
@@ -362,6 +482,10 @@
   {
     "slug": "being-seen-is-a-survival-need-we-villainize",
     "title": "Being seen is a survival need we villainize"
+  },
+  {
+    "slug": "being-seen-is-the-real-pain-behind-money",
+    "title": "Money problems often hide the pain of being seen"
   },
   {
     "slug": "being-seen-is-the-scariest-part-of-support",
@@ -422,6 +546,10 @@
   {
     "slug": "blame-shame-guilt-indicate-disempowerment",
     "title": "Blame, shame, and guilt are reliable indicators of disempowerment"
+  },
+  {
+    "slug": "blame-substitutes-for-a-missing-boundary",
+    "title": "Blame and resentment stand in for a boundary you haven't set"
   },
   {
     "slug": "body-awareness-is-just-attention",
@@ -512,12 +640,20 @@
     "title": "Breath is the lever for nervous system regulation"
   },
   {
+    "slug": "breathe-into-anxiety-to-find-excitement",
+    "title": "Breathing into anxiety to enjoy it turns it into excitement"
+  },
+  {
     "slug": "breathwork-without-integration-is-catharsis-not-transformation",
     "title": "Breathwork without integration is catharsis, not transformation"
   },
   {
     "slug": "bring-problems-to-teenagers-as-shared-challenges",
     "title": "Bring problems to teenagers as shared challenges, not commands"
+  },
+  {
+    "slug": "build-body-awareness-like-a-muscle",
+    "title": "Body awareness is built in short enjoyable reps, like going to the gym"
   },
   {
     "slug": "building-company-as-self-development",
@@ -616,6 +752,10 @@
     "title": "Chameleon leadership\u2014adapting to everyone\u2014creates uncertainty, not connection"
   },
   {
+    "slug": "change-your-relationship-to-the-critic-not-the-critic-itself",
+    "title": "Change your relationship to the critic, not the critic itself"
+  },
+  {
     "slug": "changing-behavior-changes-consciousness",
     "title": "Changing behavior is the most efficient way to change consciousness"
   },
@@ -636,6 +776,10 @@
     "title": "The chaser-withdrawer dynamic makes both partners feel like they're dying"
   },
   {
+    "slug": "chasing-approval-separates-you-from-yourself",
+    "title": "Chasing approval separates you from yourself"
+  },
+  {
     "slug": "chasing-connection-prevents-connection",
     "title": "Chasing a relationship to cure loneliness prevents real connection"
   },
@@ -644,8 +788,16 @@
     "title": "Chasing love is also pushing it away"
   },
   {
+    "slug": "chasing-love-signals-you-dont-deserve-it",
+    "title": "Chasing love signals that you don't deserve it"
+  },
+  {
     "slug": "chasing-understanding-creates-control",
     "title": "Chasing understanding feels like control to others"
+  },
+  {
+    "slug": "childhood-calm-down-trains-us-out-of-excitement",
+    "title": "'Calm down' trains us out of excitement in childhood"
   },
   {
     "slug": "childhood-criticism-creates-self-distrust",
@@ -736,6 +888,10 @@
     "title": "Comfort can prevent transformation"
   },
   {
+    "slug": "commitment-is-staying-in-connection-not-staying-together",
+    "title": "Real commitment is to stay in connection, not to stay together"
+  },
+  {
     "slug": "communication-techniques-get-weaponized",
     "title": "Communication techniques get weaponized without the right state"
   },
@@ -782,6 +938,10 @@
   {
     "slug": "competence-does-not-lead-to-confidence",
     "title": "Competence does not lead to confidence"
+  },
+  {
+    "slug": "complicating-things-is-a-form-of-distraction",
+    "title": "Making things complicated is a way to avoid doing what you want"
   },
   {
     "slug": "complimenting-makes-you-the-authority",
@@ -844,6 +1004,10 @@
     "title": "Confusing the ecstatic state with the insight itself sabotages integration"
   },
   {
+    "slug": "confusion-is-resistance-in-disguise",
+    "title": "Confusion can be resistance in disguise"
+  },
+  {
     "slug": "connection-as-career-compass",
     "title": "Connection as a career compass"
   },
@@ -876,6 +1040,10 @@
     "title": "Connection is the core need in parenting, not obedience"
   },
   {
+    "slug": "connection-metric-for-healthy-technology-use",
+    "title": "Connection is the metric for healthy technology use"
+  },
+  {
     "slug": "connection-over-perfection-in-process",
     "title": "Connection over perfection transforms the process"
   },
@@ -898,6 +1066,10 @@
   {
     "slug": "constriction-not-truth-identifies-limiting-beliefs",
     "title": "Constriction, not truth, identifies limiting beliefs"
+  },
+  {
+    "slug": "contact-with-greatness-shows-what-is-possible",
+    "title": "Contact with greatness shows you what is possible"
   },
   {
     "slug": "containing-emotions-to-connect-disconnects-you",
@@ -1012,6 +1184,10 @@
     "title": "Deep listening requires listening to yourself simultaneously"
   },
   {
+    "slug": "defense-agrees-the-world-that-somethings-wrong-with-you",
+    "title": "Every defense agrees with the world that something's wrong with you"
+  },
+  {
     "slug": "defense-feels-like-attack",
     "title": "Your defense feels like an attack to the other person"
   },
@@ -1026,6 +1202,10 @@
   {
     "slug": "define-principles-by-what-they-are-and-arent",
     "title": "Define principles by what they are and what they are not"
+  },
+  {
+    "slug": "delegate-the-criteria-not-the-solution",
+    "title": "Delegate the solution criteria, not the solution"
   },
   {
     "slug": "demanding-composure-of-a-child-is-psychotic",
@@ -1058,6 +1238,10 @@
   {
     "slug": "detachment-from-outcomes-enables-better-outcomes",
     "title": "Detachment from outcomes enables better outcomes"
+  },
+  {
+    "slug": "digesting-attention-stops-the-hungry-ghost",
+    "title": "Digesting the attention you already have stops the hungry ghost"
   },
   {
     "slug": "disappearing-as-survival-strategy",
@@ -1116,6 +1300,10 @@
     "title": "The most productive thing is usually the most uncomfortable thing"
   },
   {
+    "slug": "do-you-actually-want-to-be-healed",
+    "title": "The first real question is whether you actually want to be healed"
+  },
+  {
     "slug": "doing-emotions-at-people-avoids-feeling",
     "title": "Doing emotions at people means you're not actually feeling them"
   },
@@ -1134,6 +1322,14 @@
   {
     "slug": "dont-shame-kids-love-yourself",
     "title": "To not harm your children, love yourself"
+  },
+  {
+    "slug": "dont-should-yourself-into-being-seen",
+    "title": "Don't should yourself into being seen"
+  },
+  {
+    "slug": "dont-tell-someone-to-be-strong-when-theyre-hurting",
+    "title": "Don't make hurt into weakness \u2014 witness the strength"
   },
   {
     "slug": "dont-try-to-change-passive-aggression-in-others",
@@ -1166,6 +1362,10 @@
   {
     "slug": "drama-triangle-maps-to-fight-flight-freeze",
     "title": "The drama triangle maps to fight, flight, and freeze responses"
+  },
+  {
+    "slug": "draw-the-boundary-to-get-love-without-the-grit",
+    "title": "Draw a boundary to get love without the thing it was married to"
   },
   {
     "slug": "drawing-boundaries-dissolves-triggers",
@@ -1292,6 +1492,10 @@
     "title": "Emotions are road signs, not causes of behavior"
   },
   {
+    "slug": "emotions-are-signals-not-commands",
+    "title": "When emotions become fluid they give you signals instead of controlling you"
+  },
+  {
     "slug": "emotions-are-the-glue-holding-beliefs-in-place",
     "title": "Emotions are the glue holding beliefs in place"
   },
@@ -1332,6 +1536,10 @@
     "title": "Empathy transforms business interactions by addressing emotional reality"
   },
   {
+    "slug": "empathy-without-buying-the-story",
+    "title": "Empathy means being with someone without buying their story"
+  },
+  {
     "slug": "empower-people-decentrally",
     "title": "Empower people in a decentralized way"
   },
@@ -1348,8 +1556,16 @@
     "title": "Empowerment is love without submission or fight"
   },
   {
+    "slug": "empowerment-outlasts-power",
+    "title": "Empowerment outlasts power because it can't be taken away"
+  },
+  {
     "slug": "emptiness-is-the-source-of-empathic-attunement",
     "title": "Emptiness is the source of empathic attunement"
+  },
+  {
+    "slug": "encouragement-can-keep-someone-in-victimhood",
+    "title": "Encouraging someone as a project can keep them in victimhood"
   },
   {
     "slug": "endurance-mentality-blocks-transformation",
@@ -1366,6 +1582,14 @@
   {
     "slug": "engineering-heartbreak-to-avoid-heartbreak",
     "title": "We engineer heartbreak to avoid the heartbreak we haven't felt"
+  },
+  {
+    "slug": "enjoy-the-sensations-of-awakening",
+    "title": "Enjoying the sensations rather than bracing eases the integration"
+  },
+  {
+    "slug": "enjoyed-work-is-not-hard-work",
+    "title": "Work you enjoy stops being hard work"
   },
   {
     "slug": "enjoyment-as-compass-for-surrender",
@@ -1396,6 +1620,10 @@
     "title": "The question isn't how to do things you enjoy but how to enjoy what you're doing"
   },
   {
+    "slug": "enjoyment-is-the-pace-keeper-for-feeling",
+    "title": "Enjoyment is the pace-keeper for how deep to feel"
+  },
+  {
     "slug": "enjoyment-is-the-true-measure-of-efficiency",
     "title": "Enjoyment is the true measure of efficiency"
   },
@@ -1418,6 +1646,10 @@
   {
     "slug": "equanimity-without-emotional-fluidity-is-incomplete",
     "title": "Equanimity without emotional fluidity doesn't produce joy"
+  },
+  {
+    "slug": "every-emotion-is-a-signal-pointing-to-an-action",
+    "title": "Every emotion is a signal pointing toward an action or a need"
   },
   {
     "slug": "every-epiphany-becomes-a-task",
@@ -1496,8 +1728,16 @@
     "title": "Exploration not achievement is the real urge underneath potential anxiety"
   },
   {
+    "slug": "exposure-to-being-seen-cures-loneliness",
+    "title": "Being seen repeatedly dissolves shame and cures loneliness"
+  },
+  {
     "slug": "express-anger-without-directing-it",
     "title": "You can express anger without directing it at anyone"
+  },
+  {
+    "slug": "expressing-emotions-restores-connection",
+    "title": "Feeling and expressing emotion restores connection"
   },
   {
     "slug": "extend-rest-beyond-readiness",
@@ -1560,6 +1800,10 @@
     "title": "Maintaining false love erodes power and attraction in relationships"
   },
   {
+    "slug": "fast-transformation-needs-a-strong-container",
+    "title": "Fast transformation needs a strong container to stay stable"
+  },
+  {
     "slug": "fear-as-road-map-not-enemy",
     "title": "Fear is a road map, not an enemy to conquer"
   },
@@ -1574,6 +1818,10 @@
   {
     "slug": "fear-creates-binary-thinking-and-false-ends",
     "title": "Fear creates binary thinking and false ends"
+  },
+  {
+    "slug": "fear-distinguish-excitement-from-a-signal",
+    "title": "Fear is either excitement without the breath or a signal to take care of something"
   },
   {
     "slug": "fear-hot-potato",
@@ -1652,6 +1900,10 @@
     "title": "Feel the fear fully to see the opportunities in chaos"
   },
   {
+    "slug": "feel-the-emotions-while-you-act",
+    "title": "The method works powerfully only when you feel the emotions while doing it"
+  },
+  {
     "slug": "feel-the-false-end-to-dissolve-overwhelm",
     "title": "Feel through the feared outcome to dissolve overwhelm"
   },
@@ -1672,12 +1924,28 @@
     "title": "Feel your way to freedom"
   },
   {
+    "slug": "feeling-bad-perpetuates-the-trauma-cycle",
+    "title": "Believing you're bad perpetuates the trauma cycle"
+  },
+  {
+    "slug": "feeling-excitement-cracks-the-identity",
+    "title": "Feeling excitement cracks the identity open"
+  },
+  {
     "slug": "feeling-helplessness-creates-agency",
     "title": "Feeling helplessness creates agency, not control"
   },
   {
     "slug": "feeling-helplessness-creates-empowerment",
     "title": "Going through helplessness is what creates empowerment"
+  },
+  {
+    "slug": "feeling-lack-creates-lack",
+    "title": "Feeling lack creates and sustains the lack"
+  },
+  {
+    "slug": "feeling-life-beats-figuring-it-out",
+    "title": "Feeling your life produces clearer decisions than figuring it out"
   },
   {
     "slug": "feeling-of-failure-drives-fixing",
@@ -1745,6 +2013,10 @@
   },
   {
     "slug": "find-the-leverage-on-your-todo-list",
+    "title": "Find the one thing that makes everything else easier or irrelevant"
+  },
+  {
+    "slug": "find-the-one-domino-that-makes-the-rest-easier",
     "title": "Find the one thing that makes everything else easier or irrelevant"
   },
   {
@@ -1818,6 +2090,18 @@
   {
     "slug": "foreboding-joy-blocks-gratitude",
     "title": "Foreboding joy\u2014fear of the other shoe dropping\u2014blocks gratitude"
+  },
+  {
+    "slug": "forgiveness-is-a-three-step-process",
+    "title": "Forgiveness is a three-step process of heart, head, and gut"
+  },
+  {
+    "slug": "forgiveness-is-an-act-of-self-care",
+    "title": "Forgiveness is an act of self-care, not a duty to others"
+  },
+  {
+    "slug": "forgiveness-with-boundaries-invites-change",
+    "title": "Forgiveness held with boundaries can invite the other person to change"
   },
   {
     "slug": "four-types-of-projection",
@@ -1928,12 +2212,20 @@
     "title": "Gratitude embodies epiphanies \u2014 it lets realizations settle into the body"
   },
   {
+    "slug": "gratitude-for-abundance-removes-the-fear-of-losing-it",
+    "title": "Gratitude for abundance removes the fear of losing it"
+  },
+  {
     "slug": "gratitude-for-transformation-accelerates-growth",
     "title": "Gratitude for your own transformation accelerates growth"
   },
   {
     "slug": "gratitude-is-a-full-body-sport",
     "title": "Gratitude is a full-body sensation, not a mental exercise"
+  },
+  {
+    "slug": "gratitude-makes-noticing-efficient",
+    "title": "Gratitude for moments of presence makes change more efficient"
   },
   {
     "slug": "gratitude-reveals-abundance-already-present",
@@ -1948,12 +2240,24 @@
     "title": "Gratitude solves problems by seeing what's right and growing it"
   },
   {
+    "slug": "gratitude-works-when-felt-witnessed-and-sustained",
+    "title": "Gratitude works when it is felt, witnessed, and sustained"
+  },
+  {
+    "slug": "great-coaching-is-not-magic-but-a-state-of-mind",
+    "title": "Great coaching is not magic but a state of mind"
+  },
+  {
     "slug": "great-leaders-follow-conviction",
     "title": "Great leaders follow their conviction and the conviction of others"
   },
   {
     "slug": "grief-and-gratitude-coexist",
     "title": "Grief and gratitude coexist as the heart's response to mortality"
+  },
+  {
+    "slug": "grief-does-not-end-it-transforms",
+    "title": "Grief doesn't end, the love transforms"
   },
   {
     "slug": "grief-is-identity-dissolution",
@@ -2002,6 +2306,10 @@
   {
     "slug": "guilt-is-inherited-fear-in-disguise",
     "title": "Guilt is inherited fear in disguise"
+  },
+  {
+    "slug": "guilt-means-you-stopped-listening-to-your-wants",
+    "title": "Guilt means you've stopped listening to your deepest wants"
   },
   {
     "slug": "guilt-replaces-genuine-compassion",
@@ -2068,6 +2376,10 @@
     "title": "Hedging your truth is subtle caretaking"
   },
   {
+    "slug": "helping-without-being-asked-disempowers-people",
+    "title": "Helping someone who didn't ask disempowers them"
+  },
+  {
     "slug": "helplessness-dissolves-false-self-reliance",
     "title": "Helplessness dissolves false self-reliance"
   },
@@ -2084,6 +2396,10 @@
     "title": "The feeling being avoided underneath 'I've got this' is helplessness"
   },
   {
+    "slug": "hiding-creates-the-rejection-it-fears",
+    "title": "Hiding while scared creates the very rejection it fears"
+  },
+  {
     "slug": "hiding-makes-you-feel-more-like-an-imposter",
     "title": "Hiding who you are makes you feel more like an imposter"
   },
@@ -2098,6 +2414,10 @@
   {
     "slug": "highest-generosity-is-presence",
     "title": "The highest act of generosity is simply being with someone without needing anything to change"
+  },
+  {
+    "slug": "holding-back-power-also-holds-back-love",
+    "title": "Holding back your power also holds back your love and joy"
   },
   {
     "slug": "holding-emotions-in-community",
@@ -2160,6 +2480,10 @@
     "title": "Hypervigilance against narcissists masks unfelt grief"
   },
   {
+    "slug": "idealizing-the-future-keeps-you-from-the-present",
+    "title": "Idealizing the future keeps you from what's available now"
+  },
+  {
     "slug": "identifying-with-emotions-slows-transformation",
     "title": "Identifying with emotions slows their transformation"
   },
@@ -2198,6 +2522,10 @@
   {
     "slug": "impartiality-is-wandering-not-commuting",
     "title": "Impartiality is wandering not commuting"
+  },
+  {
+    "slug": "impartiality-means-trusting-the-other-persons-wisdom",
+    "title": "Impartiality means trusting the other person's wisdom"
   },
   {
     "slug": "importance-kills-enjoyment",
@@ -2248,6 +2576,10 @@
     "title": "The inner critic is a guide to unhealed parts"
   },
   {
+    "slug": "inner-critic-is-an-inherited-voice-not-you",
+    "title": "The inner critic is an inherited voice, not you talking to yourself"
+  },
+  {
     "slug": "inner-critic-is-not-your-voice",
     "title": "The inner critic is not your voice \u2014 it's inherited"
   },
@@ -2280,12 +2612,24 @@
     "title": "Insight requires embodied integration to become wisdom"
   },
   {
+    "slug": "institutionalize-change-over-one-on-one-intervention",
+    "title": "Institutionalized change beats one-on-one intervention"
+  },
+  {
     "slug": "integration-means-more-mystery-not-more-answers",
     "title": "Healthy integration means more mystery, not more answers"
   },
   {
+    "slug": "intellect-understands-but-the-body-does-not-change",
+    "title": "The intellect can understand a change the body never makes"
+  },
+  {
     "slug": "intelligence-and-self-awareness-must-go-together",
     "title": "Intelligence and self-awareness must go together"
+  },
+  {
+    "slug": "intelligence-is-gated-by-what-you-wont-feel",
+    "title": "Intelligence is gated by the emotions you won't feel"
   },
   {
     "slug": "intensify-the-feeling-to-move-through-it",
@@ -2302,6 +2646,10 @@
   {
     "slug": "internal-authority-mirrors-external",
     "title": "How you treat your internal authority mirrors how you treat external ones"
+  },
+  {
+    "slug": "internal-conflict-is-not-a-reason-not-to-act",
+    "title": "Waiting for zero internal conflict before acting keeps you stuck"
   },
   {
     "slug": "internal-division-is-the-enemy-of-charisma",
@@ -2360,6 +2708,10 @@
     "title": "Jealousy masks rejected parts of self"
   },
   {
+    "slug": "jealousy-pushes-away-the-love-it-wants",
+    "title": "Jealousy is a bid for love that pushes love away"
+  },
+  {
     "slug": "joy-dissolves-identity",
     "title": "Joy dissolves identity and that's what makes it scary"
   },
@@ -2404,6 +2756,10 @@
     "title": "Saying 'it's just business' is actually deeply personal"
   },
   {
+    "slug": "just-do-the-thing-you-want-without-permission",
+    "title": "Just do the thing you want to do and stop asking permission"
+  },
+  {
     "slug": "keeping-it-together-blocks-team-trust",
     "title": "Keeping it together as a leader blocks team trust"
   },
@@ -2420,12 +2776,20 @@
     "title": "Knowing your patterns doesn't free you from them"
   },
   {
+    "slug": "knowing-your-needs-cures-the-fear-of-being-seen",
+    "title": "Asking what you need is a strange way out of the fear of being seen"
+  },
+  {
     "slug": "knowing-yourself-is-the-only-safety",
     "title": "Knowing yourself is the only real safety"
   },
   {
     "slug": "lack-of-enjoyment-diagnoses-problems",
     "title": "Lack of enjoyment diagnoses the real problem"
+  },
+  {
+    "slug": "lack-self-talk-rewrites-your-reality",
+    "title": "Repeated lack self-talk rewrites how you see reality"
   },
   {
     "slug": "lattice-work-of-beliefs",
@@ -2568,8 +2932,16 @@
     "title": "Love and sorrow share the same body"
   },
   {
+    "slug": "love-can-be-made-non-personal",
+    "title": "Personal love can be made non-personal and given to the world"
+  },
+  {
     "slug": "love-conditioning-is-somatic-not-just-intellectual",
     "title": "Love conditioning is somatic, not just intellectual"
+  },
+  {
+    "slug": "love-dissolves-identity-which-is-scary",
+    "title": "Love dissolves identity, which is why it's frightening"
   },
   {
     "slug": "love-is-the-antidote-to-shame",
@@ -2580,12 +2952,28 @@
     "title": "Love requires willingness to be hurt"
   },
   {
+    "slug": "love-that-comes-with-abuse-gets-met-with-aggression",
+    "title": "When love arrived with abuse, love later gets met with aggression"
+  },
+  {
+    "slug": "love-the-part-in-pain-the-way-you-wanted-to-be-loved",
+    "title": "Love the part in pain the way you wanted your parents to love you"
+  },
+  {
     "slug": "love-the-resistance-to-the-thing",
     "title": "If you can't love the thing, love the resistance to the thing"
   },
   {
     "slug": "love-the-resistance",
     "title": "Loving resistance is the path through it"
+  },
+  {
+    "slug": "love-wired-with-pain-feels-like-love",
+    "title": "Whatever was wired with love feels like love, even when it isn't"
+  },
+  {
+    "slug": "love-your-own-anger-to-stop-fearing-others",
+    "title": "You must love your own anger to stop fearing others' anger"
   },
   {
     "slug": "love-yourself-how-you-wanted-to-be-loved",
@@ -2608,12 +2996,28 @@
     "title": "Loving presence must be embodied, not performed"
   },
   {
+    "slug": "loving-the-emotion-transforms-it-getting-rid-of-it-doesnt",
+    "title": "Loving an emotion transforms it; trying to get rid of it doesn't"
+  },
+  {
     "slug": "loving-the-protective-part-before-asking-it-to-change",
     "title": "Love the protective part before asking it to change"
   },
   {
     "slug": "loving-to-manage-stops-working",
     "title": "Loving something to make it go away stops working"
+  },
+  {
+    "slug": "loving-yourself-makes-you-happy-in-the-moment",
+    "title": "Loving the part in pain makes you happy in the moment"
+  },
+  {
+    "slug": "make-it-safe-to-say-no",
+    "title": "Make it safe and expected to say no"
+  },
+  {
+    "slug": "making-awakening-a-goal-slows-it-down",
+    "title": "Making awakening a goal slows the process down"
   },
   {
     "slug": "making-someone-wrong-prevents-healing",
@@ -2628,12 +3032,20 @@
     "title": "Emotional management is an internal war with yourself"
   },
   {
+    "slug": "managing-emotions-is-the-rebel-dilemma",
+    "title": "Managing your emotions is the rebel dilemma \u2014 either way the emotion controls you"
+  },
+  {
     "slug": "managing-emotions-prolongs-suffering",
     "title": "Managing emotions prolongs suffering"
   },
   {
     "slug": "managing-others-avoids-own-feelings",
     "title": "We manage others' emotions to avoid our own"
+  },
+  {
+    "slug": "managing-reality-costs-more-energy-than-enjoying-it",
+    "title": "Managing reality costs more energy than enjoying it"
   },
   {
     "slug": "managing-trauma-versus-resolving-it",
@@ -2654,6 +3066,10 @@
   {
     "slug": "measure-how-you-fight-not-how-often",
     "title": "Relationship health is measured by how you fight, not how often"
+  },
+  {
+    "slug": "meditation-can-become-self-management",
+    "title": "Meditation can become a form of self-management and dissociation"
   },
   {
     "slug": "micromanaging-comes-from-feeling-out-of-control",
@@ -2702,6 +3118,10 @@
   {
     "slug": "money-is-a-screen-for-projection",
     "title": "Money is a screen for projection"
+  },
+  {
+    "slug": "money-mirrors-the-relationship-with-your-father",
+    "title": "Money chasing can be a projection of chasing a parent's love"
   },
   {
     "slug": "money-patterns-replay-childhood-connection-patterns",
@@ -2784,8 +3204,16 @@
     "title": "Negative self-reinforcement creates procrastination loops"
   },
   {
+    "slug": "negative-self-talk-reveals-how-love-was-wired",
+    "title": "Negative self-talk reveals how love was wired in childhood"
+  },
+  {
     "slug": "negativity-bias-limits-intelligent-people",
     "title": "Negativity bias especially limits intelligent people"
+  },
+  {
+    "slug": "nervous-system-fight-or-flight-collapses-thinking",
+    "title": "Fight-or-flight collapses thinking into binaries and false ends"
   },
   {
     "slug": "never-compromise-find-solutions-for-both",
@@ -2800,6 +3228,18 @@
     "title": "Leading with 'no' gets to truth faster than platitudes"
   },
   {
+    "slug": "no-external-validation-works-without-self-validation",
+    "title": "No amount of external validation works if you won't validate yourself"
+  },
+  {
+    "slug": "no-feeling-is-also-somatic-information",
+    "title": "Feeling nothing is itself somatic data worth exploring"
+  },
+  {
+    "slug": "no-one-will-hurt-us-but-us",
+    "title": "With AI, no one will hurt us but us"
+  },
+  {
     "slug": "no-right-or-wrong-only-perspectives",
     "title": "There is no right or wrong in a fight, only perspectives"
   },
@@ -2810,6 +3250,14 @@
   {
     "slug": "non-personal-awareness-vs-dissociation",
     "title": "Non-personal awareness is dissociation without leaving the body"
+  },
+  {
+    "slug": "not-acting-tells-you-youre-not-worthy",
+    "title": "Not doing the thing you want tells yourself you're not worthy"
+  },
+  {
+    "slug": "not-being-yourself-creates-constant-anxiety",
+    "title": "Not being yourself creates a constant, everlasting anxiety"
   },
   {
     "slug": "not-belonging-is-a-trained-defense",
@@ -2860,6 +3308,10 @@
     "title": "Emotional numbness can be a survival gift, not a deficit"
   },
   {
+    "slug": "objections-create-buy-in-not-resistance",
+    "title": "Objections create buy-in and better solutions"
+  },
+  {
     "slug": "obligation-as-love-strategy-backfires",
     "title": "Using obligation as a strategy to get love always backfires"
   },
@@ -2898,6 +3350,10 @@
   {
     "slug": "open-the-drawer-as-cultural-practice",
     "title": "\\\"Open the drawer\\\" as cultural practice"
+  },
+  {
+    "slug": "open-your-heart-to-stop-caring-what-they-think",
+    "title": "Opening your heart to someone dissolves your concern with their judgment"
   },
   {
     "slug": "opening-heart-to-the-no-creates-better-outcomes",
@@ -2980,6 +3436,14 @@
     "title": "Owning your wants means being okay with having them"
   },
   {
+    "slug": "owning-your-authority-with-an-open-heart",
+    "title": "Owning your authority with an open heart heals the authority wound"
+  },
+  {
+    "slug": "owning-your-fear-without-handing-it-off",
+    "title": "Own your fear without handing it off to someone else"
+  },
+  {
     "slug": "owning-your-needs-is-not-selfish",
     "title": "Owning your needs isn't selfish\u2014it's what makes you effective"
   },
@@ -3040,12 +3504,20 @@
     "title": "Passive consumption of wisdom never transforms you"
   },
   {
+    "slug": "paying-attention-changes-the-pattern-on-its-own",
+    "title": "Paying attention to a pattern changes it on its own"
+  },
+  {
     "slug": "peace-comes-from-dropping-the-war-not-avoiding-conflict",
     "title": "Peace comes from dropping the war not avoiding conflict"
   },
   {
     "slug": "peace-is-harder-to-allow-than-pain",
     "title": "Peace and joy are harder to allow than pain"
+  },
+  {
+    "slug": "peace-with-yourself-is-only-available-now",
+    "title": "Peace with yourself is only available right now"
   },
   {
     "slug": "peak-experience-becomes-goal-trap",
@@ -3062,6 +3534,10 @@
   {
     "slug": "people-want-connection-not-perfection",
     "title": "People want to feel connected with you, not impressed by you"
+  },
+  {
+    "slug": "perfection-over-connection-holds-people-back",
+    "title": "Prioritizing perfection over connection holds people back"
   },
   {
     "slug": "perfectionism-as-safety-strategy",
@@ -3140,8 +3616,16 @@
     "title": "Pleasure is the awareness of sensation moving through the body"
   },
   {
+    "slug": "pleasure-is-the-path-to-gut-awakening",
+    "title": "Pleasure is the safe path to the gut awakening"
+  },
+  {
     "slug": "pleasure-requires-receiving-not-effort",
     "title": "Pleasure requires receiving not effort"
+  },
+  {
+    "slug": "pleasure-settles-the-nervous-system-into-intelligence",
+    "title": "Pleasure settles the nervous system back into intelligence"
   },
   {
     "slug": "pleasure-signals-safety",
@@ -3170,6 +3654,10 @@
   {
     "slug": "power-seeking-as-fear-expression",
     "title": "Power seeking is the ultimate expression of fear"
+  },
+  {
+    "slug": "practicing-gratitude-to-get-something-confirms-lack",
+    "title": "Practicing gratitude to get something confirms the lack"
   },
   {
     "slug": "pray-for-an-accident-on-stage",
@@ -3408,8 +3896,16 @@
     "title": "Regret comes from not being yourself"
   },
   {
+    "slug": "regulate-the-nervous-system-before-learning-from-anxiety",
+    "title": "Regulate the nervous system before you can learn from anxiety"
+  },
+  {
     "slug": "rehearsing-conversations-avoids-rejection",
     "title": "Rehearsing conversations is a strategy to avoid rejection"
+  },
+  {
+    "slug": "rejecting-yourself-first-prevents-rejection",
+    "title": "Rejecting yourself first is a strategy to never get rejected"
   },
   {
     "slug": "relating-to-parents-mirrors-relating-to-god-and-money",
@@ -3444,6 +3940,10 @@
     "title": "Relationships need experiments, not fixes"
   },
   {
+    "slug": "releasing-self-judgment-requires-grieving-it",
+    "title": "Releasing lifelong self-judgment requires grieving it"
+  },
+  {
     "slug": "remembering-who-you-were-before-the-armor",
     "title": "Transformation often feels like remembering who you were before the armor"
   },
@@ -3458,6 +3958,10 @@
   {
     "slug": "replace-obligation-with-wanting",
     "title": "Replacing obligation with wanting transforms any task"
+  },
+  {
+    "slug": "replace-the-lack-voice-rather-than-suppress-it",
+    "title": "You can't stop the lack-voice, you have to replace it"
   },
   {
     "slug": "repressed-anger-kinks-into-symptoms",
@@ -3526,6 +4030,10 @@
   {
     "slug": "resisting-fear-leaks-it-sideways",
     "title": "Resisting fear doesn't eliminate it \u2014 it leaks out sideways"
+  },
+  {
+    "slug": "resisting-help-replays-the-father-relationship",
+    "title": "Resisting help replays the relationship with your father"
   },
   {
     "slug": "resisting-inner-critic-strengthens-it",
@@ -3652,6 +4160,10 @@
     "title": "Always say goodbye like it's the last time"
   },
   {
+    "slug": "say-im-excited-to-unkink-anxiety",
+    "title": "Saying 'I'm excited' while feeling it can unkink anxiety"
+  },
+  {
     "slug": "say-the-unsaid-to-find-the-trigger",
     "title": "Say the unsaid to find the hidden trigger"
   },
@@ -3664,12 +4176,24 @@
     "title": "Saying no restores agency and reconnects you to your want"
   },
   {
+    "slug": "saying-ouch-reveals-how-abusive-self-talk-is",
+    "title": "Saying \\\"ouch\\\" out loud reveals how abusive your self-talk really is"
+  },
+  {
     "slug": "saying-yes-to-the-hardest-thing",
     "title": "Saying yes to the hardest thing recalibrates everything else"
   },
   {
+    "slug": "saying-yes-to-what-feels-good-now-gives-energy",
+    "title": "Saying yes to what feels good now gives energy that chasing the future drains"
+  },
+  {
     "slug": "scapegoat-holds-the-family-shadow",
     "title": "The scapegoat holds the family shadow"
+  },
+  {
+    "slug": "schedule-time-for-hard-conversations",
+    "title": "Schedule time for the hard conversations you're avoiding"
   },
   {
     "slug": "searching-for-love-cuts-off-love",
@@ -3704,6 +4228,10 @@
     "title": "Seeing people deeply is at the core of all forms of generosity"
   },
   {
+    "slug": "seeing-others-dissolves-their-judgment",
+    "title": "Seeing others dissolves their judgment and criticism"
+  },
+  {
     "slug": "seeing-others-is-the-exit-from-feeling-unseen",
     "title": "Seeing others is the counterintuitive exit from feeling unseen"
   },
@@ -3718,6 +4246,10 @@
   {
     "slug": "seeing-through-projections-opens-possibility",
     "title": "Seeing through projections opens up possibility like seeing new uses for a brick"
+  },
+  {
+    "slug": "seeing-truth-and-falseness-in-every-view-expands-intelligence",
+    "title": "Seeing truth and falseness in every view expands intelligence"
   },
   {
     "slug": "seeing-your-projection-creates-immediate-relief",
@@ -3772,6 +4304,10 @@
     "title": "Self-compassion must come before external success"
   },
   {
+    "slug": "self-compassion-is-the-meta-variable",
+    "title": "Self-compassion is the meta-variable that speeds all transformation"
+  },
+  {
     "slug": "self-compassion-is-the-real-outcome",
     "title": "Self-compassion is the real outcome of healing"
   },
@@ -3782,6 +4318,10 @@
   {
     "slug": "self-criticism-intensifies-with-intelligence",
     "title": "Self-criticism intensifies with intelligence\u2014the smarter you are, the more nuanced your inner critic"
+  },
+  {
+    "slug": "self-editing-is-self-judgment",
+    "title": "The constant self-editing is a form of self-judgment"
   },
   {
     "slug": "self-forgiveness-breaks-the-shame-loop",
@@ -3828,6 +4368,10 @@
     "title": "Self-possessed presence transforms how others relate to you"
   },
   {
+    "slug": "self-possession-is-what-people-are-attracted-to",
+    "title": "Self-possession is what people are actually attracted to"
+  },
+  {
     "slug": "self-pressure-suppresses-love-and-awareness",
     "title": "Self-pressure suppresses the love and awareness underneath"
   },
@@ -3854,6 +4398,10 @@
   {
     "slug": "self-reliance-blocks-receiving-support",
     "title": "Self-reliance blocks the ability to receive support"
+  },
+  {
+    "slug": "self-reliance-comes-from-parentified-childhood",
+    "title": "Self-reliance comes from a childhood where you took care of your parents"
   },
   {
     "slug": "self-reliance-is-a-defense-against-helplessness",
@@ -4024,12 +4572,20 @@
     "title": "Every should is obligation wearing a mask"
   },
   {
+    "slug": "should-is-shame-that-stops-behavior",
+    "title": "\\\"Should\\\" is shame, and shame stops behavior"
+  },
+  {
     "slug": "shoulding-yourself-to-hold-space-prevents-it",
     "title": "Telling yourself you should hold space is what prevents you from holding space"
   },
   {
     "slug": "shoulds-are-a-cage-not-a-solution",
     "title": "Shoulds are a cage that reinforces the problem they try to solve"
+  },
+  {
+    "slug": "show-up-as-yourself-to-answer-stay-or-leave",
+    "title": "Showing up as yourself answers the stay-or-leave question"
   },
   {
     "slug": "simplicity-beyond-complexity-in-emotions",
@@ -4064,6 +4620,10 @@
     "title": "Solitude and loneliness are fundamentally different"
   },
   {
+    "slug": "somatic-awareness-is-a-key-to-presence",
+    "title": "Somatic awareness is a key to presence and to the wisdom of emotions"
+  },
+  {
     "slug": "somatic-bypass-domesticates-instead-of-liberates",
     "title": "Somatic practices can domesticate rather than liberate"
   },
@@ -4088,6 +4648,10 @@
     "title": "Speaking truth requires an open heart, not management of others' reactions"
   },
   {
+    "slug": "speed-bumping-deflects-love",
+    "title": "Speed bumping is how we deflect love we can't yet receive"
+  },
+  {
     "slug": "stage-fright-is-a-fuel-cell",
     "title": "Stage fright is a fuel cell, not an obstacle"
   },
@@ -4104,12 +4668,20 @@
     "title": "Stay when experiments get uncomfortable, iterate when they become shoulds"
   },
   {
+    "slug": "staying-calm-is-a-childhood-role",
+    "title": "Staying calm can be a childhood role taken on to stay safe"
+  },
+  {
     "slug": "stillness-is-always-available",
     "title": "There is a part of you that is always at rest"
   },
   {
     "slug": "stone-face-teaches-stone-face",
     "title": "The stone-faced baby experiment shows how suppression is transmitted"
+  },
+  {
+    "slug": "stop-being-the-victim-to-love-the-angry-person",
+    "title": "You can't love someone you see as your oppressor"
   },
   {
     "slug": "stop-fixing-others-to-help-them-change",
@@ -4142,6 +4714,10 @@
   {
     "slug": "stress-transmutes-into-creative-energy-when-felt",
     "title": "Stress transmutes into creative energy when fully felt"
+  },
+  {
+    "slug": "strong-boundaries-are-an-act-of-compassion",
+    "title": "Strong boundaries are an act of compassion to self and other"
   },
   {
     "slug": "stronger-stories-slow-emotional-movement",
@@ -4192,12 +4768,20 @@
     "title": "Suppressed wants become organizational politics"
   },
   {
+    "slug": "suppressed-wants-come-from-grief-of-unmet-needs",
+    "title": "Suppressed wants protect you from the grief of unmet childhood needs"
+  },
+  {
     "slug": "suppressing-anger-kills-your-fire",
     "title": "Suppressing anger kills your fire, determination, and clarity"
   },
   {
     "slug": "suppressing-authentic-expression-increases-self-consciousness",
     "title": "Suppressing authentic expression increases self-consciousness"
+  },
+  {
+    "slug": "suppressing-emotions-has-a-physical-price",
+    "title": "Suppressing emotions has a physical price the body pays"
   },
   {
     "slug": "suppressing-emotions-impairs-decision-making",
@@ -4236,8 +4820,16 @@
     "title": "Sustained fear requires delayed processing"
   },
   {
+    "slug": "take-five-contrary-actions-immediately",
+    "title": "Take five clean contrary actions immediately, as reps"
+  },
+  {
     "slug": "take-the-30000-foot-view-regularly",
     "title": "Take the 30,000-foot view regularly to stay on course"
+  },
+  {
+    "slug": "taking-care-of-others-disempowers-them",
+    "title": "Taking responsibility for others' happiness disempowers them"
   },
   {
     "slug": "taking-responsibility-for-partners-emotions-breeds-resentment",
@@ -4262,6 +4854,10 @@
   {
     "slug": "teams-consolidate-helplessness-in-one-person",
     "title": "Teams consolidate unfelt helplessness in one person"
+  },
+  {
+    "slug": "teams-win-or-lose-on-hard-conversations",
+    "title": "Teams win or lose on their ability to have the hard conversation"
   },
   {
     "slug": "tears-dont-disturb-the-quiet",
@@ -4296,12 +4892,32 @@
     "title": "The abyss you avoid is your freedom"
   },
   {
+    "slug": "the-ancillary-pain-of-not-being-seen",
+    "title": "The ancillary pain of not being seen must also be processed"
+  },
+  {
     "slug": "the-best-teacher-just-went-through-it",
     "title": "The best teacher just went through it"
   },
   {
+    "slug": "the-body-holds-what-the-mind-cuts-off",
+    "title": "The body holds emotions whether or not you put attention on them"
+  },
+  {
     "slug": "the-butler-is-always-there",
     "title": "The subconscious always has the answer on a platter \u2014 you just need to slow down to see it"
+  },
+  {
+    "slug": "the-closing-heart-is-a-boundary-signal",
+    "title": "A closing heart is the body signaling a boundary"
+  },
+  {
+    "slug": "the-empty-space-is-the-path-to-freedom",
+    "title": "The empty space you've been avoiding is the path to freedom"
+  },
+  {
+    "slug": "the-endurer-pattern-learns-not-to-feel-pain",
+    "title": "The endurer pattern survives by refusing to feel pain"
   },
   {
     "slug": "the-enoughness-bar-always-moves",
@@ -4312,12 +4928,60 @@
     "title": "The expansiveness of I Am"
   },
   {
+    "slug": "the-fantasy-of-perfect-help-keeps-you-alone",
+    "title": "The fantasy of perfect help guarantees you stay alone"
+  },
+  {
+    "slug": "the-fear-of-being-seen-is-the-belief-youre-broken",
+    "title": "The fear of being seen is the belief that you're inherently broken"
+  },
+  {
+    "slug": "the-four-as-change-behavior-after-insight",
+    "title": "The four A's change behavior after you've seen a pattern: announce, apologize, ask, act"
+  },
+  {
+    "slug": "the-four-as-only-work-after-genuine-recognition",
+    "title": "The four A's only work after a genuine recognition, not from a should"
+  },
+  {
+    "slug": "the-futility-of-winning-is-actually-freedom",
+    "title": "Seeing that winning and losing both pass is freedom, not despair"
+  },
+  {
+    "slug": "the-golden-algorithm",
+    "title": "The golden algorithm: we invite back the emotion we avoid, in the way we avoid it"
+  },
+  {
+    "slug": "the-gut-points-toward-what-you-want",
+    "title": "The gut points you toward what you want before the mind knows it"
+  },
+  {
+    "slug": "the-helper-trap-comes-from-parentified-childhood",
+    "title": "The helper trap comes from a parentified childhood"
+  },
+  {
+    "slug": "the-inner-critic-cares-for-you-dysfunctionally",
+    "title": "The inner critic is dysfunctional care, not an enemy"
+  },
+  {
+    "slug": "the-inner-critic-is-a-program-from-childhood",
+    "title": "The inner critic is a survival program installed in childhood"
+  },
+  {
     "slug": "the-kaleidoscope-fear",
     "title": "The fear that everything is projection dissolves into freedom"
   },
   {
     "slug": "the-last-cookie-problem",
     "title": "The last cookie problem in groups"
+  },
+  {
+    "slug": "the-leaders-job-is-not-to-take-care-of-everyone",
+    "title": "The leader's job is not to take care of everyone"
+  },
+  {
+    "slug": "the-loved-become-a-conduit-to-loving-the-world",
+    "title": "The person who loved you is a conduit to loving everything"
   },
   {
     "slug": "the-mind-cannot-find-your-purpose",
@@ -4328,6 +4992,14 @@
     "title": "The mind inflates tasks to avoid the feelings underneath"
   },
   {
+    "slug": "the-money-block-is-really-a-safety-block",
+    "title": "A money block is usually a safety block in disguise"
+  },
+  {
+    "slug": "the-other-shoe-dropping-blocks-good-feelings",
+    "title": "The intellect's 'other shoe will drop' story blocks every good feeling"
+  },
+  {
     "slug": "the-pattern-is-happening-right-now",
     "title": "The defensive pattern is always visible in the present moment"
   },
@@ -4336,12 +5008,36 @@
     "title": "Holding a new identity triggers a purge of contradicting beliefs"
   },
   {
+    "slug": "the-real-boundary-is-i-get-my-boundaries",
+    "title": "The real boundary is not the situation but knowing you get your boundaries"
+  },
+  {
+    "slug": "the-real-question-is-can-i-stay-with-myself",
+    "title": "Stay-or-leave is really the question 'can I stay with myself?'"
+  },
+  {
+    "slug": "the-recent-epiphany-is-also-a-rut",
+    "title": "The most recent epiphany becomes the next rut you have to release"
+  },
+  {
+    "slug": "the-resistance-to-asking-protects-an-unfelt-sadness",
+    "title": "The resistance to asking protects an unfelt sadness"
+  },
+  {
     "slug": "the-story-of-brokenness-is-the-problem",
     "title": "The story about how you're broken is the problem, not the brokenness"
   },
   {
+    "slug": "the-story-of-unhappiness-hides-real-happiness",
+    "title": "The story of unhappiness hides the real happiness in the moment"
+  },
+  {
     "slug": "the-story-you-carry-may-not-be-the-full-truth",
     "title": "The story you carry about your wound may not be the full truth"
+  },
+  {
+    "slug": "the-stuckness-is-happening-in-the-room",
+    "title": "The stuckness you came to solve is happening right now in the room"
   },
   {
     "slug": "the-truth-speaker-becomes-the-problem",
@@ -4408,6 +5104,10 @@
     "title": "Repressed anger manifests in three forms: self-abuse, passive aggression, and explosive anger"
   },
   {
+    "slug": "three-intelligences-triple-your-intelligence",
+    "title": "Head, heart, and gut are three intelligences that triple your capacity"
+  },
+  {
     "slug": "three-stages-of-integration",
     "title": "Integration follows three stages: disorientation, recognition, and mastery"
   },
@@ -4422,6 +5122,10 @@
   {
     "slug": "three-to-five-rule-for-new-boundaries",
     "title": "Expect people to test new boundaries three to five times before accepting them"
+  },
+  {
+    "slug": "three-ways-we-push-love-away-chase-avoid-fight",
+    "title": "We push away love by chasing it, avoiding it, or fighting"
   },
   {
     "slug": "time-anxiety-grows-with-precision",
@@ -4476,6 +5180,10 @@
     "title": "Personal transformation creates generational change"
   },
   {
+    "slug": "transformation-requires-all-three-levels",
+    "title": "Guaranteed transformation requires working the head, heart, and nervous system together"
+  },
+  {
     "slug": "transformation-requires-experience-not-information",
     "title": "Transformation requires experience, not information"
   },
@@ -4486,6 +5194,10 @@
   {
     "slug": "trauma-addiction-is-choosing-the-familiar",
     "title": "Trauma addiction is choosing what's familiar, not what's safe"
+  },
+  {
+    "slug": "trauma-stays-until-you-feel-the-hurt-underneath",
+    "title": "Trauma controls you until you feel the hurt underneath it"
   },
   {
     "slug": "triggers-are-past-living-through-present",
@@ -4624,6 +5336,14 @@
     "title": "Unprocessed grief creates most human conflict"
   },
   {
+    "slug": "unrequested-help-hands-someone-your-fear",
+    "title": "Unrequested help hands your fear to someone else to hold"
+  },
+  {
+    "slug": "unresisted-emotions-become-virtues",
+    "title": "Fully felt and unresisted, every emotion becomes a virtue"
+  },
+  {
     "slug": "unsafety-as-belief-anchor",
     "title": "The belief 'I'll be unsafe' anchors other limiting beliefs"
   },
@@ -4664,8 +5384,16 @@
     "title": "The VIEW framework for deep listening"
   },
   {
+    "slug": "view-is-a-mindset-not-a-technique",
+    "title": "View is a mindset, not a technique"
+  },
+  {
     "slug": "view-is-a-state-of-mind-not-a-technique",
     "title": "VIEW is a state of mind not a technique"
+  },
+  {
+    "slug": "vipe-the-four-qualities-of-great-coaches",
+    "title": "Every great coach shares four qualities: vulnerability, impartiality, empathy, and wonder"
   },
   {
     "slug": "voice-in-head-talks-to-itself",
@@ -4682,6 +5410,10 @@
   {
     "slug": "vulnerability-invites-support",
     "title": "Vulnerability invites the support self-reliance blocks"
+  },
+  {
+    "slug": "vulnerability-is-admitting-a-good-truth-not-a-bad-one",
+    "title": "Real vulnerability is admitting a good truth you don't want to see"
   },
   {
     "slug": "vulnerability-is-personal-not-moral",
@@ -4712,12 +5444,20 @@
     "title": "Walking on eggshells guarantees resentment"
   },
   {
+    "slug": "wanting-help-and-refusing-help-creates-stagnation",
+    "title": "Simultaneously wanting and refusing help creates stagnation"
+  },
+  {
     "slug": "wanting-is-aliveness",
     "title": "Wanting is aliveness"
   },
   {
     "slug": "wanting-matters-more-than-what-you-want",
     "title": "Wanting matters more than what you want"
+  },
+  {
+    "slug": "wanting-money-is-not-selfish",
+    "title": "Wanting money is not selfish \u2014 it's wanting freedom and safety"
   },
   {
     "slug": "wanting-requires-no-justification",
@@ -4728,6 +5468,10 @@
     "title": "Wanting someone to change reflects a part of yourself you can't love"
   },
   {
+    "slug": "wanting-to-be-needed-limits-wealth",
+    "title": "Wanting to be needed limits wealth; wanting to be unnecessary grows it"
+  },
+  {
     "slug": "wanting-to-be-seen-prevents-seeing-others",
     "title": "Wanting to be seen prevents you from seeing others"
   },
@@ -4736,8 +5480,16 @@
     "title": "Wanting to control others' perception of you is absurd"
   },
   {
+    "slug": "wanting-to-fit-in-and-be-extraordinary-conflict",
+    "title": "Wanting to fit in and wanting to be extraordinary cancel each other out"
+  },
+  {
     "slug": "wants-are-evolutionary-strategies",
     "title": "Wants are strategies for essential human needs"
+  },
+  {
+    "slug": "wants-motivate-where-shoulds-stagnate",
+    "title": "Wants motivate where shoulds stagnate"
   },
   {
     "slug": "war-with-your-wants-creates-self-sabotage",
@@ -4760,6 +5512,10 @@
     "title": "Each person is a 'cult of one' with internal belief structures they can't fully see"
   },
   {
+    "slug": "we-are-raising-ai-while-it-raises-us",
+    "title": "We are raising AI while it raises us"
+  },
+  {
     "slug": "we-attract-what-we-learned-as-love",
     "title": "We're attracted to what we learned as love"
   },
@@ -4778,6 +5534,10 @@
   {
     "slug": "we-find-love-when-we-stop-fearing-annihilation",
     "title": "We find love when we stop fearing annihilation"
+  },
+  {
+    "slug": "we-fool-ourselves-its-the-wrong-person",
+    "title": "We fool ourselves by blaming the wrong person or circumstance"
   },
   {
     "slug": "we-push-away-approval-we-seek",
@@ -4800,6 +5560,14 @@
     "title": "Weaponizing non-caretaking is just another defense"
   },
   {
+    "slug": "weigh-short-term-against-long-term-consequences",
+    "title": "Weighing short-term against long-term consequences makes the authentic move obvious"
+  },
+  {
+    "slug": "welcome-all-feelings-to-feel-joy",
+    "title": "Joy won't come unless all the other feelings are welcome"
+  },
+  {
     "slug": "welcome-doubt-instead-of-running",
     "title": "Welcoming doubt instead of running from it opens the heart"
   },
@@ -4814,6 +5582,10 @@
   {
     "slug": "welcome-the-inner-critic",
     "title": "Welcoming the inner critic dissolves its power"
+  },
+  {
+    "slug": "welcoming-all-emotions-makes-love-possible",
+    "title": "Welcoming all emotions is what makes sustained love possible"
   },
   {
     "slug": "welcoming-childhood-hurt-expands-love",
@@ -4838,6 +5610,18 @@
   {
     "slug": "welcoming-not-just-accepting-emotions",
     "title": "Welcoming emotions is fundamentally different from accepting them"
+  },
+  {
+    "slug": "welcoming-not-managing-leads-to-awakening",
+    "title": "Welcoming everything, not managing it, is what leads to awakening"
+  },
+  {
+    "slug": "welcoming-yourself-dissolves-the-need-to-reject",
+    "title": "Welcoming yourself dissolves the need to reject"
+  },
+  {
+    "slug": "what-shifts-is-the-doer-not-your-capacity",
+    "title": "What shifts in awakening is the doer, not your capacity to function"
   },
   {
     "slug": "what-triggers-you-in-others-exists-in-you",
@@ -4872,6 +5656,14 @@
     "title": "Willingness to feel any emotion is the key to clear decision-making"
   },
   {
+    "slug": "winning-feels-good-because-you-stop-needing-the-next-thing",
+    "title": "Winning feels good because you briefly stop needing the next thing"
+  },
+  {
+    "slug": "wisdom-is-being-good-at-being-human",
+    "title": "In the AI era, wisdom \u2014 being good at being human \u2014 becomes the scarce skill"
+  },
+  {
     "slug": "wisdom-is-when-you-dont-need-to-remember",
     "title": "Wisdom is when you don't need to remember the insight"
   },
@@ -4896,6 +5688,10 @@
     "title": "Wonder eliminates defensiveness"
   },
   {
+    "slug": "wonder-is-awe-not-curiosity-for-an-answer",
+    "title": "Wonder is awe, not curiosity hunting for an answer"
+  },
+  {
     "slug": "wonder-is-curiosity-without-needing-an-answer",
     "title": "Wonder is curiosity without needing an answer"
   },
@@ -4918,6 +5714,10 @@
   {
     "slug": "worrying-about-the-future-is-the-pattern-not-the-solution",
     "title": "Worrying about the future is the pattern, not the solution"
+  },
+  {
+    "slug": "worth-is-who-you-are-not-what-you-produce",
+    "title": "We are worth who we are, not what we produce"
   },
   {
     "slug": "wrestle-with-principles-constantly",
@@ -4948,6 +5748,14 @@
     "title": "You cannot judge the value of your own input"
   },
   {
+    "slug": "you-cannot-lose-the-love-someone-gave-you",
+    "title": "You cannot lose the love someone gave you"
+  },
+  {
+    "slug": "you-cannot-question-and-love-at-the-same-time",
+    "title": "You have to stop loving to question a relationship"
+  },
+  {
     "slug": "you-cant-build-culture-you-cant-see",
     "title": "You can't build a culture you can't see in yourself"
   },
@@ -4960,8 +5768,20 @@
     "title": "You can't make yourself feel emotions by trying"
   },
   {
+    "slug": "you-cant-recognize-your-own-transformation-early",
+    "title": "You can't recognize your own transformation in its early stages"
+  },
+  {
+    "slug": "you-cant-skip-feeling-to-get-the-emotion",
+    "title": "You can't think or shortcut your way past an emotion \u2014 you have to let it move"
+  },
+  {
     "slug": "you-cant-stop-being-present",
     "title": "You can't stop being present"
+  },
+  {
+    "slug": "you-dont-need-the-inner-critic-to-be-productive",
+    "title": "You don't need the inner critic to be productive \u2014 it drains you"
   },
   {
     "slug": "you-get-the-love-you-can-accept",
@@ -4986,6 +5806,10 @@
   {
     "slug": "your-own-perfectionist-boss",
     "title": "You become your own oppressive boss"
+  },
+  {
+    "slug": "your-stance-toward-awakening-shapes-the-experience",
+    "title": "Your stance toward awakening shapes the experience more than the awakening itself"
   },
   {
     "slug": "your-support-system-creates-you",

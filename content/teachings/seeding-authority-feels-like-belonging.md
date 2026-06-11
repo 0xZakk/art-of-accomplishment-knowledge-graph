@@ -28,6 +28,7 @@ The pull toward authority is subconscious in most cases. Very few people conscio
 - [[teachings/we-are-each-a-cult-of-one|Each person is a 'cult of one' with internal belief structures they can't fully see]]
 - [[teachings/dismissing-deep-connection-as-cult-diminishes-life|Dismissing deep community as 'cult behavior' diminishes the possibility of authentic living]]
 - [[teachings/cult-dynamics-are-universal-human-tendencies|Cult dynamics exist on a spectrum present in all human groups]]
+- [[teachings/internal-principles-create-empowerment|Living by internal principles creates empowerment and dissolves drama]]
 
 ## Source
 

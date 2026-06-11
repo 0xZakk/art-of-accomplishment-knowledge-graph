@@ -29,6 +29,8 @@ The alternative: either you're capable in this moment or you're not, and both ar
 - [[teachings/welcoming-not-just-accepting-emotions|Welcoming not just accepting emotions]]
 - [[teachings/allowing-the-victim-creates-empowerment|Fully allowing the victim experience naturally creates empowerment]]
 - [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
+- [[teachings/exhaustion-is-unexpressed-anger|Exhaustion from caretaking is often unexpressed anger]]
+- [[teachings/holding-space-requires-staying-in-yourself|Holding space for others requires staying centered in yourself]]
 
 ## Source
 

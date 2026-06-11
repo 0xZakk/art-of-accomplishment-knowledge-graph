@@ -30,6 +30,7 @@ This principle dissolves the paradox of "I should love myself but I can't" by re
 - [[teachings/welcoming-is-self-love|Welcoming whatever arises is self-love]]
 - [[teachings/self-love-is-somatic-welcoming-not-affirmation|Self-love is somatic welcoming, not affirmation]]
 - [[teachings/everyone-already-knows-the-way-home|Everyone already knows the way home]]
+- [[teachings/shame-after-feeling-good-pattern|Shame arises after feeling good as a learned pattern]]
 
 ## Source
 

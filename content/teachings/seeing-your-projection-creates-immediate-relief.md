@@ -25,6 +25,10 @@ The culminating practice is the upright apology — apologizing to the person yo
 - [[teachings/triggers-reveal-unaccepted-parts-of-yourself|Every trigger reveals an unaccepted part of yourself]]
 - [[teachings/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]]
 - [[teachings/apology-as-transformation-tool|Apology as transformation tool]]
+- [[teachings/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
+- [[teachings/habitual-apologies-increase-conflict|Habitual apologies increase rather than prevent conflict]]
+- [[teachings/self-blame-holds-onto-what-you-lost|Self-blame is a way of holding onto what you've lost]]
+- [[teachings/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
 
 ## Source
 

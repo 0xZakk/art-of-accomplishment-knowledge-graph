@@ -31,6 +31,8 @@ The fights themselves became healing opportunities. What started as conflict res
 - [[teachings/fights-as-healing-opportunities-in-relationship|Fights as healing opportunities in relationship]]
 - [[teachings/moving-emotions-dissolves-stories|Moving emotions dissolves stories and creates clarity]]
 - [[teachings/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
+- [[teachings/clean-exits-during-conflict|Clean exits during conflict prevent abandonment wounds]]
+- [[teachings/anger-release-ends-in-clarity-and-determination|Clean anger release ends in clarity and determination about yourself, not others]]
 
 ## Source
 

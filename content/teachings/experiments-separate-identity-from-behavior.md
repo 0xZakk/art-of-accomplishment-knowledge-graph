@@ -24,6 +24,10 @@ This is one of the most powerful properties of experiments: they make change pos
 - [[teachings/any-self-definition-limits-you|Any self-definition limits you]]
 - [[teachings/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]]
 - [[teachings/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]]
+- [[teachings/identity-creates-rigidity-and-limitation|Identity creates rigidity—the more you identify, the more limited you become]]
+- [[teachings/stay-in-discomfort-iterate-on-shoulds|Stay when experiments get uncomfortable, iterate when they become shoulds]]
+- [[teachings/identity-stress-comes-from-defending-a-fixed-self|Identity stress comes from defending a fixed self-concept]]
+- [[teachings/passive-consumption-never-transforms|Passive consumption of wisdom never transforms you]]
 
 ## Source
 

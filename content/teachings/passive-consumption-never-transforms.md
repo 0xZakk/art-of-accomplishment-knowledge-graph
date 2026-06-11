@@ -25,6 +25,9 @@ This also means that consuming more self-help content can actually become an avo
 - [[teachings/embrace-intensity-for-transformation|Embrace intensity for transformation]]
 - [[teachings/test-teachings-through-experiments|Test teachings through experiments rather than believing them]]
 - [[teachings/tools-stop-working-when-weaponized|Tools stop working when used for self-improvement]]
+- [[teachings/practicing-gratitude-to-get-something-confirms-lack|Practicing gratitude to get something confirms the lack]]
+- [[teachings/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]]
+- [[teachings/gratitude-makes-noticing-efficient|Gratitude for moments of presence makes change more efficient]]
 
 ## Source
 

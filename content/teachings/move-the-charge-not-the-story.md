@@ -29,6 +29,9 @@ This is the difference between venting (which often escalates) and genuine emoti
 - [[teachings/anger-unresisted-is-determination|Anger unresisted is determination]]
 - [[teachings/fights-as-healing-opportunities-in-relationship|Fights as healing opportunities in relationship]]
 - [[teachings/uncharged-truth-follows-moved-emotion|Speaking truth uncharged follows moved emotion]]
+- [[teachings/anger-backlog-must-clear|There is often a backlog of anger that must clear before you can settle]]
+- [[teachings/progression-from-anger-to-deeper-emotions|The progression from anger reveals grief and fear underneath]]
+- [[teachings/anger-release-ends-in-clarity-and-determination|Clean anger release ends in clarity and determination about yourself, not others]]
 
 ## Source
 

@@ -27,6 +27,11 @@ Joe admits he caught himself nagging his own young daughters and had the honesty
 - [[teachings/connection-is-the-core-of-parenting|Connection is the core of parenting]]
 - [[teachings/be-available-dont-chase-teenagers|Be available don't chase teenagers]]
 - [[teachings/childhood-criticism-creates-self-distrust|Childhood criticism creates self-distrust]]
+- [[teachings/self-reliance-comes-from-parentified-childhood|Self-reliance comes from a childhood where you took care of your parents]]
+- [[teachings/ask-for-care-instead-of-helping-as-a-surrogate|Ask for the care you want instead of helping as a surrogate]]
+- [[teachings/helping-without-being-asked-disempowers-people|Helping someone who didn't ask disempowers them]]
+- [[teachings/teach-children-self-referencing|Teaching children to reference themselves builds their internal compass]]
+- [[teachings/self-care-actions-are-proof-of-self-care-capacity|Self-care actions are proof of self-care capacity]]
 
 ## Source
 

@@ -24,6 +24,8 @@ This regression phase represents the deepest protective parts surfacing last, at
 - [[teachings/comfort-can-prevent-transformation|Comfort can prevent transformation]]
 - [[teachings/grief-is-necessary-for-transformation|Grief is necessary for transformation]]
 - [[teachings/grief-sustained-transforms-everything|Sustained grief transforms everything it touches]]
+- [[teachings/emotional-titration-is-adaptive|Emotional titration is adaptive, not avoidant]]
+- [[teachings/stronger-stories-slow-emotional-movement|The stronger the story, the slower emotions move]]
 
 ## Source
 

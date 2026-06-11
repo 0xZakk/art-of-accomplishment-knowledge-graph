@@ -27,6 +27,8 @@ The wisdom of the body's calmness is: don't force the decision. Stay focused, be
 - [[teachings/procrastination-has-wisdom|Procrastination contains wisdom worth listening to]]
 - [[teachings/the-mind-inflates-tasks-to-avoid-feelings|The mind inflates tasks to avoid the feelings underneath]]
 - [[teachings/intuition-sees-what-logic-cannot|Intuition sees what the logical mind cannot]]
+- [[teachings/feeling-your-essential-nature-dissolves-avoidance|Feeling your essential nature dissolves avoidance behaviors]]
+- [[teachings/importance-kills-enjoyment|Making something important is what makes it not fun]]
 
 ## Source
 

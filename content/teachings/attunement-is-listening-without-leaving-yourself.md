@@ -27,6 +27,9 @@ Physical signals reveal the quality of attunement: leaning too far forward sugge
 - [[teachings/empathic-acknowledgment-is-presence|Empathic acknowledgment is presence]]
 - [[teachings/deep-listening-requires-self-listening|Deep listening requires listening to yourself simultaneously]]
 - [[teachings/attunement-to-self-produces-intuition|Attunement to self produces intuition]]
+- [[teachings/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]
+- [[teachings/attunement-reduces-mental-chatter|Attunement reduces mental chatter and reveals quiet wants]]
+- [[teachings/empathy-is-being-with-not-in|Empathy is being with someone, not in someone]]
 
 ## Source
 

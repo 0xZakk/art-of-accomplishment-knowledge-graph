@@ -25,6 +25,9 @@ Training should optimize for this state, not for content mastery. Short reps, su
 - [[teachings/not-trying-gets-more-done|Not trying gets more done]]
 - [[teachings/flow-state-is-embodiment-applied-to-life|Flow state is embodiment applied to life]]
 - [[teachings/confidence-comes-from-reps-not-reading|Confidence comes from embodied reps not intellectual understanding]]
+- [[teachings/the-butler-is-always-there|The subconscious always has the answer on a platter — you just need to slow down to see it]]
+- [[teachings/questioning-feeling-destroys-feeling|Questioning whether you're feeling destroys the feeling]]
+- [[teachings/avoidance-of-one-emotion-closes-a-life-channel|One negative emotional experience can close an entire channel of life]]
 
 ## Source
 

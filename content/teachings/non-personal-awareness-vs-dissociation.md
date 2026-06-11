@@ -24,6 +24,9 @@ This non-personal awareness is available as a way of living, not just an occasio
 - [[teachings/humility-is-not-taking-life-personally|Humility is not taking life personally]]
 - [[teachings/view-cannot-be-used-as-a-tool|View cannot be used as a tool]]
 - [[teachings/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]
+- [[teachings/empathy-is-being-with-not-in|Empathy is being with someone, not in someone]]
+- [[teachings/flow-state-is-embodiment-applied-to-life|Flow state in sports is the same skill as embodiment in life]]
+- [[teachings/meditation-can-become-self-management|Meditation can become a form of self-management and dissociation]]
 
 ## Source
 

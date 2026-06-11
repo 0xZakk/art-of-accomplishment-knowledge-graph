@@ -27,6 +27,9 @@ The implication is profound: most of what we take to be "reality" — about love
 - [[teachings/we-attract-what-we-learned-as-love|We attract what we learned as love]]
 - [[teachings/knowing-patterns-doesnt-free-you|Knowing patterns doesn't free you]]
 - [[teachings/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood emotional patterns]]
+- [[teachings/children-regulate-through-connection-not-words|Young children regulate through emotional connection, not rational words]]
+- [[teachings/trace-triggers-to-their-origin|Trace triggers to their origin]]
+- [[teachings/stone-face-teaches-stone-face|The stone-faced baby experiment shows how suppression is transmitted]]
 
 ## Source
 

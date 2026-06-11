@@ -24,6 +24,9 @@ The Greek root of "charisma" means "God-given gift" — not that some have it an
 - [[teachings/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]]
 - [[teachings/internal-division-is-the-enemy-of-charisma|Internal division is the enemy of charisma]]
 - [[teachings/authenticity-is-a-path-not-destination|Authenticity is a path not destination]]
+- [[teachings/dismissing-deep-connection-as-cult-diminishes-life|Dismissing deep community as 'cult behavior' diminishes the possibility of authentic living]]
+- [[teachings/charismatic-figures-validate-unmet-needs|Charismatic figures gain power by validating unmet needs]]
+- [[teachings/emptiness-is-the-source-of-empathic-attunement|Emptiness is the source of empathic attunement]]
 
 ## Source
 

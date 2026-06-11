@@ -26,6 +26,7 @@ Brett's experience demonstrates this: by loving his anxiety rather than avoiding
 - [[teachings/problems-are-emotional-not-material|Problems are emotional, not material]]
 - [[teachings/pre-grieving-loss-creates-resilience|Pre-grieving potential loss creates resilience and the courage to draw boundaries]]
 - [[teachings/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots in life]]
+- [[teachings/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]
 
 ## Source
 

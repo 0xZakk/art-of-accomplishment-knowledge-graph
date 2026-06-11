@@ -19,6 +19,7 @@ Innovation-dependent companies are the most vulnerable — dysfunction kills cre
 ## Related Concepts
 
 - [[teachings/team-functionality-is-an-endless-scale|Team functionality is an endless scale, not a binary]]
+- [[teachings/unfelt-team-emotions-create-dysfunction|Unfelt emotions in a team create all the dysfunction]]
 
 ## Source
 

@@ -22,6 +22,9 @@ This reflects Joe's consistent teaching that enjoyment is not a luxury but the a
 - [[teachings/enjoyment-dissolves-procrastination|Enjoyment dissolves procrastination]]
 - [[teachings/enjoyment-is-the-orientation-for-transformation|Enjoyment is the orientation for transformation]]
 - [[teachings/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]]
+- [[teachings/avoidance-chain-from-essence-to-addiction|The avoidance chain runs from essential self through thinking to addiction]]
+- [[teachings/shame-addiction-creates-empty-fulfillment|Shame becomes addictive and creates empty fulfillment]]
+- [[teachings/falling-in-love-with-practice|Falling in love with practice beats forcing yourself to practice]]
 
 ## Source
 

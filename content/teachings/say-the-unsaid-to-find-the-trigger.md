@@ -23,6 +23,10 @@ The system has a natural way of revealing triggers in order of importance. Work 
 - [[teachings/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
 - [[teachings/withholding-truth-kills-intimacy|Withholding truth kills intimacy]]
 - [[teachings/speaking-truth-dissolves-approval-seeking|Speaking truth dissolves approval seeking]]
+- [[teachings/own-the-trigger-as-yours|Owning the trigger as yours dissolves the fight]]
+- [[teachings/triggers-are-projections-of-your-own-patterns|Every trigger in your partner is a projection of your own pattern]]
+- [[teachings/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
+- [[teachings/relationship-triggers-are-yours|Your relationship triggers are about you, not them]]
 
 ## Source
 

@@ -29,6 +29,7 @@ The agreements don't prevent conflict—they create the container that makes con
 - [[teachings/safety-enables-productive-conflict|Safety enables productive conflict rather than preventing it]]
 - [[teachings/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
 - [[teachings/every-fight-can-bring-you-closer|Every fight can bring you closer together]]
+- [[teachings/three-to-five-rule-for-new-boundaries|Expect people to test new boundaries three to five times before accepting them]]
 
 ## Source
 

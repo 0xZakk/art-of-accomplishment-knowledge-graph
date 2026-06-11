@@ -28,6 +28,7 @@ The distinction matters because acceptance without love perpetuates the same dyn
 - [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 - [[teachings/inner-critic-mirrors-relationship-patterns|The inner critic mirrors your relationship patterns]]
+- [[teachings/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
 
 ## Source
 

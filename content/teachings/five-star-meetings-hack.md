@@ -26,6 +26,7 @@ The two-week duration is key — avoidance is "the last thing that gets caught" 
 - [[teachings/functional-teams-are-measured-by-wanting-to-be-there|Functional teams are measured by wanting to be there]]
 - [[teachings/enjoyment-as-the-only-metric|Enjoyment as the only metric]]
 - [[teachings/lack-of-enjoyment-diagnoses-problems|Lack of enjoyment diagnoses problems]]
+- [[teachings/schedule-time-for-hard-conversations|Schedule time for the hard conversations you're avoiding]]
 
 ## Source
 

@@ -30,6 +30,7 @@ Healing requires three things working together: on the nervous system level, gen
 - [[teachings/you-are-already-doing-what-you-fear|You are already doing to yourself what you fear others will do]]
 - [[teachings/allowing-the-victim-creates-empowerment|Fully allowing the victim experience naturally creates empowerment]]
 - [[teachings/disappearing-as-survival-strategy|Disappearing is a sophisticated survival strategy]]
+- [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 
 ## Source
 

@@ -24,6 +24,10 @@ Heather acknowledges this openly—"full disclosure, it came from a place of dis
 - [[teachings/numbness-as-survival-gift|Numbness as survival gift]]
 - [[teachings/survival-mechanisms-deserve-honor|Survival mechanisms deserve honor]]
 - [[teachings/control-works-until-it-doesnt|Control works until it doesn't]]
+- [[teachings/vulnerability-is-personal-not-moral|What's vulnerable is personal, not a universal morality]]
+- [[teachings/fights-can-heal-or-retraumatize|Fights can heal trauma or create more of it]]
+- [[teachings/self-reliance-is-a-defense-against-helplessness|Self-reliance is a defense against helplessness]]
+- [[teachings/hate-consumes-mental-bandwidth|Hate consumes mental bandwidth needed for flow]]
 
 ## Source
 

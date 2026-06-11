@@ -27,6 +27,8 @@ The man in the session keeps finding new things to fix: first procrastination, t
 - [[teachings/perfectionism-is-the-critical-parents-voice|Perfectionism is the internalized critical parent's voice]]
 - [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
 - [[teachings/perfectionism-is-a-fear-response-that-creates-chaos|Perfectionism is a fear response that creates the chaos it tries to prevent]]
+- [[teachings/inner-critic-uses-same-cult-dynamics|The inner critic uses the same dynamics as cults and political manipulation]]
+- [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
 
 ## Source
 

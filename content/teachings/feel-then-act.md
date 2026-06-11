@@ -23,6 +23,11 @@ This echoes traditions from the Tibetan Book of Living and Dying to samurai prac
 
 - [[teachings/feel-the-false-end-to-dissolve-overwhelm|Feel the false end to dissolve overwhelm]]
 - [[teachings/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]]
+- [[teachings/own-the-trigger-as-yours|Owning the trigger as yours dissolves the fight]]
+- [[teachings/relationship-triggers-are-yours|Your relationship triggers are about you, not them]]
+- [[teachings/compassion-can-block-anger|Using compassion to bypass anger blocks the emotional process]]
+- [[teachings/accepting-death-enables-choice|Accepting death enables genuine choice about how to live]]
+- [[teachings/face-reality-feel-emotions-find-certainty|Face reality, feel emotions, find certainty — three steps through crisis]]
 
 ## Source
 

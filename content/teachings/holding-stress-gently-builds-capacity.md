@@ -24,6 +24,7 @@ The practical indicator is shame: if stress leads to growth behaviors without sh
 - [[teachings/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms, unresisted stress enlivens]]
 - [[teachings/attention-alone-reduces-stress|Attention alone reduces stress]]
 - [[teachings/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]]
+- [[teachings/suppressing-emotions-has-a-physical-price|Suppressing emotions has a physical price the body pays]]
 
 ## Source
 

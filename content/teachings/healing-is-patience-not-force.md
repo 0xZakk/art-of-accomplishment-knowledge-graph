@@ -25,6 +25,11 @@ The shift from "I need to" to "I get to" transforms the entire orientation from 
 - [[teachings/gentleness-accelerates-growth|Gentleness accelerates growth]]
 - [[teachings/loving-the-protective-part-before-asking-it-to-change|Loving the protective part before asking it to change]]
 - [[teachings/welcoming-not-just-accepting-emotions|Welcoming, not just accepting emotions]]
+- [[teachings/numbness-as-survival-gift|Emotional numbness can be a survival gift, not a deficit]]
+- [[teachings/joy-wont-enter-where-emotions-unwelcome|Joy won't come into a house where her children aren't welcome]]
+- [[teachings/expressing-emotions-restores-connection|Feeling and expressing emotion restores connection]]
+- [[teachings/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
+- [[teachings/childhood-criticism-creates-self-distrust|Childhood criticism teaches you not to trust yourself]]
 
 ## Source
 

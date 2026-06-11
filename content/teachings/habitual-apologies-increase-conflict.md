@@ -22,6 +22,9 @@ This pattern often originates in childhood, where apologies were extracted as a 
 - [[teachings/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
 - [[teachings/apology-as-transformation-tool|An empowered apology is one of the most powerful tools for self-transformation]]
 - [[teachings/apologies-in-power-struggles|Apologies in power struggles are surrogates for being seen]]
+- [[teachings/upright-apology-changes-behavior|An upright apology actually changes behavior]]
+- [[teachings/apologize-upright-without-shame|An upright apology empowers; a shame-laden one loops you back into the pattern]]
+- [[teachings/apologize-for-disempowering-others|Apologizing for disempowering people undoes the self-reliance loop]]
 
 ## Source
 

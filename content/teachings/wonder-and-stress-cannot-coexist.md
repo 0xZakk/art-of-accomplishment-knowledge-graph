@@ -29,6 +29,8 @@ The practical application: when stressed, write down 15 things you don't know ab
 - [[teachings/binary-thinking-signals-fear|Binary thinking signals fear]]
 - [[teachings/wonder-as-antidote-to-fear|Wonder is the antidote to fear in uncertainty]]
 - [[teachings/list-what-you-dont-know-to-dissolve-stress|Listing what you don't know dissolves stress and reveals action]]
+- [[teachings/same-experience-different-interpretation|The same experience can be terror or exhilaration depending on interpretation]]
+- [[teachings/false-ends-keep-you-stuck|The brain creates false endings that paralyze action]]
 
 ## Source
 

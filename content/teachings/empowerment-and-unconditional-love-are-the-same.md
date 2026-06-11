@@ -25,6 +25,9 @@ The emptiness behind true empowerment is the humility itself. When there's no id
 - [[teachings/humility-is-not-taking-life-personally|Humility is not taking life personally]]
 - [[teachings/humility-is-not-making-yourself-small|Humility is not making yourself small]]
 - [[teachings/welcoming-is-self-love|Welcoming is self-love]]
+- [[teachings/humility-requires-self-care|Humility can require self-care]]
+- [[teachings/you-must-know-you-can-leave-to-love|You must know you can leave to truly love]]
+- [[teachings/empowerment-is-love-without-submission|Empowerment is love without submission or fight]]
 
 ## Source
 

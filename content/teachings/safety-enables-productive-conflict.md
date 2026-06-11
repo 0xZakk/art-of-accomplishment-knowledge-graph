@@ -28,6 +28,7 @@ This reframes the purpose of safety in relationships — it's not about avoiding
 - [[teachings/relationship-agreements-create-safe-conflict|Relationship agreements create a safe playing field for conflict]]
 - [[teachings/fear-of-anger-drives-conflict-avoidance|Fear of anger—your own and others'—drives conflict avoidance]]
 - [[teachings/measure-how-you-fight-not-how-often|Relationship health is measured by how you fight, not how often]]
+- [[teachings/safe-relationships-attract-displaced-emotions|Safe relationships attract displaced emotions]]
 
 ## Source
 

@@ -26,6 +26,8 @@ This is a perfect example of Joe's principle that every epiphany is the innocent
 - [[teachings/epiphany-is-the-tender-beginning-of-a-rut|Every epiphany is the tender beginning of a new rut]]
 - [[teachings/emotional-development-stages|Emotional development follows predictable stages]]
 - [[teachings/simplicity-beyond-complexity-in-emotions|Emotional mastery moves from simplicity through complexity back to simplicity]]
+- [[teachings/every-epiphany-is-a-rut-waiting-to-happen|Every epiphany is a rut waiting to happen]]
+- [[teachings/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
 
 ## Source
 

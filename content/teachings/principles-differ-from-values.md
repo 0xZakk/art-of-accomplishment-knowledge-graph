@@ -26,6 +26,9 @@ The difference can also be framed as: values are about what not to do (morality)
 - [[teachings/operating-principles-automate-eighty-percent-of-decisions|Operating principles automate eighty percent of decisions]]
 - [[teachings/unconscious-principles-already-run-your-life|Unconscious principles already run your life]]
 - [[teachings/principles-make-decisions-for-you|Principles make decisions for you]]
+- [[teachings/life-is-the-sum-of-decisions|Your life is the sum of the decisions you've made]]
+- [[teachings/connection-as-the-bottom-line-principle|Connection is the most effective bottom-line principle for life]]
+- [[teachings/wrestle-with-principles-constantly|The process of wrestling with principles matters more than the principles themselves]]
 
 ## Source
 

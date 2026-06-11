@@ -38,6 +38,8 @@ Both are failing to hold boundaries. Both are failing to speak their truth. The 
 - [[teachings/resentment-is-stored-conflict|Resentment is stored conflict—the longer you avoid it, the bigger the explosion]]
 - [[teachings/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
 - [[teachings/not-sharing-hard-truths-prevents-real-love|Not sharing hard truths prevents real love]]
+- [[teachings/truth-over-comfort-in-relationships|Prioritizing truth over comfort creates lasting relationships]]
+- [[teachings/conflict-avoidance-prevents-evolution|Conflict avoidance prevents the evolution that friction enables]]
 
 ## Source
 

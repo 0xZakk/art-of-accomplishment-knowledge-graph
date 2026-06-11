@@ -24,6 +24,9 @@ This reframes the entire project: it's not about becoming fearless, but about de
 - [[teachings/fear-as-road-map-not-enemy|Fear as road map not enemy]]
 - [[teachings/awakening-is-not-an-endpoint|Awakening is not an endpoint]]
 - [[teachings/edge-of-comfort-is-where-growth-happens|Edge of comfort is where growth happens]]
+- [[teachings/resisting-fear-leaks-it-sideways|Resisting fear doesn't eliminate it — it leaks out sideways]]
+- [[teachings/fear-reveals-where-identity-is-threatened|Fear reveals where our identity feels threatened]]
+- [[teachings/the-abyss-you-avoid-is-your-freedom|The abyss you avoid is your freedom]]
 
 ## Source
 

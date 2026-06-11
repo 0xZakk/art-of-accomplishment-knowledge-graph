@@ -26,6 +26,9 @@ The James Webb Space Telescope succeeded not through perfectionism but through i
 - [[teachings/binary-thinking-signals-fear|Binary thinking signals fear]]
 - [[teachings/feel-the-false-end-to-dissolve-overwhelm|Feel the false end to dissolve overwhelm]]
 - [[teachings/false-ends-keep-you-stuck|The brain creates false endings that paralyze action]]
+- [[teachings/fear-in-the-head-creates-binary-thinking|Fear in the head creates binary thinking and false ends]]
+- [[teachings/feel-fear-to-see-opportunity|Feel the fear fully to see the opportunities in chaos]]
+- [[teachings/nervous-system-fight-or-flight-collapses-thinking|Fight-or-flight collapses thinking into binaries and false ends]]
 
 ## Source
 

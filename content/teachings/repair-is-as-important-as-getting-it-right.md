@@ -26,6 +26,8 @@ The implication is profound: perfectionism in parenting (or anywhere) denies oth
 - [[teachings/perfectionism-as-safety-strategy|Perfectionism originates as a childhood safety strategy]]
 - [[teachings/dont-shame-kids-love-yourself|To not harm your children, love yourself]]
 - [[teachings/parent-self-relationship-shapes-child-relationship|Your relationship with yourself shapes your relationship with your children]]
+- [[teachings/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
+- [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
 
 ## Source
 

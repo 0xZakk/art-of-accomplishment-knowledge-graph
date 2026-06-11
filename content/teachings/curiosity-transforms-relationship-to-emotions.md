@@ -26,6 +26,9 @@ The key requirement is genuine curiosity without an agenda. If you're secretly t
 - [[teachings/resistance-changes-the-emotion|Resistance changes the emotion]]
 - [[teachings/emotions-respond-to-how-you-relate-to-them|Emotions respond dynamically to how you relate to them]]
 - [[teachings/emotional-inquiry-as-embodied-exploration|Emotional inquiry is embodied exploration, not intellectual analysis]]
+- [[teachings/emotions-are-signals-not-commands|When emotions become fluid they give you signals instead of controlling you]]
+- [[teachings/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
+- [[teachings/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
 
 ## Source
 

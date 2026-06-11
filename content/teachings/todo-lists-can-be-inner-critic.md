@@ -39,6 +39,11 @@ We want to make an impact. Checking off busywork doesn't satisfy—it exhausts. 
 - [[teachings/should-creates-stress-not-change|Should creates stress, not change]]
 - [[teachings/how-you-do-it-determines-if-you-do-it|How you do something determines if you do it]]
 - [[teachings/wanting-is-aliveness|Wanting is aliveness]]
+- [[teachings/obligation-oppresses-every-domain|Obligation oppresses every domain it touches — money, work, relationships]]
+- [[teachings/alignment-eliminates-procrastination|Deep alignment with what you want eliminates procrastination]]
+- [[teachings/hearing-objections-before-deciding|Hearing objections before deciding — even if you decide the same thing — changes everything]]
+- [[teachings/depersonalizing-money-creates-freedom|Depersonalizing money creates financial freedom]]
+- [[teachings/seeking-power-is-an-expression-of-fear|Seeking power is always an expression of fear]]
 
 ## Source
 

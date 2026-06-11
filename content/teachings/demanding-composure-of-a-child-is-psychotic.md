@@ -25,6 +25,10 @@ The thought experiment works because it bypasses intellectual defense. You can r
 - [[teachings/composure-is-self-imprisonment|Forced composure is self-imprisonment]]
 - [[teachings/children-bid-for-connection-not-defiance|Children bid for connection not defiance]]
 - [[teachings/attunement-patterns-become-adult-cycles|Attunement patterns become adult cycles]]
+- [[teachings/childhood-criticism-creates-self-distrust|Childhood criticism teaches you not to trust yourself]]
+- [[teachings/not-responsible-for-others-emotions|Declaring 'I'm not responsible for how you feel' restores full expression]]
+- [[teachings/eighty-percent-of-feared-rejection-is-internal|Eighty percent of feared rejection is internal self-talk]]
+- [[teachings/containing-emotions-to-connect-disconnects-you|Containing emotions to connect actually disconnects you]]
 
 ## Source
 

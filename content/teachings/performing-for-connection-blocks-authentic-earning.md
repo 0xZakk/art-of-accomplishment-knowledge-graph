@@ -27,6 +27,10 @@ The insight is that authentic earning requires authentic being. When the service
 - [[teachings/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[teachings/imposter-syndrome-means-not-being-yourself|Imposter syndrome means not being yourself]]
 - [[teachings/being-yourself-designs-your-life|Being yourself designs your life]]
+- [[teachings/apologize-to-money-for-the-projection|Money is a teacher reflecting your projections back to you]]
+- [[teachings/suppressing-authentic-expression-increases-self-consciousness|Suppressing authentic expression increases self-consciousness]]
+- [[teachings/proving-yourself-agrees-you-are-not-valuable|Trying to prove yourself agrees to the premise that you're not valuable]]
+- [[teachings/gentle-narcissism-in-the-call-to-coach|Gentle narcissism hides in the call to coach]]
 
 ## Source
 

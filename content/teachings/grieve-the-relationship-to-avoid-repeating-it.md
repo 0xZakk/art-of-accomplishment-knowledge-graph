@@ -26,6 +26,10 @@ Joe and Tara apply this even within their ongoing marriage. During their worst c
 - [[teachings/mourning-a-relationship-prevents-repeating-it|Mourning a relationship prevents repeating it]]
 - [[teachings/grief-sustained-transforms-everything|Grief sustained transforms everything]]
 - [[teachings/grief-is-necessary-for-transformation|Grief is necessary for transformation]]
+- [[teachings/grief-does-not-end-it-transforms|Grief doesn't end, the love transforms]]
+- [[teachings/unprocessed-grief-creates-conflict|Unprocessed grief creates most human conflict]]
+- [[teachings/grief-is-identity-dissolution|Grief is the dissolution of identity]]
+- [[teachings/grief-unlocks-joy-after-narcissistic-abuse|Grief unlocks joy after narcissistic abuse]]
 
 ## Source
 

@@ -33,6 +33,8 @@ Each stage is an epiphany that eventually becomes a rut, requiring the next stag
 - [[teachings/body-awareness-is-just-attention|Body awareness is just attention]]
 - [[teachings/emotions-move-through-a-rainbow-not-discrete-categories|Emotions move through a rainbow rather than discrete categories]]
 - [[teachings/pleasure-as-emotional-fluidity-practice|Practicing pleasure is a powerful way to build emotional fluidity]]
+- [[teachings/emotions-are-signals-not-commands|When emotions become fluid they give you signals instead of controlling you]]
+- [[teachings/simplicity-beyond-complexity-in-emotions|Emotional mastery moves from simplicity through complexity back to simplicity]]
 
 ## Source
 

@@ -29,6 +29,8 @@ The distinction is between the momentary experience and the long-term pattern. I
 - [[teachings/replace-obligation-with-wanting|Replace obligation with wanting]]
 - [[teachings/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
 - [[teachings/obligation-as-love-strategy-backfires|Using obligation as a strategy to get love always backfires]]
+- [[teachings/false-love-erodes-power-in-relationships|Maintaining false love erodes power and attraction in relationships]]
+- [[teachings/loving-to-manage-stops-working|Loving something to make it go away stops working]]
 
 ## Source
 

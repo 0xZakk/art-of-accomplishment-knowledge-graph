@@ -20,6 +20,11 @@ This is why to-do lists and willpower fail: they address symptoms. The blocker i
 
 - [[teachings/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
 - [[teachings/identity-you-cant-see-controls-you-most|The identity you can't see controls you most]]
+- [[teachings/complicating-things-is-a-form-of-distraction|Making things complicated is a way to avoid doing what you want]]
+- [[teachings/the-four-as-only-work-after-genuine-recognition|The four A's only work after a genuine recognition, not from a should]]
+- [[teachings/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]]
+- [[teachings/feeling-your-essential-nature-dissolves-avoidance|Feeling your essential nature dissolves avoidance behaviors]]
+- [[teachings/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
 
 ## Source
 

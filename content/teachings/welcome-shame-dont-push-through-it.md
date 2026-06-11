@@ -33,6 +33,7 @@ Other practices: feel the want underneath the shame; notice where your mind spin
 - [[teachings/being-loved-in-the-shame-dissolves-it|Being loved within the shame dissolves it]]
 - [[teachings/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
 - [[teachings/shame-stagnates-behavior|Shame stagnates behavior]]
+- [[teachings/shame-outlines-identity|Shame outlines identity—what you can't see controls you]]
 
 ## Source
 

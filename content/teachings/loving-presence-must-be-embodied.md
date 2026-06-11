@@ -27,6 +27,9 @@ You can't manufacture this state. What you can do is create the conditions: go i
 - [[teachings/every-fight-can-bring-you-closer|Every fight can bring you closer together]]
 - [[teachings/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
 - [[teachings/you-must-know-you-can-leave-to-love|You must know you can leave to truly love]]
+- [[teachings/empathy-is-being-with-not-in|Empathy is being with someone, not in someone]]
+- [[teachings/stop-being-the-victim-to-love-the-angry-person|You can't love someone you see as your oppressor]]
+- [[teachings/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
 
 ## Source
 

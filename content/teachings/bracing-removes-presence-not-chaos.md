@@ -27,6 +27,9 @@ When the man imagines being "recklessly enthusiastic" and then drops the bracing
 - [[teachings/control-works-until-it-doesnt|Control works until it doesn't]]
 - [[teachings/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]]
 - [[teachings/bracing-identity-of-being-needed|Bracing maintains the identity of being needed]]
+- [[teachings/embracing-not-creating-intensity|Embracing intensity means welcoming what's already present, not manufacturing challenge]]
+- [[teachings/the-other-shoe-dropping-blocks-good-feelings|The intellect's 'other shoe will drop' story blocks every good feeling]]
+- [[teachings/suppressing-emotions-has-a-physical-price|Suppressing emotions has a physical price the body pays]]
 
 ## Source
 

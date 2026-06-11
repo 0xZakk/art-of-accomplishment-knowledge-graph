@@ -28,6 +28,8 @@ This is the relief both partners were seeking. Not more capacity to hold, not be
 - [[teachings/shoulding-yourself-to-hold-space-prevents-it|Telling yourself you should hold space prevents holding space]]
 - [[teachings/empathic-acknowledgment-is-presence|Empathic acknowledgment is presence]]
 - [[teachings/empathy-is-being-with-not-in|Empathy is being with someone, not in someone]]
+- [[teachings/dont-do-emotions-at-people|Don't do emotions at people]]
+- [[teachings/holding-emotions-in-community|When one person holds an emotion, others in the group can't hold it]]
 
 ## Source
 

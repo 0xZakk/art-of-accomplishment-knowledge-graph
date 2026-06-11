@@ -23,6 +23,8 @@ When Joe asks him to speak from his body rather than his head, he naturally slip
 - [[teachings/flow-state-is-embodiment-applied-to-life|Flow state in sports is the same skill as embodiment in life]]
 - [[teachings/questioning-feeling-destroys-feeling|Questioning whether you're feeling destroys the feeling]]
 - [[teachings/body-awareness-is-just-attention|Body awareness is simply directing attention to sensation]]
+- [[teachings/not-feeling-may-be-repression|Thinking you can't feel may actually be repression]]
+- [[teachings/emotional-fluidity-is-already-there|You already have emotional fluidity—you just need to stop blocking it]]
 
 ## Source
 

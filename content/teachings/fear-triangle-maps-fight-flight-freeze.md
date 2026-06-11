@@ -28,6 +28,7 @@ Critically, each role also carries shame about being in that role. When Joe put 
 - [[teachings/acknowledging-fear-dissolves-power-dynamics|Acknowledging fear without judgment dissolves power dynamics]]
 - [[teachings/savior-role-is-flight-from-self|The savior role is flight from yourself to control others]]
 - [[teachings/feeling-helplessness-creates-empowerment|Going through helplessness is what creates empowerment]]
+- [[teachings/guilt-is-inherited-fear-in-disguise|Guilt is inherited fear in disguise]]
 
 ## Source
 

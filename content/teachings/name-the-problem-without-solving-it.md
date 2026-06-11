@@ -22,6 +22,11 @@ This works with kids too: "Hey, I'm nagging and it feels terrible. How do we get
 
 - [[teachings/dominate-dont-convince|Dominate, don't convince]]
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
+- [[teachings/blame-blocks-leadership|Blame prevents stepping into leadership]]
+- [[teachings/ungratitude-removes-half-your-solutions|Ungratitude removes half your solutions]]
+- [[teachings/hearing-objections-before-deciding|Hearing objections before deciding — even if you decide the same thing — changes everything]]
+- [[teachings/leadership-is-universal-not-assigned|Leadership is a universal quality, not an assigned role]]
+- [[teachings/gratitude-reveals-solutions-criticism-hides|Gratitude reveals solutions that criticism hides]]
 
 ## Source
 

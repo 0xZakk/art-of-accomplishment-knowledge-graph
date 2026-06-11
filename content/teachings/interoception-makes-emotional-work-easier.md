@@ -23,6 +23,11 @@ Joe outlines the phases of emotional work: identification (naming), somatic expe
 - [[teachings/body-awareness-is-just-attention|Body awareness is just attention]]
 - [[teachings/emotional-inquiry-as-embodied-exploration|Emotional inquiry as embodied exploration]]
 - [[teachings/pleasure-is-noticing-sensations-moving|Pleasure is noticing sensations moving]]
+- [[teachings/flow-state-is-embodiment-applied-to-life|Flow state in sports is the same skill as embodiment in life]]
+- [[teachings/play-tennis-in-life|Apply your embodied skill from one domain to all of life]]
+- [[teachings/somatic-awareness-is-a-key-to-presence|Somatic awareness is a key to presence and to the wisdom of emotions]]
+- [[teachings/emotional-development-stages|Emotional development follows predictable stages]]
+- [[teachings/dissociation-removes-your-signals|Dissociation removes your body's learning signals]]
 
 ## Source
 

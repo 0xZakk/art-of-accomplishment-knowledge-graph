@@ -26,6 +26,10 @@ Aligned goals feel like play—like a sports team wanting to win. Misaligned goa
 - [[teachings/should-creates-stress-not-change|Should creates stress, not change]]
 - [[teachings/wanting-is-aliveness|Wanting is aliveness]]
 - [[teachings/internal-alignment-mirrors-organizational-alignment|Internal alignment mirrors organizational alignment—misaligned goals create wasted effort]]
+- [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
+- [[teachings/you-dont-need-the-inner-critic-to-be-productive|You don't need the inner critic to be productive — it drains you]]
+- [[teachings/internal-authority-mirrors-external|How you treat your internal authority mirrors how you treat external ones]]
+- [[teachings/perfectionism-is-the-critical-parents-voice|Perfectionism is the internalized critical parent's voice]]
 
 ## Source
 

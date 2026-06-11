@@ -24,6 +24,11 @@ Brett notices the same pattern on a smaller scale during week-long backpacking t
 
 - [[teachings/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant]]
 - [[teachings/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]]
+- [[teachings/not-trying-gets-more-done|Not trying gets more done than trying]]
+- [[teachings/gratitude-makes-noticing-efficient|Gratitude for moments of presence makes change more efficient]]
+- [[teachings/comfort-can-prevent-transformation|Comfort can prevent transformation]]
+- [[teachings/enjoyment-dissolves-procrastination|Making enjoyment the priority dissolves procrastination]]
+- [[teachings/enjoyment-is-the-pace-keeper-for-feeling|Enjoyment is the pace-keeper for how deep to feel]]
 
 ## Source
 

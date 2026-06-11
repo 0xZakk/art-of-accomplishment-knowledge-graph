@@ -28,6 +28,10 @@ Brett draws a powerful parallel: making decisions to please your imagined future
 - [[teachings/all-decisions-are-emotional|All decisions are emotional]]
 - [[teachings/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
 - [[teachings/surrender-outcomes-to-decide-clearly|Surrender outcomes to decide clearly]]
+- [[teachings/decisions-reveal-emotional-avoidance|Every decision is an attempt to avoid an emotion]]
+- [[teachings/thinking-youre-deciding-means-youre-in-fear|If you think you're making a decision, you're in fear]]
+- [[teachings/confirmation-bias-from-emotional-avoidance|Confirmation bias protects us from emotions we won't feel]]
+- [[teachings/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]
 
 ## Source
 

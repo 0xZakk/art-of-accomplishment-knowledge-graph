@@ -27,6 +27,11 @@ This points to a paradox at the heart of connection practice: it requires both p
 - [[teachings/chasing-connection-prevents-connection|Chasing connection prevents connection]]
 - [[teachings/felt-gratitude-not-performed-gratitude|Felt gratitude, not performed gratitude]]
 - [[teachings/gratitude-arrives-when-you-stop-striving|Gratitude arrives when you stop striving]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/you-cant-stop-being-present|You can't stop being present]]
+- [[teachings/letting-go-comes-from-seeing-the-pain-of-holding-on|Letting go comes from seeing the pain of holding on]]
+- [[teachings/gratitude-arises-naturally-not-by-force|Gratitude arises naturally, not by force]]
+- [[teachings/allowing-the-victim-creates-empowerment|Fully allowing the victim experience naturally creates empowerment]]
 
 ## Source
 

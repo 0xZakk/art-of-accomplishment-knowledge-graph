@@ -24,6 +24,8 @@ Tara also notes that wisdom is asymptotic—always evolving, always deepening. A
 - [[teachings/flow-state-is-embodiment-applied-to-life|Flow state is embodiment applied to life]]
 - [[teachings/insight-requires-embodied-integration|Insight requires embodied integration to become wisdom]]
 - [[teachings/gentleness-accelerates-growth|Gentleness accelerates growth]]
+- [[teachings/the-gut-points-toward-what-you-want|The gut points you toward what you want before the mind knows it]]
+- [[teachings/somatic-awareness-is-a-key-to-presence|Somatic awareness is a key to presence and to the wisdom of emotions]]
 
 ## Source
 

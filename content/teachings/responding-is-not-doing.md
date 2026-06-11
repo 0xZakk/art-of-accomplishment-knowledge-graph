@@ -25,6 +25,9 @@ The distinction is between pressing enter (responding) and pressing forward (cre
 - [[teachings/busyness-is-not-productivity|Busyness is not productivity]]
 - [[teachings/pace-and-spin-measure-real-productivity|Pace and spin measure real productivity]]
 - [[teachings/craving-versus-wanting|Craving versus wanting]]
+- [[teachings/enjoyment-looks-slower-but-arrives-faster|Enjoyment looks slower but gets you there faster]]
+- [[teachings/alignment-eliminates-procrastination|Deep alignment with what you want eliminates procrastination]]
+- [[teachings/company-is-relationships-and-decisions|A company is just relationships and decisions]]
 
 ## Source
 

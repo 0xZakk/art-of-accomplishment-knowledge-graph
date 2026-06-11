@@ -25,6 +25,10 @@ The resistance determines the suffering, not the transformation itself. "If you 
 - [[teachings/the-abyss-you-avoid-is-your-freedom|The abyss you avoid is your freedom]]
 - [[teachings/sense-of-self-expands-then-dissolves|Sense of self expands then dissolves]]
 - [[teachings/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
+- [[teachings/awakening-is-not-what-you-think|Awakening is not what your mind can think it is]]
+- [[teachings/awakening-happens-in-head-heart-and-gut|Awakening happens through the head, the heart, and the gut]]
+- [[teachings/enjoy-the-sensations-of-awakening|Enjoying the sensations rather than bracing eases the integration]]
+- [[teachings/dissolution-of-self-happens-many-ways|The dissolution of self happens through many paths]]
 
 ## Source
 

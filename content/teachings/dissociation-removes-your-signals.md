@@ -23,6 +23,11 @@ The body is the fastest pathway to self-knowledge. Intellectualizing is the slow
 
 - [[teachings/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]]
 - [[teachings/moving-emotions-dissolves-depression|Moving emotions dissolves depression]]
+- [[teachings/not-feeling-may-be-repression|Thinking you can't feel may actually be repression]]
+- [[teachings/body-awareness-is-just-attention|Body awareness is simply directing attention to sensation]]
+- [[teachings/flow-state-is-embodiment-applied-to-life|Flow state in sports is the same skill as embodiment in life]]
+- [[teachings/feeling-through-requires-letting-identity-restructure|Feeling an emotion fully requires letting your identity restructure]]
+- [[teachings/the-body-holds-what-the-mind-cuts-off|The body holds emotions whether or not you put attention on them]]
 
 ## Source
 

@@ -26,6 +26,10 @@ These aren't sequential or alternating — they coexist. The heart doesn't resol
 - [[teachings/grief-is-necessary-for-transformation|Grief is necessary for transformation]]
 - [[teachings/felt-gratitude-not-performed-gratitude|Felt gratitude not performed gratitude]]
 - [[teachings/denial-has-a-functional-purpose|Denial has a functional purpose]]
+- [[teachings/grief-of-self-abandonment|Grief of self-abandonment]]
+- [[teachings/when-love-shows-up-unloved-parts-surface|When love shows up, unloved parts surface to be loved]]
+- [[teachings/emotional-titration-is-adaptive|Emotional titration is adaptive, not avoidant]]
+- [[teachings/grief-unlocks-joy-after-narcissistic-abuse|Grief unlocks joy after narcissistic abuse]]
 
 ## Source
 

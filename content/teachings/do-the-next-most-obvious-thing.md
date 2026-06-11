@@ -26,6 +26,9 @@ Joe even suggests a fun experiment: while driving, instead of deciding where to 
 - [[teachings/binary-thinking-signals-fear|Binary thinking signals fear]]
 - [[teachings/fear-limits-optionality|Fear limits optionality]]
 - [[teachings/decisions-reveal-emotional-avoidance|Every decision is an attempt to avoid an emotion]]
+- [[teachings/clarity-comes-after-feeling-not-before|Clarity comes after feeling the emotion not before]]
+- [[teachings/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]
+- [[teachings/bad-decisions-come-from-fear-of-emotions|Bad decisions come from fear of emotional consequences]]
 
 ## Source
 

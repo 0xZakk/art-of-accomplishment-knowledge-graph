@@ -28,6 +28,9 @@ This mirrors Joe's framing of success as "a criteria of accomplishment" — not 
 - [[teachings/evolution-doesnt-require-striving|Evolution doesn't require striving]]
 - [[teachings/purpose-matures-into-choicelessness|Purpose matures into choicelessness]]
 - [[teachings/feel-your-way-to-freedom|Feel your way to freedom]]
+- [[teachings/ambition-survives-beneath-the-resistance|Ambition survives beneath the resistance, waiting to be set free]]
+- [[teachings/gold-lies-beyond-what-you-fear|The gold in life lies just beyond what you're afraid to face]]
+- [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 
 ## Source
 

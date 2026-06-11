@@ -28,6 +28,9 @@ This doesn't mean condoning harmful actions. It means refusing to dehumanize the
 - [[teachings/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]]
 - [[teachings/self-forgiveness-breaks-the-shame-loop|Self-forgiveness breaks the shame loop]]
 - [[teachings/vulnerability-is-personal-not-moral|What's vulnerable is personal, not a universal morality]]
+- [[teachings/seeing-parents-terror-dissolves-resentment|Seeing parents' terror dissolves resentment]]
+- [[teachings/forgiveness-with-boundaries-invites-change|Forgiveness held with boundaries can invite the other person to change]]
+- [[teachings/forgiveness-is-a-three-step-process|Forgiveness is a three-step process of heart, head, and gut]]
 
 ## Source
 

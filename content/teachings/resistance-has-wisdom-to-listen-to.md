@@ -24,6 +24,8 @@ This applies equally to resistance in others and in ourselves. If you listen to 
 - [[teachings/denial-has-a-functional-purpose|Denial has a functional purpose]]
 - [[teachings/bullying-yourself-creates-resistance|Bullying yourself into action creates resistance]]
 - [[teachings/intuition-sees-what-logic-cannot|Intuition sees what the logical mind cannot]]
+- [[teachings/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]
+- [[teachings/feeling-your-essential-nature-dissolves-avoidance|Feeling your essential nature dissolves avoidance behaviors]]
 
 ## Source
 

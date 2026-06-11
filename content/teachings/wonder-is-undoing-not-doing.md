@@ -27,6 +27,10 @@ When wonder becomes a strategy — asking questions to avoid intimacy, or to cre
 - [[teachings/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]]
 - [[teachings/accomplishment-is-undoing-not-doing|Accomplishment is undoing not doing]]
 - [[teachings/wonder-as-antidote-to-fear|Wonder is an antidote to fear]]
+- [[teachings/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]]
+- [[teachings/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist neurologically]]
+- [[teachings/liminal-space-is-where-breakthroughs-happen|Liminal space is where breakthroughs happen]]
+- [[teachings/knowing-is-the-opposite-of-wonder|Knowing is the opposite of wonder]]
 
 ## Source
 

@@ -27,6 +27,7 @@ Joe uses the roommate metaphor: if you had a roommate who spoke to you the way y
 - [[teachings/bullying-yourself-creates-resistance|Bullying yourself into action creates resistance]]
 - [[teachings/rebellion-empowers-the-authority|Rebellion empowers the authority figure just as compliance does]]
 - [[teachings/inner-critic-uses-same-cult-dynamics|The inner critic uses the same dynamics as cults and political manipulation]]
+- [[teachings/change-your-relationship-to-the-critic-not-the-critic-itself|Change your relationship to the critic, not the critic itself]]
 
 ## Source
 

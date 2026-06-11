@@ -30,6 +30,9 @@ Brett experienced this directly: after feeling his anxiety with love, difficult 
 - [[teachings/happiness-feels-dangerous-to-the-vigilant|Happiness feels dangerous to the vigilant]]
 - [[teachings/peace-is-harder-to-allow-than-pain|Peace and joy are harder to allow than pain]]
 - [[teachings/joy-dissolves-identity|Joy dissolves identity and that's what makes it scary]]
+- [[teachings/anxiety-is-repressed-excitement|Anxiety is often repressed excitement]]
+- [[teachings/same-experience-different-interpretation|The same experience can be terror or exhilaration depending on interpretation]]
+- [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
 
 ## Source
 

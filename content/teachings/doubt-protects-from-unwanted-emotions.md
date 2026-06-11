@@ -39,6 +39,7 @@ Successful people have doubt too. But they recognize it as a signal about emotio
 - [[teachings/doubt-as-emotional-protection|Doubt as emotional protection]]
 - [[teachings/moving-emotions-dissolves-depression|Moving the emotion dissolves depression]]
 - [[teachings/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]]
+- [[teachings/welcome-doubt-instead-of-running|Welcoming doubt instead of running from it opens the heart]]
 
 ## Source
 

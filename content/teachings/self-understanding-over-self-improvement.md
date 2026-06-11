@@ -27,6 +27,9 @@ This is the foundational reframe of Art of Accomplishment: stop trying to be bet
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
 - [[teachings/bullying-yourself-creates-resistance|Bullying yourself creates resistance]]
 - [[teachings/inner-critic-is-not-your-voice|The inner critic is not your voice]]
+- [[teachings/change-your-relationship-to-the-critic-not-the-critic-itself|Change your relationship to the critic, not the critic itself]]
+- [[teachings/authenticity-matters-more-than-self-improvement|Authenticity matters more than self-improvement]]
+- [[teachings/resistance-gives-the-inner-critic-its-power|Resistance gives the inner critic its power]]
 
 ## Source
 

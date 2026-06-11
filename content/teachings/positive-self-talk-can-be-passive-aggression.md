@@ -28,6 +28,9 @@ Joe identifies another form of internal passive aggression: the undermining inne
 - [[teachings/external-patterns-mirror-internal-ones|External relationship patterns mirror internal ones]]
 - [[teachings/self-judgment-defends-against-emotions|Self-judgment is a defense against feeling emotions]]
 - [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[teachings/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
+- [[teachings/subtle-superiority-as-protection|Subtle superiority is a protection pattern that creates isolation]]
+- [[teachings/anger-at-without-permission-is-manipulation|Expressing anger at someone without permission is a bid for control]]
 
 ## Source
 

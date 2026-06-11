@@ -25,6 +25,10 @@ This also explains how shame gets culturally attached to pleasure — sex, self-
 - [[teachings/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]]
 - [[teachings/pleasure-is-noticing-sensations-moving|Pleasure is noticing sensations moving in the body]]
 - [[teachings/shame-locks-in-bad-habits|Shame locks in bad habits]]
+- [[teachings/shame-addiction-creates-empty-fulfillment|Shame becomes addictive and creates empty fulfillment]]
+- [[teachings/pleasure-requires-receiving-not-effort|Pleasure requires receiving not effort]]
+- [[teachings/pleasure-signals-safety|Pleasure signals safety to the nervous system]]
+- [[teachings/pleasure-is-available-in-every-emotion|Pleasure is available in every emotion when fully felt]]
 
 ## Source
 

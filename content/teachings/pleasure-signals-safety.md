@@ -43,6 +43,7 @@ Pleasure enables rest. Rest enables healing. This is why pleasure is "the gatewa
 - [[teachings/pleasure-requires-receiving-not-effort|Pleasure requires receiving not effort]]
 - [[teachings/pleasure-is-available-in-every-emotion|Pleasure is available in every emotion when fully felt]]
 - [[teachings/pleasure-is-noticing-sensations-moving|Pleasure is simply noticing sensations moving in your body]]
+- [[teachings/pleasure-is-the-path-to-gut-awakening|Pleasure is the safe path to the gut awakening]]
 
 ## Source
 

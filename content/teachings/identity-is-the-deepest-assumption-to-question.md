@@ -27,6 +27,10 @@ When the question finally dissolved, he realized "it wasn't even me asking the q
 - [[teachings/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
 - [[teachings/identity-stress-comes-from-defending-a-fixed-self|Identity stress comes from defending a fixed self]]
 - [[teachings/question-the-assumption-as-self-inquiry|Question the assumption is self-inquiry, not skepticism]]
+- [[teachings/questioning-assumptions-destabilizes-before-it-clarifies|Questioning assumptions destabilizes before it clarifies]]
+- [[teachings/awakening-is-not-what-you-think|Awakening is not what your mind can think it is]]
+- [[teachings/being-in-the-question-beats-finding-the-answer|Being in the question is more powerful than finding the answer]]
+- [[teachings/self-concept-shapes-outer-reality|Self-concept shapes outer reality]]
 
 ## Source
 

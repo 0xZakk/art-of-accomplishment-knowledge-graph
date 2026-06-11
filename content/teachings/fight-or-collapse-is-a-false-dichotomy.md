@@ -25,6 +25,9 @@ The false dichotomy is self-reinforcing: if your only options are fight or colla
 - [[teachings/rebellion-empowers-the-authority|Rebellion empowers the authority figure just as compliance does]]
 - [[teachings/empowerment-and-unconditional-love-are-the-same|Empowerment and unconditional love are the same]]
 - [[teachings/empowerment-is-love-without-submission|Empowerment is love without submission or fight]]
+- [[teachings/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
+- [[teachings/managing-emotions-is-the-rebel-dilemma|Managing your emotions is the rebel dilemma — either way the emotion controls you]]
+- [[teachings/power-dynamics-are-two-scared-people|All power dynamics are two scared people defending themselves]]
 
 ## Source
 

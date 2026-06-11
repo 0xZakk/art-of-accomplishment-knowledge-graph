@@ -30,6 +30,7 @@ Joe's litmus tests: If you want the moniker of "coach" more than the being of se
 - [[teachings/if-you-think-you-have-a-choice-dont-do-it|If you think you have a choice about your calling, don't do it]]
 - [[teachings/subtle-superiority-as-protection|Subtle superiority is a protection pattern that creates isolation]]
 - [[teachings/putting-yourself-above-others-is-protection|Putting yourself above others is a subtle form of protection]]
+- [[teachings/wanting-to-control-perception-is-absurd|Wanting to control others' perception of you is absurd]]
 
 ## Source
 

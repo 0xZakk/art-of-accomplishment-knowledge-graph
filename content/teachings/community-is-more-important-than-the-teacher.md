@@ -28,6 +28,8 @@ The best teacher-student relationship is one where the teacher "doesn't see them
 - [[teachings/teachers-and-students-co-create-dysfunction|Teachers and students co-create dysfunction]]
 - [[teachings/charismatic-figures-validate-unmet-needs|Charismatic figures validate unmet needs]]
 - [[teachings/the-best-teacher-just-went-through-it|The best teacher just went through it]]
+- [[teachings/good-teachings-inevitably-get-corrupted|Good teachings inevitably get corrupted into new moralities]]
+- [[teachings/passive-consumption-never-transforms|Passive consumption of wisdom never transforms you]]
 
 ## Source
 

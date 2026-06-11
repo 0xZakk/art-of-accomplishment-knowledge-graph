@@ -26,6 +26,10 @@ When grief is fully processed, the defense becomes unnecessary. Narcissists beco
 - [[teachings/avoidance-is-the-stuckness-not-the-feeling|Avoidance is the stuckness not the feeling]]
 - [[teachings/fear-as-road-map-not-enemy|Fear as road map not enemy]]
 - [[teachings/grief-unlocks-joy-after-narcissistic-abuse|Grief unlocks joy after narcissistic abuse]]
+- [[teachings/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
+- [[teachings/the-golden-algorithm|The golden algorithm: we invite back the emotion we avoid, in the way we avoid it]]
+- [[teachings/full-openness-is-the-real-protection|Full openness is the real protection from narcissists]]
+- [[teachings/eighty-percent-of-feared-rejection-is-internal|Eighty percent of feared rejection is internal self-talk]]
 
 ## Source
 

@@ -29,6 +29,8 @@ The practical challenge is that not resisting feels like it will make you dysfun
 - [[teachings/inner-critic-prevents-nervous-system-rest|The inner critic prevents the rest needed for nervous system integration]]
 - [[teachings/bullying-yourself-creates-resistance|Bullying yourself into action creates resistance]]
 - [[teachings/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
+- [[teachings/change-your-relationship-to-the-critic-not-the-critic-itself|Change your relationship to the critic, not the critic itself]]
+- [[teachings/fighting-resistance-creates-more-resistance|Fighting resistance always creates more resistance]]
 
 ## Source
 

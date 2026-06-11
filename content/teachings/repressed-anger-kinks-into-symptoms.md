@@ -29,6 +29,7 @@ The kink forms in childhood through various pathways: a parent who raged (so you
 - [[teachings/three-forms-of-repressed-anger|Repressed anger manifests in three forms: self-abuse, passive aggression, and explosive anger]]
 - [[teachings/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuckness]]
 - [[teachings/childhood-origins-of-anger-repression|Anger repression gets installed through three childhood pathways]]
+- [[teachings/unresisted-emotions-become-virtues|Fully felt and unresisted, every emotion becomes a virtue]]
 
 ## Source
 

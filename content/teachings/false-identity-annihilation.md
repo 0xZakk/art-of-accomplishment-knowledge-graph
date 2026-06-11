@@ -28,6 +28,8 @@ This is different from trying to "fix" or "improve" the false identity. It must 
 
 - [[teachings/dominate-dont-convince|Dominate, don't convince]]
 - [[teachings/victim-identity-transformation|Transforming victim identity]]
+- [[teachings/fear-reveals-where-identity-is-threatened|Fear reveals where our identity feels threatened]]
+- [[teachings/identity-stress-comes-from-defending-a-fixed-self|Identity stress comes from defending a fixed self-concept]]
 
 ## Source
 

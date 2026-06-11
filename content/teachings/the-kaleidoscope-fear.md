@@ -23,6 +23,11 @@ You start choosing the projection that serves you best — the one that allows f
 - [[teachings/fear-of-losing-relatability-signals-transformation|Fear of losing relatability signals transformation]]
 - [[teachings/the-abyss-is-where-you-dont-exist|The abyss is where you don't exist]]
 - [[teachings/stuckness-is-resistance-to-the-abyss|Stuckness is resistance to the abyss]]
+- [[teachings/we-create-our-world-not-just-see-it|We create our projected world through attraction, manipulation, and selective evidence]]
+- [[teachings/four-types-of-projection|There are four distinct types of projection]]
+- [[teachings/seeing-through-projections-opens-possibility|Seeing through projections opens up possibility like seeing new uses for a brick]]
+- [[teachings/triggers-reveal-unaccepted-parts-of-yourself|Every trigger reveals an unaccepted part of yourself]]
+- [[teachings/liminal-space-is-where-breakthroughs-happen|Liminal space is where breakthroughs happen]]
 
 ## Source
 

@@ -21,6 +21,10 @@ Clear goals, principles, and behavioral norms create the kind of safety that eli
 
 - [[teachings/trust-is-the-universal-ingredient-of-functional-teams|Trust is the universal ingredient of functional teams]]
 - [[teachings/safety-is-tuned-not-maximized|Safety in teams is tuned not maximized]]
+- [[teachings/unfelt-team-emotions-create-dysfunction|Unfelt emotions in a team create all the dysfunction]]
+- [[teachings/safety-comes-from-working-through-conflict|Safety is created by working through conflict, not avoiding it]]
+- [[teachings/suppressed-wants-become-politics|Suppressed wants become organizational politics]]
+- [[teachings/defensiveness-kills-team-communication|Allowing defensiveness kills team communication]]
 
 ## Source
 

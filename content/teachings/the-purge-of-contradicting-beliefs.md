@@ -23,6 +23,10 @@ This process explains why identity shifts feel so turbulent. The new identity is
 - [[teachings/self-concept-shapes-outer-reality|Self-concept shapes outer reality]]
 - [[teachings/emotions-are-glue-holding-beliefs|Emotions are the glue holding beliefs]]
 - [[teachings/when-love-shows-up-unloved-parts-surface|When love shows up, unloved parts surface]]
+- [[teachings/fear-of-losing-relatability-signals-transformation|Fear of losing relatability signals transformation]]
+- [[teachings/be-your-own-light|Be your own light—generate from within what you seek without]]
+- [[teachings/self-possessed-presence-transforms-relationships|Self-possessed presence transforms how others relate to you]]
+- [[teachings/you-are-already-doing-what-you-fear|You are already doing to yourself what you fear others will do]]
 
 ## Source
 

@@ -26,6 +26,10 @@ Procrastination isn't a character flaw. It's feedback that something isn't align
 - [[teachings/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]]
 - [[teachings/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
 - [[teachings/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
+- [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
+- [[teachings/enjoyment-as-the-only-metric|Making enjoyment the only metric paradoxically increases productivity]]
+- [[teachings/enjoyment-dissolves-procrastination|Making enjoyment the priority dissolves procrastination]]
+- [[teachings/procrastination-is-not-who-you-are|Procrastination is not who you are — and knowing that is the real pain]]
 
 ## Source
 

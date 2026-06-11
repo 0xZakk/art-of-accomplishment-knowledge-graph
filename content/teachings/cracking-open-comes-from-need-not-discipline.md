@@ -26,6 +26,11 @@ This mirrors a broader pattern in transformation work: intellectual understandin
 - [[teachings/heartbreak-is-expansion|Heartbreak is expansion]]
 - [[teachings/should-creates-rebellion-or-submission|Should creates rebellion or submission]]
 - [[teachings/experiential-learning-over-intellectual-understanding|Experiential learning over intellectual understanding]]
+- [[teachings/optimizing-for-others-delays-natural-unfolding|Optimizing for others delays natural unfolding]]
+- [[teachings/children-need-connection-not-optimization|Children need connection, not optimization]]
+- [[teachings/childhood-criticism-creates-self-distrust|Childhood criticism teaches you not to trust yourself]]
+- [[teachings/unstructured-meditation-is-transformational|Unstructured meditation is the transformational practice]]
+- [[teachings/parenting-as-ego-dissolution|Parenting is one of the deepest ego dissolution practices available]]
 
 ## Source
 

@@ -23,6 +23,7 @@ The problem wasn't empathy or adaptability. It was that she was leaving herself 
 - [[teachings/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]]
 - [[teachings/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
 - [[teachings/people-want-connection-not-perfection|People want connection, not perfection]]
+- [[teachings/holding-space-requires-staying-in-yourself|Holding space for others requires staying centered in yourself]]
 
 ## Source
 

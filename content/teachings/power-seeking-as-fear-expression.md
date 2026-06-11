@@ -26,6 +26,10 @@ The irony deepens when you realize that Harrison's entire teaching method is to 
 
 - [[teachings/seeking-power-is-an-expression-of-fear|Seeking power is an expression of fear]]
 - [[teachings/control-is-the-trade-for-self-love|Control is the trade for self-love]]
+- [[teachings/empowerment-outlasts-power|Empowerment outlasts power because it can't be taken away]]
+- [[teachings/good-teachings-inevitably-get-corrupted|Good teachings inevitably get corrupted into new moralities]]
+- [[teachings/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
+- [[teachings/wanting-to-control-perception-is-absurd|Wanting to control others' perception of you is absurd]]
 
 ## Source
 

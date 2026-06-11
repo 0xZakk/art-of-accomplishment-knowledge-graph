@@ -21,6 +21,10 @@ This reframes accomplishment. It's not about discipline, strategy, or willpower.
 - [[teachings/presence-is-pleasure|Presence is pleasure]]
 - [[teachings/being-yourself-designs-your-life|Being yourself designs your life]]
 - [[teachings/connection-as-career-compass|Connection as a career compass]]
+- [[teachings/connection-as-the-bottom-line-principle|Connection is the most effective bottom-line principle for life]]
+- [[teachings/ten-percent-more-connected-as-practice|Ten percent more connected as a practice]]
+- [[teachings/connection-starts-within-not-between|Connection starts within, not between people]]
+- [[teachings/connection-is-the-core-of-parenting|Connection is the core need in parenting, not obedience]]
 
 ## Source
 

@@ -26,6 +26,8 @@ The work is to honor the safety of the relationship by not using the partner as 
 - [[teachings/connection-is-the-core-of-parenting|Connection is the core of parenting]]
 - [[teachings/safety-enables-productive-conflict|Safety enables productive conflict rather than preventing it]]
 - [[teachings/fear-of-anger-drives-conflict-avoidance|Fear of anger—your own and others'—drives conflict avoidance]]
+- [[teachings/emotions-arent-bad-their-weaponization-is|Emotions aren't bad — their weaponization is what made them seem dangerous]]
+- [[teachings/emotional-abuse-is-using-emotions-to-control|Emotional abuse is using emotions to control someone]]
 
 ## Source
 

@@ -26,6 +26,10 @@ The difference between "wonder" and "stuckness" is entirely about your relations
 - [[teachings/uncertainty-is-where-transformation-happens|Uncertainty is where transformation happens]]
 - [[teachings/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist]]
 - [[teachings/stuckness-is-resistance-to-the-abyss|Stuckness is resistance to the abyss, not the abyss itself]]
+- [[teachings/clarity-comes-after-feeling-not-before|Clarity comes after feeling the emotion not before]]
+- [[teachings/source-is-always-there-just-drop-down|Source is always there — just drop down]]
+- [[teachings/confusion-is-resistance-in-disguise|Confusion can be resistance in disguise]]
+- [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 
 ## Source
 

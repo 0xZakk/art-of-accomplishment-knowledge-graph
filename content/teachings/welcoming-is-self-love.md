@@ -31,6 +31,7 @@ What makes this different from positive self-talk or affirmations is that nothin
 - [[teachings/self-love-is-somatic-welcoming-not-affirmation|Self-love is somatic welcoming, not affirmation]]
 - [[teachings/everyone-already-knows-the-way-home|Everyone already knows the way home]]
 - [[teachings/false-humility-as-defense|False humility is a defense against being seen]]
+- [[teachings/welcoming-not-managing-leads-to-awakening|Welcoming everything, not managing it, is what leads to awakening]]
 
 ## Source
 

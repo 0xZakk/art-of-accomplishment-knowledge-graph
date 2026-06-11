@@ -26,6 +26,9 @@ Together, these two principles — experimentation and enjoyment — create a se
 - [[teachings/enjoyment-is-the-orientation-for-transformation|Enjoyment is the orientation for transformation]]
 - [[teachings/passive-consumption-never-transforms|Passive consumption of wisdom never transforms you]]
 - [[teachings/realization-not-behavior-control|Seeing through limiting beliefs is realization, not behavior control]]
+- [[teachings/enjoyment-dissolves-procrastination|Making enjoyment the priority dissolves procrastination]]
+- [[teachings/managing-yourself-kills-the-practice|Using a practice to manage yourself makes it stop working]]
+- [[teachings/tools-stop-working-when-weaponized|Tools stop working when used for self-improvement]]
 
 ## Source
 

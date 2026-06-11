@@ -31,6 +31,7 @@ This means that trying to stop the surface behavior (the addiction or procrastin
 - [[teachings/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck in the patterns you regret]]
 - [[teachings/embracing-intensity-curbs-addiction|Embracing intensity removes the need for addictive escape]]
 - [[teachings/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
+- [[teachings/negative-reinforcement-creates-procrastination-loops|Negative self-reinforcement creates procrastination loops]]
 
 ## Source
 

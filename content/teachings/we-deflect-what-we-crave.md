@@ -25,6 +25,10 @@ The practice is simple but excruciating: let it in. Let the compliment tickle yo
 - [[teachings/we-push-away-approval-we-seek|We push away the approval we seek]]
 - [[teachings/we-push-away-support-we-dont-trust|We push away support we don't trust]]
 - [[teachings/you-get-the-love-you-can-accept|You get the love you can accept]]
+- [[teachings/receiving-requires-vulnerability|Receiving compliments requires the vulnerability we've been avoiding]]
+- [[teachings/receiving-compliments-dissolves-unworthiness|Receiving compliments somatically dissolves the feeling of unworthiness]]
+- [[teachings/compliments-pushed-away-reveal-disallowed-goodness|Pushing away compliments reveals disallowed goodness]]
+- [[teachings/not-acting-tells-you-youre-not-worthy|Not doing the thing you want tells yourself you're not worthy]]
 
 ## Source
 

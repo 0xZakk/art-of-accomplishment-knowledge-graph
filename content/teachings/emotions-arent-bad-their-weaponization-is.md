@@ -27,6 +27,10 @@ This distinction is crucial for families. Children learn that anger is dangerous
 - [[teachings/anger-unresisted-is-determination|Anger unresisted is determination]]
 - [[teachings/fear-of-anger-drives-conflict-avoidance|Fear of anger drives conflict avoidance]]
 - [[teachings/express-anger-without-directing-it|You can express anger without directing it at anyone]]
+- [[teachings/anger-at-you-is-not-evidence-you-did-wrong|Someone's anger at you is not evidence you did something wrong]]
+- [[teachings/safe-relationships-attract-displaced-emotions|Safe relationships attract displaced emotions]]
+- [[teachings/emotional-abuse-is-using-emotions-to-control|Emotional abuse is using emotions to control someone]]
+- [[teachings/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses them all]]
 
 ## Source
 

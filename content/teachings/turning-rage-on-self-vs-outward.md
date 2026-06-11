@@ -36,6 +36,10 @@ This redirection often requires first accessing the rage fully (not suppressing 
 - [[teachings/rage-as-gateway-to-healing|Rage as gateway to healing]]
 - [[teachings/self-sabotage-patterns|Self-sabotage patterns]]
 - [[teachings/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]
+- [[teachings/collapse-dysregulation-shame-in-anger-release|Anger release goes wrong through collapse, dysregulation, or shame recreation]]
+- [[teachings/shame-is-anger-turned-inward|Shame is anger turned inward]]
+- [[teachings/childhood-freeze-becomes-adult-trap|The childhood freeze response becomes the adult trap]]
+- [[teachings/anger-unresisted-is-determination|Anger unresisted becomes determination and clarity]]
 
 ## Source
 

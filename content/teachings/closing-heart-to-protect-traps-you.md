@@ -30,6 +30,7 @@ The closing of the heart creates the very problem it's trying to prevent. The ma
 - [[teachings/self-reliance-as-intimacy-avoidance|Self-reliance can be a form of intimacy avoidance]]
 - [[teachings/open-heart-with-strong-boundaries|Loving parents requires both open heart and strong boundaries]]
 - [[teachings/connection-cannot-be-broken-without-your-consent|No one can break your connection without your agreement]]
+- [[teachings/fear-of-losing-yourself-blocks-intimacy|Fear of losing yourself is what blocks intimacy]]
 
 ## Source
 

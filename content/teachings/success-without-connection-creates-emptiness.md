@@ -23,6 +23,8 @@ The pattern Joe identified was that all of Ali's stated wants pointed toward con
 - [[teachings/connection-as-career-compass|Connection as a career compass]]
 - [[teachings/the-enoughness-bar-always-moves|The enoughness bar always moves]]
 - [[teachings/finish-line-illusion|Finish line illusion]]
+- [[teachings/always-more-to-be-done-blocks-feeling|\"Always more to be done\" blocks feeling]]
+- [[teachings/ten-percent-more-connected-as-practice|Ten percent more connected as a practice]]
 
 ## Source
 

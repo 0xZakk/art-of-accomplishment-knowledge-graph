@@ -28,6 +28,8 @@ This is a powerful counter-example to the assumption that emotions are liabiliti
 - [[teachings/calmness-as-leadership-superpower|Calmness as leadership superpower]]
 - [[teachings/genuine-empathy-prevents-manipulation|Genuine empathy prevents manipulation]]
 - [[teachings/hate-consumes-mental-bandwidth|Hate consumes mental bandwidth needed for flow]]
+- [[teachings/hardened-heart-from-unprocessed-loss|A hardened heart comes from unprocessed loss]]
+- [[teachings/identity-collapse-follows-peak-achievement|Identity collapse follows peak achievement]]
 
 ## Source
 

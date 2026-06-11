@@ -25,6 +25,9 @@ This applies to coaching and facilitation as well: the facilitator's job is to b
 - [[teachings/humility-is-not-taking-life-personally|Humility is not taking life personally]]
 - [[teachings/false-humility-as-defense|False humility is a defense against being seen]]
 - [[teachings/hollowing-out-is-a-perpetual-process|The hollowing out process never ends]]
+- [[teachings/follow-your-calling-even-when-uncomfortable|Following your calling requires humility even when it's uncomfortable]]
+- [[teachings/humility-requires-self-care|Humility can require self-care]]
+- [[teachings/putting-yourself-above-others-is-protection|Putting yourself above others is a subtle form of protection]]
 
 ## Source
 

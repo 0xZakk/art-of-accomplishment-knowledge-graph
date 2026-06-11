@@ -27,6 +27,10 @@ The invitation is to treat the arising emotions not as problems but as cleaning 
 - [[teachings/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
 - [[teachings/grief-of-self-abandonment|Grief of self-abandonment]]
 - [[teachings/shame-about-grief-shuts-down-all-emotions|Shame about grief shuts down all emotions]]
+- [[teachings/the-body-holds-what-the-mind-cuts-off|The body holds emotions whether or not you put attention on them]]
+- [[teachings/balance-grief-with-self-care|Balance time spent with grief one-to-one with self-care]]
+- [[teachings/tears-dont-disturb-the-quiet|Tears don't disturb the inner quiet—they help the body]]
+- [[teachings/emotional-titration-is-adaptive|Emotional titration is adaptive, not avoidant]]
 
 ## Source
 

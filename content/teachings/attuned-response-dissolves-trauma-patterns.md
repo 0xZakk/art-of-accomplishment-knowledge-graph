@@ -33,6 +33,7 @@ The key insight is that trauma attunement is different from regular attunement. 
 - [[teachings/stone-face-teaches-stone-face|The stone-faced baby experiment shows how suppression is transmitted]]
 - [[teachings/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
 - [[teachings/both-people-in-a-fight-want-to-be-seen|Both people in a fight want to be seen]]
+- [[teachings/empathy-is-being-with-not-in|Empathy is being with someone, not in someone]]
 
 ## Source
 

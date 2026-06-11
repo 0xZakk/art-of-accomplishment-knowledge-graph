@@ -24,6 +24,11 @@ Caroline now describes herself as "addicted" to this edge — interviewing New Y
 - [[teachings/embrace-intensity-for-transformation|Embrace intensity for transformation]]
 - [[teachings/facilitating-from-your-own-edge|Facilitating from your own edge]]
 - [[teachings/not-jumping-can-be-the-bigger-leap|Not jumping can be the bigger leap]]
+- [[teachings/see-through-consequences-to-feel-free|Seeing through worst-case consequences creates freedom to act]]
+- [[teachings/clarity-comes-after-feeling-not-before|Clarity comes after feeling the emotion not before]]
+- [[teachings/safety-can-disconnect-from-reality|The pursuit of safety can disconnect you from reality]]
+- [[teachings/your-stance-toward-awakening-shapes-the-experience|Your stance toward awakening shapes the experience more than the awakening itself]]
+- [[teachings/stuckness-is-resistance-to-the-abyss|Stuckness is resistance to the abyss, not the abyss itself]]
 
 ## Source
 

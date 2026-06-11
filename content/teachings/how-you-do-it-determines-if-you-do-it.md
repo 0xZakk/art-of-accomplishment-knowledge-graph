@@ -41,6 +41,10 @@ How you feel while working affects what you produce.
 - [[teachings/todo-lists-can-be-inner-critic|To-do lists can be your inner critic on paper]]
 - [[teachings/wanting-is-aliveness|Wanting is aliveness]]
 - [[teachings/enjoyment-is-the-true-measure-of-efficiency|Enjoyment is the true measure of efficiency]]
+- [[teachings/not-trying-gets-more-done|Not trying gets more done than trying]]
+- [[teachings/falling-in-love-with-practice|Falling in love with practice beats forcing yourself to practice]]
+- [[teachings/enjoyment-is-more-efficient-than-pushing-through|Finding enjoyment in work is more efficient than pushing through]]
+- [[teachings/enjoyment-dissolves-procrastination|Making enjoyment the priority dissolves procrastination]]
 
 ## Source
 

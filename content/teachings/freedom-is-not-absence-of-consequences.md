@@ -22,6 +22,11 @@ Nobody gets to feel great all the time. Good feelings will be taken away, like f
 
 - [[teachings/fear-limits-optionality|Fear limits optionality]]
 - [[teachings/foreboding-joy-blocks-gratitude|Foreboding joy blocks gratitude]]
+- [[teachings/saying-yes-to-what-feels-good-now-gives-energy|Saying yes to what feels good now gives energy that chasing the future drains]]
+- [[teachings/what-you-fear-losing-reveals-your-conditions-on-freedom|What you fear losing reveals your conditions on freedom]]
+- [[teachings/holding-opposing-viewpoints-creates-freedom|Holding opposing viewpoints simultaneously creates freedom]]
+- [[teachings/fear-of-consequences-is-fear-of-emotional-states|Fear of consequences is really fear of emotional states]]
+- [[teachings/nothing-is-required-for-freedom|Nothing is required for freedom]]
 
 ## Source
 

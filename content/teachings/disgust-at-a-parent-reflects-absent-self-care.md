@@ -26,6 +26,9 @@ The disgust is actually pointing somewhere important: it's an emotion that, when
 - [[teachings/parent-self-relationship-shapes-child-relationship|Parent-self relationship shapes child relationship]]
 - [[teachings/boundaries-are-for-you-not-them|Boundaries are for you not them]]
 - [[teachings/heartbreak-is-where-love-for-a-parent-lives|Heartbreak over the relationship you never had is where love for a parent lives]]
+- [[teachings/love-the-part-in-pain-the-way-you-wanted-to-be-loved|Love the part in pain the way you wanted your parents to love you]]
+- [[teachings/shame-is-love-in-disguise|Shame is love in disguise—it shows you care]]
+- [[teachings/self-reliance-comes-from-parentified-childhood|Self-reliance comes from a childhood where you took care of your parents]]
 
 ## Source
 

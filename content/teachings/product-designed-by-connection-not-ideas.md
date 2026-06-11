@@ -22,6 +22,9 @@ This inverts the typical product development process. Instead of having an idea 
 - [[teachings/active-listening-is-asking-questions|Active listening means asking questions, not just receiving]]
 - [[teachings/being-interested-not-interesting|Being interested rather than interesting creates connection]]
 - [[teachings/sales-is-connecting-not-convincing|Sales is connecting, not convincing]]
+- [[teachings/asking-questions-is-active-listening|Asking questions is the most powerful form of active listening]]
+- [[teachings/listening-as-business-accelerator|Listening is one of the most profound business accelerators]]
+- [[teachings/connection-as-the-bottom-line-principle|Connection is the most effective bottom-line principle for life]]
 
 ## Source
 

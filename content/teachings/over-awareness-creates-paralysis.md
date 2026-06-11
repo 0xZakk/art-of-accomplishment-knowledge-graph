@@ -25,6 +25,10 @@ The resolution isn't less awareness but a different relationship to it. When she
 - [[teachings/thinking-youre-deciding-means-youre-in-fear|If you think you're making a decision, you're in fear]]
 - [[teachings/tools-can-keep-you-stuck|Tools can keep you stuck]]
 - [[teachings/insight-is-not-wisdom-until-embodied|Insight is not wisdom until embodied]]
+- [[teachings/intuition-sees-what-logic-cannot|Intuition sees what the logical mind cannot]]
+- [[teachings/questioning-assumptions-destabilizes-before-it-clarifies|Questioning assumptions destabilizes before it clarifies]]
+- [[teachings/changing-behavior-changes-consciousness|Changing behavior is the most efficient way to change consciousness]]
+- [[teachings/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
 
 ## Source
 

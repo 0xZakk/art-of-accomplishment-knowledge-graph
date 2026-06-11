@@ -26,6 +26,8 @@ The self-abuse creates a fog that prevents seeing which domino matters most. Whe
 - [[teachings/address-root-blockers-not-symptoms|Address root blockers not symptoms]]
 - [[teachings/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
 - [[teachings/procrastination-is-emotional-avoidance|Procrastination is the avoidance of an emotional state]]
+- [[teachings/procrastination-has-wisdom|Procrastination contains wisdom worth listening to]]
+- [[teachings/iterative-mindset-dissolves-procrastination|An iterative mindset dissolves procrastination by removing the possibility of failure]]
 
 ## Source
 

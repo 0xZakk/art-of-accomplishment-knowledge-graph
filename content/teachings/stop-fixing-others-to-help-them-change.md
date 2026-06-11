@@ -27,6 +27,7 @@ Matthew learned a related version: after completing the course, his excited impu
 - [[teachings/fixing-avoids-being-present|Compulsive fixing avoids being present]]
 - [[teachings/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
 - [[teachings/self-attack-after-epiphany-slows-transformation|Beating yourself up after an epiphany slows your transformation]]
+- [[teachings/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
 
 ## Source
 

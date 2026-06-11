@@ -22,6 +22,9 @@ This is why Joe criticizes one-directional charity that denies recipients the op
 
 - [[teachings/generosity-is-being-not-giving|True generosity is being, not giving]]
 - [[teachings/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]]
+- [[teachings/gratitude-for-abundance-removes-the-fear-of-losing-it|Gratitude for abundance removes the fear of losing it]]
+- [[teachings/helplessness-is-the-emotion-being-avoided|The feeling being avoided underneath 'I've got this' is helplessness]]
+- [[teachings/compulsive-giving-avoids-receiving|Compulsive giving is a self-reliance strategy to avoid receiving]]
 
 ## Source
 

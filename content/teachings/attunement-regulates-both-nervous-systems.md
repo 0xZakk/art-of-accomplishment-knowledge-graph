@@ -25,6 +25,10 @@ The implication for parenting is significant: children who receive genuine attun
 - [[teachings/connection-is-the-core-of-parenting|Connection is the core of parenting]]
 - [[teachings/attunement-is-listening-without-leaving-yourself|Attunement is listening without leaving yourself]]
 - [[teachings/stone-face-teaches-stone-face|The stone-faced baby experiment shows how suppression is transmitted]]
+- [[teachings/attunement-patterns-become-adult-cycles|Attunement patterns in childhood become the emotional cycles of adult life]]
+- [[teachings/children-regulate-through-connection-not-words|Young children regulate through emotional connection, not rational words]]
+- [[teachings/attuned-response-dissolves-trauma-patterns|Finding your partner's attuned response dissolves trauma patterns]]
+- [[teachings/childhood-calm-down-trains-us-out-of-excitement|'Calm down' trains us out of excitement in childhood]]
 
 ## Source
 

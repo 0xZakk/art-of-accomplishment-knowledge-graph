@@ -23,6 +23,7 @@ Structural changes work because they set the default behavior. People don't have
 
 - [[teachings/empower-people-decentrally|Empower people in a decentralized way]]
 - [[teachings/address-root-blockers-not-symptoms|Address root blockers, not symptoms]]
+- [[teachings/institutionalize-change-over-one-on-one-intervention|Institutionalized change beats one-on-one intervention]]
 
 ## Source
 

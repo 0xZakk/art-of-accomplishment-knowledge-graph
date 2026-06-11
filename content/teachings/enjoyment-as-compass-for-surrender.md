@@ -23,6 +23,8 @@ This shifts the question from "what should I accomplish?" to "what deeply enlive
 - [[teachings/follow-your-migratory-path|Follow your migratory path]]
 - [[teachings/wanting-is-aliveness|Wanting is aliveness]]
 - [[teachings/enjoyment-is-the-orientation-for-transformation|The question isn't how to do things you enjoy but how to enjoy what you're doing]]
+- [[teachings/enjoyment-is-the-pace-keeper-for-feeling|Enjoyment is the pace-keeper for how deep to feel]]
+- [[teachings/surrender-outcomes-to-decide-clearly|Surrender outcomes to decide clearly]]
 
 ## Source
 

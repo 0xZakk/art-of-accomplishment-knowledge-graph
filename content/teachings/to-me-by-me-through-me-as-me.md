@@ -30,6 +30,9 @@ Joe suggests there's at least one more stage beyond "as me" — "as long as ther
 - [[teachings/emotional-development-stages|Emotional development stages]]
 - [[teachings/awakening-is-not-an-endpoint|Awakening is not an endpoint]]
 - [[teachings/hollowing-out-is-a-perpetual-process|The hollowing out process never ends]]
+- [[teachings/transformation-requires-experience-not-information|Transformation requires experience, not information]]
+- [[teachings/changing-behavior-changes-consciousness|Changing behavior is the most efficient way to change consciousness]]
+- [[teachings/welcoming-not-managing-leads-to-awakening|Welcoming everything, not managing it, is what leads to awakening]]
 
 ## Source
 

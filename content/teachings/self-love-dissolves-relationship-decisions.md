@@ -32,6 +32,7 @@ The practical instruction is simple but demanding: unconditionally love yourself
 - [[teachings/heartbreak-is-the-mechanism-of-boundaries|Heartbreak is the mechanism of healthy boundaries]]
 - [[teachings/love-yourself-how-you-wanted-to-be-loved|Love yourself the way you always wanted to be loved]]
 - [[teachings/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
+- [[teachings/show-up-as-yourself-to-answer-stay-or-leave|Showing up as yourself answers the stay-or-leave question]]
 
 ## Source
 

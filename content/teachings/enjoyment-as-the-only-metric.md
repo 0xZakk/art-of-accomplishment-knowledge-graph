@@ -27,6 +27,8 @@ Joe then proves the shift is trivially easy: "Enjoy yourself 5% more right now. 
 - [[teachings/gratitude-reveals-abundance-already-present|Gratitude as orientation for growth]]
 - [[teachings/enjoyment-dissolves-procrastination|Making enjoyment the priority dissolves procrastination]]
 - [[teachings/falling-in-love-with-practice|Falling in love with practice beats forcing yourself to practice]]
+- [[teachings/alignment-eliminates-procrastination|Deep alignment with what you want eliminates procrastination]]
+- [[teachings/importance-kills-enjoyment|Making something important is what makes it not fun]]
 
 ## Source
 

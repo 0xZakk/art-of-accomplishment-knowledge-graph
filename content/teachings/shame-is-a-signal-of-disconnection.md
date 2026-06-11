@@ -29,6 +29,7 @@ The guest discovers this experientially through role-play. When Joe pretends to 
 - [[teachings/shame-is-anger-turned-inward|Shame is anger turned inward]]
 - [[teachings/welcome-shame-dont-push-through-it|Welcome shame rather than pushing through it]]
 - [[teachings/shame-addiction-creates-empty-fulfillment|Shame becomes addictive and creates empty fulfillment]]
+- [[teachings/shame-blocks-feeling-how-good-life-is|Shame blocks you from feeling how good life actually is]]
 
 ## Source
 

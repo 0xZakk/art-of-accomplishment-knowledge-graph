@@ -25,6 +25,8 @@ Joe notes that once you get experienced with emotional movement, it stops feelin
 - [[teachings/moving-anger-is-the-fastest-way-out-of-stuck|Moving anger is the fastest way out of stuckness]]
 - [[teachings/feel-whats-underneath-the-shame|Feel what's underneath the shame to break stagnation]]
 - [[teachings/resistance-creates-the-feared-outcome|Resisting an emotion creates the very outcome you fear]]
+- [[teachings/shame-about-grief-shuts-down-all-emotions|Shame about grief shuts down all emotions]]
+- [[teachings/suppressing-anger-kills-your-fire|Suppressing anger kills your fire, determination, and clarity]]
 
 ## Source
 

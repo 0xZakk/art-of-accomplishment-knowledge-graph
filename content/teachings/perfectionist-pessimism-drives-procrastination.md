@@ -25,6 +25,9 @@ The antidote isn't discipline—it's releasing the demand for perfection and con
 - [[teachings/smart-identity-prevents-trying|The smart identity prevents trying]]
 - [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
 - [[teachings/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
+- [[teachings/the-story-of-brokenness-is-the-problem|The story about how you're broken is the problem, not the brokenness]]
+- [[teachings/procrastination-is-emotional-avoidance|Procrastination is the avoidance of an emotional state]]
+- [[teachings/alignment-eliminates-procrastination|Deep alignment with what you want eliminates procrastination]]
 
 ## Source
 

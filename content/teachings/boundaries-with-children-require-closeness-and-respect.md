@@ -30,6 +30,8 @@ For teenagers, the lane is simple: treat people with respect, contribute, and de
 - [[teachings/weaponized-boundaries-are-control-in-disguise|Weaponized boundaries are control in disguise]]
 - [[teachings/parent-self-relationship-shapes-child-relationship|Your relationship with yourself shapes your relationship with your children]]
 - [[teachings/boundaries-not-view-for-narcissists|Boundaries, not VIEW, are the tool for narcissists]]
+- [[teachings/a-boundary-with-a-return-prevents-abandonment|Draw a boundary that includes coming back so they don't feel abandoned]]
+- [[teachings/expressing-emotions-restores-connection|Feeling and expressing emotion restores connection]]
 
 ## Source
 

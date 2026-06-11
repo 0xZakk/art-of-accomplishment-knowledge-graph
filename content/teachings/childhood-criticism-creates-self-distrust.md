@@ -31,6 +31,8 @@ The solution mirrors the original wound: the parent's job was to listen deeply; 
 - [[teachings/attunement-patterns-become-adult-cycles|Attunement patterns in childhood become the emotional cycles of adult life]]
 - [[teachings/rebellion-is-the-only-self-under-control|Rebellion becomes the only sense of self under suffocating control]]
 - [[teachings/parenting-as-ego-dissolution|Parenting is one of the deepest ego dissolution practices available]]
+- [[teachings/not-responsible-for-others-emotions|Declaring 'I'm not responsible for how you feel' restores full expression]]
+- [[teachings/connection-is-the-core-of-parenting|Connection is the core need in parenting, not obedience]]
 
 ## Source
 

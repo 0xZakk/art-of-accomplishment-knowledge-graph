@@ -26,6 +26,10 @@ Joe also references research on microexpressions showing that you can read a per
 - [[teachings/body-awareness-is-just-attention|Body awareness is just attention]]
 - [[teachings/emotions-are-always-present|Emotions are always present]]
 - [[teachings/unfelt-emotions-create-physical-stress|Unfelt emotions create physical stress through muscle tension]]
+- [[teachings/suppressing-emotions-has-a-physical-price|Suppressing emotions has a physical price the body pays]]
+- [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[teachings/trying-to-feel-joy-pushes-it-away|Trying to feel joy is the resistance that pushes it away]]
+- [[teachings/you-cant-make-yourself-cry|You can't make yourself feel emotions by trying]]
 
 ## Source
 

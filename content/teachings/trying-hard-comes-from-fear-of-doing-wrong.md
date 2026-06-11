@@ -29,6 +29,10 @@ This isn't laziness dressed up as wisdom. It's recognizing that the energy spent
 - [[teachings/perfectionism-as-safety-strategy|Perfectionism as safety strategy]]
 - [[teachings/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]]
 - [[teachings/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]
+- [[teachings/welcome-doubt-instead-of-running|Welcoming doubt instead of running from it opens the heart]]
+- [[teachings/rejecting-yourself-first-prevents-rejection|Rejecting yourself first is a strategy to never get rejected]]
+- [[teachings/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
+- [[teachings/trying-to-feel-joy-pushes-it-away|Trying to feel joy is the resistance that pushes it away]]
 
 ## Source
 

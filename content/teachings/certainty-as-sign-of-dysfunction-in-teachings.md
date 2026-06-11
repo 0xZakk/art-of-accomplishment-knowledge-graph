@@ -27,6 +27,10 @@ The same pattern shows up when content creators must continuously produce — th
 - [[teachings/knowing-is-the-opposite-of-wonder|Knowing is the opposite of wonder]]
 - [[teachings/good-teachings-inevitably-get-corrupted|Good teachings inevitably get corrupted]]
 - [[teachings/internal-authority-mirrors-external|Internal authority mirrors external]]
+- [[teachings/teachers-and-students-co-create-dysfunction|Teachers and students co-create dysfunction together]]
+- [[teachings/holding-opposing-viewpoints-creates-freedom|Holding opposing viewpoints simultaneously creates freedom]]
+- [[teachings/community-is-more-important-than-the-teacher|Community is far more important than the teacher for transformation]]
+- [[teachings/you-cannot-judge-the-value-of-your-own-input|You cannot judge the value of your own input]]
 
 ## Source
 

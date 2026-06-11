@@ -28,6 +28,7 @@ Critically, gratitude should be applied *to the problem itself*. If your product
 - [[teachings/negativity-bias-limits-intelligent-people|Negativity bias especially limits intelligent people]]
 - [[teachings/ungratitude-removes-half-your-solutions|Ungratitude removes half your solutions]]
 - [[teachings/gratitude-solves-problems-by-seeing-whats-right|Gratitude solves problems by seeing what's right and growing it]]
+- [[teachings/passive-consumption-never-transforms|Passive consumption of wisdom never transforms you]]
 
 ## Source
 

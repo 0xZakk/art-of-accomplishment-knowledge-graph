@@ -23,6 +23,8 @@ A crucial clarification: ego isn't "I'm the greatest and I know what decisions t
 - [[teachings/parenting-as-ego-dissolution|Parenting as ego dissolution]]
 - [[teachings/any-self-definition-limits-you|Any self-definition limits you]]
 - [[teachings/growth-means-shedding-identities|Growth means shedding identities]]
+- [[teachings/humility-is-not-taking-life-personally|Humility is not taking life personally]]
+- [[teachings/ego-arises-to-protect-from-unacceptable-emotions|Ego arises to protect from unacceptable emotions]]
 
 ## Source
 

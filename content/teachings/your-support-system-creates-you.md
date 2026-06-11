@@ -27,6 +27,7 @@ Rather than fighting the world to sharpen a quality from within, you can create 
 - [[teachings/community-amplifies-transformation|Community amplifies transformation]]
 - [[teachings/self-reliance-is-an-illusion-at-every-level|Self-reliance is an illusion at every level]]
 - [[teachings/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]]
+- [[teachings/being-seen-is-the-scariest-part-of-support|Being seen is the scariest part of support]]
 
 ## Source
 

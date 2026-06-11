@@ -28,6 +28,7 @@ This is a specific instance of a broader pattern Joe identifies: trying to get r
 - [[teachings/social-anxiety-is-hiding-from-phantom-shame|Social anxiety is hiding from a shame that has no actual content]]
 - [[teachings/shame-is-a-signal-of-disconnection|Shame is a signal of disconnection, not a problem to solve]]
 - [[teachings/shame-after-feeling-good-pattern|Shame arises after feeling good as a learned pattern]]
+- [[teachings/loneliness-is-shame-plus-anxiety|Loneliness is shame plus anxiety about interaction]]
 
 ## Source
 

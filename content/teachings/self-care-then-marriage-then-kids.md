@@ -23,6 +23,9 @@ Joe validates how hard this is to execute, especially in the first years. He and
 - [[teachings/parent-self-relationship-shapes-child-relationship|Parent self-relationship shapes child relationship]]
 - [[teachings/self-love-is-the-capacity-limit-for-loving-others|Self-love is the capacity limit for loving others]]
 - [[teachings/marriage-as-dojo-for-self-development|Marriage as dojo for self-development]]
+- [[teachings/self-love-sets-the-capacity-limit-for-loving-others|Self-love sets the capacity limit for loving a partner]]
+- [[teachings/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
+- [[teachings/connection-is-the-core-of-parenting|Connection is the core need in parenting, not obedience]]
 
 ## Source
 

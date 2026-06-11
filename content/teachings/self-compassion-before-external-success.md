@@ -27,6 +27,11 @@ The insight is that what we chase externally (money, success, freedom) is often 
 - [[teachings/money-blocks-are-safety-blocks|Money blocks are safety blocks]]
 - [[teachings/chase-your-own-approval|Chase your own approval]]
 - [[teachings/love-yourself-how-you-wanted-to-be-loved|Love yourself how you wanted to be loved]]
+- [[teachings/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
+- [[teachings/rejecting-yourself-first-prevents-rejection|Rejecting yourself first is a strategy to never get rejected]]
+- [[teachings/peace-with-yourself-is-only-available-now|Peace with yourself is only available right now]]
+- [[teachings/self-compassion-is-the-meta-variable|Self-compassion is the meta-variable that speeds all transformation]]
+- [[teachings/no-external-validation-works-without-self-validation|No amount of external validation works if you won't validate yourself]]
 
 ## Source
 

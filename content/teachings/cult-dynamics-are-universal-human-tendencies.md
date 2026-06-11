@@ -26,6 +26,7 @@ What distinguishes destructive cults from healthy groups isn't the absence of th
 - [[teachings/inner-critic-uses-same-cult-dynamics|Inner critic uses same cult dynamics]]
 - [[teachings/we-are-each-a-cult-of-one|Each person is a 'cult of one' with internal belief structures they can't fully see]]
 - [[teachings/seeding-authority-feels-like-belonging|Ceding authority to a group feels like belonging and safety]]
+- [[teachings/dismissing-deep-connection-as-cult-diminishes-life|Dismissing deep community as 'cult behavior' diminishes the possibility of authentic living]]
 
 ## Source
 

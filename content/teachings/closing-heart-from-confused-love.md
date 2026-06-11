@@ -29,6 +29,8 @@ The trap creates a feeling of being stuck: if you can't leave and be loving, all
 - [[teachings/contrary-action-breaks-love-patterns|Contrary action breaks conditioned love patterns]]
 - [[teachings/boundaries-and-openness-are-the-same-thing|Drawing boundaries and opening your heart are the same thing]]
 - [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
+- [[teachings/you-cannot-question-and-love-at-the-same-time|You have to stop loving to question a relationship]]
+- [[teachings/love-requires-willingness-to-be-hurt|Love requires willingness to be hurt]]
 
 ## Source
 

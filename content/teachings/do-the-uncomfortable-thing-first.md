@@ -25,6 +25,11 @@ Instead of grinding through a to-do list, ask: what are the three things that wo
 - [[teachings/busyness-is-not-productivity|Busyness is not productivity]]
 - [[teachings/fear-limits-optionality|Fear limits optionality]]
 - [[teachings/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]]
+- [[teachings/procrastination-is-emotional-avoidance|Procrastination is the avoidance of an emotional state]]
+- [[teachings/procrastination-has-wisdom|Procrastination contains wisdom worth listening to]]
+- [[teachings/first-domino-principle|People who don't procrastinate pick the right first domino]]
+- [[teachings/importance-kills-enjoyment|Making something important is what makes it not fun]]
+- [[teachings/procrastination-as-wisdom-signal|Procrastination can be a signal that your priorities are misaligned]]
 
 ## Source
 

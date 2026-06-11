@@ -26,6 +26,8 @@ The antidote is regularly asking: if I look back on this week, how much of what 
 - [[teachings/should-creates-stress-not-change|Should creates stress, not change]]
 - [[teachings/do-the-uncomfortable-thing-first|The most productive thing is the most uncomfortable thing]]
 - [[teachings/responding-is-not-doing|Responding feels like doing but often changes nothing]]
+- [[teachings/find-the-leverage-on-your-todo-list|Find the one thing that makes everything else easier or irrelevant]]
+- [[teachings/enjoyment-as-the-only-metric|Making enjoyment the only metric paradoxically increases productivity]]
 
 ## Source
 

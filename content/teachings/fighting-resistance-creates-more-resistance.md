@@ -26,6 +26,9 @@ Joe shares his pot habit as a personal example: the more he fought it with shame
 - [[teachings/resisting-inner-critic-strengthens-it|Resisting inner critic strengthens it]]
 - [[teachings/resistance-gives-the-inner-critic-its-power|Resistance gives the inner critic its power]]
 - [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[teachings/the-resistance-to-asking-protects-an-unfelt-sadness|The resistance to asking protects an unfelt sadness]]
+- [[teachings/softening-not-solving-breaks-the-loop|Softening, not solving, breaks self-imposed loops]]
+- [[teachings/craving-is-the-pushing-away|Craving is the pushing away]]
 
 ## Source
 

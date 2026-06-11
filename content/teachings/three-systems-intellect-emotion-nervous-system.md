@@ -26,6 +26,10 @@ Most modalities work on one or two of these systems but miss the third. Effectiv
 - [[teachings/three-brains-of-transformation|Three brains of transformation]]
 - [[teachings/three-brains-must-align-to-act|Three brains must align to act]]
 - [[teachings/cultivating-all-intelligences-creates-clarity|Cultivating all intelligences creates clarity]]
+- [[teachings/crack-the-intellectual-trap-first|For most people, crack the intellectual trap first]]
+- [[teachings/transformation-requires-all-three-levels|Guaranteed transformation requires working the head, heart, and nervous system together]]
+- [[teachings/nervous-system-fight-or-flight-collapses-thinking|Fight-or-flight collapses thinking into binaries and false ends]]
+- [[teachings/three-intelligences-triple-your-intelligence|Head, heart, and gut are three intelligences that triple your capacity]]
 
 ## Source
 

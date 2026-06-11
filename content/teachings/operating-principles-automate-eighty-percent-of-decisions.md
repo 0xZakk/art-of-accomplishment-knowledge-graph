@@ -25,6 +25,10 @@ The principles must be phrased so people can actually say them in daily conversa
 - [[teachings/alignment-beats-effort|Alignment always beats effort]]
 - [[teachings/focus-on-few-high-leverage-principles|Focus on few high-leverage principles]]
 - [[teachings/internal-alignment-mirrors-organizational-alignment|Internal alignment mirrors organizational alignment]]
+- [[teachings/principles-automate-decision-making|Principles automate decision-making into effortless choices]]
+- [[teachings/connection-as-the-bottom-line-principle|Connection is the most effective bottom-line principle for life]]
+- [[teachings/principles-make-decisions-for-you|Principles make decisions for you]]
+- [[teachings/life-is-the-sum-of-decisions|Your life is the sum of the decisions you've made]]
 
 ## Source
 

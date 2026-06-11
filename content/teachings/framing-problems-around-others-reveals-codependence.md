@@ -25,6 +25,10 @@ This pattern is diagnostic: if you consistently describe your problems in terms 
 - [[teachings/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others to avoid your feelings]]
 - [[teachings/self-abandonment-in-communication|Self-abandonment in communication]]
 - [[teachings/codependent-cycling-avoids-heartbreak|Codependent cycling between shame and anger avoids heartbreak]]
+- [[teachings/obligation-kills-love|Taking responsibility from obligation kills love]]
+- [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
+- [[teachings/being-with-emotions-beats-fixing-them|Being with someone's emotions is more powerful than trying to fix them]]
+- [[teachings/own-the-trigger-as-yours|Owning the trigger as yours dissolves the fight]]
 
 ## Source
 

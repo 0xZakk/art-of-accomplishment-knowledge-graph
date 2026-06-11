@@ -26,6 +26,7 @@ The key insight is that purpose can't be figured out in advance — it can only 
 - [[teachings/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
 - [[teachings/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
 - [[teachings/searching-for-purpose-assumes-you-lack-it|Searching for purpose assumes you don't already have it]]
+- [[teachings/purpose-matures-into-choicelessness|Purpose matures into choicelessness]]
 
 ## Source
 

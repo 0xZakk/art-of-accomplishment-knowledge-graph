@@ -22,6 +22,11 @@ This is why experiments are more transformative than reading or thinking: they e
 
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
 - [[teachings/dissociation-removes-your-signals|Dissociation removes your body's learning signals]]
+- [[teachings/stay-in-discomfort-iterate-on-shoulds|Stay when experiments get uncomfortable, iterate when they become shoulds]]
+- [[teachings/follow-your-migratory-path|Follow your natural migratory path through experiments]]
+- [[teachings/body-lies-as-much-as-mind|The body lies just as much as the mind]]
+- [[teachings/embodied-listening-improves-signal-to-noise|Embodied listening improves signal to noise]]
+- [[teachings/changing-behavior-changes-consciousness|Changing behavior is the most efficient way to change consciousness]]
 
 ## Source
 

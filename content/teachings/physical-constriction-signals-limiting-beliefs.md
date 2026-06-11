@@ -25,6 +25,8 @@ This gives a practical entry point: you don't need to intellectually identify yo
 - [[teachings/three-categories-of-limiting-beliefs|Limiting beliefs come in three forms: false thoughts, misinterpreted experience, and incomplete story]]
 - [[teachings/constriction-not-truth-identifies-limiting-beliefs|Constriction, not truth, identifies limiting beliefs]]
 - [[teachings/look-for-what-you-absolutely-believe-true|Your limiting beliefs hide in what you absolutely believe to be true]]
+- [[teachings/lattice-work-of-beliefs|Limiting beliefs form an interconnected lattice work]]
+- [[teachings/unsafety-as-belief-anchor|The belief 'I'll be unsafe' anchors other limiting beliefs]]
 
 ## Source
 

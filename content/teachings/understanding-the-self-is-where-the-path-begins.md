@@ -24,6 +24,9 @@ The very first part of Joe's real journey was "sitting quietly, watching the voi
 - [[teachings/inner-critic-is-not-your-voice|The inner critic is not your voice]]
 - [[teachings/respond-differently-to-the-inner-critic|Respond differently to the inner critic]]
 - [[teachings/everyone-already-knows-the-way-home|Everyone already knows the way home]]
+- [[teachings/to-me-by-me-through-me-as-me|Developmental stages: to me, by me, through me, as me]]
+- [[teachings/subtle-superiority-as-protection|Subtle superiority is a protection pattern that creates isolation]]
+- [[teachings/the-recent-epiphany-is-also-a-rut|The most recent epiphany becomes the next rut you have to release]]
 
 ## Source
 

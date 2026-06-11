@@ -23,6 +23,11 @@ This phenomenon also dissolves the sense of separate self. When you see your emo
 
 - [[teachings/deep-community-dissolves-identity|Deep community dissolves identity]]
 - [[teachings/community-health-is-individual-health|Community health is individual health]]
+- [[teachings/holding-it-together-blocks-support|Holding it together shields you from the support trying to reach you]]
+- [[teachings/being-together-in-emotions-not-caretaking|Being together in emotions is different from caretaking them]]
+- [[teachings/what-youre-hiding-is-your-emotions|What you're hiding is your emotions, not a defect]]
+- [[teachings/expressing-emotions-restores-connection|Feeling and expressing emotion restores connection]]
+- [[teachings/real-community-requires-non-judgmental-witnessing|Real community requires non-judgmental witnessing, not fixing]]
 
 ## Source
 

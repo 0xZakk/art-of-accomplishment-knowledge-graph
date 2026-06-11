@@ -23,6 +23,11 @@ The fear that accompanies dropping roles is real: "Do I not care anymore? Am I d
 - [[teachings/letting-go-is-non-management|Letting go is non-management]]
 - [[teachings/managing-others-avoids-own-feelings|Managing others avoids own feelings]]
 - [[teachings/stop-fixing-others-to-help-them-change|Stop fixing others to help them change]]
+- [[teachings/encouragement-can-keep-someone-in-victimhood|Encouraging someone as a project can keep them in victimhood]]
+- [[teachings/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
+- [[teachings/self-care-actions-are-proof-of-self-care-capacity|Self-care actions are proof of self-care capacity]]
+- [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
+- [[teachings/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
 
 ## Source
 

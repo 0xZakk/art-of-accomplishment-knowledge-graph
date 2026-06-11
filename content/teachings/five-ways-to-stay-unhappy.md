@@ -25,6 +25,8 @@ What makes this framework powerful is that all five patterns interlock. Superior
 - [[teachings/gratitude-reveals-solutions-criticism-hides|Gratitude reveals solutions criticism hides]]
 - [[teachings/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]]
 - [[teachings/muscles-constrict-to-block-feeling|Muscles constrict to block feeling]]
+- [[teachings/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
+- [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
 
 ## Source
 

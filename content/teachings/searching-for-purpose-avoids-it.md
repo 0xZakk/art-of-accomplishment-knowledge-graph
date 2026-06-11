@@ -56,6 +56,7 @@ This teaching is uncomfortable because it removes all our excuses. We can't say 
 - [[teachings/say-yes-then-filter-for-joy|Say yes to what intrigues you, then filter for joy]]
 - [[teachings/wanting-is-aliveness|Wanting is aliveness]]
 - [[teachings/grief-of-self-abandonment|Grief of self-abandonment]]
+- [[teachings/purpose-matures-into-choicelessness|Purpose matures into choicelessness]]
 
 ## Source
 

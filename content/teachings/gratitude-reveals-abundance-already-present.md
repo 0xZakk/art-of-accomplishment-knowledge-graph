@@ -25,6 +25,11 @@ This isn't magical thinking—it's perceptual. A mind fixated on lack literally 
 - [[teachings/felt-gratitude-not-performed-gratitude|Felt gratitude, not performed gratitude]]
 - [[teachings/gratitude-reveals-solutions-criticism-hides|Gratitude reveals solutions, criticism hides them]]
 - [[teachings/identity-of-lack-perpetuates-lack|Identity of lack perpetuates lack]]
+- [[teachings/feeling-lack-creates-lack|Feeling lack creates and sustains the lack]]
+- [[teachings/gratitude-for-abundance-removes-the-fear-of-losing-it|Gratitude for abundance removes the fear of losing it]]
+- [[teachings/find-whats-working-and-spread-it|Find what's already working and spread it rather than fixing what's broken]]
+- [[teachings/practicing-gratitude-to-get-something-confirms-lack|Practicing gratitude to get something confirms the lack]]
+- [[teachings/lack-self-talk-rewrites-your-reality|Repeated lack self-talk rewrites how you see reality]]
 
 ## Source
 

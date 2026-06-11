@@ -22,6 +22,8 @@ The freedom comes from owning it: "Yep, I'm an imposter. I don't know everything
 
 - [[teachings/being-yourself-designs-your-life|Being yourself designs your life]]
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
+- [[teachings/imposter-syndrome-means-not-being-yourself|Imposter syndrome is a sign you're not being yourself]]
+- [[teachings/hiding-makes-you-feel-more-like-an-imposter|Hiding who you are makes you feel more like an imposter]]
 
 ## Source
 

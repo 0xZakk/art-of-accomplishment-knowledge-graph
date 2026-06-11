@@ -25,6 +25,10 @@ This is a radical reorientation: rather than building better armor against judgm
 - [[teachings/triggers-reveal-self-judgment|Triggers reveal self-judgment]]
 - [[teachings/fear-as-road-map-not-enemy|Fear as road map, not enemy]]
 - [[teachings/embrace-intensity-for-transformation|Embrace intensity for transformation]]
+- [[teachings/dismissing-deep-connection-as-cult-diminishes-life|Dismissing deep community as 'cult behavior' diminishes the possibility of authentic living]]
+- [[teachings/anger-is-love-with-a-boundary|Unresisted anger is love expressing a clear boundary]]
+- [[teachings/relationship-triggers-are-yours|Your relationship triggers are about you, not them]]
+- [[teachings/defense-agrees-the-world-that-somethings-wrong-with-you|Every defense agrees with the world that something's wrong with you]]
 
 ## Source
 

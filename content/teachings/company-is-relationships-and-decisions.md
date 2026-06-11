@@ -27,6 +27,8 @@ Joe notes that culture doesn't require extra time or resources. You have to do t
 - [[teachings/structural-changes-beat-direct-interventions|Structural changes beat direct interventions]]
 - [[teachings/life-is-the-sum-of-decisions|Your life is the sum of the decisions you've made]]
 - [[teachings/hearing-objections-before-deciding|Hearing objections before deciding — even if you decide the same thing — changes everything]]
+- [[teachings/institutionalize-change-over-one-on-one-intervention|Institutionalized change beats one-on-one intervention]]
+- [[teachings/you-cant-build-culture-you-cant-see|You can't build a culture you can't see in yourself]]
 
 ## Source
 

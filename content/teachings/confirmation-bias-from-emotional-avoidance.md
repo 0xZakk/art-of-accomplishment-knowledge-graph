@@ -31,6 +31,7 @@ The way through is simple but not easy: feel the underlying emotions. When you'r
 - [[teachings/thinking-youre-deciding-means-youre-in-fear|If you think you're making a decision, you're in fear]]
 - [[teachings/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]
 - [[teachings/all-decisions-are-emotional|All decisions are emotional, never purely rational]]
+- [[teachings/feeling-life-beats-figuring-it-out|Feeling your life produces clearer decisions than figuring it out]]
 
 ## Source
 

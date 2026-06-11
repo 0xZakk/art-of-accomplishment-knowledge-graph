@@ -29,6 +29,9 @@ The same progression applies to stress: create separation (sleep, vacation), won
 - [[teachings/loving-to-manage-stops-working|Loving something to make it go away stops working]]
 - [[teachings/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]]
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/enjoyment-is-the-pace-keeper-for-feeling|Enjoyment is the pace-keeper for how deep to feel]]
+- [[teachings/untangle-what-was-wired-with-love|Healing requires untangling what was wired together with love in childhood]]
+- [[teachings/negative-self-talk-reveals-how-love-was-wired|Negative self-talk reveals how love was wired in childhood]]
 
 ## Source
 

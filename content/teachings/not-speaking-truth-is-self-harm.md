@@ -27,6 +27,10 @@ The practice isn't about grand acts of vulnerability. It's moment-to-moment: wit
 - [[teachings/self-abandonment-in-communication|Self-abandonment in communication]]
 - [[teachings/suppressing-anger-kills-your-fire|Suppressing anger kills your fire]]
 - [[teachings/composure-is-self-imprisonment|Composure is self-imprisonment]]
+- [[teachings/truth-is-felt-not-performed|Truth is a felt experience, not a performance]]
+- [[teachings/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
+- [[teachings/shoulding-yourself-to-hold-space-prevents-it|Telling yourself you should hold space is what prevents you from holding space]]
+- [[teachings/self-care-actions-are-proof-of-self-care-capacity|Self-care actions are proof of self-care capacity]]
 
 ## Source
 

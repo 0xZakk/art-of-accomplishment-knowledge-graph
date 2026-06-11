@@ -23,6 +23,9 @@ This isn't about blocking empathy — it's about maintaining the distinction bet
 - [[teachings/empathy-is-being-with-not-in|Empathy is being with someone's experience, not lost in it]]
 - [[teachings/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]
 - [[teachings/body-awareness-is-just-attention|Body awareness is just attention]]
+- [[teachings/stop-being-the-victim-to-love-the-angry-person|You can't love someone you see as your oppressor]]
+- [[teachings/genuine-empathy-prevents-manipulation|Genuine empathy prevents rather than enables manipulation]]
+- [[teachings/own-the-trigger-as-yours|Owning the trigger as yours dissolves the fight]]
 
 ## Source
 

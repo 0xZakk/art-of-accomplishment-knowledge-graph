@@ -29,6 +29,7 @@ The person who doesn't need to defend can see clearly: "Here I am, and I actuall
 - [[teachings/defensiveness-is-a-breadcrumb-to-shame|Defensiveness is a breadcrumb back to shame]]
 - [[teachings/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]]
 - [[teachings/when-love-shows-up-unloved-parts-surface|When love shows up, unloved parts surface to be loved]]
+- [[teachings/defense-agrees-the-world-that-somethings-wrong-with-you|Every defense agrees with the world that something's wrong with you]]
 
 ## Source
 

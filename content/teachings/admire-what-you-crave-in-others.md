@@ -29,6 +29,11 @@ Joe shares discovering this at a conference where the organizer was "so generous
 - [[teachings/we-deflect-what-we-crave|We deflect what we crave]]
 - [[teachings/what-triggers-you-in-others-exists-in-you|What triggers you in others exists in you]]
 - [[teachings/being-interested-not-interesting|Being interested rather than interesting creates connection]]
+- [[teachings/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]]
+- [[teachings/asking-for-what-you-want-dissolves-resentment|Asking for what you want dissolves resentment]]
+- [[teachings/we-push-away-approval-we-seek|We push away the approval we seek]]
+- [[teachings/jealousy-pushes-away-the-love-it-wants|Jealousy is a bid for love that pushes love away]]
+- [[teachings/welcoming-not-just-accepting-emotions|Welcoming emotions is fundamentally different from accepting them]]
 
 ## Source
 

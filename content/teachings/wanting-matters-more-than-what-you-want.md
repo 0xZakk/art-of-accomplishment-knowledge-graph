@@ -26,6 +26,9 @@ Joe illustrates with his godson: a teenager who stole $50 and vaped in class was
 - [[teachings/goals-generate-questions-not-destinations|Goals generate questions, not destinations]]
 - [[teachings/craving-versus-wanting|Craving versus wanting]]
 - [[teachings/exploration-not-achievement-is-the-real-urge|Exploration not achievement is the real urge underneath potential anxiety]]
+- [[teachings/saying-yes-to-what-feels-good-now-gives-energy|Saying yes to what feels good now gives energy that chasing the future drains]]
+- [[teachings/ambition-survives-beneath-the-resistance|Ambition survives beneath the resistance, waiting to be set free]]
+- [[teachings/intention-without-attachment-is-most-effective|Intention without attachment is the most effective approach to goals]]
 
 ## Source
 

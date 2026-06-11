@@ -25,6 +25,9 @@ This connects to the broader principle that taking someone's emotions away disem
 - [[teachings/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
 - [[teachings/false-love-erodes-power-in-relationships|False love erodes power in relationships]]
 - [[teachings/ceo-as-everyones-caretaker-is-unsustainable|CEO as everyone's caretaker is unsustainable]]
+- [[teachings/taking-responsibility-for-partners-emotions-breeds-resentment|Taking responsibility for your partner's emotions breeds resentment]]
+- [[teachings/loving-to-manage-stops-working|Loving something to make it go away stops working]]
+- [[teachings/you-get-the-love-you-can-accept|You only get the love you can let in]]
 
 ## Source
 

@@ -28,6 +28,8 @@ The hardened heart wasn't just emotionally painful — it was functionally impai
 - [[teachings/alcohol-as-permission-to-open-the-heart|Alcohol as permission to open the heart]]
 - [[teachings/hate-consumes-mental-bandwidth|Hate consumes mental bandwidth needed for flow]]
 - [[teachings/identity-collapse-follows-peak-achievement|Identity collapse follows peak achievement]]
+- [[teachings/empathy-makes-warriors-more-effective|Empathy makes warriors more effective, not weaker]]
+- [[teachings/grief-sustained-transforms-everything|Sustained grief transforms everything it touches]]
 
 ## Source
 

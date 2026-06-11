@@ -25,6 +25,10 @@ The practice: every time you make an immediate decision, notice how your body fe
 
 - [[teachings/body-awareness-is-just-attention|Body awareness is just attention]]
 - [[teachings/doubt-is-leaving-your-heart|Doubt is leaving your heart]]
+- [[teachings/principles-need-somatic-grounding|Principles need a felt sense in the body, not just intellectual understanding]]
+- [[teachings/the-closing-heart-is-a-boundary-signal|A closing heart is the body signaling a boundary]]
+- [[teachings/thinking-youre-deciding-means-youre-in-fear|If you think you're making a decision, you're in fear]]
+- [[teachings/letting-judgment-break-your-heart-open|Letting judgment break your heart open is the path through]]
 
 ## Source
 

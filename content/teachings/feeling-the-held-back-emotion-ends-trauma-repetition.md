@@ -29,6 +29,7 @@ Bessel confirms this through psychodrama work: you become the ten-year-old, put 
 - [[teachings/avoidance-creates-the-pattern-it-fears|Emotional avoidance creates the very pattern it fears]]
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 - [[teachings/fully-feeling-stops-the-pattern|Fully falling in love with the avoided feeling is the quickest way to stop a negative pattern]]
+- [[teachings/the-golden-algorithm|The golden algorithm: we invite back the emotion we avoid, in the way we avoid it]]
 
 ## Source
 

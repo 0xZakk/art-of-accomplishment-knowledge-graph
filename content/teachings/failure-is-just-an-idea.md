@@ -25,6 +25,9 @@ The most dangerous aspect is that failure doesn't need to be real to be devastat
 - [[teachings/false-failure-destroys-lives|A false story of failure can destroy entire lives]]
 - [[teachings/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
 - [[teachings/habenula-and-learned-helplessness|The habenula enforces learned helplessness after perceived failure]]
+- [[teachings/belief-precedes-relationship-change|You must believe change is possible before a relationship can improve]]
+- [[teachings/feeling-of-failure-drives-fixing|The feeling that everything I touch fails drives compulsive fixing]]
+- [[teachings/false-ends-keep-you-stuck|The brain creates false endings that paralyze action]]
 
 ## Source
 

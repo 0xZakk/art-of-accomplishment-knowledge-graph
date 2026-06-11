@@ -23,6 +23,7 @@ In their latest marriage cycle, this pattern fully dissolved. Joe says it's no l
 - [[teachings/subtle-superiority-as-protection|Subtle superiority as protection]]
 - [[teachings/logical-superiority-avoids-emotion|Feeling logically superior in a fight means you're avoiding an emotion]]
 - [[teachings/dropping-shame-is-prerequisite-for-seeing-your-partner|Dropping shame is the prerequisite for seeing your partner]]
+- [[teachings/shame-hot-potato|Shame gets passed back and forth in fights]]
 
 ## Source
 

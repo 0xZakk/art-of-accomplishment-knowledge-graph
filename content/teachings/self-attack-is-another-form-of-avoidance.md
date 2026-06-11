@@ -28,6 +28,7 @@ This creates a particular trap for people in depression or shame spirals. They m
 - [[teachings/feel-whats-underneath-the-shame|Feel what's underneath the shame to break stagnation]]
 - [[teachings/embracing-intensity-curbs-addiction|Embracing intensity removes the need for addictive escape]]
 - [[teachings/shame-about-grief-shuts-down-all-emotions|Shame about grief shuts down all emotions]]
+- [[teachings/the-golden-algorithm|The golden algorithm: we invite back the emotion we avoid, in the way we avoid it]]
 
 ## Source
 

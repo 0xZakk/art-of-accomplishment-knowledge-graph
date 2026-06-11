@@ -24,6 +24,9 @@ The helpful recognition for anyone stuck in "I want this so badly and I can't ge
 - [[teachings/neediness-repels-what-you-want|Neediness repels what you want]]
 - [[teachings/chasing-love-is-also-pushing-it-away|Chasing love is also pushing it away]]
 - [[teachings/craving-is-the-pushing-away|Craving is the pushing away]]
+- [[teachings/chasing-love-signals-you-dont-deserve-it|Chasing love signals that you don't deserve it]]
+- [[teachings/beckoning-and-pushing-love-simultaneously|We beckon love consciously while pushing it away subconsciously]]
+- [[teachings/digesting-attention-stops-the-hungry-ghost|Digesting the attention you already have stops the hungry ghost]]
 
 ## Source
 

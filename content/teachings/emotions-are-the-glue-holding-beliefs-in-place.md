@@ -29,6 +29,7 @@ This is why intellectual understanding alone doesn't transform. A client who jum
 - [[teachings/stories-and-emotions-are-bidirectional|Stories and emotions are bidirectional — each shapes the other]]
 - [[teachings/moving-emotions-dissolves-stories|Moving emotions dissolves stories and creates clarity]]
 - [[teachings/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
+- [[teachings/anger-release-ends-in-clarity-and-determination|Clean anger release ends in clarity and determination about yourself, not others]]
 
 ## Source
 

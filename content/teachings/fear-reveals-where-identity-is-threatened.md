@@ -24,6 +24,10 @@ The quote Joe references captures this beautifully: "If you want to find out who
 - [[teachings/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
 - [[teachings/sense-of-self-transforms-through-facing-the-abyss|Sense of self transforms through facing the abyss]]
 - [[teachings/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
+- [[teachings/what-shifts-is-the-doer-not-your-capacity|What shifts in awakening is the doer, not your capacity to function]]
+- [[teachings/resisting-fear-leaks-it-sideways|Resisting fear doesn't eliminate it — it leaks out sideways]]
+- [[teachings/fear-path-has-no-end|The fear path has no end — deeper levels always reveal themselves]]
+- [[teachings/deep-community-dissolves-identity|Deep community is scary because it dissolves identity]]
 
 ## Source
 

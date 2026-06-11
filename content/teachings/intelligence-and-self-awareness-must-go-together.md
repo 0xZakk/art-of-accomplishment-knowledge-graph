@@ -23,6 +23,10 @@ This has implications for AI: if emotions play a fundamental role in decision-ma
 - [[teachings/all-decisions-are-emotional|All decisions are emotional]]
 - [[teachings/three-brains-of-transformation|Three brains of transformation]]
 - [[teachings/attunement-to-self-produces-intuition|Attunement to self produces intuition]]
+- [[teachings/feeling-life-beats-figuring-it-out|Feeling your life produces clearer decisions than figuring it out]]
+- [[teachings/three-intelligences-triple-your-intelligence|Head, heart, and gut are three intelligences that triple your capacity]]
+- [[teachings/over-awareness-creates-paralysis|Over-awareness of your parts creates decision paralysis]]
+- [[teachings/embodied-listening-improves-signal-to-noise|Embodied listening improves signal to noise]]
 
 ## Source
 

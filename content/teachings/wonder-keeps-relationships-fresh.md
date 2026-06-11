@@ -25,6 +25,11 @@ People who live past 100 consistently share this quality — a sense of wonder a
 - [[teachings/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]]
 - [[teachings/knowing-is-the-opposite-of-wonder|Knowing is the opposite of wonder]]
 - [[teachings/being-interested-not-interesting|Being interested not interesting]]
+- [[teachings/wonder-is-awe-not-curiosity-for-an-answer|Wonder is awe, not curiosity hunting for an answer]]
+- [[teachings/open-your-heart-to-stop-caring-what-they-think|Opening your heart to someone dissolves your concern with their judgment]]
+- [[teachings/wonder-to-love-progression|The progression from separation to wonder to love]]
+- [[teachings/not-feeling-seen-means-not-seeing|When you don't feel seen, you're also not seeing]]
+- [[teachings/integration-means-more-mystery-not-more-answers|Healthy integration means more mystery, not more answers]]
 
 ## Source
 

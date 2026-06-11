@@ -20,6 +20,11 @@ Joe relates this to his own experience: "The work that I've done literally makes
 
 - [[teachings/money-is-a-projection-of-childhood-patterns|Money is a projection of childhood patterns]]
 - [[teachings/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic, not just intellectual]]
+- [[teachings/the-endurer-pattern-learns-not-to-feel-pain|The endurer pattern survives by refusing to feel pain]]
+- [[teachings/money-mirrors-the-relationship-with-your-father|Money chasing can be a projection of chasing a parent's love]]
+- [[teachings/money-patterns-replay-childhood-connection-patterns|Money patterns replay childhood connection patterns]]
+- [[teachings/talk-about-how-you-want-to-relate|Talk about how you want to relate to each other]]
+- [[teachings/stop-fixing-others-to-help-them-change|Stop trying to fix others if you want them to change]]
 
 ## Source
 

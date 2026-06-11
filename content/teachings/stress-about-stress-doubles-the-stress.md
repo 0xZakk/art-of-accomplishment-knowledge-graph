@@ -25,6 +25,9 @@ Crucially, you can't just pep-talk your way out — if your body is still reject
 - [[teachings/attention-alone-reduces-stress|Paying attention to stress without trying to change it reduces it]]
 - [[teachings/should-creates-stress-not-change|Should creates stress, not change]]
 - [[teachings/inner-critic-speaks-from-care|The inner critic speaks from care]]
+- [[teachings/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms; unresisted stress enlivens]]
+- [[teachings/identity-stress-comes-from-defending-a-fixed-self|Identity stress comes from defending a fixed self-concept]]
+- [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
 
 ## Source
 

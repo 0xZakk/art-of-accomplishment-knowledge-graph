@@ -26,6 +26,9 @@ This extends to his broader parenting philosophy: consent in physical touch (alw
 - [[teachings/chase-your-own-approval|Chase your own approval]]
 - [[teachings/teach-children-self-referencing|Teach children self-referencing]]
 - [[teachings/transcend-and-include-previous-stages|Transcend and include rather than reject previous stages]]
+- [[teachings/childhood-criticism-creates-self-distrust|Childhood criticism teaches you not to trust yourself]]
+- [[teachings/parenting-is-letting-them-find-their-own-line|Parenting is letting them find their own line down the mountain]]
+- [[teachings/children-need-connection-not-optimization|Children need connection, not optimization]]
 
 ## Source
 

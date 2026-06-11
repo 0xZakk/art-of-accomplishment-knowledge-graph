@@ -26,6 +26,10 @@ For people who recognize this pattern in themselves, Joe suggests experimenting 
 - [[teachings/false-humility-as-defense|False humility as defense]]
 - [[teachings/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]]
 - [[teachings/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
+- [[teachings/shame-after-feeling-good-pattern|Shame arises after feeling good as a learned pattern]]
+- [[teachings/dont-should-yourself-into-being-seen|Don't should yourself into being seen]]
+- [[teachings/inherent-goodness-reframes-shameful-wants|Seeing yourself as inherently good reframes shameful wants]]
+- [[teachings/putting-yourself-above-others-is-protection|Putting yourself above others is a subtle form of protection]]
 
 ## Source
 

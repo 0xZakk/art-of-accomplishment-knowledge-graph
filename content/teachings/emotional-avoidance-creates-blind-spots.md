@@ -30,6 +30,7 @@ Additionally, emotional avoidance creates identity traps. When you can't move an
 - [[teachings/facing-fear-builds-empowerment|Facing the feeling you're avoiding is how empowerment comes]]
 - [[teachings/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]
 - [[teachings/fear-of-consequences-is-fear-of-emotional-states|Fear of consequences is really fear of emotional states]]
+- [[teachings/intelligence-is-gated-by-what-you-wont-feel|Intelligence is gated by the emotions you won't feel]]
 
 ## Source
 

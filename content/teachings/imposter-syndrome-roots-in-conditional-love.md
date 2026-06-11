@@ -27,6 +27,11 @@ Imposter syndrome is more prevalent in women because society more frequently wir
 - [[teachings/we-attract-what-we-learned-as-love|We're attracted to what we learned as love]]
 - [[teachings/shame-stagnates-behavior|Shame stagnates behavior]]
 - [[teachings/self-judgment-defends-against-emotions|Self-judgment defends against emotions]]
+- [[teachings/superiority-and-shame-are-paired|Superiority and shame are two sides of the same coin]]
+- [[teachings/self-rejection-precedes-others-rejection|Self-rejection is more painful than others' rejection]]
+- [[teachings/shame-blocks-self-promotion|Shame blocks self-promotion even when you have the skills]]
+- [[teachings/imposter-syndrome-means-not-being-yourself|Imposter syndrome is a sign you're not being yourself]]
+- [[teachings/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]]
 
 ## Source
 

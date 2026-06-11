@@ -38,6 +38,7 @@ The mental approach to purpose *is* the avoidance of purpose.
 - [[teachings/doubt-is-leaving-your-heart|Doubt is leaving your heart]]
 - [[teachings/doubt-protects-from-unwanted-emotions|Doubt protects you from emotions you don't want to feel]]
 - [[teachings/wanting-is-aliveness|Wanting is aliveness]]
+- [[teachings/grief-of-self-abandonment|Grief of self-abandonment]]
 
 ## Source
 

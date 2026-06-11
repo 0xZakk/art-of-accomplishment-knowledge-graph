@@ -31,6 +31,8 @@ The alternative is simple but radical: stop adjudicating who's wrong and start a
 - [[teachings/blame-is-an-unowned-want|Blame is an unowned want]]
 - [[teachings/blame-blocks-leadership|Blame blocks leadership]]
 - [[teachings/self-blame-holds-onto-what-you-lost|Self-blame is a way of holding onto what you've lost]]
+- [[teachings/taking-care-of-others-disempowers-them|Taking responsibility for others' happiness disempowers them]]
+- [[teachings/apologize-for-disempowering-others|Apologizing for disempowering people undoes the self-reliance loop]]
 
 ## Source
 

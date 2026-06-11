@@ -30,6 +30,7 @@ This is a concrete mechanism, not a metaphor. Unexpressed anger at someone else 
 - [[teachings/collapse-dysregulation-shame-in-anger-release|Anger release goes wrong through collapse, dysregulation, or shame recreation]]
 - [[teachings/shame-stagnates-behavior|Shame stagnates behavior]]
 - [[teachings/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
+- [[teachings/shame-locks-in-bad-habits|Shame locks in the very habits it punishes]]
 
 ## Source
 

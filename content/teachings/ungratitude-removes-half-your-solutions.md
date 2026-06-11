@@ -24,6 +24,8 @@ Gratitude also serves as an antidote to isolation. When you feel grateful, you'r
 - [[teachings/find-what-already-works-and-amplify-it|Find what already works and amplify it]]
 - [[teachings/fixing-mindset-perpetuates-stuckness|Fixing mindset perpetuates stuckness]]
 - [[teachings/gratitude-solves-problems-by-seeing-whats-right|Gratitude solves problems by seeing what's right and growing it]]
+- [[teachings/find-whats-working-and-spread-it|Find what's already working and spread it rather than fixing what's broken]]
+- [[teachings/name-the-problem-without-solving-it|Name the problem without solving it]]
 
 ## Source
 

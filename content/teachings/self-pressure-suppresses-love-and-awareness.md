@@ -29,6 +29,7 @@ Joe asks her to turn the love she feels toward the self-consciousness itself —
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 - [[teachings/expansiveness-underneath-resistance-to-love|The expansiveness underneath resistance to love is overwhelming and amazing]]
 - [[teachings/purposelessness-as-freedom|Purposelessness reframed as freedom]]
+- [[teachings/craving-is-the-pushing-away|Craving is the pushing away]]
 
 ## Source
 

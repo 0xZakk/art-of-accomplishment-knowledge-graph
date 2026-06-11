@@ -46,6 +46,9 @@ The world that fits you already exists. You just have to be yourself to find it.
 - [[teachings/wanting-is-aliveness|Wanting is aliveness]]
 - [[teachings/owning-wants-means-being-okay-with-having-them|Owning your wants means being okay with having them]]
 - [[teachings/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]]
+- [[teachings/discovery-not-improvement|Discovery, not improvement]]
+- [[teachings/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]]
+- [[teachings/depersonalizing-money-creates-freedom|Depersonalizing money creates financial freedom]]
 
 ## Source
 

@@ -22,6 +22,8 @@ The most ego-dissolving generosity may not feel like generosity at all. Joe note
 
 - [[teachings/generosity-is-being-not-giving|True generosity is being, not giving]]
 - [[teachings/highest-generosity-is-presence|The highest generosity is presence]]
+- [[teachings/putting-yourself-above-others-is-protection|Putting yourself above others is a subtle form of protection]]
+- [[teachings/giving-without-exchange-is-destructive|Giving without exchange is destructive]]
 
 ## Source
 

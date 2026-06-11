@@ -27,6 +27,7 @@ Caring for someone, by contrast, doesn't generate resentment because there's no 
 - [[teachings/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
 - [[teachings/weaponizing-non-caretaking-is-still-defense|Weaponizing non-caretaking is just another defense]]
 - [[teachings/caring-softens-you-caretaking-makes-you-neurotic|Caring softens you over time; caretaking makes you neurotic]]
+- [[teachings/thinking-they-cant-handle-it-means-youre-caretaking|Thinking they can't handle it means you're caretaking]]
 
 ## Source
 

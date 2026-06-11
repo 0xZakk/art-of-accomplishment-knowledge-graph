@@ -26,6 +26,8 @@ Joe offers three integration questions: (1) Write down four things that trigger 
 - [[teachings/jealousy-masks-rejected-parts-of-self|Jealousy masks rejected parts of self]]
 - [[teachings/four-types-of-projection|There are four distinct types of projection]]
 - [[teachings/triggers-reveal-unaccepted-parts-of-yourself|Every trigger reveals an unaccepted part of yourself]]
+- [[teachings/envy-and-bragging-signal-disallowed-parts|Envy and bragging signal disallowed parts wanting to be seen]]
+- [[teachings/compliments-pushed-away-reveal-disallowed-goodness|Pushing away compliments reveals disallowed goodness]]
 
 ## Source
 

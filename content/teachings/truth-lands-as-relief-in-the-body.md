@@ -27,6 +27,9 @@ This illustrates a key principle: truth delivered from love lands differently th
 - [[teachings/ceo-emotional-avoidance-blocks-team-truth|CEO emotional avoidance blocks the team from finding truth]]
 - [[teachings/everyone-can-see-what-you-think-youre-hiding|Everyone can see what you think you're hiding]]
 - [[teachings/leaders-vulnerability-cascades-through-the-team|A leader's vulnerability cascades through the entire team]]
+- [[teachings/watching-a-leader-fail-teaches-more-than-success|Watching a leader fail openly teaches more than their success]]
+- [[teachings/anxiety-signals-an-unarticulated-need|Anxiety signals an unarticulated need or unset boundary]]
+- [[teachings/no-doctrine-leads-with-disagreement|Leading with 'no' gets to truth faster than platitudes]]
 
 ## Source
 

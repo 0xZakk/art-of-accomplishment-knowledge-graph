@@ -23,6 +23,10 @@ This bridges the intellectual understanding of compassion with its embodied, ety
 - [[teachings/heartbreak-is-where-love-for-a-parent-lives|Heartbreak is where love for a parent lives]]
 - [[teachings/three-brains-of-transformation|Three brains of transformation]]
 - [[teachings/body-awareness-is-just-attention|Body awareness is just attention]]
+- [[teachings/love-the-part-in-pain-the-way-you-wanted-to-be-loved|Love the part in pain the way you wanted your parents to love you]]
+- [[teachings/self-compassion-is-the-meta-variable|Self-compassion is the meta-variable that speeds all transformation]]
+- [[teachings/the-gut-points-toward-what-you-want|The gut points you toward what you want before the mind knows it]]
+- [[teachings/the-loved-become-a-conduit-to-loving-the-world|The person who loved you is a conduit to loving everything]]
 
 ## Source
 

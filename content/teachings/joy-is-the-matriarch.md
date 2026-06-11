@@ -25,6 +25,7 @@ This reframes the entire pursuit of happiness. Rather than chasing joy directly,
 - [[teachings/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
 - [[teachings/emotional-fluidity-defined|Emotional fluidity defined]]
 - [[teachings/joy-is-the-sign-of-emotional-health|Joy is the sign that emotional fluidity is working]]
+- [[teachings/welcome-all-feelings-to-feel-joy|Joy won't come unless all the other feelings are welcome]]
 
 ## Source
 

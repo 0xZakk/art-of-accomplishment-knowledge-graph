@@ -28,6 +28,8 @@ From source, she looks at a piece that's been waiting 15 years and immediately s
 - [[teachings/life-is-art-not-separate-from-it|Life is art, not separate from it]]
 - [[teachings/creative-block-is-trying-to-get-somewhere|Creative block is trying to get somewhere]]
 - [[teachings/art-is-not-important-and-thats-freedom|Art is not important, and that's freedom]]
+- [[teachings/liminal-space-is-where-breakthroughs-happen|Liminal space is where breakthroughs happen]]
+- [[teachings/feeling-your-essential-nature-dissolves-avoidance|Feeling your essential nature dissolves avoidance behaviors]]
 
 ## Source
 

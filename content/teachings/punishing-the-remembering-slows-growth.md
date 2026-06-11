@@ -28,6 +28,9 @@ This reframe transforms the entire orientation to self-development. Instead of a
 - [[teachings/self-improvement-guarantees-failure|Self-improvement guarantees failure]]
 - [[teachings/falling-in-love-with-practice|Falling in love with practice beats forcing yourself to practice]]
 - [[teachings/self-attack-during-rest-prolongs-recovery|Self-attack during rest prolongs recovery from months to years]]
+- [[teachings/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
+- [[teachings/when-love-shows-up-unloved-parts-surface|When love shows up, unloved parts surface to be loved]]
+- [[teachings/not-defending-reveals-inherent-goodness|Not defending yourself reveals your inherent goodness]]
 
 ## Source
 

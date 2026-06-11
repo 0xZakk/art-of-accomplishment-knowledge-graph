@@ -28,6 +28,10 @@ The key realization: he started to feel *more alive* when stress came up, not le
 - [[teachings/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms, unresisted stress enlivens]]
 - [[teachings/activation-release-rest-cycle|Activation-release-rest cycle]]
 - [[teachings/discomfort-is-the-resistance-not-the-emotion|Discomfort is the resistance, not the emotion]]
+- [[teachings/emotional-development-stages|Emotional development follows predictable stages]]
+- [[teachings/feeling-through-requires-letting-identity-restructure|Feeling an emotion fully requires letting your identity restructure]]
+- [[teachings/fights-are-trauma-responses-not-personality-flaws|Losing control in a fight is a trauma response, not a personality flaw]]
+- [[teachings/attention-alone-reduces-stress|Paying attention to stress without trying to change it reduces it]]
 
 ## Source
 

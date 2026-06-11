@@ -27,6 +27,8 @@ The woman used art as an escape from painful reality. When reality became good, 
 - [[teachings/art-is-not-important-and-thats-freedom|Art is not important, and that's freedom]]
 - [[teachings/source-is-always-there-just-drop-down|Source is always there — just drop down]]
 - [[teachings/creative-block-is-trying-to-get-somewhere|Creative block is trying to get somewhere]]
+- [[teachings/liminal-space-is-where-breakthroughs-happen|Liminal space is where breakthroughs happen]]
+- [[teachings/the-empty-space-is-the-path-to-freedom|The empty space you've been avoiding is the path to freedom]]
 
 ## Source
 

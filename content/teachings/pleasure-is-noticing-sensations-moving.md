@@ -29,6 +29,7 @@ This reframes pleasure from something you chase to something you notice. It's al
 - [[teachings/body-awareness-is-just-attention|Body awareness is just attention]]
 - [[teachings/pleasure-is-sensation-moving-through-the-body|Pleasure is the awareness of sensation moving through the body]]
 - [[teachings/pleasure-requires-receiving-not-effort|Pleasure requires receiving not effort]]
+- [[teachings/flow-state-is-embodiment-applied-to-life|Flow state in sports is the same skill as embodiment in life]]
 
 ## Source
 

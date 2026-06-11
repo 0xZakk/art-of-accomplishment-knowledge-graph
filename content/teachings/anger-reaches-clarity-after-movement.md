@@ -29,6 +29,8 @@ Joe's free-writing experiment embodies this principle: write without editing, wi
 - [[teachings/compassion-can-block-anger|Using compassion to bypass anger blocks the emotional process]]
 - [[teachings/moving-emotions-dissolves-stories|Moving emotions dissolves stories and creates clarity]]
 - [[teachings/changing-behavior-changes-consciousness|Changing behavior is the most efficient way to change consciousness]]
+- [[teachings/anger-unresisted-is-determination|Anger unresisted becomes determination and clarity]]
+- [[teachings/feeling-life-beats-figuring-it-out|Feeling your life produces clearer decisions than figuring it out]]
 
 ## Source
 

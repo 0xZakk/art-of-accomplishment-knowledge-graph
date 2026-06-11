@@ -25,6 +25,9 @@ This echoes Joe's teaching on purpose: purpose isn't in the what but in the how.
 - [[teachings/optimism-and-pessimism-both-avoid-reality|Optimism and pessimism both avoid reality]]
 - [[teachings/purpose-is-in-the-how-not-the-what|Purpose is in the how, not the what]]
 - [[teachings/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
+- [[teachings/uncertainty-is-where-transformation-happens|Uncertainty is where transformation happens]]
+- [[teachings/ownership-of-the-adventure|Taking ownership of the adventure transforms crisis]]
+- [[teachings/this-moment-is-the-lesson|This moment is exactly where the lesson is]]
 
 ## Source
 

@@ -27,6 +27,10 @@ Brett demonstrates all three through his brother's cancer: facing the reality of
 - [[teachings/optimism-and-pessimism-both-avoid-reality|Optimism and pessimism both avoid reality]]
 - [[teachings/emotional-titration-is-adaptive|Emotional titration is adaptive, not avoidant]]
 - [[teachings/certainty-lives-in-how-you-want-to-be|The only real certainty is how you want to be]]
+- [[teachings/feel-then-act|Feel the emotion first, then take the action]]
+- [[teachings/feeling-life-beats-figuring-it-out|Feeling your life produces clearer decisions than figuring it out]]
+- [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[teachings/feel-fear-to-see-opportunity|Feel the fear fully to see the opportunities in chaos]]
 
 ## Source
 

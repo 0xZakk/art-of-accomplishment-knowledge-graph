@@ -28,6 +28,8 @@ The technique works because it introduces a compassionate witness to the self-ab
 - [[teachings/attention-alone-reduces-stress|Attention alone reduces stress]]
 - [[teachings/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
 - [[teachings/respond-differently-to-the-inner-critic|Respond differently to the inner critic as a practice]]
+- [[teachings/saying-ouch-reveals-how-abusive-self-talk-is|Saying \"ouch\" out loud reveals how abusive your self-talk really is]]
+- [[teachings/inner-critic-prevents-nervous-system-rest|The inner critic prevents the rest needed for nervous system integration]]
 
 ## Source
 

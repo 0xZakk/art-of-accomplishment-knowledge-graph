@@ -23,6 +23,10 @@ This makes "fake it till you make it" counterproductive for imposter syndrome: y
 - [[teachings/being-yourself-designs-your-life|Being yourself designs your life]]
 - [[teachings/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[teachings/imposter-syndrome-means-not-being-yourself|Imposter syndrome is a sign you're not being yourself]]
+- [[teachings/competence-does-not-lead-to-confidence|Competence does not lead to confidence]]
+- [[teachings/hiding-makes-you-feel-more-like-an-imposter|Hiding who you are makes you feel more like an imposter]]
+- [[teachings/shame-blocks-self-promotion|Shame blocks self-promotion even when you have the skills]]
+- [[teachings/subtle-superiority-as-protection|Subtle superiority is a protection pattern that creates isolation]]
 
 ## Source
 

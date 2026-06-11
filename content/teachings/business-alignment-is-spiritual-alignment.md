@@ -28,6 +28,8 @@ This isn't about adding spiritual practices on top of business — it's recogniz
 - [[teachings/embrace-intensity-in-business|Embracing intensity in business reveals what you're avoiding]]
 - [[teachings/business-as-self-awareness-practice|Business is a self-awareness practice, not separate from life]]
 - [[teachings/business-prevents-spiritual-bypassing|Business prevents spiritual bypassing because reality keeps showing up]]
+- [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
+- [[teachings/business-as-means-to-end-destroys-it|Treating business as a means to an end eventually destroys it]]
 
 ## Source
 

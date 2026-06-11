@@ -25,6 +25,10 @@ This doesn't mean suffering is required. But intensity — the kind that comes f
 - [[teachings/business-prevents-spiritual-bypassing|Business prevents spiritual bypassing]]
 - [[teachings/chaos-is-necessary-for-growth|Chaos is necessary for growth]]
 - [[teachings/loss-can-deepen-freedom|Loss can deepen freedom]]
+- [[teachings/grief-sustained-transforms-everything|Sustained grief transforms everything it touches]]
+- [[teachings/caretaking-prevents-hitting-bottom|Caretaking prevents the other person from hitting bottom]]
+- [[teachings/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]]
+- [[teachings/business-as-self-awareness-practice|Business is a self-awareness practice, not separate from life]]
 
 ## Source
 

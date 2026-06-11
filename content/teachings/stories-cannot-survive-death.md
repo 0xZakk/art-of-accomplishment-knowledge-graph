@@ -26,6 +26,10 @@ This applies in every moment, not just at physical death. Parts of us die all th
 - [[teachings/growth-means-shedding-identities|Growth means shedding identities]]
 - [[teachings/humility-is-not-taking-life-personally|Humility is not taking life personally]]
 - [[teachings/grief-of-self-abandonment|Grief of self-abandonment]]
+- [[teachings/when-love-shows-up-unloved-parts-surface|When love shows up, unloved parts surface to be loved]]
+- [[teachings/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]]
+- [[teachings/depersonalizing-money-creates-freedom|Depersonalizing money creates financial freedom]]
+- [[teachings/what-shifts-is-the-doer-not-your-capacity|What shifts in awakening is the doer, not your capacity to function]]
 
 ## Source
 

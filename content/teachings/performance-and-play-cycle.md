@@ -25,6 +25,8 @@ This isn't about sacrificing performance — over years and decades, the iterati
 - [[teachings/iterative-mindset-prevents-failure|An iterative mindset makes failure impossible]]
 - [[teachings/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]]
 - [[teachings/play-tennis-in-life|Play tennis in life]]
+- [[teachings/iterative-mindset-dissolves-procrastination|An iterative mindset dissolves procrastination by removing the possibility of failure]]
+- [[teachings/falling-in-love-with-practice|Falling in love with practice beats forcing yourself to practice]]
 
 ## Source
 

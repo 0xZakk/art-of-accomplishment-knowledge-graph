@@ -26,6 +26,9 @@ The truth itself isn't the problem. It's the fear wrapped around it that creates
 - [[teachings/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[teachings/shame-hot-potato|Shame gets passed back and forth in fights]]
 - [[teachings/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
+- [[teachings/compassion-is-truth-with-an-open-heart|True compassion is speaking truth with an open heart, not being nice]]
+- [[teachings/speaking-from-discomfort-not-past-it|Speaking from discomfort rather than past it]]
+- [[teachings/defensiveness-kills-team-communication|Allowing defensiveness kills team communication]]
 
 ## Source
 

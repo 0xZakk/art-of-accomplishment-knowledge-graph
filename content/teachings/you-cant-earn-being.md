@@ -27,6 +27,9 @@ In the present moment, stripped of past and future narratives, there is nothing 
 - [[teachings/performing-for-connection-blocks-authentic-earning|Performing for connection blocks authentic earning]]
 - [[teachings/intrinsic-value-needs-no-earning|Intrinsic value needs no earning]]
 - [[teachings/every-epiphany-becomes-a-task|Every epiphany becomes a task to earn love]]
+- [[teachings/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
+- [[teachings/the-enoughness-bar-always-moves|The enoughness bar always moves]]
+- [[teachings/welcoming-is-self-love|Welcoming whatever arises is self-love]]
 
 ## Source
 

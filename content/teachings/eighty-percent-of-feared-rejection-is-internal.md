@@ -30,6 +30,8 @@ This pattern often traces back to childhood with emotionally volatile parents, w
 - [[teachings/stone-face-teaches-stone-face|The stone-faced baby experiment shows how suppression is transmitted]]
 - [[teachings/boundary-firmness-eliminates-fear-of-attack|Boundary firmness eliminates fear of attack]]
 - [[teachings/shame-is-anger-turned-inward|Shame is anger turned inward]]
+- [[teachings/guilt-is-inherited-fear-in-disguise|Guilt is inherited fear in disguise]]
+- [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
 
 ## Source
 

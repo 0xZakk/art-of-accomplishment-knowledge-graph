@@ -27,6 +27,11 @@ When you figure out empowerment internally, "you have no choice but to act it ex
 - [[teachings/principles-make-decisions-for-you|Principles make decisions for you]]
 - [[teachings/principles-automate-decision-making|Principles automate decision-making]]
 - [[teachings/unconscious-principles-already-run-your-life|Unconscious principles already run your life]]
+- [[teachings/empowered-organizations-need-elegant-structure|Empowered organizations need elegant structure that creates safety with maximum autonomy]]
+- [[teachings/power-can-be-taken-empowerment-cannot|Power can be taken away from you but empowerment cannot]]
+- [[teachings/seeding-authority-feels-like-belonging|Ceding authority to a group feels like belonging and safety]]
+- [[teachings/life-is-the-sum-of-decisions|Your life is the sum of the decisions you've made]]
+- [[teachings/over-awareness-creates-paralysis|Over-awareness of your parts creates decision paralysis]]
 
 ## Source
 

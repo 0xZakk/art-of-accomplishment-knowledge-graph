@@ -23,6 +23,9 @@ The insight: sometimes doing the right thing for imperfect reasons shows you tha
 - [[teachings/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
 - [[teachings/survival-mechanisms-deserve-honor|Survival mechanisms deserve honor, not shame]]
 - [[teachings/manufactured-rage-masks-fear|Manufactured rage masks fear and creates destruction]]
+- [[teachings/fear-as-road-map-not-enemy|Fear is a road map, not an enemy to conquer]]
+- [[teachings/refusing-worst-act-identity|Refusing to be defined by your worst act enables transformation]]
+- [[teachings/wants-are-evolutionary-strategies|Wants are strategies for essential human needs]]
 
 ## Source
 

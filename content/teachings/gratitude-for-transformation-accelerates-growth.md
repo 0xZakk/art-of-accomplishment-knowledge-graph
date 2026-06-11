@@ -27,6 +27,10 @@ This is the opposite of the self-improvement trap where we focus on the gap betw
 - [[teachings/gratitude-reveals-abundance-already-present|Gratitude reveals abundance already present]]
 - [[teachings/self-attack-after-epiphany-slows-transformation|Self-attack after epiphany slows transformation]]
 - [[teachings/felt-gratitude-not-performed-gratitude|Felt gratitude, not performed gratitude]]
+- [[teachings/passive-consumption-never-transforms|Passive consumption of wisdom never transforms you]]
+- [[teachings/tools-stop-working-when-weaponized|Tools stop working when used for self-improvement]]
+- [[teachings/practicing-gratitude-to-get-something-confirms-lack|Practicing gratitude to get something confirms the lack]]
+- [[teachings/gratitude-arises-naturally-not-by-force|Gratitude arises naturally, not by force]]
 
 ## Source
 

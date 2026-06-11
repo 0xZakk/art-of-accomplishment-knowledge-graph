@@ -25,6 +25,9 @@ This approach works because if the elephant is rooted in false shame, and everyo
 - [[teachings/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]]
 - [[teachings/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
 - [[teachings/the-truth-speaker-becomes-the-problem|The person who speaks the elephant becomes 'the problem']]
+- [[teachings/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
+- [[teachings/speaking-truth-requires-open-heart-not-management|Speaking truth requires an open heart, not management of others' reactions]]
+- [[teachings/knowing-your-needs-cures-the-fear-of-being-seen|Asking what you need is a strange way out of the fear of being seen]]
 
 ## Source
 

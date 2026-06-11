@@ -25,6 +25,10 @@ The world does react to how we are. Self-possession creates a gravitational fiel
 - [[teachings/speaking-truth-dissolves-approval-seeking|Speaking your truth dissolves the need for approval]]
 - [[teachings/being-yourself-designs-your-life|Being yourself designs your life]]
 - [[teachings/confidence-is-connection-to-yourself|Confidence is connection to yourself]]
+- [[teachings/self-possession-is-what-people-are-attracted-to|Self-possession is what people are actually attracted to]]
+- [[teachings/fear-of-losing-relatability-signals-transformation|Fear of losing relatability signals transformation]]
+- [[teachings/vulnerability-aligns-world-around-truth|Vulnerability aligns the world around your truth instead of your presentation]]
+- [[teachings/no-external-validation-works-without-self-validation|No amount of external validation works if you won't validate yourself]]
 
 ## Source
 

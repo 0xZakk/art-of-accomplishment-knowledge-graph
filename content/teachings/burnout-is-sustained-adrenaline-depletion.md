@@ -24,6 +24,11 @@ The cycle is self-reinforcing: as you burn out, you see things more pessimistica
 - [[teachings/should-creates-stress-not-change|Should creates stress, not change]]
 - [[teachings/overwhelm-is-unfelt-emotions|Overwhelm is unfelt emotions]]
 - [[teachings/anxiety-is-detrimental-to-productivity|Anxiety is detrimental to productivity]]
+- [[teachings/urgency-as-motivation-is-a-trap|Using urgency as motivation is an adrenaline trap]]
+- [[teachings/self-attack-during-rest-prolongs-recovery|Self-attack during rest prolongs recovery from months to years]]
+- [[teachings/worrying-about-the-future-is-the-pattern-not-the-solution|Worrying about the future is the pattern, not the solution]]
+- [[teachings/resisted-stress-harms-unresisted-stress-enlivens|Resisted stress harms; unresisted stress enlivens]]
+- [[teachings/extend-rest-beyond-readiness|Extending rest beyond readiness unlocks deeper effectiveness]]
 
 ## Source
 

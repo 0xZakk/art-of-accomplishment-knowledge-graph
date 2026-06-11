@@ -22,6 +22,10 @@ The lattice can contain different emotions at different layers — anger in one 
 - [[teachings/three-categories-of-limiting-beliefs|Three categories of beliefs keep all others stuck]]
 - [[teachings/suppressed-layers-beneath-the-presenting-issue|Suppressed layers beneath the presenting issue]]
 - [[teachings/emotions-are-the-glue-holding-beliefs-in-place|Emotions are the glue holding beliefs in place]]
+- [[teachings/physical-constriction-signals-limiting-beliefs|Physical constriction and tension signal where limiting beliefs live]]
+- [[teachings/unsafety-as-belief-anchor|The belief 'I'll be unsafe' anchors other limiting beliefs]]
+- [[teachings/constriction-not-truth-identifies-limiting-beliefs|Constriction, not truth, identifies limiting beliefs]]
+- [[teachings/look-for-what-you-absolutely-believe-true|Your limiting beliefs hide in what you absolutely believe to be true]]
 
 ## Source
 

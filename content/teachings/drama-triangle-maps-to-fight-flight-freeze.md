@@ -30,6 +30,8 @@ Most people have a dominant pattern, but the underlying mechanism is always the 
 - [[teachings/fear-triangle-maps-fight-flight-freeze|The fear triangle maps bully, victim, and savior to fight, flight, and freeze]]
 - [[teachings/savior-role-is-flight-from-self|The savior role is flight from yourself to control others]]
 - [[teachings/acknowledging-fear-dissolves-power-dynamics|Acknowledging fear without judgment dissolves power dynamics]]
+- [[teachings/feeling-helplessness-creates-empowerment|Going through helplessness is what creates empowerment]]
+- [[teachings/guilt-is-inherited-fear-in-disguise|Guilt is inherited fear in disguise]]
 
 ## Source
 

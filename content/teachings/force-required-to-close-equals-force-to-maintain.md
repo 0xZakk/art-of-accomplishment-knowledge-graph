@@ -23,6 +23,11 @@ This is why relationships built on control — whether through anger, sadness, g
 - [[teachings/alignment-beats-effort|Alignment beats effort]]
 - [[teachings/control-works-until-it-doesnt|Control works until it doesn't]]
 - [[teachings/never-compromise-find-solutions-for-both|Never compromise, find solutions for both]]
+- [[teachings/belief-precedes-relationship-change|You must believe change is possible before a relationship can improve]]
+- [[teachings/what-we-do-for-love-erodes-power|What we do to maintain love erodes our power]]
+- [[teachings/tension-is-required-for-healthy-systems|All living systems require tension to stay healthy]]
+- [[teachings/commitment-is-staying-in-connection-not-staying-together|Real commitment is to stay in connection, not to stay together]]
+- [[teachings/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
 
 ## Source
 

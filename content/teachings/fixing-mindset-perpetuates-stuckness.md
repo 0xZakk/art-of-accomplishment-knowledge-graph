@@ -30,6 +30,7 @@ The pattern: your consciousness got you into the problem, so the same consciousn
 - [[teachings/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
 - [[teachings/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
 - [[teachings/seeing-a-pattern-means-youre-halfway-through|Seeing a pattern means you're already halfway through it]]
+- [[teachings/self-attack-after-epiphany-slows-transformation|Beating yourself up after an epiphany slows your transformation]]
 
 ## Source
 

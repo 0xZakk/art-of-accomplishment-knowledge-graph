@@ -21,6 +21,11 @@ This isn't something to rush toward. Joe, echoing David White, warns against try
 
 - [[teachings/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
+- [[teachings/authenticity-matters-more-than-self-improvement|Authenticity matters more than self-improvement]]
+- [[teachings/love-the-resistance-to-the-thing|If you can't love the thing, love the resistance to the thing]]
+- [[teachings/welcoming-is-self-love|Welcoming whatever arises is self-love]]
+- [[teachings/paying-attention-changes-the-pattern-on-its-own|Paying attention to a pattern changes it on its own]]
+- [[teachings/self-understanding-over-self-improvement|Self-understanding replaces self-improvement]]
 
 ## Source
 

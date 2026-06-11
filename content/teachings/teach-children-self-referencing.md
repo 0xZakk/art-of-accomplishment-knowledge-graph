@@ -32,6 +32,7 @@ This same principle shows up in Joe's coaching: he perpetually deconstructs clie
 - [[teachings/parenting-is-the-deepest-ego-work|Parenting is the deepest ego work you can do]]
 - [[teachings/parent-self-relationship-shapes-child-relationship|Your relationship with yourself shapes your relationship with your children]]
 - [[teachings/childhood-criticism-creates-self-distrust|Childhood criticism teaches you not to trust yourself]]
+- [[teachings/parenting-as-self-development-practice|Parenting is a profound self-development practice]]
 
 ## Source
 

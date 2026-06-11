@@ -24,6 +24,9 @@ This has direct implications for goal-setting and career decisions. Janine disco
 - [[teachings/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist]]
 - [[teachings/craving-versus-wanting|Craving versus wanting]]
 - [[teachings/deep-listening-requires-self-listening|Deep listening requires listening to yourself simultaneously]]
+- [[teachings/embodied-listening-improves-signal-to-noise|Embodied listening improves signal to noise]]
+- [[teachings/attunement-is-listening-without-leaving-yourself|Attunement is listening without leaving yourself]]
+- [[teachings/ouch-technique-for-inner-critic|The 'ouch' technique silences the inner critic and creates genuine rest]]
 
 ## Source
 

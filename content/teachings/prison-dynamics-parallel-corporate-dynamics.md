@@ -21,6 +21,8 @@ Joe's challenge to the listener: if Emile can refuse to play prison politics —
 
 - [[teachings/everyone-is-pretending-not-to-be-afraid|Everyone is pretending not to be afraid]]
 - [[teachings/feeling-seen-dissolves-politics|Feeling seen dissolves politics]]
+- [[teachings/self-loathing-as-accidental-doorway|Self-loathing can accidentally open a doorway to courage]]
+- [[teachings/identity-shift-resists-toxic-systems|A new identity gives you strength to resist toxic systems]]
 
 ## Source
 

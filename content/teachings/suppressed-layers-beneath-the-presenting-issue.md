@@ -25,6 +25,10 @@ The implication is that the presenting issue is never really the issue. It's a d
 - [[teachings/progression-from-anger-to-deeper-emotions|Progression from anger to deeper emotions]]
 - [[teachings/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]]
 - [[teachings/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
+- [[teachings/eighty-percent-of-feared-rejection-is-internal|Eighty percent of feared rejection is internal self-talk]]
+- [[teachings/shame-about-grief-shuts-down-all-emotions|Shame about grief shuts down all emotions]]
+- [[teachings/shame-outlines-identity|Shame outlines identity—what you can't see controls you]]
+- [[teachings/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]]
 
 ## Source
 

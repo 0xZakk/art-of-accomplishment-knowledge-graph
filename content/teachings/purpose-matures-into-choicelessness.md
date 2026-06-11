@@ -27,6 +27,8 @@ This isn't the beginning of the journey. The maturation goes: discovery and figh
 - [[teachings/purpose-becomes-non-personal|Living your purpose becomes non-personal]]
 - [[teachings/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
 - [[teachings/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
+- [[teachings/ambition-survives-beneath-the-resistance|Ambition survives beneath the resistance, waiting to be set free]]
+- [[teachings/say-yes-then-filter-for-joy|Say yes to what intrigues you, then filter for joy]]
 
 ## Source
 

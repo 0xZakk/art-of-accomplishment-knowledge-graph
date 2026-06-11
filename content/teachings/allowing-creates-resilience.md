@@ -23,6 +23,9 @@ This connects to identity flexibility: allowing ourselves to update who we are, 
 
 - [[teachings/welcoming-not-just-accepting-emotions|Welcoming not just accepting emotions]]
 - [[teachings/emotional-fluidity-defined|Emotional fluidity defined]]
+- [[teachings/internal-principles-create-empowerment|Living by internal principles creates empowerment and dissolves drama]]
+- [[teachings/suppressing-transitions-makes-them-worse|Suppressing transitions creates bigger eventual disruptions]]
+- [[teachings/containing-emotions-to-connect-disconnects-you|Containing emotions to connect actually disconnects you]]
 
 ## Source
 

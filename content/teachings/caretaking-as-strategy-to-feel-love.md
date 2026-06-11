@@ -31,6 +31,7 @@ The caretaking pattern caged precisely the qualities her husband wanted from her
 - [[teachings/taking-responsibility-for-partners-emotions-breeds-resentment|Taking responsibility for your partner's emotions breeds resentment]]
 - [[teachings/what-we-do-for-love-erodes-power|What we do to maintain love erodes our power]]
 - [[teachings/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
+- [[teachings/false-love-erodes-power-in-relationships|Maintaining false love erodes power and attraction in relationships]]
 
 ## Source
 

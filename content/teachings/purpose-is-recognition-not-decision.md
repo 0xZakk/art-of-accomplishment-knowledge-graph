@@ -26,6 +26,8 @@ The maturation arc of purpose moves through stages: first discovery and resistan
 - [[teachings/purpose-seeking-often-masks-approval-seeking|Purpose-seeking often masks approval-seeking]]
 - [[teachings/freedom-is-recognized-not-achieved|Freedom is recognized, not achieved]]
 - [[teachings/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
+- [[teachings/say-yes-then-filter-for-joy|Say yes to what intrigues you, then filter for joy]]
+- [[teachings/purpose-matures-into-choicelessness|Purpose matures into choicelessness]]
 
 ## Source
 

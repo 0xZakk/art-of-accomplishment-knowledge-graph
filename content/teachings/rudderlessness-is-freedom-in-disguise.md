@@ -25,6 +25,7 @@ The fear of rudderlessness is really the fear that without external structure, y
 - [[teachings/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]]
 - [[teachings/self-trust-as-the-only-scorecard|Self-trust is the only scorecard that can't be taken away]]
 - [[teachings/stuck-is-a-feeling-not-reality|Stuck is a feeling, not reality]]
+- [[teachings/external-scorecards-always-move|External scorecards always move the goalposts]]
 
 ## Source
 

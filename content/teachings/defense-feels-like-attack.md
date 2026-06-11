@@ -26,6 +26,8 @@ The only exit is one person choosing to stop defending. Not because they're wron
 - [[teachings/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]]
 - [[teachings/power-dynamics-are-two-scared-people|All power dynamics are two scared people defending themselves]]
 - [[teachings/not-defending-reveals-inherent-goodness|Not defending yourself reveals your inherent goodness]]
+- [[teachings/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]]
+- [[teachings/superiority-in-relationships-is-a-shame-defense|Superiority in relationships is a shame defense]]
 
 ## Source
 

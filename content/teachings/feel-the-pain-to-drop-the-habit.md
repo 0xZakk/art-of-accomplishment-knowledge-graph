@@ -23,6 +23,11 @@ This aligns with Joe's broader teaching that awareness transforms what shoulds c
 - [[teachings/awareness-changes-what-shoulds-cannot|Awareness changes what shoulds cannot]]
 - [[teachings/shame-never-changes-behavior|Shame never changes behavior]]
 - [[teachings/gentleness-accelerates-growth|Gentleness accelerates growth]]
+- [[teachings/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
+- [[teachings/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
+- [[teachings/avoidance-chain-from-essence-to-addiction|The avoidance chain runs from essential self through thinking to addiction]]
+- [[teachings/letting-go-comes-from-seeing-the-pain-of-holding-on|Letting go comes from seeing the pain of holding on]]
+- [[teachings/changing-behavior-changes-consciousness|Changing behavior is the most efficient way to change consciousness]]
 
 ## Source
 

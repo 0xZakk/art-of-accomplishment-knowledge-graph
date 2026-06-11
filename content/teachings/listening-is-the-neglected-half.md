@@ -23,6 +23,10 @@ Pausing — which Tristan identifies as a core Ultra Speaking practice — is es
 - [[teachings/the-butler-is-always-there|The subconscious always has the answer on a platter]]
 - [[teachings/how-we-listen-shapes-what-we-hear|How we listen shapes what we hear]]
 - [[teachings/active-listening-is-asking-questions|Active listening is asking questions]]
+- [[teachings/listening-as-business-accelerator|Listening is one of the most profound business accelerators]]
+- [[teachings/asking-questions-is-active-listening|Asking questions is the most powerful form of active listening]]
+- [[teachings/flow-requires-forgetting-yourself|Flow in speaking requires forgetting you're speaking]]
+- [[teachings/avoidance-of-one-emotion-closes-a-life-channel|One negative emotional experience can close an entire channel of life]]
 
 ## Source
 

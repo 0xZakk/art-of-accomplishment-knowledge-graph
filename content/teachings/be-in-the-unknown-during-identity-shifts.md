@@ -39,6 +39,11 @@ Rushing the process means repeating the process.
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
 - [[teachings/the-expansiveness-of-I-Am|The expansiveness of I Am]]
 - [[teachings/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
+- [[teachings/you-cant-recognize-your-own-transformation-early|You can't recognize your own transformation in its early stages]]
+- [[teachings/the-recent-epiphany-is-also-a-rut|The most recent epiphany becomes the next rut you have to release]]
+- [[teachings/passive-consumption-never-transforms|Passive consumption of wisdom never transforms you]]
+- [[teachings/questioning-assumptions-destabilizes-before-it-clarifies|Questioning assumptions destabilizes before it clarifies]]
+- [[teachings/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]]
 
 ## Source
 

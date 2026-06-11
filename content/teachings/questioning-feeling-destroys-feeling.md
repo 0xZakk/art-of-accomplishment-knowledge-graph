@@ -25,6 +25,9 @@ His own tennis coaching wisdom applies perfectly: "Don't guess. Just do it."
 - [[teachings/knowing-patterns-doesnt-free-you|Knowing your patterns doesn't free you from them]]
 - [[teachings/flow-state-is-embodiment-applied-to-life|Flow state in sports is the same skill as embodiment in life]]
 - [[teachings/play-tennis-in-life|Apply your embodied skill from one domain to all of life]]
+- [[teachings/the-voice-of-fakeness-is-intuition-not-pathology|The voice of fakeness is intuition, not pathology]]
+- [[teachings/welcome-doubt-instead-of-running|Welcoming doubt instead of running from it opens the heart]]
+- [[teachings/flow-requires-forgetting-yourself|Flow in speaking requires forgetting you're speaking]]
 
 ## Source
 

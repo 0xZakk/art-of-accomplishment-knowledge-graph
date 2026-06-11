@@ -23,6 +23,11 @@ Learning the difference between productive discomfort (stay) and obligation-base
 
 - [[teachings/should-creates-stress-not-change|Should creates stress, not change]]
 - [[teachings/ego-resists-change-in-either-direction|Ego resists change in either direction]]
+- [[teachings/speaking-from-discomfort-not-past-it|Speaking from discomfort rather than past it]]
+- [[teachings/dont-make-experiments-a-should|Don't make experiments a should—keep them playful]]
+- [[teachings/questioning-assumptions-destabilizes-before-it-clarifies|Questioning assumptions destabilizes before it clarifies]]
+- [[teachings/experiments-make-knowledge-embodied|Experiments create embodied knowledge, not book learning]]
+- [[teachings/emotions-are-signals-not-commands|When emotions become fluid they give you signals instead of controlling you]]
 
 ## Source
 

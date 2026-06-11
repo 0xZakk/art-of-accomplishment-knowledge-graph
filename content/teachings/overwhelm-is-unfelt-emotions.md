@@ -27,6 +27,7 @@ For some people the entry point is "what am I scared of feeling?" For others it'
 - [[teachings/unfelt-emotions-create-physical-stress|Unfelt emotions create physical stress through muscle tension]]
 - [[teachings/feel-the-false-end-to-dissolve-overwhelm|Feel through the feared outcome to dissolve overwhelm]]
 - [[teachings/emotional-release-resolves-work-overwhelm|Emotional release resolves work overwhelm]]
+- [[teachings/stress-source-is-rarely-what-you-think|The source of stress is rarely what you think]]
 
 ## Source
 

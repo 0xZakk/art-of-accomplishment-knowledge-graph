@@ -26,6 +26,10 @@ This is why just "communicating better" doesn't solve relationship conflict. If 
 - [[teachings/move-the-charge-not-the-story|Move the emotional charge without believing the story]]
 - [[teachings/resentment-is-stored-conflict|Resentment is stored conflict]]
 - [[teachings/asking-for-what-you-want-dissolves-resentment|Asking for what you want dissolves resentment]]
+- [[teachings/truth-over-comfort-in-relationships|Prioritizing truth over comfort creates lasting relationships]]
+- [[teachings/progression-from-anger-to-deeper-emotions|The progression from anger reveals grief and fear underneath]]
+- [[teachings/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
+- [[teachings/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
 
 ## Source
 

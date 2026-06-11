@@ -27,6 +27,8 @@ Unwinding this requires somatic work, not just intellectual understanding. That'
 - [[teachings/we-cant-see-the-love-thats-available|We can't see the love that's already available to us]]
 - [[teachings/love-requires-willingness-to-be-hurt|Love requires willingness to be hurt]]
 - [[teachings/trauma-addiction-is-choosing-the-familiar|Trauma addiction is choosing what's familiar, not what's safe]]
+- [[teachings/negative-self-talk-reveals-how-love-was-wired|Negative self-talk reveals how love was wired in childhood]]
+- [[teachings/accepting-love-requires-tolerating-safety|Accepting love requires a nervous system that can tolerate safety]]
 
 ## Source
 

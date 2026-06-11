@@ -25,6 +25,9 @@ The resolution of authority issues starts inside.
 - [[teachings/inner-critic-uses-same-cult-dynamics|The inner critic uses the same dynamics as cults and political manipulation]]
 - [[teachings/should-creates-rebellion-or-submission|Should creates either rebellion or submission, never empowerment]]
 - [[teachings/inner-critic-mirrors-relationship-patterns|The inner critic mirrors your relationship patterns]]
+- [[teachings/change-your-relationship-to-the-critic-not-the-critic-itself|Change your relationship to the critic, not the critic itself]]
+- [[teachings/voice-in-head-talks-to-itself|The voice in the head talks to itself more than to you]]
+- [[teachings/inner-critic-prevents-nervous-system-rest|The inner critic prevents the rest needed for nervous system integration]]
 
 ## Source
 

@@ -25,6 +25,10 @@ The exhaustion isn't from doing too much — it's from the constant internal eff
 - [[teachings/composure-is-self-imprisonment|Forced composure is self-imprisonment]]
 - [[teachings/caretaking-creates-resentment-in-the-receiver|Caretaking creates resentment in the receiver]]
 - [[teachings/obligation-kills-love|Taking responsibility from obligation kills love]]
+- [[teachings/apologize-for-disempowering-others|Apologizing for disempowering people undoes the self-reliance loop]]
+- [[teachings/self-reliance-comes-from-parentified-childhood|Self-reliance comes from a childhood where you took care of your parents]]
+- [[teachings/responsibility-is-a-trap-when-total|Total responsibility becomes a trap]]
+- [[teachings/taking-care-of-others-disempowers-them|Taking responsibility for others' happiness disempowers them]]
 
 ## Source
 

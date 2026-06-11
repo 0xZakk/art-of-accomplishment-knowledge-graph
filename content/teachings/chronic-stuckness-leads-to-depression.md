@@ -27,6 +27,7 @@ Brett frames it precisely: "Maybe depression is some form of self-oppression. Li
 - [[teachings/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]
 - [[teachings/emotional-repression-causes-depression-and-shoulds|Emotional repression is the root cause of depression and shoulds]]
 - [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[teachings/self-judgment-defends-against-emotions|Self-judgment is a defense against feeling emotions]]
 
 ## Source
 

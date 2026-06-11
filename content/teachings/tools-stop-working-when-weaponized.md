@@ -28,6 +28,9 @@ This is like accepting your son into the house only so he'll grow up and leave. 
 - [[teachings/managing-yourself-kills-the-practice|Managing yourself kills the practice]]
 - [[teachings/felt-gratitude-not-performed-gratitude|Felt gratitude, not performed gratitude]]
 - [[teachings/passive-consumption-never-transforms|Passive consumption of wisdom never transforms you]]
+- [[teachings/practicing-gratitude-to-get-something-confirms-lack|Practicing gratitude to get something confirms the lack]]
+- [[teachings/the-four-as-only-work-after-genuine-recognition|The four A's only work after a genuine recognition, not from a should]]
+- [[teachings/test-teachings-through-experiments|Test teachings through experiments rather than believing them]]
 
 ## Source
 

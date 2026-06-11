@@ -29,6 +29,9 @@ The perfectionist sets up the same impossible game their parents set up: standar
 - [[teachings/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
 - [[teachings/your-own-perfectionist-boss|You become your own oppressive boss]]
 - [[teachings/organizations-must-remove-fear-to-innovate|Organizations must remove fear to enable innovation]]
+- [[teachings/perfectionism-is-the-critical-parents-voice|Perfectionism is the internalized critical parent's voice]]
+- [[teachings/the-golden-algorithm|The golden algorithm: we invite back the emotion we avoid, in the way we avoid it]]
+- [[teachings/perfectionism-as-safety-strategy|Perfectionism originates as a childhood safety strategy]]
 
 ## Source
 

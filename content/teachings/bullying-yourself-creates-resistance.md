@@ -31,6 +31,7 @@ This connects to Joe's broader teaching that "should" is always a form of self-a
 - [[teachings/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
 - [[teachings/should-creates-rebellion-or-submission|Should creates either rebellion or submission, never empowerment]]
 - [[teachings/self-understanding-over-self-improvement|Self-understanding replaces self-improvement]]
+- [[teachings/negative-reinforcement-creates-procrastination-loops|Negative self-reinforcement creates procrastination loops]]
 
 ## Source
 

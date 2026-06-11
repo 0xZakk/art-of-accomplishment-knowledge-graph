@@ -34,6 +34,7 @@ The moment you orient toward peace as a goal, you've created a want, and the wan
 - [[teachings/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
 - [[teachings/stuckness-is-resistance-to-the-abyss|Stuckness is resistance to the abyss, not the abyss itself]]
 - [[teachings/trying-to-feel-joy-pushes-it-away|Trying to feel joy is the resistance that pushes it away]]
+- [[teachings/avoidance-is-the-stuckness-not-the-feeling|The avoidance of the feeling is the stuckness, not the feeling itself]]
 
 ## Source
 

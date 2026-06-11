@@ -27,6 +27,8 @@ Self-care is the priority in all relationship work. You can't treat others with 
 - [[teachings/self-love-sets-the-capacity-limit-for-loving-others|Self-love sets the capacity limit for loving a partner]]
 - [[teachings/what-you-cant-love-in-your-partner-you-cant-love-in-yourself|What you can't love in your partner is what you can't love in yourself]]
 - [[teachings/you-get-the-love-you-can-accept|You only get the love you can let in]]
+- [[teachings/love-yourself-how-you-wanted-to-be-loved|Love yourself the way you always wanted to be loved]]
+- [[teachings/self-compassion-is-the-meta-variable|Self-compassion is the meta-variable that speeds all transformation]]
 
 ## Source
 

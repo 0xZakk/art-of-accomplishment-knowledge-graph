@@ -28,6 +28,7 @@ Brett observes that when he was running his own self-reliant pattern, he perceiv
 - [[teachings/self-reliance-is-a-defense-against-helplessness|Self-reliance is a defense against helplessness]]
 - [[teachings/compulsive-giving-avoids-receiving|Compulsive giving is a self-reliance strategy to avoid receiving]]
 - [[teachings/helplessness-is-the-emotion-being-avoided|The feeling being avoided underneath 'I've got this' is helplessness]]
+- [[teachings/helplessness-dissolves-false-self-reliance|Helplessness dissolves false self-reliance]]
 
 ## Source
 

@@ -26,6 +26,10 @@ Joe distinguishes two types of fear: existential fear (threat to life) and expan
 - [[teachings/breath-regulates-the-nervous-system|Breath regulates the nervous system]]
 - [[teachings/fear-as-road-map-not-enemy|Fear is a road map, not an enemy to conquer]]
 - [[teachings/same-experience-different-interpretation|The same experience can be terror or exhilaration depending on interpretation]]
+- [[teachings/anxiety-can-be-excitement-that-isnt-felt-all-the-way|Anxiety is sometimes excitement that isn't being felt all the way]]
+- [[teachings/fear-is-excitement-without-the-breath|Fear is excitement without the breath]]
+- [[teachings/fear-distinguish-excitement-from-a-signal|Fear is either excitement without the breath or a signal to take care of something]]
+- [[teachings/grounded-vs-ungrounded-excitement|Grounded excitement signals readiness; ungrounded excitement covers anxiety]]
 
 ## Source
 

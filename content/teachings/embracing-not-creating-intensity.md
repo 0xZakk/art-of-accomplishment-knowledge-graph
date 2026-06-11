@@ -25,6 +25,8 @@ Importantly, Joe uses the word "intensity" rather than "difficulty" because once
 - [[teachings/discomfort-is-the-resistance-not-the-emotion|The discomfort is the resistance, not the emotion itself]]
 - [[teachings/embrace-intensity-for-transformation|Embracing intensity is the leading indicator of transformation]]
 - [[teachings/embrace-intensity-in-business|Embracing intensity in business reveals what you're avoiding]]
+- [[teachings/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
+- [[teachings/trying-to-feel-joy-pushes-it-away|Trying to feel joy is the resistance that pushes it away]]
 
 ## Source
 

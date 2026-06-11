@@ -25,6 +25,10 @@ Underneath the anxiety is sadness — a grief about purposelessness. "Where do y
 - [[teachings/fixing-avoids-being-present|Compulsive fixing avoids being present]]
 - [[teachings/anxiety-changes-form-not-substance|Anxiety changes form, not substance]]
 - [[teachings/any-self-definition-limits-you|Any self-definition limits you]]
+- [[teachings/judgment-blocks-the-emotion-underneath|Judgment blocks the emotion underneath]]
+- [[teachings/self-judgment-defends-against-emotions|Self-judgment is a defense against feeling emotions]]
+- [[teachings/openness-to-judgment-beats-defense|Openness to judgment is more comfortable than defense]]
+- [[teachings/judgment-signals-unfelt-emotion|Judgment toward others signals an unfelt emotion in yourself]]
 
 ## Source
 

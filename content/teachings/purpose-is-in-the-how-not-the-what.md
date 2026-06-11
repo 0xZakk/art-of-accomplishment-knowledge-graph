@@ -26,6 +26,7 @@ This reframe turns purpose from a destination to a quality of engagement. It's a
 - [[teachings/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]]
 - [[teachings/searching-for-purpose-assumes-you-lack-it|Searching for purpose assumes you don't already have it]]
 - [[teachings/say-yes-then-filter-for-joy|Say yes to what intrigues you, then filter for joy]]
+- [[teachings/purpose-matures-into-choicelessness|Purpose matures into choicelessness]]
 
 ## Source
 

@@ -23,6 +23,7 @@ Animals naturally do this through shaking. Dogs shake twenty to thirty times a d
 - [[teachings/activation-release-rest-cycle|Activation release rest cycle]]
 - [[teachings/recovery-time-is-part-of-the-work|Recovery time is part of the work]]
 - [[teachings/managing-trauma-versus-resolving-it|Managing trauma versus resolving it]]
+- [[teachings/fights-are-trauma-responses-not-personality-flaws|Losing control in a fight is a trauma response, not a personality flaw]]
 
 ## Source
 

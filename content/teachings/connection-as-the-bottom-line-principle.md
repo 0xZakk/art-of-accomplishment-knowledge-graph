@@ -28,6 +28,7 @@ The principle operates as a heuristic: "Am I optimizing for being right or am I 
 - [[teachings/connection-as-career-compass|Connection as career compass]]
 - [[teachings/principles-make-decisions-for-you|Principles make decisions for you]]
 - [[teachings/principles-automate-decision-making|Principles automate decision-making into effortless choices]]
+- [[teachings/connection-is-the-core-of-parenting|Connection is the core need in parenting, not obedience]]
 
 ## Source
 

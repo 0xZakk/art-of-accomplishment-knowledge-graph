@@ -29,6 +29,8 @@ People often come to self-development thinking "if I do all this work, I'll be g
 - [[teachings/everyone-already-knows-the-way-home|Everyone already knows the way home]]
 - [[teachings/love-the-resistance-to-the-thing|If you can't love the thing, love the resistance to the thing]]
 - [[teachings/love-yourself-how-you-wanted-to-be-loved|Love yourself the way you always wanted to be loved]]
+- [[teachings/loving-yourself-makes-you-happy-in-the-moment|Loving the part in pain makes you happy in the moment]]
+- [[teachings/love-the-part-in-pain-the-way-you-wanted-to-be-loved|Love the part in pain the way you wanted your parents to love you]]
 
 ## Source
 

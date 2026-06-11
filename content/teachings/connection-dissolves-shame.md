@@ -25,6 +25,11 @@ The isolation reinforces the shame — moved to a new city, no connections, no o
 - [[teachings/being-seen-transforms-behavior|Being seen transforms behavior]]
 - [[teachings/real-community-requires-non-judgmental-witnessing|Real community requires non-judgmental witnessing]]
 - [[teachings/we-cant-see-the-love-thats-available|We can't see the love that's available]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/shame-is-love-in-disguise|Shame is love in disguise—it shows you care]]
+- [[teachings/love-that-comes-with-abuse-gets-met-with-aggression|When love arrived with abuse, love later gets met with aggression]]
+- [[teachings/dropping-shame-is-prerequisite-for-seeing-your-partner|Dropping shame is the prerequisite for seeing your partner]]
+- [[teachings/being-loved-in-the-shame-dissolves-it|Being loved within the shame dissolves it]]
 
 ## Source
 

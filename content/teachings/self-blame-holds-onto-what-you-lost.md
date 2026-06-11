@@ -29,6 +29,8 @@ The way out isn't forgiveness (which still assumes you did something wrong). It'
 - [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 - [[teachings/you-are-already-doing-what-you-fear|You are already doing to yourself what you fear others will do]]
 - [[teachings/when-love-shows-up-unloved-parts-surface|When love shows up, unloved parts surface to be loved]]
+- [[teachings/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
+- [[teachings/self-attack-is-another-form-of-avoidance|Self-attack is another form of avoidance]]
 
 ## Source
 

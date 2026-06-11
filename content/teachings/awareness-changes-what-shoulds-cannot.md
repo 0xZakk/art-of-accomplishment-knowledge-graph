@@ -28,6 +28,7 @@ This doesn't mean that awareness is passive. Writing down uncomfortable truths a
 - [[teachings/you-have-already-changed-thousands-of-beliefs|You have already changed thousands of beliefs without noticing]]
 - [[teachings/shame-stagnates-behavior|Shame stagnates behavior]]
 - [[teachings/shame-locks-in-bad-habits|Shame locks in the very habits it punishes]]
+- [[teachings/the-four-as-only-work-after-genuine-recognition|The four A's only work after a genuine recognition, not from a should]]
 
 ## Source
 

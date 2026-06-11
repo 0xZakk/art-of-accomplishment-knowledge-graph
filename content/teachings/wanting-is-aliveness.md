@@ -39,6 +39,8 @@ The feeling of wanting, when fully allowed, is quite lovely. It's only when we c
 - [[teachings/wants-are-evolutionary-strategies|Wants are strategies for essential human needs]]
 - [[teachings/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
 - [[teachings/you-get-the-love-you-can-accept|You only get the love you can let in]]
+- [[teachings/wants-motivate-where-shoulds-stagnate|Wants motivate where shoulds stagnate]]
+- [[teachings/ambition-survives-beneath-the-resistance|Ambition survives beneath the resistance, waiting to be set free]]
 
 ## Source
 

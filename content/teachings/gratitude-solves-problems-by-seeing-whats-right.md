@@ -25,6 +25,7 @@ Gratitude also dissolves poverty mentality. If you feel lack around money, time,
 - [[teachings/resourcefulness-over-resources|Resourcefulness over resources]]
 - [[teachings/find-whats-working-and-spread-it|Find what's already working and spread it rather than fixing what's broken]]
 - [[teachings/ungratitude-removes-half-your-solutions|Ungratitude removes half your solutions]]
+- [[teachings/gratitude-reveals-abundance-already-present|Gratitude reveals abundance that is already present]]
 
 ## Source
 

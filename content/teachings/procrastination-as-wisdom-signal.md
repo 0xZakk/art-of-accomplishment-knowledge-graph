@@ -29,6 +29,8 @@ He illustrates with the parole board study: decisions made before lunch are sign
 - [[teachings/first-domino-principle|People who don't procrastinate pick the right first domino]]
 - [[teachings/procrastination-requires-self-abuse|Procrastination cannot exist without self-abuse]]
 - [[teachings/intuition-sees-what-logic-cannot|Intuition sees what the logical mind cannot]]
+- [[teachings/procrastination-is-emotional-avoidance|Procrastination is the avoidance of an emotional state]]
+- [[teachings/welcome-judgment-as-freedom|Welcoming judgment creates freedom rather than fear]]
 
 ## Source
 

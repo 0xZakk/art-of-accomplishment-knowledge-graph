@@ -27,6 +27,10 @@ The metaphor of a river applies: sometimes it goes around a bend, through gentle
 - [[teachings/feeling-through-requires-letting-identity-restructure|Feeling an emotion fully requires letting your identity restructure]]
 - [[teachings/questioning-feeling-destroys-feeling|Questioning feeling destroys feeling]]
 - [[teachings/judgment-signals-unfelt-emotion|Judgment signals unfelt emotion]]
+- [[teachings/doing-emotions-at-people-avoids-feeling|Doing emotions at people means you're not actually feeling them]]
+- [[teachings/every-emotion-is-a-signal-pointing-to-an-action|Every emotion is a signal pointing toward an action or a need]]
+- [[teachings/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
+- [[teachings/feel-whats-underneath-the-shame|Feel what's underneath the shame to break stagnation]]
 
 ## Source
 

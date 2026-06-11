@@ -24,6 +24,7 @@ One executive got so good at this—always stating her wants and supporting her 
 - [[teachings/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]]
 - [[teachings/wanting-is-aliveness|Wanting is aliveness]]
 - [[teachings/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
+- [[teachings/suppressed-wants-become-politics|Suppressed wants become organizational politics]]
 
 ## Source
 

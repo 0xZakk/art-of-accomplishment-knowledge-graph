@@ -26,6 +26,10 @@ The ego manifests not as arrogance necessarily, but as a quiet certainty: "I hav
 - [[teachings/awakening-is-not-an-endpoint|Awakening is not an endpoint]]
 - [[teachings/ego-resists-change-in-either-direction|Ego resists change in either direction]]
 - [[teachings/identity-collapse-follows-peak-achievement|Identity collapse follows peak achievement]]
+- [[teachings/remembering-who-you-were-before-the-armor|Transformation often feels like remembering who you were before the armor]]
+- [[teachings/hollowing-out-is-a-perpetual-process|The hollowing out process never ends]]
+- [[teachings/peak-experience-becomes-goal-trap|Peak experiences become goal traps when co-opted by ego]]
+- [[teachings/awakening-is-not-the-end-of-the-journey|Awakening is not a conclusion, just part of the journey]]
 
 ## Source
 

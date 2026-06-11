@@ -28,6 +28,9 @@ This work doesn't stop when you find a partner. Marriage is the ongoing commitme
 - [[teachings/contrary-action-breaks-love-patterns|Contrary action breaks love patterns]]
 - [[teachings/love-requires-willingness-to-be-hurt|Love requires willingness to be hurt]]
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/negative-self-talk-reveals-how-love-was-wired|Negative self-talk reveals how love was wired in childhood]]
+- [[teachings/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic, not just intellectual]]
+- [[teachings/accepting-love-requires-tolerating-safety|Accepting love requires a nervous system that can tolerate safety]]
 
 ## Source
 

@@ -24,6 +24,11 @@ The meta-conversation — talking about the relationship itself — breaks the s
 - [[teachings/criticism-turns-family-into-obligation|Criticism turns family relationships into obligation]]
 - [[teachings/boundaries-and-openness-are-the-same-thing|Boundaries and openness are the same thing]]
 - [[teachings/bring-problems-to-teenagers-as-shared-challenges|Bring problems to teenagers as shared challenges]]
+- [[teachings/connection-is-the-core-of-parenting|Connection is the core need in parenting, not obedience]]
+- [[teachings/parent-self-relationship-shapes-child-relationship|Your relationship with yourself shapes your relationship with your children]]
+- [[teachings/partners-are-perfectly-matched-to-trigger-you|Partners are perfectly matched to trigger your wounds]]
+- [[teachings/relationship-control-mirrors-leadership-control|Relationship control mirrors leadership control]]
+- [[teachings/teach-children-self-referencing|Teaching children to reference themselves builds their internal compass]]
 
 ## Source
 

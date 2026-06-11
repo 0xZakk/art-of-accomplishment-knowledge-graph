@@ -28,6 +28,7 @@ This connects to Joe's broader teaching that awareness itself is transformative.
 - [[teachings/you-have-already-changed-thousands-of-beliefs|You have already changed thousands of beliefs without noticing]]
 - [[teachings/attention-alone-reduces-stress|Paying attention to stress without trying to change it reduces it]]
 - [[teachings/feeling-your-essential-nature-dissolves-avoidance|Feeling your essential nature dissolves avoidance behaviors]]
+- [[teachings/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]]
 
 ## Source
 

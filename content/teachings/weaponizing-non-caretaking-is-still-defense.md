@@ -25,6 +25,8 @@ The people who truly embody caring — without caretaking or defensive withdrawa
 - [[teachings/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others' emotions to avoid your own]]
 - [[teachings/thinking-they-cant-handle-it-means-youre-caretaking|Thinking they can't handle it means you're caretaking]]
 - [[teachings/resentment-is-the-indicator-of-caretaking|Resentment is the indicator of caretaking]]
+- [[teachings/caretaking-prevents-hitting-bottom|Caretaking prevents the other person from hitting bottom]]
+- [[teachings/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
 
 ## Source
 

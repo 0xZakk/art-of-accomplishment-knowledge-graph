@@ -23,6 +23,9 @@ The key word is "think" — it's a perception shift, not necessarily a reality s
 - [[teachings/overwhelm-is-unfelt-emotions|Overwhelm is the accumulation of unfelt emotions]]
 - [[teachings/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]
 - [[teachings/flow-state-is-embodiment-applied-to-life|Flow state is embodiment applied to life]]
+- [[teachings/feel-the-false-end-to-dissolve-overwhelm|Feel through the feared outcome to dissolve overwhelm]]
+- [[teachings/emotional-release-resolves-work-overwhelm|Emotional release resolves work overwhelm]]
+- [[teachings/knowing-yourself-is-the-only-safety|Knowing yourself is the only real safety]]
 
 ## Source
 

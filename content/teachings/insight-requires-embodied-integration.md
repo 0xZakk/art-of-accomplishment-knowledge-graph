@@ -31,6 +31,8 @@ Wisdom is also asymptotic—it deepens over time and may resurface at new levels
 - [[teachings/wisdom-is-when-you-dont-need-to-remember|Wisdom is when you don't need to remember the insight]]
 - [[teachings/insight-is-not-wisdom-until-embodied|Insight is not wisdom until it is embodied]]
 - [[teachings/confusing-state-with-insight|Confusing the ecstatic state with the insight itself sabotages integration]]
+- [[teachings/gentleness-accelerates-growth|Gentleness accelerates growth]]
+- [[teachings/intellect-understands-but-the-body-does-not-change|The intellect can understand a change the body never makes]]
 
 ## Source
 

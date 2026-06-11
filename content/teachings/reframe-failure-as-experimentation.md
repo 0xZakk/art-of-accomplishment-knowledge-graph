@@ -29,6 +29,9 @@ The key insight: write the full list *before* starting. When a painful setback o
 - [[teachings/experiments-make-knowledge-embodied|Experiments make knowledge embodied]]
 - [[teachings/experiments-separate-identity-from-behavior|Experiments separate identity from behavior]]
 - [[teachings/dont-make-experiments-a-should|Don't make experiments a should]]
+- [[teachings/passive-consumption-never-transforms|Passive consumption of wisdom never transforms you]]
+- [[teachings/one-failure-as-proof-of-inability|Treating one failure as proof of inability ensures you never start]]
+- [[teachings/test-teachings-through-experiments|Test teachings through experiments rather than believing them]]
 
 ## Source
 

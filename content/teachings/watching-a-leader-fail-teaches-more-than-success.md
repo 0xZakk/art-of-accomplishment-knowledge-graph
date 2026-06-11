@@ -27,6 +27,8 @@ The meta-lesson: a leader openly struggling and finding their way through gives 
 - [[teachings/being-seen-transforms-behavior|Being seen transforms behavior]]
 - [[teachings/everyone-can-see-what-you-think-youre-hiding|Everyone can see what you think you're hiding]]
 - [[teachings/transformation-is-experiments-not-epiphany|Transformation comes through experiments, not epiphany]]
+- [[teachings/truth-lands-as-relief-in-the-body|Truth lands as relief in the body, not as attack]]
+- [[teachings/no-doctrine-leads-with-disagreement|Leading with 'no' gets to truth faster than platitudes]]
 
 ## Source
 

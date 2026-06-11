@@ -26,6 +26,9 @@ This is a specific case of a general pattern: the mental search for something yo
 - [[teachings/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
 - [[teachings/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]]
 - [[teachings/doubt-is-leaving-your-heart|Doubt is leaving your heart]]
+- [[teachings/joy-wont-enter-where-emotions-unwelcome|Joy won't come into a house where her children aren't welcome]]
+- [[teachings/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
+- [[teachings/wanting-is-aliveness|Wanting is aliveness]]
 
 ## Source
 

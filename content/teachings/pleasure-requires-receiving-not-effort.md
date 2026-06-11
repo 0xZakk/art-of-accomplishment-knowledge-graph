@@ -29,6 +29,7 @@ Crucially, allowing sensations has no valence — it's not about allowing the po
 - [[teachings/pleasure-is-sensation-moving-through-the-body|Pleasure is the awareness of sensation moving through the body]]
 - [[teachings/pleasure-is-available-in-every-emotion|Pleasure is available in every emotion when fully felt]]
 - [[teachings/pleasure-signals-safety|Pleasure signals safety to the nervous system]]
+- [[teachings/pleasure-capacity-is-trainable|Pleasure capacity is trainable]]
 
 ## Source
 

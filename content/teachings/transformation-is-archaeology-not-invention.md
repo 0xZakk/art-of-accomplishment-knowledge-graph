@@ -25,6 +25,9 @@ The alternative: acknowledge you're channeling something that's been flowing thr
 - [[teachings/the-butler-is-always-there|The subconscious always has the answer on a platter]]
 - [[teachings/discovery-not-improvement|Discovery not improvement]]
 - [[teachings/transformation-is-generational|Transformation is generational]]
+- [[teachings/the-recent-epiphany-is-also-a-rut|The most recent epiphany becomes the next rut you have to release]]
+- [[teachings/paying-attention-changes-the-pattern-on-its-own|Paying attention to a pattern changes it on its own]]
+- [[teachings/your-nature-knows-what-you-need-next|Your nature knows what you need next]]
 
 ## Source
 

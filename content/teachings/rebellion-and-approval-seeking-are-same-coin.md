@@ -25,6 +25,9 @@ Joe notes that CEOs who were rebels often struggle to provide structure because 
 - [[teachings/war-with-your-wants-creates-self-sabotage|War with your wants creates self-sabotage]]
 - [[teachings/authority-issues-are-not-seeing-humans|Authority issues mean not treating authorities as human beings]]
 - [[teachings/approval-seeking-pushes-people-away|Seeking approval pushes away the very connection you want]]
+- [[teachings/contrarian-thinking-is-still-controlled-by-the-system|Contrarian thinking is still controlled by the system]]
+- [[teachings/rebellion-empowers-the-authority|Rebellion empowers the authority figure just as compliance does]]
+- [[teachings/speaking-truth-dissolves-approval-seeking|Speaking your truth dissolves the need for external approval]]
 
 ## Source
 

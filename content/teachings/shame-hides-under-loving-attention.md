@@ -27,6 +27,8 @@ The practice isn't to successfully pin down the shame and love it perfectly. It'
 - [[teachings/love-is-the-antidote-to-shame|Love is the antidote to shame]]
 - [[teachings/love-the-resistance|Loving resistance is the path through it]]
 - [[teachings/welcome-shame-dont-push-through-it|Welcome shame rather than pushing through it]]
+- [[teachings/shame-is-love-in-disguise|Shame is love in disguise—it shows you care]]
+- [[teachings/three-ways-we-push-love-away-chase-avoid-fight|We push away love by chasing it, avoiding it, or fighting]]
 
 ## Source
 

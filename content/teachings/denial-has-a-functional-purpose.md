@@ -24,6 +24,9 @@ Writing requires believing you have time to revise. Art-making requires believin
 
 - [[teachings/grief-and-gratitude-coexist|Grief and gratitude coexist]]
 - [[teachings/accepting-death-enables-choice|Accepting death enables genuine choice]]
+- [[teachings/community-forms-spontaneously-around-vulnerability|Community forms spontaneously around genuine vulnerability]]
+- [[teachings/saying-yes-to-the-hardest-thing|Saying yes to the hardest thing recalibrates everything else]]
+- [[teachings/resistance-is-a-natural-step-in-transformation|Resistance is a natural step in transformation]]
 
 ## Source
 

@@ -30,6 +30,10 @@ The antidote is owning wants transparently while trusting others to do the same 
 - [[teachings/leaders-must-say-what-they-want-cleanly|Leaders must say what they want cleanly]]
 - [[teachings/owning-your-wants-dissolves-passive-aggression|Owning your wants dissolves passive aggression]]
 - [[teachings/asking-for-what-you-want-dissolves-resentment|Asking for what you want dissolves resentment]]
+- [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
+- [[teachings/transparency-is-the-antidote-to-politics|Transparency is the best antidote to politics]]
+- [[teachings/the-last-cookie-problem|The last cookie problem in groups]]
+- [[teachings/hearing-objections-before-deciding|Hearing objections before deciding — even if you decide the same thing — changes everything]]
 
 ## Source
 

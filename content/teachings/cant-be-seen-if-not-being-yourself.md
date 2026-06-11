@@ -43,6 +43,7 @@ If you're being yourself, some people won't like it. But the ones who do will ac
 - [[teachings/approval-seeking-pushes-people-away|Seeking approval pushes away the very connection you want]]
 - [[teachings/owning-wants-means-being-okay-with-having-them|Owning your wants means being okay with having them]]
 - [[teachings/moving-emotions-dissolves-depression|Moving the emotion dissolves depression]]
+- [[teachings/we-push-away-support-we-dont-trust|We push away support we don't trust]]
 
 ## Source
 

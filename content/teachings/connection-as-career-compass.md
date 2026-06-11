@@ -24,6 +24,8 @@ The insight is that connection isn't one goal among many—it's the meta-goal th
 - [[teachings/connection-enables-accomplishment|Connection enables accomplishment]]
 - [[teachings/enjoyment-as-compass-for-surrender|Enjoyment as compass for surrender]]
 - [[teachings/connection-as-the-bottom-line-principle|Connection is the most effective bottom-line principle for life]]
+- [[teachings/gratitude-arrives-when-you-stop-striving|Gratitude arrives when you stop striving]]
+- [[teachings/children-need-connection-not-optimization|Children need connection, not optimization]]
 
 ## Source
 

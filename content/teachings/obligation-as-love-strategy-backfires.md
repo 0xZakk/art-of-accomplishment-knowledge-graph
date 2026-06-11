@@ -26,6 +26,9 @@ The most insidious aspect: we often see obligation as the only thing maintaining
 - [[teachings/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]]
 - [[teachings/performing-for-connection-blocks-authentic-earning|Performing for connection blocks authentic earning]]
 - [[teachings/obligation-cuts-off-love|Obligation cuts off the experience of love in the moment]]
+- [[teachings/love-yourself-how-you-wanted-to-be-loved|Love yourself the way you always wanted to be loved]]
+- [[teachings/acceptance-is-not-love|Getting to acceptance without love repeats the pattern]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 
 ## Source
 

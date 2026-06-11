@@ -25,6 +25,9 @@ This echoes the tennis coach session—the capacity is already present, just blo
 - [[teachings/go-deeper-into-the-defense|Going deeper into a defense pattern can unlock what's beneath it]]
 - [[teachings/flow-state-is-embodiment|Flow state in sport is the same skill as embodiment in life]]
 - [[teachings/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
+- [[teachings/flow-state-is-embodiment-applied-to-life|Flow state in sports is the same skill as embodiment in life]]
+- [[teachings/play-tennis-in-life|Apply your embodied skill from one domain to all of life]]
+- [[teachings/love-the-part-in-pain-the-way-you-wanted-to-be-loved|Love the part in pain the way you wanted your parents to love you]]
 
 ## Source
 

@@ -26,6 +26,10 @@ The disorientation period is real but temporary. Some people can't speak from th
 - [[teachings/being-yourself-designs-your-life|Being yourself designs your life]]
 - [[teachings/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[teachings/vulnerability-aligns-world-around-truth|Vulnerability aligns the world around your truth instead of your presentation]]
+- [[teachings/authenticity-is-receiving-not-performing|Authenticity is receiving yourself not performing yourself]]
+- [[teachings/self-possessed-presence-transforms-relationships|Self-possessed presence transforms how others relate to you]]
+- [[teachings/the-voice-of-fakeness-is-intuition-not-pathology|The voice of fakeness is intuition, not pathology]]
+- [[teachings/sacrificing-authenticity-now-for-future-safety-is-a-trap|Sacrificing authenticity now for future safety is a trap]]
 
 ## Source
 

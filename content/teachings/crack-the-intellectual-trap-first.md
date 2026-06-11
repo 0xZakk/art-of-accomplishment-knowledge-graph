@@ -24,6 +24,10 @@ The key principle: effective transformation works on all three systems (intellec
 - [[teachings/three-systems-intellect-emotion-nervous-system|Intellect, emotion, and nervous system are three interacting systems]]
 - [[teachings/experiential-learning-over-intellectual-understanding|Experiential learning over intellectual understanding]]
 - [[teachings/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]
+- [[teachings/three-intelligences-triple-your-intelligence|Head, heart, and gut are three intelligences that triple your capacity]]
+- [[teachings/transformation-requires-all-three-levels|Guaranteed transformation requires working the head, heart, and nervous system together]]
+- [[teachings/enjoy-the-sensations-of-awakening|Enjoying the sensations rather than bracing eases the integration]]
+- [[teachings/body-lies-as-much-as-mind|The body lies just as much as the mind]]
 
 ## Source
 

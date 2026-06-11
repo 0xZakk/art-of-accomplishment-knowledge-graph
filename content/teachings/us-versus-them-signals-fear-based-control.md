@@ -26,6 +26,9 @@ The most robust companies, by contrast, are those with open debate where contrar
 - [[teachings/certainty-as-sign-of-dysfunction-in-teachings|Certainty as sign of dysfunction in teachings]]
 - [[teachings/inner-critic-uses-same-cult-dynamics|The inner critic uses the same cult dynamics]]
 - [[teachings/seeding-authority-feels-like-belonging|Ceding authority to a group feels like belonging and safety]]
+- [[teachings/we-are-each-a-cult-of-one|Each person is a 'cult of one' with internal belief structures they can't fully see]]
+- [[teachings/internal-principles-create-empowerment|Living by internal principles creates empowerment and dissolves drama]]
+- [[teachings/structure-creates-safety-not-oppression|Providing structure through principles creates safety, not oppression]]
 
 ## Source
 

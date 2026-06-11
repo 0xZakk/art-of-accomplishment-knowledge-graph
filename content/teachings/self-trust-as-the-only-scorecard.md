@@ -27,6 +27,10 @@ The key insight is that self-trust isn't something new to develop—it's an orie
 - [[teachings/knowing-yourself-is-the-only-safety|Knowing yourself is the only safety]]
 - [[teachings/chase-your-own-approval|Chase your own approval]]
 - [[teachings/confidence-is-connection-to-yourself|Confidence is connection to yourself]]
+- [[teachings/no-external-validation-works-without-self-validation|No amount of external validation works if you won't validate yourself]]
+- [[teachings/rudderlessness-is-freedom-in-disguise|Feeling rudderless is freedom in disguise]]
+- [[teachings/self-possessed-presence-transforms-relationships|Self-possessed presence transforms how others relate to you]]
+- [[teachings/evolution-doesnt-require-striving|Evolution doesn't require striving]]
 
 ## Source
 

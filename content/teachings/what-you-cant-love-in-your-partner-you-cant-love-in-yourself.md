@@ -26,6 +26,10 @@ This is why people who truly love themselves create the healthiest relationships
 - [[teachings/triggers-reveal-self-judgment|Triggers reveal self-judgment]]
 - [[teachings/wanting-someone-to-change-reflects-self-rejection|Wanting someone to change reflects self-rejection]]
 - [[teachings/self-love-is-the-capacity-limit-for-loving-others|Self-love is the capacity limit for loving others]]
+- [[teachings/self-love-sets-the-capacity-limit-for-loving-others|Self-love sets the capacity limit for loving a partner]]
+- [[teachings/you-get-the-love-you-can-accept|You only get the love you can let in]]
+- [[teachings/love-yourself-how-you-wanted-to-be-loved|Love yourself the way you always wanted to be loved]]
+- [[teachings/relationship-reflects-self-relationship|Your relationship with another reflects your relationship with yourself]]
 
 ## Source
 

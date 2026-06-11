@@ -23,6 +23,10 @@ The devastating consequence is that victimhood tells you "I don't have the power
 - [[teachings/being-yourself-gets-you-promoted-or-freed|Being yourself gets you promoted or freed]]
 - [[teachings/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[teachings/allowing-the-victim-creates-empowerment|Allowing the victim creates empowerment]]
+- [[teachings/blame-is-an-unowned-want|Blame is an unowned want]]
+- [[teachings/feeling-bad-perpetuates-the-trauma-cycle|Believing you're bad perpetuates the trauma cycle]]
+- [[teachings/blame-blocks-leadership|Blame prevents stepping into leadership]]
+- [[teachings/sacrificing-authenticity-now-for-future-safety-is-a-trap|Sacrificing authenticity now for future safety is a trap]]
 
 ## Source
 

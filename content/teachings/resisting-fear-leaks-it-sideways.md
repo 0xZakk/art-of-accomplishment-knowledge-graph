@@ -27,6 +27,7 @@ The things we fear are often the very things we invite into our world through av
 - [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 - [[teachings/resistance-is-a-natural-step-in-transformation|Resistance is a natural step in transformation]]
 - [[teachings/love-the-resistance|Loving resistance is the path through it]]
+- [[teachings/the-resistance-to-asking-protects-an-unfelt-sadness|The resistance to asking protects an unfelt sadness]]
 
 ## Source
 

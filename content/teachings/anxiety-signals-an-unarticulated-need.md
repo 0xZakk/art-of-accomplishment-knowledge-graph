@@ -28,6 +28,11 @@ The humor underscores the point: managing others at the expense of your own trut
 - [[teachings/anxiety-signals-unmet-needs-at-multiple-depths|Anxiety signals unmet needs at multiple depths]]
 - [[teachings/anxiety-as-constricted-life-force|Anxiety as constricted life force]]
 - [[teachings/emotions-have-intelligent-signals|Every emotion carries an intelligent signal]]
+- [[teachings/anxiety-is-repressed-excitement|Anxiety is often repressed excitement]]
+- [[teachings/anxiety-can-be-excitement-that-isnt-felt-all-the-way|Anxiety is sometimes excitement that isn't being felt all the way]]
+- [[teachings/say-im-excited-to-unkink-anxiety|Saying 'I'm excited' while feeling it can unkink anxiety]]
+- [[teachings/anxiety-points-to-self-abandonment|Anxiety is a road sign that shows you where you're abandoning yourself]]
+- [[teachings/feeling-excitement-cracks-the-identity|Feeling excitement cracks the identity open]]
 
 ## Source
 

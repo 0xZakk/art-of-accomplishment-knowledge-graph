@@ -26,6 +26,7 @@ Fourth: letting go of hierarchy. If you're used to putting people on pedestals o
 - [[teachings/being-seen-is-a-survival-need-we-villainize|Being seen is a survival need we villainize]]
 - [[teachings/shame-creates-the-see-me-dont-see-me-double-bind|Shame creates the see-me-dont-see-me double bind]]
 - [[teachings/holding-it-together-blocks-support|Holding it together blocks support]]
+- [[teachings/your-support-system-creates-you|Your support system creates you]]
 
 ## Source
 

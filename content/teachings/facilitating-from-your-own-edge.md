@@ -23,6 +23,10 @@ This doesn't mean facilitation should be chaotic or unprepared. It means the mos
 
 - [[teachings/sincerity-is-prerequisite-for-transformation|Sincerity is prerequisite for transformation]]
 - [[teachings/authenticity-transforms-business|Authenticity transforms business]]
+- [[teachings/authenticity-matters-more-than-self-improvement|Authenticity matters more than self-improvement]]
+- [[teachings/coaching-is-self-discovery-not-skill-acquisition|Coaching is self-discovery, not skill acquisition]]
+- [[teachings/the-best-teacher-just-went-through-it|The best teacher just went through it]]
+- [[teachings/own-your-narcissism-while-knowing-youre-not-special|Own your narcissism while knowing you're not special]]
 
 ## Source
 

@@ -27,6 +27,11 @@ Joe's "island experiment" illustrates the pull: imagine 12 people who unconditio
 - [[teachings/growth-means-shedding-identities|Growth means shedding identities]]
 - [[teachings/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
 - [[teachings/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]]
+- [[teachings/fear-reveals-where-identity-is-threatened|Fear reveals where our identity feels threatened]]
+- [[teachings/not-belonging-is-a-trained-defense|Feeling like you don't belong is a trained defense against rejection]]
+- [[teachings/superiority-and-shame-are-paired|Superiority and shame are two sides of the same coin]]
+- [[teachings/wanting-to-fit-in-and-be-extraordinary-conflict|Wanting to fit in and wanting to be extraordinary cancel each other out]]
+- [[teachings/identity-stress-comes-from-defending-a-fixed-self|Identity stress comes from defending a fixed self-concept]]
 
 ## Source
 

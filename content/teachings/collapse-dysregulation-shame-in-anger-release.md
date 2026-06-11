@@ -24,6 +24,8 @@ For dysregulation, the antidote is the observer position — being "an actor pla
 - [[teachings/shame-is-anger-turned-inward|Shame is anger turned inward]]
 - [[teachings/actor-technique-for-anger-release|The actor technique lets you release anger while maintaining awareness]]
 - [[teachings/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]
+- [[teachings/three-forms-of-repressed-anger|Repressed anger manifests in three forms: self-abuse, passive aggression, and explosive anger]]
+- [[teachings/repressed-anger-kinks-into-symptoms|Repressed anger kinks into depression, self-criticism, and rage]]
 
 ## Source
 

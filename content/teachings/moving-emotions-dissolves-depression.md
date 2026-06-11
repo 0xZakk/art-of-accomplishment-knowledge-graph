@@ -44,6 +44,8 @@ The judgment was the cap on the emotion. Remove the cap, let the emotion flow, a
 - [[teachings/positive-self-talk-can-be-passive-aggression|Positive self-talk can be a form of self-directed passive aggression]]
 - [[teachings/chronic-stuckness-leads-to-depression|Chronic stuckness leads to depression through self-oppression]]
 - [[teachings/when-love-shows-up-unloved-parts-surface|When love shows up, unloved parts surface to be loved]]
+- [[teachings/communication-techniques-get-weaponized|Communication techniques get weaponized without the right state]]
+- [[teachings/doubt-protects-from-unwanted-emotions|Doubt protects you from emotions you don't want to feel]]
 
 ## Source
 

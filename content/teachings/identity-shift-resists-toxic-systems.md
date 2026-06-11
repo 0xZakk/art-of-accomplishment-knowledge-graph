@@ -23,6 +23,9 @@ The power of chosen identity over assigned identity: when you become something m
 - [[teachings/growth-means-shedding-identities|Growth means shedding identities]]
 - [[teachings/being-yourself-designs-your-life|Being yourself designs your life]]
 - [[teachings/refusing-worst-act-identity|Refusing to be defined by your worst act enables transformation]]
+- [[teachings/self-loathing-as-accidental-doorway|Self-loathing can accidentally open a doorway to courage]]
+- [[teachings/survival-mechanisms-deserve-honor|Survival mechanisms deserve honor, not shame]]
+- [[teachings/prison-dynamics-parallel-corporate-dynamics|Prison dynamics parallel corporate dynamics]]
 
 ## Source
 

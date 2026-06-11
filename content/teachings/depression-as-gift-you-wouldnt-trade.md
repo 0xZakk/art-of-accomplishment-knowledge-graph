@@ -27,6 +27,9 @@ The deeper teaching is that our most painful experiences often carry the seeds o
 - [[teachings/self-loathing-as-accidental-doorway|Self-loathing as an accidental doorway]]
 - [[teachings/resisting-emotion-invites-it-back|Resisting an emotion is exactly what invites it back]]
 - [[teachings/chronic-stuckness-leads-to-depression|Chronic stuckness leads to depression through self-oppression]]
+- [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[teachings/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 
 ## Source
 

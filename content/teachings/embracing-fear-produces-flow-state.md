@@ -24,6 +24,10 @@ Courage isn't overcoming fear or pushing through it. Even "feeling the fear and 
 - [[teachings/embracing-fear-versus-avoiding-fear|Embracing fear versus avoiding fear]]
 - [[teachings/welcoming-fear-over-conquering-it|Welcoming fear over conquering it]]
 - [[teachings/flow-state-is-embodiment-applied-to-life|Flow state is embodiment applied to life]]
+- [[teachings/resisting-fear-leaks-it-sideways|Resisting fear doesn't eliminate it — it leaks out sideways]]
+- [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[teachings/welcome-doubt-instead-of-running|Welcoming doubt instead of running from it opens the heart]]
+- [[teachings/fear-constricts-excitement-expands|Fear constricts while excitement expands — same energy, different relationship]]
 
 ## Source
 

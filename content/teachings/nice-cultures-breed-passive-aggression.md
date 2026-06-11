@@ -21,6 +21,8 @@ The more arbitrary social norms dictate what you can and can't express, the more
 
 - [[teachings/conflict-avoidance-prevents-evolution|Conflict avoidance prevents evolution]]
 - [[teachings/feeling-seen-dissolves-politics|Feeling seen dissolves politics]]
+- [[teachings/positive-self-talk-can-be-passive-aggression|Positive self-talk can be a form of self-directed passive aggression]]
+- [[teachings/compassion-is-truth-with-an-open-heart|True compassion is speaking truth with an open heart, not being nice]]
 
 ## Source
 

@@ -21,6 +21,10 @@ The corruption doesn't require bad intentions. People who haven't examined their
 - [[teachings/communication-techniques-get-weaponized|Communication techniques get weaponized]]
 - [[teachings/every-epiphany-becomes-the-next-rut|Every epiphany becomes the next rut]]
 - [[teachings/you-cannot-judge-the-value-of-your-own-input|You cannot judge the value of your own input]]
+- [[teachings/transformation-doesnt-have-to-be-hard|Transformation doesn't have to be hard]]
+- [[teachings/dismissing-deep-connection-as-cult-diminishes-life|Dismissing deep community as 'cult behavior' diminishes the possibility of authentic living]]
+- [[teachings/no-one-will-hurt-us-but-us|With AI, no one will hurt us but us]]
+- [[teachings/coaching-expression-must-be-yours-not-your-teachers|Your coaching expression must be yours, not your teacher's]]
 
 ## Source
 

@@ -25,6 +25,11 @@ This teaching applies broadly: sometimes the most courageous act is the one that
 - [[teachings/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
 - [[teachings/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
 - [[teachings/authenticity-is-a-path-not-destination|Authenticity is a path not a destination]]
+- [[teachings/fear-path-has-no-end|The fear path has no end — deeper levels always reveal themselves]]
+- [[teachings/fear-is-present-on-every-path|Fear is present on every path so face it directly]]
+- [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[teachings/fear-patterns-reveal-identity|Fear patterns reveal your identity structure]]
+- [[teachings/welcoming-fear-over-conquering-it|Welcoming fear is safer and more growthful than conquering it]]
 
 ## Source
 

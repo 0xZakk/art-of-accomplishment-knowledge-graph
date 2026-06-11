@@ -26,6 +26,10 @@ Compartmentalization doesn't eliminate the hidden parts. It just makes them invi
 - [[teachings/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]]
 - [[teachings/self-judgment-defends-against-emotions|Self-judgment defends against emotions]]
 - [[teachings/containing-emotions-to-connect-disconnects-you|Containing emotions to connect actually disconnects you]]
+- [[teachings/disappearing-as-survival-strategy|Disappearing is a sophisticated survival strategy]]
+- [[teachings/eighty-percent-of-feared-rejection-is-internal|Eighty percent of feared rejection is internal self-talk]]
+- [[teachings/emotional-titration-is-adaptive|Emotional titration is adaptive, not avoidant]]
+- [[teachings/numbness-as-survival-gift|Emotional numbness can be a survival gift, not a deficit]]
 
 ## Source
 

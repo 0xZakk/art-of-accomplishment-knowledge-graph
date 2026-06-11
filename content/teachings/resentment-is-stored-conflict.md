@@ -28,6 +28,7 @@ The practical antidote is a weekly check-in: where's the tension I'm not address
 - [[teachings/truth-over-comfort-in-relationships|Prioritizing truth over comfort creates lasting relationships]]
 - [[teachings/fear-of-anger-drives-conflict-avoidance|Fear of anger—your own and others'—drives conflict avoidance]]
 - [[teachings/resentment-saturates-every-fight|Resentment saturates every fight]]
+- [[teachings/truth-telling-revives-dead-relationships|Speaking your truth revives dead relationships]]
 
 ## Source
 

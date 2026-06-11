@@ -24,6 +24,9 @@ After crossing that threshold, Altman describes two shifts: a sense that "none o
 - [[teachings/joy-is-the-sign-of-emotional-health|Joy is the sign of emotional health]]
 - [[teachings/emotional-fluidity-defined|Emotional fluidity defined]]
 - [[teachings/detachment-from-outcomes-enables-better-outcomes|Detachment from outcomes enables better outcomes]]
+- [[teachings/meditation-can-become-self-management|Meditation can become a form of self-management and dissociation]]
+- [[teachings/cracking-open-comes-from-need-not-discipline|Cracking open comes from need, not discipline]]
+- [[teachings/calmness-as-leadership-superpower|Calmness is a leadership superpower]]
 
 ## Source
 

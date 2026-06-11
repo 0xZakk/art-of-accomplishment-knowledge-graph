@@ -25,6 +25,11 @@ Joe uses the Walgreens example: while other drugstores measured sales per store,
 
 - [[teachings/experiments-make-knowledge-embodied|Experimentation over dogma in self-development]]
 - [[teachings/operating-principles-automate-eighty-percent-of-decisions|Operating principles automate eighty percent of decisions]]
+- [[teachings/institutionalize-change-over-one-on-one-intervention|Institutionalized change beats one-on-one intervention]]
+- [[teachings/company-is-relationships-and-decisions|A company is just relationships and decisions]]
+- [[teachings/functional-teams-are-measured-by-wanting-to-be-there|Functional teams are measured by people wanting to be there]]
+- [[teachings/negativity-bias-limits-intelligent-people|Negativity bias especially limits intelligent people]]
+- [[teachings/enjoyment-looks-slower-but-arrives-faster|Enjoyment looks slower but gets you there faster]]
 
 ## Source
 

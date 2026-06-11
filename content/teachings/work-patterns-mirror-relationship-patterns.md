@@ -29,6 +29,7 @@ This is a core principle in Joe's work: what you do to others, you do to yoursel
 - [[teachings/jealousy-masks-rejected-parts-of-self|Jealousy masks rejected parts of self]]
 - [[teachings/wanting-to-be-seen-prevents-seeing-others|Wanting to be seen prevents you from seeing others]]
 - [[teachings/inner-critic-mirrors-relationship-patterns|The inner critic mirrors your relationship patterns]]
+- [[teachings/every-no-is-new-information|Every 'no' is new information that creates clarity]]
 
 ## Source
 

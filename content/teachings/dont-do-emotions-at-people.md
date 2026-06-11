@@ -28,6 +28,8 @@ The practice: feel your emotions alone or with a trusted friend first, so they d
 - [[teachings/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
 - [[teachings/express-anger-without-directing-it|You can express anger without directing it at anyone]]
 - [[teachings/resentment-is-repressed-anger-at-an-undrawn-boundary|Resentment is repressed anger at an undrawn boundary]]
+- [[teachings/a-boundary-with-a-return-prevents-abandonment|Draw a boundary that includes coming back so they don't feel abandoned]]
+- [[teachings/triggers-reveal-unaccepted-parts-of-yourself|Every trigger reveals an unaccepted part of yourself]]
 
 ## Source
 

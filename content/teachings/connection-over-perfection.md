@@ -23,6 +23,11 @@ Connection + iteration beats perfection every time. Perfection isolates (you wit
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
 - [[teachings/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]]
 - [[teachings/connection-enables-accomplishment|Connection with self and others enables accomplishment]]
+- [[teachings/perfection-over-connection-holds-people-back|Prioritizing perfection over connection holds people back]]
+- [[teachings/iterative-mindset-dissolves-procrastination|An iterative mindset dissolves procrastination by removing the possibility of failure]]
+- [[teachings/people-want-connection-not-perfection|People want to feel connected with you, not impressed by you]]
+- [[teachings/iterative-mindset-prevents-failure|An iterative mindset makes failure impossible]]
+- [[teachings/authenticity-matters-more-than-self-improvement|Authenticity matters more than self-improvement]]
 
 ## Source
 

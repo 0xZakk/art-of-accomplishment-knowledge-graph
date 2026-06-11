@@ -24,6 +24,10 @@ This mirrors Joe's broader teaching about loving all aspects of yourself. The pr
 - [[teachings/welcome-the-inner-critic|Welcome the inner critic]]
 - [[teachings/hug-the-demon-dont-slay-it|Hug the demon, don't slay it]]
 - [[teachings/resisting-parts-creates-more-of-them|Resisting parts creates more of them]]
+- [[teachings/your-own-perfectionist-boss|You become your own oppressive boss]]
+- [[teachings/over-awareness-creates-paralysis|Over-awareness of your parts creates decision paralysis]]
+- [[teachings/show-up-as-yourself-to-answer-stay-or-leave|Showing up as yourself answers the stay-or-leave question]]
+- [[teachings/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
 
 ## Source
 

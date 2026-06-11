@@ -20,6 +20,8 @@ With experiments, there's no failure—only data. "We tried that, it didn't work
 
 - [[teachings/how-you-do-it-determines-if-you-do-it|How you do it determines if you do it]]
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
+- [[teachings/belief-precedes-relationship-change|You must believe change is possible before a relationship can improve]]
+- [[teachings/iterative-mindset-prevents-failure|An iterative mindset makes failure impossible]]
 
 ## Source
 

@@ -28,6 +28,9 @@ Joe points out that bad relationships with money, partners, or dreams are all re
 - [[teachings/fixing-mindset-perpetuates-stuckness|Fixing mindset perpetuates stuckness]]
 - [[teachings/address-root-blockers-not-symptoms|Address root blockers not symptoms]]
 - [[teachings/self-relationship-is-the-core-issue|The relationship with yourself is always the core issue]]
+- [[teachings/passive-consumption-never-transforms|Passive consumption of wisdom never transforms you]]
+- [[teachings/procrastination-is-not-who-you-are|Procrastination is not who you are — and knowing that is the real pain]]
+- [[teachings/the-story-of-brokenness-is-the-problem|The story about how you're broken is the problem, not the brokenness]]
 
 ## Source
 

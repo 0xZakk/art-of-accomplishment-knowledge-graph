@@ -29,6 +29,7 @@ The fear of losing love becomes a self-fulfilling prophecy. By avoiding conflict
 - [[teachings/resentment-is-stored-conflict|Resentment is stored conflict—the longer you avoid it, the bigger the explosion]]
 - [[teachings/safe-relationships-attract-displaced-emotions|Safe relationships attract displaced emotions]]
 - [[teachings/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
+- [[teachings/truth-over-comfort-in-relationships|Prioritizing truth over comfort creates lasting relationships]]
 
 ## Source
 

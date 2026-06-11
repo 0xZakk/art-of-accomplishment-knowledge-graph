@@ -23,6 +23,7 @@ This extends to economics — a strong middle class makes everyone wealthier, bu
 - [[teachings/community-health-is-individual-health|Community health is individual health]]
 - [[teachings/selfishness-is-the-engine-of-unity|Selfishness is the engine of unity]]
 - [[teachings/self-reliance-is-a-defense-against-helplessness|Self-reliance is a defense against helplessness]]
+- [[teachings/self-reliance-blocks-receiving-support|Self-reliance blocks the ability to receive support]]
 
 ## Source
 

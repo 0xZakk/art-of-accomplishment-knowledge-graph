@@ -24,6 +24,8 @@ This connects to a deeper principle: the leader who understands themselves can s
 - [[teachings/anxiety-is-detrimental-to-productivity|Anxiety is detrimental to productivity]]
 - [[teachings/authority-distorts-reality-for-leaders|Authority distorts reality for leaders]]
 - [[teachings/business-as-self-awareness-practice|Business as self-awareness practice]]
+- [[teachings/internal-conflict-is-not-a-reason-not-to-act|Waiting for zero internal conflict before acting keeps you stuck]]
+- [[teachings/unstructured-meditation-is-transformational|Unstructured meditation is the transformational practice]]
 
 ## Source
 

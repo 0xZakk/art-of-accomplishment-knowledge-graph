@@ -28,6 +28,10 @@ The key insight: it's more integrated and healthy when it happens naturally thro
 - [[teachings/any-self-definition-limits-you|Any self-definition limits you]]
 - [[teachings/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]]
 - [[teachings/sense-of-self-expands-then-dissolves|The sense of self expands from personal to universal, then dissolves]]
+- [[teachings/welcoming-not-managing-leads-to-awakening|Welcoming everything, not managing it, is what leads to awakening]]
+- [[teachings/meditation-can-become-self-management|Meditation can become a form of self-management and dissociation]]
+- [[teachings/sense-of-self-transforms-through-facing-the-abyss|The sense of self transforms through facing the abyss you've been avoiding]]
+- [[teachings/awakening-happens-in-head-heart-and-gut|Awakening happens through the head, the heart, and the gut]]
 
 ## Source
 

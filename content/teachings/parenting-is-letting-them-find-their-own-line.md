@@ -28,6 +28,10 @@ Joe's story about his daughter who chose to pause meditation because it made her
 - [[teachings/children-need-connection-not-optimization|Children need connection not optimization]]
 - [[teachings/parenting-as-ego-dissolution|Parenting as ego dissolution]]
 - [[teachings/connection-is-the-core-of-parenting|Connection is the core of parenting]]
+- [[teachings/people-pleasing-drives-excellence-and-traps-you|People-pleasing drives excellence and traps you]]
+- [[teachings/adversity-refines-rather-than-destroys|Adversity refines rather than destroys]]
+- [[teachings/gold-lies-beyond-what-you-fear|The gold in life lies just beyond what you're afraid to face]]
+- [[teachings/childhood-criticism-creates-self-distrust|Childhood criticism teaches you not to trust yourself]]
 
 ## Source
 

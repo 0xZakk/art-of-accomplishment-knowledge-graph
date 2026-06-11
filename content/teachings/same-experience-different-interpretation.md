@@ -23,6 +23,10 @@ This illustrates how misinterpretation of experience functions as a limiting bel
 - [[teachings/resistance-changes-the-emotion|Resistance changes the emotion]]
 - [[teachings/welcoming-not-just-accepting-emotions|Welcoming not just accepting emotions]]
 - [[teachings/imposter-fear-is-excitement-without-breath|Imposter fear is excitement without breath]]
+- [[teachings/your-stance-toward-awakening-shapes-the-experience|Your stance toward awakening shapes the experience more than the awakening itself]]
+- [[teachings/enjoy-the-sensations-of-awakening|Enjoying the sensations rather than bracing eases the integration]]
+- [[teachings/three-categories-of-limiting-beliefs|Limiting beliefs come in three forms: false thoughts, misinterpreted experience, and incomplete story]]
+- [[teachings/feel-fear-to-see-opportunity|Feel the fear fully to see the opportunities in chaos]]
 
 ## Source
 

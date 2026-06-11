@@ -24,6 +24,10 @@ This also means avoiding social climbing in building support systems. If you onl
 - [[teachings/empower-people-decentrally|Empower people decentrally]]
 - [[teachings/management-communicates-distrust|Management communicates distrust]]
 - [[teachings/functional-teams-are-measured-by-wanting-to-be-there|Functional teams are measured by wanting to be there]]
+- [[teachings/the-leaders-job-is-not-to-take-care-of-everyone|The leader's job is not to take care of everyone]]
+- [[teachings/accountability-is-curiosity-not-punishment|Accountability is curiosity, not punishment]]
+- [[teachings/only-work-with-great-people|Only work with great people]]
+- [[teachings/blame-blocks-leadership|Blame prevents stepping into leadership]]
 
 ## Source
 

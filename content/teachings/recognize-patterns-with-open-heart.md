@@ -26,6 +26,11 @@ The difference is between bracing against the recognition (constricting, tighten
 - [[teachings/shame-stagnates-behavior|Shame stagnates rather than motivates behavior]]
 - [[teachings/view-framework-for-listening|The VIEW framework for listening]]
 - [[teachings/self-judgment-defends-against-emotions|Self-judgment is a defense against feeling emotions]]
+- [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
+- [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
+- [[teachings/shame-interrupts-openness|Shame interrupts openness and pulls you out of spaciousness]]
+- [[teachings/self-attack-after-epiphany-slows-transformation|Beating yourself up after an epiphany slows your transformation]]
+- [[teachings/fixing-avoids-being-present|Compulsive fixing avoids being present]]
 
 ## Source
 

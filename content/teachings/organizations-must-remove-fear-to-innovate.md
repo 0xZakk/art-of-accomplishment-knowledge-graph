@@ -29,6 +29,8 @@ Netflix's approach illustrates the principle: intentionally maintaining chaos so
 - [[teachings/leaders-and-culture-co-create|Leaders and culture co-create]]
 - [[teachings/feeling-seen-dissolves-politics|Feeling seen dissolves politics]]
 - [[teachings/rules-accumulate-until-nobody-follows-them|Rules accumulate until nobody follows them]]
+- [[teachings/your-own-perfectionist-boss|You become your own oppressive boss]]
+- [[teachings/connection-over-perfection-in-process|Connection over perfection transforms the process]]
 
 ## Source
 

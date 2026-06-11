@@ -26,6 +26,10 @@ The critical distinction: allowing is not passivity or avoidance. It's an active
 - [[teachings/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]]
 - [[teachings/flow-state-is-embodiment-applied-to-life|Flow state is embodiment applied to life]]
 - [[teachings/pushing-creates-the-opposite-of-flow|Pushing creates the opposite of flow]]
+- [[teachings/discomfort-is-the-resistance-not-the-emotion|The discomfort of emotions is the resistance to them, not the emotions themselves]]
+- [[teachings/listening-is-receiving-not-doing|Listening is receiving, not doing]]
+- [[teachings/accomplishment-is-undoing-not-doing|Accomplishment is an undoing, not a doing]]
+- [[teachings/letting-go-comes-from-seeing-the-pain-of-holding-on|Letting go comes from seeing the pain of holding on]]
 
 ## Source
 

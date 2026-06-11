@@ -30,6 +30,7 @@ This reframe changes your relationship to shame entirely. Instead of shame being
 - [[teachings/being-loved-in-the-shame-dissolves-it|Being loved within the shame dissolves it]]
 - [[teachings/shame-dissolves-when-felt-not-fought|Shame dissolves when felt, not fought]]
 - [[teachings/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 
 ## Source
 

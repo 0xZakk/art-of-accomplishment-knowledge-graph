@@ -27,6 +27,10 @@ The antidote: treat the teacher as human. When you know you're your own authorit
 - [[teachings/authority-distorts-reality-for-leaders|Authority distorts reality for leaders]]
 - [[teachings/gentle-narcissism-in-the-call-to-coach|Gentle narcissism in the call to coach]]
 - [[teachings/good-teachings-inevitably-get-corrupted|Good teachings inevitably get corrupted]]
+- [[teachings/own-your-narcissism-while-knowing-youre-not-special|Own your narcissism while knowing you're not special]]
+- [[teachings/community-is-more-important-than-the-teacher|Community is far more important than the teacher for transformation]]
+- [[teachings/certainty-as-sign-of-dysfunction-in-teachings|Certainty without openness is a sign of dysfunction in teachings]]
+- [[teachings/the-best-teacher-just-went-through-it|The best teacher just went through it]]
 
 ## Source
 

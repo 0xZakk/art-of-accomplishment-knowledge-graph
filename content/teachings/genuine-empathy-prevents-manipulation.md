@@ -23,6 +23,11 @@ The person with true empathy says: "I can feel you, I can be with you, and whate
 - [[teachings/empathy-is-being-with-not-in|Empathy is being with someone's experience, not lost in it]]
 - [[teachings/full-openness-is-the-real-protection|Full openness is the real protection]]
 - [[teachings/boundaries-are-for-you-not-them|Boundaries are for you, not them]]
+- [[teachings/doing-emotions-at-people-avoids-feeling|Doing emotions at people means you're not actually feeling them]]
+- [[teachings/stop-being-the-victim-to-love-the-angry-person|You can't love someone you see as your oppressor]]
+- [[teachings/view-framework-for-listening|The VIEW framework for deep listening]]
+- [[teachings/vulnerability-protects-against-exploitation|Vulnerability actually protects you from being taken advantage of]]
+- [[teachings/empathy-without-buying-the-story|Empathy means being with someone without buying their story]]
 
 ## Source
 

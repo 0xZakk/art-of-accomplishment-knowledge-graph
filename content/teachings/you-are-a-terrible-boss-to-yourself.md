@@ -28,6 +28,7 @@ The insight isn't "be nicer to yourself" as a vague platitude — it's that the 
 - [[teachings/gentle-narcissism-in-the-call-to-coach|Gentle narcissism hides in the call to coach]]
 - [[teachings/wanting-to-control-perception-is-absurd|Wanting to control others' perception of you is absurd]]
 - [[teachings/work-patterns-mirror-relationship-patterns|Work patterns mirror relationship patterns]]
+- [[teachings/coaching-expression-must-be-yours-not-your-teachers|Your coaching expression must be yours, not your teacher's]]
 
 ## Source
 

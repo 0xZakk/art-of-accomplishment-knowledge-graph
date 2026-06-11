@@ -26,6 +26,9 @@ You can see this everywhere, from news commentators making irrational arguments 
 - [[teachings/all-decisions-are-emotional|All decisions are emotional]]
 - [[teachings/confirmation-bias-from-emotional-avoidance|Confirmation bias from emotional avoidance]]
 - [[teachings/no-right-or-wrong-only-perspectives|There is no right or wrong in a fight, only perspectives]]
+- [[teachings/partners-teach-what-you-need-to-learn|Partners are attracted because they teach what you need to learn]]
+- [[teachings/logical-superiority-avoids-emotion|Feeling logically superior in a fight means you're avoiding an emotion]]
+- [[teachings/seeing-their-truth-not-finding-the-truth|Seeing their truth is different from finding 'the' truth]]
 
 ## Source
 

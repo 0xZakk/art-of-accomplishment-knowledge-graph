@@ -30,6 +30,7 @@ Going into the fear, the pain, the problem is "a form of purification" — it's 
 - [[teachings/suppressing-transitions-makes-them-worse|Suppressing transitions creates bigger eventual disruptions]]
 - [[teachings/see-through-consequences-to-feel-free|Seeing through worst-case consequences creates freedom to act]]
 - [[teachings/resistance-creates-the-feared-outcome|Resisting an emotion creates the very outcome you fear]]
+- [[teachings/think-individual-and-collective|Think both individual and collective to find practical solutions]]
 
 ## Source
 

@@ -26,6 +26,10 @@ Animals never tell themselves to get things done, yet they're always productive.
 - [[teachings/not-trying-gets-more-done|Not trying gets more done]]
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
 - [[teachings/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
+- [[teachings/the-story-of-brokenness-is-the-problem|The story about how you're broken is the problem, not the brokenness]]
+- [[teachings/fixing-avoids-being-present|Compulsive fixing avoids being present]]
+- [[teachings/awareness-not-action-plans-transforms|Awareness transforms behavior where action plans fail]]
+- [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
 
 ## Source
 

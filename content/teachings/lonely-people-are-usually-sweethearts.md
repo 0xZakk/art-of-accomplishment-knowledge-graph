@@ -29,6 +29,9 @@ Meanwhile, the lonely person contorts themselves trying to be acceptable, which 
 - [[teachings/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[teachings/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]]
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/chasing-connection-prevents-connection|Chasing a relationship to cure loneliness prevents real connection]]
+- [[teachings/solitude-versus-loneliness|Solitude and loneliness are fundamentally different]]
+- [[teachings/aloneness-without-loneliness|Aloneness without loneliness is a sign of authentic self-discovery]]
 
 ## Source
 

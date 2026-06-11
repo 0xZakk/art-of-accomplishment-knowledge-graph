@@ -27,6 +27,9 @@ The breakthrough isn't in finding the right words or the right somatic state. It
 - [[teachings/people-want-connection-not-perfection|People want connection, not perfection]]
 - [[teachings/the-pattern-is-happening-right-now|The defensive pattern is always visible in the present moment]]
 - [[teachings/everyone-already-knows-the-way-home|Everyone already knows the way home]]
+- [[teachings/what-youre-hiding-is-your-emotions|What you're hiding is your emotions, not a defect]]
+- [[teachings/wanting-to-control-perception-is-absurd|Wanting to control others' perception of you is absurd]]
+- [[teachings/coaching-is-self-discovery-not-skill-acquisition|Coaching is self-discovery, not skill acquisition]]
 
 ## Source
 

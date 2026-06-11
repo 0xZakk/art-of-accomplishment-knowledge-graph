@@ -42,6 +42,11 @@ Instead of improving or destroying yourself, discover what you actually are—th
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
 - [[teachings/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
 - [[teachings/the-expansiveness-of-I-Am|The expansiveness of I Am]]
+- [[teachings/self-understanding-over-self-improvement|Self-understanding replaces self-improvement]]
+- [[teachings/authenticity-matters-more-than-self-improvement|Authenticity matters more than self-improvement]]
+- [[teachings/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
+- [[teachings/feeling-your-essential-nature-dissolves-avoidance|Feeling your essential nature dissolves avoidance behaviors]]
+- [[teachings/peak-experience-becomes-goal-trap|Peak experiences become goal traps when co-opted by ego]]
 
 ## Source
 

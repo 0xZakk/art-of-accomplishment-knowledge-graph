@@ -25,6 +25,10 @@ The only place you're not an imposter is when you're being yourself. Everything 
 - [[teachings/regret-comes-from-not-being-yourself|Regret comes from not being yourself]]
 - [[teachings/being-yourself-designs-your-life|Being yourself designs your life]]
 - [[teachings/confidence-is-connection-to-yourself|Confidence is how connected you are to yourself, not a skill you build]]
+- [[teachings/hiding-makes-you-feel-more-like-an-imposter|Hiding who you are makes you feel more like an imposter]]
+- [[teachings/we-are-all-imposters-and-thats-fine|We are all imposters—and that's fine]]
+- [[teachings/competence-does-not-lead-to-confidence|Competence does not lead to confidence]]
+- [[teachings/doubt-is-self-focused-service-dissolves-it|Doubt is self-focused; openhearted service dissolves it]]
 
 ## Source
 

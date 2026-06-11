@@ -29,6 +29,7 @@ This parallels metta meditation — no one can stop your internal experience of 
 - [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
 - [[teachings/heartbreak-is-the-mechanism-of-boundaries|Heartbreak is the mechanism of healthy boundaries]]
 - [[teachings/love-requires-willingness-to-be-hurt|Love requires willingness to be hurt]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 
 ## Source
 

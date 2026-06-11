@@ -27,6 +27,10 @@ The thought experiment is simple: take all the love you feel for what you love m
 - [[teachings/should-creates-stress-not-change|Should creates stress, not change]]
 - [[teachings/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic]]
 - [[teachings/authority-distorts-reality-for-leaders|Authority distorts reality for leaders]]
+- [[teachings/wanting-to-be-needed-limits-wealth|Wanting to be needed limits wealth; wanting to be unnecessary grows it]]
+- [[teachings/you-cannot-judge-the-value-of-your-own-input|You cannot judge the value of your own input]]
+- [[teachings/obligation-as-love-strategy-backfires|Using obligation as a strategy to get love always backfires]]
+- [[teachings/neediness-repels-what-you-want|Neediness repels what you want]]
 
 ## Source
 

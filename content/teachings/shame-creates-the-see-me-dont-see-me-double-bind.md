@@ -28,6 +28,8 @@ The etymology of "shame" itself contains "hide" — shame is inherently about wh
 - [[teachings/being-seen-is-a-survival-need-we-villainize|Being seen is a survival need we villainize]]
 - [[teachings/compliments-pushed-away-reveal-disallowed-goodness|Pushing away compliments reveals disallowed goodness]]
 - [[teachings/listening-before-being-seen|Letting go of being seen allows you to be seen]]
+- [[teachings/dont-should-yourself-into-being-seen|Don't should yourself into being seen]]
+- [[teachings/the-fear-of-being-seen-is-the-belief-youre-broken|The fear of being seen is the belief that you're inherently broken]]
 
 ## Source
 

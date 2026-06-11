@@ -23,6 +23,9 @@ Both sides lose: the rebel doesn't get mentorship, wisdom, or support. The peopl
 - [[teachings/what-triggers-you-in-others-exists-in-you|What triggers you in others is something you don't like in yourself]]
 - [[teachings/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
 - [[teachings/rebellion-and-approval-seeking-are-same-coin|Rebelling against authority and seeking its approval are two sides of the same coin]]
+- [[teachings/owning-your-authority-with-an-open-heart|Owning your authority with an open heart heals the authority wound]]
+- [[teachings/internal-authority-mirrors-external|How you treat your internal authority mirrors how you treat external ones]]
+- [[teachings/contrarian-thinking-is-still-controlled-by-the-system|Contrarian thinking is still controlled by the system]]
 
 ## Source
 

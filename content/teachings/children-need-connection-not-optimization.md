@@ -25,6 +25,10 @@ Brett names the deeper principle: Sanok wasn't concerned with how successful the
 - [[teachings/connection-is-the-core-of-parenting|Connection is the core of parenting]]
 - [[teachings/kids-need-to-feel-liked-not-just-loved|Kids need to feel liked not just loved]]
 - [[teachings/connection-over-perfection|Connection over perfection]]
+- [[teachings/emotional-depth-can-create-loneliness|Being raised with emotional depth can create loneliness]]
+- [[teachings/connection-as-the-bottom-line-principle|Connection is the most effective bottom-line principle for life]]
+- [[teachings/connection-enables-accomplishment|Connection with self and others enables accomplishment]]
+- [[teachings/connection-as-career-compass|Connection as a career compass]]
 
 ## Source
 

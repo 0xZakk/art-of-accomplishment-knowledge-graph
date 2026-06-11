@@ -26,6 +26,9 @@ This reframing honors the survival mechanism rather than pathologizing it. The c
 - [[teachings/numbness-as-survival-gift|Numbness as survival gift]]
 - [[teachings/survival-mechanisms-deserve-honor|Survival mechanisms deserve honor]]
 - [[teachings/non-personal-awareness-vs-dissociation|Non-personal awareness is dissociation without leaving the body]]
+- [[teachings/disappearing-as-survival-strategy|Disappearing is a sophisticated survival strategy]]
+- [[teachings/self-judgment-defends-against-emotions|Self-judgment is a defense against feeling emotions]]
+- [[teachings/go-deeper-into-the-defense|Going deeper into a defense pattern can unlock what's beneath it]]
 
 ## Source
 

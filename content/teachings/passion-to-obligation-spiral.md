@@ -24,6 +24,10 @@ The passion itself isn't the problem. The problem is that pursuing passion activ
 - [[teachings/obligation-cuts-off-love|Obligation cuts off the experience of love in the moment]]
 - [[teachings/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]]
 - [[teachings/shame-addiction-creates-empty-fulfillment|Shame becomes addictive and creates empty fulfillment]]
+- [[teachings/shame-is-love-in-disguise|Shame is love in disguise—it shows you care]]
+- [[teachings/shame-blocks-feeling-how-good-life-is|Shame blocks you from feeling how good life actually is]]
+- [[teachings/embracing-intensity-curbs-addiction|Embracing intensity removes the need for addictive escape]]
+- [[teachings/avoidance-chain-from-essence-to-addiction|The avoidance chain runs from essential self through thinking to addiction]]
 
 ## Source
 

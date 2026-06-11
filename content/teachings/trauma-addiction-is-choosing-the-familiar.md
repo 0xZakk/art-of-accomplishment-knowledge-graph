@@ -26,6 +26,7 @@ This explains why insight alone doesn't break the cycle. The pull toward the fam
 - [[teachings/feeling-the-held-back-emotion-ends-trauma-repetition|Feeling the held-back emotion ends trauma repetition]]
 - [[teachings/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic not just intellectual]]
 - [[teachings/attachment-is-bigger-than-trauma-events|Attachment is bigger than traumatic events]]
+- [[teachings/deep-healing-has-a-regression-phase|Deep healing includes a regression phase before breakthrough]]
 
 ## Source
 

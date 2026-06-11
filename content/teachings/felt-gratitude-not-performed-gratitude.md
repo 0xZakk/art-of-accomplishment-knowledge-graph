@@ -25,6 +25,9 @@ This mirrors the teaching on receiving compliments—the transformation happens 
 - [[teachings/gratitude-reveals-solutions-deficit-thinking-hides|Gratitude reveals solutions deficit thinking hides]]
 - [[teachings/presence-is-pleasure|Presence is pleasure]]
 - [[teachings/receiving-compliments-dissolves-unworthiness|Receiving compliments dissolves unworthiness]]
+- [[teachings/gratitude-works-when-felt-witnessed-and-sustained|Gratitude works when it is felt, witnessed, and sustained]]
+- [[teachings/gratitude-is-a-full-body-sport|Gratitude is a full-body sensation, not a mental exercise]]
+- [[teachings/gratitude-embodies-epiphanies|Gratitude embodies epiphanies — it lets realizations settle into the body]]
 
 ## Source
 

@@ -26,6 +26,10 @@ This isn't naive — it requires going deep enough. Surface-level wants ("I want
 - [[teachings/owning-your-needs-is-not-selfish|Owning your needs is not selfish]]
 - [[teachings/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others' emotions to avoid your own]]
 - [[teachings/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
+- [[teachings/saving-others-is-a-strategy-for-enoughness|Saving others is a strategy for enoughness]]
+- [[teachings/compassion-is-truth-with-an-open-heart|True compassion is speaking truth with an open heart, not being nice]]
+- [[teachings/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
+- [[teachings/heartbreak-is-the-mechanism-of-boundaries|Heartbreak is the mechanism of healthy boundaries]]
 
 ## Source
 

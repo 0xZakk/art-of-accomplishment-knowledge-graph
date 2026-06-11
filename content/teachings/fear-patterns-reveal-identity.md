@@ -26,6 +26,10 @@ The person who most clearly sees their pattern at the edge of the cliff can then
 - [[teachings/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
 - [[teachings/fear-hot-potato|Fear you refuse to feel gets handed to others]]
 - [[teachings/fear-reveals-where-identity-is-threatened|Fear reveals where our identity feels threatened]]
+- [[teachings/guilt-is-inherited-fear-in-disguise|Guilt is inherited fear in disguise]]
+- [[teachings/foreboding-joy-blocks-gratitude|Foreboding joy—fear of the other shoe dropping—blocks gratitude]]
+- [[teachings/boundary-firmness-eliminates-fear-of-attack|Boundary firmness eliminates fear of attack]]
+- [[teachings/deep-community-dissolves-identity|Deep community is scary because it dissolves identity]]
 
 ## Source
 

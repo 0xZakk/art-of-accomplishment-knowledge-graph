@@ -26,6 +26,10 @@ Joe also catches a subtler form: "I could do better." This is the same obligatio
 - [[teachings/should-creates-stress-not-change|Should creates stress not change]]
 - [[teachings/should-is-a-mechanism-of-shame|Should is a mechanism of shame]]
 - [[teachings/obligation-kills-love|Taking responsibility from obligation kills love]]
+- [[teachings/inner-critic-mirrors-relationship-patterns|The inner critic mirrors your relationship patterns]]
+- [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
+- [[teachings/purposelessness-as-freedom|Purposelessness reframed as freedom]]
+- [[teachings/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
 
 ## Source
 

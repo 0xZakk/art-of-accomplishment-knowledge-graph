@@ -24,6 +24,10 @@ Joe and his wife Tara experimented with this extensively and found it useful, th
 - [[teachings/holding-space-requires-staying-in-yourself|Holding space requires staying in yourself]]
 - [[teachings/receiving-requires-vulnerability|Receiving requires vulnerability]]
 - [[teachings/upright-apology-changes-behavior|An upright apology actually changes behavior]]
+- [[teachings/apologize-upright-without-shame|An upright apology empowers; a shame-laden one loops you back into the pattern]]
+- [[teachings/apologize-for-disempowering-others|Apologizing for disempowering people undoes the self-reliance loop]]
+- [[teachings/vulnerability-is-personal-not-moral|What's vulnerable is personal, not a universal morality]]
+- [[teachings/habitual-apologies-increase-conflict|Habitual apologies increase rather than prevent conflict]]
 
 ## Source
 

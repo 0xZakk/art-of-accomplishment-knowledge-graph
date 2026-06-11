@@ -31,6 +31,7 @@ The money block isn't about money at all — it's about the childhood equation: 
 - [[teachings/becoming-someone-to-be-loved-means-never-being-loved|Becoming someone to be loved means never being loved]]
 - [[teachings/relating-to-parents-mirrors-relating-to-god-and-money|How we relate to parents mirrors how we relate to God and money]]
 - [[teachings/money-is-a-screen-for-projection|Money is a screen for projection]]
+- [[teachings/apologize-to-money-for-the-projection|Money is a teacher reflecting your projections back to you]]
 
 ## Source
 

@@ -27,6 +27,9 @@ When Brett notices he's trying, he finds there's usually something he doesn't wa
 - [[teachings/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]]
 - [[teachings/trying-to-feel-joy-pushes-it-away|Trying to feel joy is the resistance that pushes it away]]
 - [[teachings/discomfort-is-the-resistance-not-the-emotion|The discomfort of emotions is the resistance to them, not the emotions themselves]]
+- [[teachings/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
+- [[teachings/resistance-creates-the-feared-outcome|Resisting an emotion creates the very outcome you fear]]
+- [[teachings/intensify-the-feeling-to-move-through-it|Intensifying a feeling moves you through it rather than trapping you]]
 
 ## Source
 

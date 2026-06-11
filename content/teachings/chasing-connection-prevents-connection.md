@@ -30,6 +30,8 @@ If your job description for a relationship is "make me not lonely," the relation
 - [[teachings/neediness-repels-what-you-want|Neediness repels what you want]]
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 - [[teachings/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
+- [[teachings/loneliness-fully-felt-is-love|Loneliness fully felt reveals itself as love]]
+- [[teachings/beckoning-and-pushing-love-simultaneously|We beckon love consciously while pushing it away subconsciously]]
 
 ## Source
 

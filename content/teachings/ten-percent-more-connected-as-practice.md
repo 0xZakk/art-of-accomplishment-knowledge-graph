@@ -23,6 +23,10 @@ When Ali applied this 10% lens to his most dreaded task (filming sponsorship seg
 - [[teachings/connection-as-career-compass|Connection as a career compass]]
 - [[teachings/body-awareness-is-just-attention|Body awareness is just attention]]
 - [[teachings/presence-is-pleasure|Presence is pleasure]]
+- [[teachings/gratitude-arrives-when-you-stop-striving|Gratitude arrives when you stop striving]]
+- [[teachings/connection-dissolves-self-consciousness|Connection dissolves self-consciousness]]
+- [[teachings/connection-enables-accomplishment|Connection with self and others enables accomplishment]]
+- [[teachings/feeling-your-essential-nature-dissolves-avoidance|Feeling your essential nature dissolves avoidance behaviors]]
 
 ## Source
 

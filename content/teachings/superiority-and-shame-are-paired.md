@@ -26,6 +26,8 @@ The hopeful implication: you can work on either end. Work on the shame of "I'm n
 - [[teachings/shame-creates-the-behaviors-it-punishes|Shame creates the behaviors it punishes]]
 - [[teachings/putting-yourself-above-others-is-protection|Putting yourself above others is protection]]
 - [[teachings/superiority-in-relationships-is-a-shame-defense|Superiority in relationships is a shame defense]]
+- [[teachings/false-humility-as-defense|False humility is a defense against being seen]]
+- [[teachings/deep-community-dissolves-identity|Deep community is scary because it dissolves identity]]
 
 ## Source
 

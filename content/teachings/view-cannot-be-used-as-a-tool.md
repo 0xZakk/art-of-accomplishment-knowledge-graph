@@ -25,6 +25,10 @@ You can hold a perspective passionately without thinking you're right: "This is 
 - [[teachings/view-framework-for-listening|VIEW framework for listening]]
 - [[teachings/boundaries-not-view-for-narcissists|Boundaries, not VIEW, are the tool for narcissists]]
 - [[teachings/tools-can-keep-you-stuck|Tools can keep you stuck]]
+- [[teachings/no-right-or-wrong-only-perspectives|There is no right or wrong in a fight, only perspectives]]
+- [[teachings/view-is-a-state-of-mind-not-a-technique|VIEW is a state of mind not a technique]]
+- [[teachings/own-the-trigger-as-yours|Owning the trigger as yours dissolves the fight]]
+- [[teachings/teach-children-self-referencing|Teaching children to reference themselves builds their internal compass]]
 
 ## Source
 

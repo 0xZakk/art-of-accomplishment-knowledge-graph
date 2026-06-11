@@ -25,6 +25,11 @@ The wildness isn't something to be created or cultivated — it's what's already
 - [[teachings/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
 - [[teachings/anger-is-love-with-a-boundary|Anger is love with a boundary]]
 - [[teachings/grief-is-necessary-for-transformation|Grief is necessary for transformation]]
+- [[teachings/shame-about-grief-shuts-down-all-emotions|Shame about grief shuts down all emotions]]
+- [[teachings/expressing-emotions-restores-connection|Feeling and expressing emotion restores connection]]
+- [[teachings/healing-is-patience-not-force|Healing is patient presence, not forcing change—like taming a feral cat]]
+- [[teachings/suppressed-wants-come-from-grief-of-unmet-needs|Suppressed wants protect you from the grief of unmet childhood needs]]
+- [[teachings/boundaries-with-children-require-closeness-and-respect|Boundaries with children require closeness, gentleness, and mutual respect]]
 
 ## Source
 

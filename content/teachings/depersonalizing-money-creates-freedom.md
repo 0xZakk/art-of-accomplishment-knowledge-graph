@@ -30,6 +30,8 @@ The least personal approach to a difficult money situation (like firing someone)
 - [[teachings/money-is-a-screen-for-projection|Money is a screen for projection]]
 - [[teachings/seeking-power-is-an-expression-of-fear|Seeking power is always an expression of fear]]
 - [[teachings/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
+- [[teachings/money-as-expression-of-alignment|Money works for you when it expresses your alignment]]
+- [[teachings/wanting-money-is-not-selfish|Wanting money is not selfish — it's wanting freedom and safety]]
 
 ## Source
 

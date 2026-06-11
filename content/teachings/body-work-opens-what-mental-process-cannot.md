@@ -23,6 +23,11 @@ This underscores that some trauma is stored as physical pattern rather than narr
 - [[teachings/body-awareness-is-just-attention|Body awareness is just attention]]
 - [[teachings/insight-requires-embodied-integration|Insight requires embodied integration]]
 - [[teachings/three-brains-of-transformation|Three brains of transformation]]
+- [[teachings/self-compassion-is-the-real-outcome|Self-compassion is the real outcome of healing]]
+- [[teachings/shame-about-your-role-in-trauma-runs-deepest|Shame about your role in your own trauma runs deepest]]
+- [[teachings/managing-trauma-versus-resolving-it|Managing trauma versus resolving it]]
+- [[teachings/trauma-addiction-is-choosing-the-familiar|Trauma addiction is choosing what's familiar, not what's safe]]
+- [[teachings/survival-mechanisms-deserve-honor|Survival mechanisms deserve honor, not shame]]
 
 ## Source
 

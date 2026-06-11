@@ -24,6 +24,11 @@ The consequence is profound: since the emotional center of the brain drives all 
 - [[teachings/body-awareness-is-just-attention|Body awareness is just attention]]
 - [[teachings/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses all]]
 - [[teachings/all-decisions-are-emotional|All decisions are emotional]]
+- [[teachings/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
+- [[teachings/judgment-signals-unfelt-emotion|Judgment toward others signals an unfelt emotion in yourself]]
+- [[teachings/not-feeling-may-be-repression|Thinking you can't feel may actually be repression]]
+- [[teachings/intelligence-is-gated-by-what-you-wont-feel|Intelligence is gated by the emotions you won't feel]]
+- [[teachings/feeling-life-beats-figuring-it-out|Feeling your life produces clearer decisions than figuring it out]]
 
 ## Source
 

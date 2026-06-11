@@ -30,6 +30,7 @@ The way through is to fully feel and love the emotional states you've been avoid
 - [[teachings/chaser-withdrawer-dynamic|The chaser-withdrawer dynamic makes both partners feel like they're dying]]
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 - [[teachings/chasing-connection-prevents-connection|Chasing a relationship to cure loneliness prevents real connection]]
+- [[teachings/chasing-love-signals-you-dont-deserve-it|Chasing love signals that you don't deserve it]]
 
 ## Source
 

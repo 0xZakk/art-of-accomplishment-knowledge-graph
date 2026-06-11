@@ -20,6 +20,11 @@ Every topic the inner critic obsesses over—weight, productivity, worth, compet
 
 - [[teachings/triggers-reveal-self-judgment|Triggers reveal what we judge in ourselves]]
 - [[teachings/discovery-not-improvement|This work is about discovery, not improvement]]
+- [[teachings/voice-in-head-talks-to-itself|The voice in the head talks to itself more than to you]]
+- [[teachings/change-your-relationship-to-the-critic-not-the-critic-itself|Change your relationship to the critic, not the critic itself]]
+- [[teachings/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
+- [[teachings/welcome-the-inner-critic|Welcoming the inner critic dissolves its power]]
+- [[teachings/openness-to-judgment-beats-defense|Openness to judgment is more comfortable than defense]]
 
 ## Source
 

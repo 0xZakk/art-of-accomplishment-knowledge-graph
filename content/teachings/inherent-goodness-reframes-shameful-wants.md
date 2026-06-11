@@ -29,6 +29,9 @@ This is not positive thinking or affirmation. It's a lens shift that reveals wha
 - [[teachings/wanting-requires-no-justification|Wanting requires no justification]]
 - [[teachings/shame-is-love-in-disguise|Shame is love in disguise—it shows you care]]
 - [[teachings/wants-are-evolutionary-strategies|Wants are strategies for essential human needs]]
+- [[teachings/hedging-reveals-shame-about-wanting|Hedging language reveals shame about wanting]]
+- [[teachings/wants-motivate-where-shoulds-stagnate|Wants motivate where shoulds stagnate]]
+- [[teachings/wanting-is-aliveness|Wanting is aliveness]]
 
 ## Source
 

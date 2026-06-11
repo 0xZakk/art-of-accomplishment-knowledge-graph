@@ -25,6 +25,9 @@ The pattern is common: the people who lock down the hardest often have the most 
 - [[teachings/composure-is-self-imprisonment|Forced composure is self-imprisonment]]
 - [[teachings/pleasure-grounds-the-sensitive-system|Pleasure and sensation ground the sensitive system]]
 - [[teachings/dissociation-as-double-edged-sword|Dissociation as double-edged sword]]
+- [[teachings/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
+- [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[teachings/expansiveness-underneath-resistance-to-love|The expansiveness underneath resistance to love is overwhelming and amazing]]
 
 ## Source
 

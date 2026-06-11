@@ -21,6 +21,11 @@ This is a powerful metaphor for all passive aggression: it's a strategy that hur
 
 - [[teachings/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]]
 - [[teachings/what-we-do-for-love-erodes-power|What we do for love erodes power]]
+- [[teachings/passive-aggression-is-unowned-aggression|Passive aggression is aggression that isn't being owned as aggression]]
+- [[teachings/childhood-origins-of-anger-repression|Anger repression gets installed through three childhood pathways]]
+- [[teachings/dont-try-to-change-passive-aggression-in-others|Trying to change someone's passive aggression enters the same dynamic]]
+- [[teachings/three-ways-we-push-love-away-chase-avoid-fight|We push away love by chasing it, avoiding it, or fighting]]
+- [[teachings/fixing-partner-is-manipulation|Fixing your partner's emotions is manipulation, not love]]
 
 ## Source
 

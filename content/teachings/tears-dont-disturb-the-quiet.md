@@ -23,6 +23,9 @@ This dissolves the false choice between numbness and overwhelm. The quiet place 
 - [[teachings/joy-wont-come-where-children-unwelcome|Joy won't come into a house where her children aren't welcome]]
 - [[teachings/rage-as-gateway-to-healing|Rage as gateway to healing]]
 - [[teachings/joy-wont-enter-where-emotions-unwelcome|Joy won't come into a house where her children aren't welcome]]
+- [[teachings/suppressing-one-emotion-suppresses-all|Suppressing one emotion suppresses them all]]
+- [[teachings/the-body-holds-what-the-mind-cuts-off|The body holds emotions whether or not you put attention on them]]
+- [[teachings/you-cant-skip-feeling-to-get-the-emotion|You can't think or shortcut your way past an emotion — you have to let it move]]
 
 ## Source
 

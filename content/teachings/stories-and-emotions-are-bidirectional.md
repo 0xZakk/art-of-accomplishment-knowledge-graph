@@ -25,6 +25,9 @@ Spiritual teachers leverage this dance: they sit telling stories, but stories th
 - [[teachings/crack-the-intellectual-trap-first|Crack the intellectual trap first]]
 - [[teachings/emotions-are-the-glue-holding-beliefs-in-place|Emotions are the glue holding beliefs in place]]
 - [[teachings/moving-emotions-dissolves-stories|Moving emotions dissolves stories and creates clarity]]
+- [[teachings/story-dissolution-is-progress-not-a-problem|Story dissolution is progress, not a problem]]
+- [[teachings/stronger-stories-slow-emotional-movement|The stronger the story, the slower emotions move]]
+- [[teachings/anger-reaches-clarity-after-movement|Anger reaches clarity only after it moves through]]
 
 ## Source
 

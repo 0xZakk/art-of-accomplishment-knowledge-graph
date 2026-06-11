@@ -27,6 +27,10 @@ Identity plays a key role too: "If my identity is 'I'm the one that is calm in t
 - [[teachings/identity-creates-rigidity-and-limitation|Identity creates rigidity and limitation]]
 - [[teachings/attunement-patterns-become-adult-cycles|Attunement patterns become adult cycles]]
 - [[teachings/identity-stress-comes-from-defending-a-fixed-self|Identity stress comes from defending a fixed self-concept]]
+- [[teachings/staying-calm-is-a-childhood-role|Staying calm can be a childhood role taken on to stay safe]]
+- [[teachings/not-being-yourself-creates-constant-anxiety|Not being yourself creates a constant, everlasting anxiety]]
+- [[teachings/fear-patterns-reveal-identity|Fear patterns reveal your identity structure]]
+- [[teachings/holding-emotions-in-community|When one person holds an emotion, others in the group can't hold it]]
 
 ## Source
 

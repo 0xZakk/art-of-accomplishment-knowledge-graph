@@ -26,6 +26,8 @@ The deeper issue is that when people find tools and community that produce genui
 - [[teachings/loneliness-epidemic-stems-from-bad-models|Loneliness epidemic stems from bad models]]
 - [[teachings/seeding-authority-feels-like-belonging|Ceding authority to a group feels like belonging and safety]]
 - [[teachings/we-are-each-a-cult-of-one|Each person is a 'cult of one' with internal belief structures they can't fully see]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/cult-dynamics-are-universal-human-tendencies|Cult dynamics exist on a spectrum present in all human groups]]
 
 ## Source
 

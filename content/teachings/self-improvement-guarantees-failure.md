@@ -26,6 +26,10 @@ The reframe from improvement to awareness isn't semantic — it structurally rem
 - [[teachings/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
 - [[teachings/managing-yourself-kills-the-practice|Managing yourself kills the practice]]
+- [[teachings/self-understanding-over-self-improvement|Self-understanding replaces self-improvement]]
+- [[teachings/how-do-i-stop-is-the-wrong-question|Asking 'how do I stop' keeps you in the doing loop]]
+- [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
+- [[teachings/making-awakening-a-goal-slows-it-down|Making awakening a goal slows the process down]]
 
 ## Source
 

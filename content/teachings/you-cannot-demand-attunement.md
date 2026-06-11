@@ -25,6 +25,7 @@ This parallels a broader pattern in Joe's teaching: the thing you most want from
 - [[teachings/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
 - [[teachings/neediness-repels-what-you-want|Neediness repels what you want]]
 - [[teachings/we-push-away-approval-we-seek|We push away the approval we seek]]
+- [[teachings/attunement-is-listening-without-leaving-yourself|Attunement is listening without leaving yourself]]
 
 ## Source
 

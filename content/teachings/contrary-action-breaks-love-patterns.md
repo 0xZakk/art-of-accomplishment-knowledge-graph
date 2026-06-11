@@ -26,6 +26,8 @@ Taking contrary action leads to heartbreak (you bump against the fear of losing 
 - [[teachings/heartbreak-is-expansion|Heartbreak is expansion, not breaking]]
 - [[teachings/closing-heart-from-confused-love|Confused love tells us when to close our hearts]]
 - [[teachings/surrender-into-love-prevents-self-betrayal|Surrender into love prevents self-betrayal]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/closing-heart-to-protect-traps-you|Closing your heart to protect yourself traps you]]
 
 ## Source
 

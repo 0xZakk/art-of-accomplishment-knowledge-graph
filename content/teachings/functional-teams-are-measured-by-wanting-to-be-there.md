@@ -22,6 +22,9 @@ A functional team also knows how to get the wrong people out quickly and the rig
 - [[teachings/trust-is-the-universal-ingredient-of-functional-teams|Trust is the universal ingredient of functional teams]]
 - [[teachings/only-work-with-great-people|Only work with great people]]
 - [[teachings/team-functionality-is-an-endless-scale|Team functionality is an endless scale, not a binary]]
+- [[teachings/goals-and-culture-are-experiments-not-mandates|Goals and culture are experiments, not mandates]]
+- [[teachings/needing-to-be-right-prevents-best-solutions|Needing to be right prevents the best solutions]]
+- [[teachings/enjoyment-looks-slower-but-arrives-faster|Enjoyment looks slower but gets you there faster]]
 
 ## Source
 

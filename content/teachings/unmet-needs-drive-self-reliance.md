@@ -25,6 +25,10 @@ The breakthrough comes when the person can make demands—aggressive, clear, una
 - [[teachings/codependence-comes-from-not-owning-wants|Codependence comes from not owning wants]]
 - [[teachings/owning-wants-means-being-okay-with-having-them|Owning wants means being okay with having them]]
 - [[teachings/we-push-away-support-we-dont-trust|We push away support we don't trust]]
+- [[teachings/self-reliance-comes-from-parentified-childhood|Self-reliance comes from a childhood where you took care of your parents]]
+- [[teachings/ask-for-care-instead-of-helping-as-a-surrogate|Ask for the care you want instead of helping as a surrogate]]
+- [[teachings/self-reliance-as-intimacy-avoidance|Self-reliance can be a form of intimacy avoidance]]
+- [[teachings/self-reliance-blocks-receiving-support|Self-reliance blocks the ability to receive support]]
 
 ## Source
 

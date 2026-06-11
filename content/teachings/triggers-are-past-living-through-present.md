@@ -25,6 +25,11 @@ Triggers can manifest as any emotional pattern: rage, shutdown, passive aggressi
 - [[teachings/we-attract-what-we-learned-as-love|We attract what we learned as love]]
 - [[teachings/transformation-is-generational|Transformation is generational]]
 - [[teachings/relationship-triggers-are-yours|Relationship triggers are yours]]
+- [[teachings/trace-triggers-to-their-origin|Trace triggers to their origin]]
+- [[teachings/own-the-trigger-as-yours|Owning the trigger as yours dissolves the fight]]
+- [[teachings/anger-at-you-is-not-evidence-you-did-wrong|Someone's anger at you is not evidence you did something wrong]]
+- [[teachings/anger-backlog-must-clear|There is often a backlog of anger that must clear before you can settle]]
+- [[teachings/eighty-percent-of-feared-rejection-is-internal|Eighty percent of feared rejection is internal self-talk]]
 
 ## Source
 

@@ -25,6 +25,10 @@ The lesson isn't that effort in relationships is wrong — it's that unilateral 
 - [[teachings/fixing-partner-is-manipulation|Fixing partner is manipulation]]
 - [[teachings/stop-fixing-others-to-help-them-change|Stop fixing others to help them change]]
 - [[teachings/caretaking-kills-desire|Caretaking kills desire]]
+- [[teachings/cracking-open-comes-from-need-not-discipline|Cracking open comes from need, not discipline]]
+- [[teachings/children-need-connection-not-optimization|Children need connection, not optimization]]
+- [[teachings/marriage-as-dojo-for-self-development|Marriage as a dojo for self-development]]
+- [[teachings/self-love-sets-the-capacity-limit-for-loving-others|Self-love sets the capacity limit for loving a partner]]
 
 ## Source
 

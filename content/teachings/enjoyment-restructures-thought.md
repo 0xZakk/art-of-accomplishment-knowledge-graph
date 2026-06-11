@@ -28,6 +28,9 @@ The "awkward energy" that makes people uncomfortable isn't the need itself — i
 - [[teachings/enjoyment-is-the-true-measure-of-efficiency|Enjoyment is the true measure of efficiency]]
 - [[teachings/wonder-and-stress-cannot-coexist|Wonder and stress cannot coexist]]
 - [[teachings/enjoyment-dissolves-group-anxiety|Focus on enjoyment to dissolve group conversation anxiety]]
+- [[teachings/enjoyment-is-available-now-not-later|Enjoyment is available now, not in some future you're chasing]]
+- [[teachings/enjoyment-is-the-orientation-for-transformation|The question isn't how to do things you enjoy but how to enjoy what you're doing]]
+- [[teachings/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
 
 ## Source
 

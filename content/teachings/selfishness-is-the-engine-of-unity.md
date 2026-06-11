@@ -23,6 +23,9 @@ Most people who call themselves selfish are repeating what a parent said, and wh
 - [[teachings/self-interest-evolves-into-altruism|Self-interest evolves into altruism]]
 - [[teachings/owning-your-wants-dissolves-passive-aggression|Owning your wants dissolves passive aggression]]
 - [[teachings/wanting-matters-more-than-what-you-want|Wanting matters more than what you want]]
+- [[teachings/selfishness-is-a-parents-projection|Selfishness is a parent's projection]]
+- [[teachings/wants-are-evolutionary-strategies|Wants are strategies for essential human needs]]
+- [[teachings/self-compassion-and-other-compassion-are-the-same|Self-compassion and compassion for others are the same act]]
 
 ## Source
 

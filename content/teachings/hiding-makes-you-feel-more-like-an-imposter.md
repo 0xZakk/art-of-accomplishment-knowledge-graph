@@ -24,6 +24,9 @@ Conversely, if he'd just said "I've literally never done this before, and I'm go
 - [[teachings/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[teachings/vulnerability-cures-imposter-syndrome-faster-than-competence|Vulnerability cures imposter syndrome faster than competence]]
 - [[teachings/shame-blocks-self-promotion|Shame blocks self-promotion even when you have the skills]]
+- [[teachings/imposter-syndrome-means-not-being-yourself|Imposter syndrome is a sign you're not being yourself]]
+- [[teachings/self-rejection-precedes-others-rejection|Self-rejection is more painful than others' rejection]]
+- [[teachings/suppressing-authentic-expression-increases-self-consciousness|Suppressing authentic expression increases self-consciousness]]
 
 ## Source
 

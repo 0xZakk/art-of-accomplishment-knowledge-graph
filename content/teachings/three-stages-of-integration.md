@@ -22,6 +22,11 @@ Cutting any stage short prevents full integration. "Babies need to crawl for a w
 - [[teachings/transcend-and-include-previous-stages|Transcend and include previous stages]]
 - [[teachings/be-in-the-unknown-during-identity-shifts|Be in the unknown during identity shifts]]
 - [[teachings/insight-requires-embodied-integration|Insight requires embodied integration]]
+- [[teachings/integration-means-more-mystery-not-more-answers|Healthy integration means more mystery, not more answers]]
+- [[teachings/sense-of-self-expands-then-dissolves|The sense of self expands from personal to universal, then dissolves]]
+- [[teachings/to-me-by-me-through-me-as-me|Developmental stages: to me, by me, through me, as me]]
+- [[teachings/insight-is-not-wisdom-until-embodied|Insight is not wisdom until it is embodied]]
+- [[teachings/story-dissolution-is-progress-not-a-problem|Story dissolution is progress, not a problem]]
 
 ## Source
 

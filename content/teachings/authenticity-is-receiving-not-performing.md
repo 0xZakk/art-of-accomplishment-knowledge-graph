@@ -28,6 +28,8 @@ The main reason people aren't authentic is that they want a certain reaction fro
 - [[teachings/contradiction-reveals-the-mask|Contradiction between words and body reveals the mask we're wearing]]
 - [[teachings/listening-is-receiving-not-doing|Listening is receiving, not doing]]
 - [[teachings/the-voice-of-fakeness-is-intuition-not-pathology|The voice of fakeness is intuition, not pathology]]
+- [[teachings/truth-is-felt-not-performed|Truth is a felt experience, not a performance]]
+- [[teachings/fear-of-losing-relatability-signals-transformation|Fear of losing relatability signals transformation]]
 
 ## Source
 

@@ -26,6 +26,7 @@ Trust is both a prerequisite and a product of this approach. When teams go into 
 - [[teachings/open-the-drawer-as-cultural-practice|"Open the drawer" as cultural practice]]
 - [[teachings/fear-as-road-map-not-enemy|Fear as road map, not enemy]]
 - [[teachings/safety-comes-from-working-through-conflict|Safety comes from working through conflict]]
+- [[teachings/trust-comes-from-surviving-difficulty-together|Trust comes from surviving difficulty together]]
 
 ## Source
 

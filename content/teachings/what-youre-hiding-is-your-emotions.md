@@ -28,6 +28,8 @@ This is a microcosm of a pattern Joe identifies repeatedly: people believe they'
 - [[teachings/vulnerability-is-truth-plus-fear|Vulnerability is truth plus fear]]
 - [[teachings/false-humility-as-defense|False humility is a defense against being seen]]
 - [[teachings/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
+- [[teachings/the-fear-of-being-seen-is-the-belief-youre-broken|The fear of being seen is the belief that you're inherently broken]]
+- [[teachings/exposure-to-being-seen-cures-loneliness|Being seen repeatedly dissolves shame and cures loneliness]]
 
 ## Source
 

@@ -29,6 +29,8 @@ The perfectionism shows up everywhere in the session: in how she frames her ques
 - [[teachings/childhood-criticism-creates-self-distrust|Childhood criticism creates self-distrust]]
 - [[teachings/repair-is-as-important-as-getting-it-right|Repair after mistakes is as important as getting it right]]
 - [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
+- [[teachings/the-helper-trap-comes-from-parentified-childhood|The helper trap comes from a parentified childhood]]
+- [[teachings/teach-children-self-referencing|Teaching children to reference themselves builds their internal compass]]
 
 ## Source
 

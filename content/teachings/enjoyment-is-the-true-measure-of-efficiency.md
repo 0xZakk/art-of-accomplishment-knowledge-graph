@@ -26,6 +26,7 @@ Enjoyment also comes not just from *what* you do but *how* you do it. You don't 
 - [[teachings/enjoyment-is-more-efficient-than-pushing-through|Enjoyment is more efficient than pushing through]]
 - [[teachings/energy-management-over-time-management|Energy management over time management]]
 - [[teachings/how-you-do-it-determines-if-you-do-it|How you do something determines if you do it]]
+- [[teachings/managing-reality-costs-more-energy-than-enjoying-it|Managing reality costs more energy than enjoying it]]
 
 ## Source
 

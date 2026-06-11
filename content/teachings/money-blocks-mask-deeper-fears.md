@@ -25,6 +25,8 @@ The paradox is revealing: this person always has enough money and always figures
 - [[teachings/identity-of-lack-perpetuates-lack|Identity of lack perpetuates lack]]
 - [[teachings/money-blocks-are-safety-blocks|Money blocks are often safety blocks]]
 - [[teachings/money-resistance-mirrors-childhood-wounds|Money resistance often mirrors childhood wounds around love and worth]]
+- [[teachings/the-money-block-is-really-a-safety-block|A money block is usually a safety block in disguise]]
+- [[teachings/facing-fear-builds-empowerment|Facing the feeling you're avoiding is how empowerment comes]]
 
 ## Source
 

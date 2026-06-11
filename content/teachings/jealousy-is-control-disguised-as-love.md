@@ -26,6 +26,9 @@ The deeper layer: jealousy is also discomfort with someone else's autonomy. When
 - [[teachings/fear-limits-optionality|Fear limits optionality]]
 - [[teachings/external-patterns-mirror-internal-ones|External patterns mirror internal ones]]
 - [[teachings/jealousy-masks-rejected-parts-of-self|Jealousy masks rejected parts of self]]
+- [[teachings/jealousy-pushes-away-the-love-it-wants|Jealousy is a bid for love that pushes love away]]
+- [[teachings/anger-at-without-permission-is-manipulation|Expressing anger at someone without permission is a bid for control]]
+- [[teachings/stop-being-the-victim-to-love-the-angry-person|You can't love someone you see as your oppressor]]
 
 ## Source
 

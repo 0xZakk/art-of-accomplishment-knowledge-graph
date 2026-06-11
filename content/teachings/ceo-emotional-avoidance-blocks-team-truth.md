@@ -25,6 +25,10 @@ CEOs commonly believe they need to take care of everyone, handle everything alon
 - [[teachings/keeping-it-together-blocks-team-trust|Keeping it together blocks team trust]]
 - [[teachings/emotional-avoidance-creates-blind-spots|Emotional avoidance creates blind spots]]
 - [[teachings/conflict-avoidant-managers-destroy-trust|Conflict-avoidant managers destroy trust]]
+- [[teachings/calling-out-without-shame-works|Calling people out without shame works]]
+- [[teachings/hearing-objections-before-deciding|Hearing objections before deciding — even if you decide the same thing — changes everything]]
+- [[teachings/listening-as-business-accelerator|Listening is one of the most profound business accelerators]]
+- [[teachings/unfelt-team-emotions-create-dysfunction|Unfelt emotions in a team create all the dysfunction]]
 
 ## Source
 

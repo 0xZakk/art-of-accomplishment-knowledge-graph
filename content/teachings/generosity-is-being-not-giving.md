@@ -25,6 +25,8 @@ Joe also notes that generosity comes in many forms beyond money: Tiago Forte's g
 - [[teachings/seeing-is-the-core-of-generosity|Seeing is the core of generosity]]
 - [[teachings/obligation-kills-love|Taking responsibility from obligation kills love]]
 - [[teachings/giving-without-exchange-is-destructive|Giving without exchange is destructive]]
+- [[teachings/gratitude-for-abundance-removes-the-fear-of-losing-it|Gratitude for abundance removes the fear of losing it]]
+- [[teachings/energetic-exchange-requires-felt-cost|Energetic exchange requires a felt cost to be transformative]]
 
 ## Source
 

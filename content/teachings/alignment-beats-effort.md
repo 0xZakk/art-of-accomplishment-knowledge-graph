@@ -25,6 +25,7 @@ This is why operating principles matter so much. They create alignment at the or
 - [[teachings/operating-principles-automate-eighty-percent-of-decisions|Operating principles automate 80% of decisions]]
 - [[teachings/internal-alignment-mirrors-organizational-alignment|Internal alignment mirrors organizational alignment]]
 - [[teachings/connection-enables-accomplishment|Connection enables accomplishment]]
+- [[teachings/objections-create-buy-in-not-resistance|Objections create buy-in and better solutions]]
 
 ## Source
 

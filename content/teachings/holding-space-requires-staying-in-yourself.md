@@ -27,6 +27,9 @@ This applies to leadership, parenting, therapy, and every relationship. The most
 - [[teachings/being-yourself-designs-your-life|Being yourself designs your life]]
 - [[teachings/empathy-is-being-with-not-in|Empathy is being with someone, not in someone]]
 - [[teachings/being-together-in-emotions-not-caretaking|Being together in emotions is different from caretaking them]]
+- [[teachings/connection-cannot-be-broken-without-your-consent|No one can break your connection without your agreement]]
+- [[teachings/shoulding-yourself-to-hold-space-prevents-it|Telling yourself you should hold space is what prevents you from holding space]]
+- [[teachings/wanting-to-fit-in-and-be-extraordinary-conflict|Wanting to fit in and wanting to be extraordinary cancel each other out]]
 
 ## Source
 

@@ -29,6 +29,7 @@ This is the fundamental paradox of emotional resistance: the energy spent avoidi
 - [[teachings/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
 - [[teachings/discomfort-is-the-resistance-not-the-emotion|The discomfort of emotions is the resistance to them, not the emotions themselves]]
 - [[teachings/depression-as-gift-you-wouldnt-trade|Depression can be a gift you wouldn't trade]]
+- [[teachings/avoidance-of-fear-invites-the-feared-outcome|Avoidance of fear invites the feared outcome]]
 
 ## Source
 

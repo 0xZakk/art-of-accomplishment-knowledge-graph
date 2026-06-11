@@ -26,6 +26,10 @@ But the opposite is true. Gratitude opens perception rather than narrowing it. A
 - [[teachings/pleasure-signals-safety|Pleasure signals safety]]
 - [[teachings/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]]
 - [[teachings/foreboding-joy-blocks-gratitude|Foreboding joy—fear of the other shoe dropping—blocks gratitude]]
+- [[teachings/fear-of-consequences-is-fear-of-emotional-states|Fear of consequences is really fear of emotional states]]
+- [[teachings/resistance-creates-the-feared-outcome|Resisting an emotion creates the very outcome you fear]]
+- [[teachings/peace-is-harder-to-allow-than-pain|Peace and joy are harder to allow than pain]]
+- [[teachings/feel-fear-to-see-opportunity|Feel the fear fully to see the opportunities in chaos]]
 
 ## Source
 

@@ -31,6 +31,7 @@ The practice is simple but counterintuitive: when the head spin of doubt begins,
 - [[teachings/doubt-as-emotional-protection|Doubt as emotional protection]]
 - [[teachings/craving-is-the-pushing-away|Craving is the pushing away]]
 - [[teachings/clarity-comes-after-feeling-not-before|Clarity comes after feeling the emotion not before]]
+- [[teachings/doubt-protects-from-unwanted-emotions|Doubt protects you from emotions you don't want to feel]]
 
 ## Source
 

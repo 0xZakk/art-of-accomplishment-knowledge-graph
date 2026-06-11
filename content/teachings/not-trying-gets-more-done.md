@@ -26,6 +26,9 @@ The principle "I'm already free" captures this — it's a recognition, not an as
 - [[teachings/energy-management-over-time-management|Energy management over time management]]
 - [[teachings/busyness-is-not-productivity|Busyness is not productivity]]
 - [[teachings/enjoyment-is-more-efficient-than-pushing-through|Finding enjoyment in work is more efficient than pushing through]]
+- [[teachings/managing-reality-costs-more-energy-than-enjoying-it|Managing reality costs more energy than enjoying it]]
+- [[teachings/enjoyment-dissolves-procrastination|Making enjoyment the priority dissolves procrastination]]
+- [[teachings/extend-rest-beyond-readiness|Extending rest beyond readiness unlocks deeper effectiveness]]
 
 ## Source
 

@@ -29,6 +29,8 @@ Joe also notes that difficulty trusting after loss typically means the grief has
 - [[teachings/shame-about-grief-shuts-down-all-emotions|Shame about grief shuts down all emotions]]
 - [[teachings/heartbreak-opens-when-fear-is-felt|Heartbreak opens when fear is finally felt]]
 - [[teachings/emotional-titration-is-adaptive|Emotional titration is adaptive, not avoidant]]
+- [[teachings/feel-the-emotions-while-you-act|The method works powerfully only when you feel the emotions while doing it]]
+- [[teachings/tears-dont-disturb-the-quiet|Tears don't disturb the inner quiet—they help the body]]
 
 ## Source
 

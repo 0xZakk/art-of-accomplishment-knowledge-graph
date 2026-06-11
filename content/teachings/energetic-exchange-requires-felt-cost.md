@@ -22,6 +22,9 @@ He references a quote from an indigenous tribe in "The Soul of Money": "If you'r
 - [[teachings/giving-without-exchange-is-destructive|Giving without exchange is destructive]]
 - [[teachings/money-as-expression-of-alignment|Money as expression of alignment]]
 - [[teachings/poverty-mentality-is-about-love-not-money|Poverty mentality is about love not money]]
+- [[teachings/depersonalizing-money-creates-freedom|Depersonalizing money creates financial freedom]]
+- [[teachings/gratitude-for-abundance-removes-the-fear-of-losing-it|Gratitude for abundance removes the fear of losing it]]
+- [[teachings/you-cannot-judge-the-value-of-your-own-input|You cannot judge the value of your own input]]
 
 ## Source
 

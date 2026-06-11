@@ -24,6 +24,7 @@ This principle applies broadly. The person who discovers meditation doesn't need
 - [[teachings/contrarian-thinking-is-still-controlled-by-the-system|Contrarian thinking is still controlled by the system]]
 - [[teachings/survival-mechanisms-deserve-honor|Survival mechanisms deserve honor]]
 - [[teachings/internal-reward-over-external-star-chart|Internal locus of control over external star charts]]
+- [[teachings/every-epiphany-is-a-rut-waiting-to-happen|Every epiphany is a rut waiting to happen]]
 
 ## Source
 

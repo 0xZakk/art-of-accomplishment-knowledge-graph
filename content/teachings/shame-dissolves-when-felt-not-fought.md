@@ -32,6 +32,7 @@ Even "I've worked through so much shame" is part of the shame pattern — it ass
 - [[teachings/shame-is-a-signal-of-disconnection|Shame is a signal of disconnection, not a problem to solve]]
 - [[teachings/shame-is-love-in-disguise|Shame is love in disguise—it shows you care]]
 - [[teachings/social-anxiety-is-hiding-from-phantom-shame|Social anxiety is hiding from a shame that has no actual content]]
+- [[teachings/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
 
 ## Source
 

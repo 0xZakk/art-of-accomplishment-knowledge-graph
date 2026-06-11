@@ -29,6 +29,7 @@ The shift from "don't fight" to "fight well" transforms conflict from a sign of 
 - [[teachings/fighting-without-shame-transforms-conflict|Fighting without shame transforms conflict]]
 - [[teachings/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
 - [[teachings/safety-enables-productive-conflict|Safety enables productive conflict rather than preventing it]]
+- [[teachings/truth-telling-revives-dead-relationships|Speaking your truth revives dead relationships]]
 
 ## Source
 

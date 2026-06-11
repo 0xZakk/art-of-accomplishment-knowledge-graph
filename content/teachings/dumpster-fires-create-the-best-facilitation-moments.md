@@ -25,6 +25,7 @@ The more Joe lets go of results, the better results typically come — because h
 - [[teachings/chaos-is-necessary-for-growth|Chaos is necessary for growth]]
 - [[teachings/detachment-from-outcomes-enables-better-outcomes|Detachment from outcomes enables better outcomes]]
 - [[teachings/embrace-intensity-for-transformation|Embrace intensity for transformation]]
+- [[teachings/uncertainty-is-where-transformation-happens|Uncertainty is where transformation happens]]
 
 ## Source
 

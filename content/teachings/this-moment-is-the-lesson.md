@@ -25,6 +25,9 @@ This collapses the entire "once I do X, then Y" structure — once I graduate, o
 - [[teachings/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
 - [[teachings/nothing-is-required-for-freedom|Nothing is required for freedom]]
 - [[teachings/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
+- [[teachings/purpose-is-in-the-how-not-the-what|Purpose is in the how, not the what]]
+- [[teachings/the-stuckness-is-happening-in-the-room|The stuckness you came to solve is happening right now in the room]]
+- [[teachings/purpose-matures-into-choicelessness|Purpose matures into choicelessness]]
 
 ## Source
 

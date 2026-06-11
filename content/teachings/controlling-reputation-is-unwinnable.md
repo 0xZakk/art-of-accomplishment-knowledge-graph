@@ -27,6 +27,10 @@ Every superstar who was universally loved eventually fell from grace. Identity i
 - [[teachings/identity-stress-comes-from-defending-a-fixed-self|Identity stress comes from defending a fixed self]]
 - [[teachings/approval-seeking-pushes-people-away|Approval seeking pushes people away]]
 - [[teachings/being-yourself-designs-your-life|Being yourself designs your life]]
+- [[teachings/cant-be-seen-if-not-being-yourself|You can't be seen if you're not being yourself]]
+- [[teachings/chasing-approval-separates-you-from-yourself|Chasing approval separates you from yourself]]
+- [[teachings/no-external-validation-works-without-self-validation|No amount of external validation works if you won't validate yourself]]
+- [[teachings/what-triggers-you-in-others-exists-in-you|What triggers you in others is something you don't like in yourself]]
 
 ## Source
 

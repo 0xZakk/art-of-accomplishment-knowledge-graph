@@ -25,6 +25,8 @@ This reframing matters because it collapses what seems like a paradox ("I'm afra
 - [[teachings/resistance-creates-the-feared-outcome|Resistance creates the feared outcome]]
 - [[teachings/importance-kills-enjoyment|Importance kills enjoyment]]
 - [[teachings/fear-of-success-creates-doubt-too|Fear of success creates doubt just like fear of failure]]
+- [[teachings/false-ends-keep-you-stuck|The brain creates false endings that paralyze action]]
+- [[teachings/anxiety-is-detrimental-to-productivity|Anxiety reduces productivity despite the illusion it helps]]
 
 ## Source
 

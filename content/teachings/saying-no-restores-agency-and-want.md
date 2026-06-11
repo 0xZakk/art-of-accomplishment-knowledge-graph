@@ -28,6 +28,10 @@ There's something scary about this empowerment too — taking full responsibilit
 - [[teachings/boundaries-increase-capacity-to-love|Boundaries increase capacity to love]]
 - [[teachings/owning-your-wants-dissolves-passive-aggression|Owning your wants dissolves passive aggression]]
 - [[teachings/boundaries-declare-your-action-not-theirs|Boundaries declare your action, not theirs]]
+- [[teachings/blame-substitutes-for-a-missing-boundary|Blame and resentment stand in for a boundary you haven't set]]
+- [[teachings/boundaries-are-the-deepest-non-management|Boundaries are the deepest non-management]]
+- [[teachings/obligation-cuts-off-love|Obligation cuts off the experience of love in the moment]]
+- [[teachings/a-boundary-with-a-return-prevents-abandonment|Draw a boundary that includes coming back so they don't feel abandoned]]
 
 ## Source
 

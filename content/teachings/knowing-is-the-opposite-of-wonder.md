@@ -25,6 +25,9 @@ Knowing is only relevant based on context, and context shifts constantly. "It's 
 - [[teachings/wonder-is-curiosity-without-needing-an-answer|Wonder is curiosity without needing an answer]]
 - [[teachings/wonder-eliminates-defensiveness|Wonder eliminates defensiveness]]
 - [[teachings/any-self-definition-limits-you|Any self-definition limits you]]
+- [[teachings/wonder-is-undoing-not-doing|Cultivating wonder is an undoing not a doing]]
+- [[teachings/wonder-is-awe-not-curiosity-for-an-answer|Wonder is awe, not curiosity hunting for an answer]]
+- [[teachings/being-in-the-question-beats-finding-the-answer|Being in the question is more powerful than finding the answer]]
 
 ## Source
 

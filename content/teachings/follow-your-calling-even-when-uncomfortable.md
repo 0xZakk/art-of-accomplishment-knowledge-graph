@@ -28,6 +28,8 @@ But there's wisdom in the discomfort too. Self-promotion can be dangerous to you
 - [[teachings/humility-requires-self-care|Humility can require self-care]]
 - [[teachings/humility-is-not-making-yourself-small|Humility is not making yourself small]]
 - [[teachings/false-humility-as-defense|False humility is a defense against being seen]]
+- [[teachings/let-compliments-move-through-you|Letting compliments move all the way through you destroys ego]]
+- [[teachings/hollowing-out-is-a-perpetual-process|The hollowing out process never ends]]
 
 ## Source
 

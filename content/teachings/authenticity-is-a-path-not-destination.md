@@ -25,6 +25,10 @@ Joe illustrates this with the parable of the musk deer who searches its whole li
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
 - [[teachings/growth-means-shedding-identities|Growth means shedding identities]]
 - [[teachings/the-expansiveness-of-I-Am|The expansiveness of I Am]]
+- [[teachings/authenticity-is-receiving-not-performing|Authenticity is receiving yourself not performing yourself]]
+- [[teachings/the-voice-of-fakeness-is-intuition-not-pathology|The voice of fakeness is intuition, not pathology]]
+- [[teachings/understanding-the-self-is-where-the-path-begins|Understanding the self you're interacting with is where the path begins]]
+- [[teachings/your-nature-knows-what-you-need-next|Your nature knows what you need next]]
 
 ## Source
 

@@ -29,6 +29,8 @@ The mechanism is clear: should makes us think we're bad (otherwise, why would we
 - [[teachings/shoulds-are-a-cage-not-a-solution|Shoulds are a cage that reinforces the problem they try to solve]]
 - [[teachings/shame-locks-in-bad-habits|Shame locks in the very habits it punishes]]
 - [[teachings/shame-fuels-the-habit-that-creates-more-shame|Shame fuels the habit that creates more shame]]
+- [[teachings/wants-motivate-where-shoulds-stagnate|Wants motivate where shoulds stagnate]]
+- [[teachings/should-is-shame-that-stops-behavior|\"Should\" is shame, and shame stops behavior]]
 
 ## Source
 

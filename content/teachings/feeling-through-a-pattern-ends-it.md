@@ -29,6 +29,7 @@ The frustrating thing for the action-oriented mind is that this isn't really "do
 - [[teachings/shame-locks-in-bad-habits|Shame locks in the very habits it punishes]]
 - [[teachings/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
 - [[teachings/shame-stagnates-behavior|Shame stagnates behavior]]
+- [[teachings/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
 
 ## Source
 

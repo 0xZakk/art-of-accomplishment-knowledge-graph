@@ -23,6 +23,10 @@ Joe's daughter at nine years old reported regularly experiencing a sense of "som
 - [[teachings/emotional-fluidity-defined|Emotional fluidity defined]]
 - [[teachings/emotions-are-always-present|Emotions are always present]]
 - [[teachings/being-with-emotions-beats-fixing-them|Being with emotions beats fixing them]]
+- [[teachings/story-dissolution-is-progress-not-a-problem|Story dissolution is progress, not a problem]]
+- [[teachings/feeling-through-requires-letting-identity-restructure|Feeling an emotion fully requires letting your identity restructure]]
+- [[teachings/emotions-move-through-a-rainbow-not-discrete-categories|Emotions move through a rainbow rather than discrete categories]]
+- [[teachings/stronger-stories-slow-emotional-movement|The stronger the story, the slower emotions move]]
 
 ## Source
 

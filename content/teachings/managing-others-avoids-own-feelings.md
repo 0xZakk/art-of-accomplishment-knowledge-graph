@@ -29,6 +29,7 @@ This pattern is self-perpetuating — by managing others' emotions, we never dev
 - [[teachings/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others' emotions to avoid your own]]
 - [[teachings/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
 - [[teachings/trying-to-feel-is-resistance-too|Trying to feel your feelings is as much resistance as trying not to feel them]]
+- [[teachings/taking-responsibility-for-partners-emotions-breeds-resentment|Taking responsibility for your partner's emotions breeds resentment]]
 
 ## Source
 

@@ -29,6 +29,7 @@ The resistance is itself a secondary feeling that loops back and fights the prim
 - [[teachings/resisting-emotion-invites-it-back|Resisting an emotion is exactly what invites it back]]
 - [[teachings/discomfort-is-the-resistance-not-the-emotion|The discomfort of emotions is the resistance to them, not the emotions themselves]]
 - [[teachings/welcoming-not-just-accepting-emotions|Welcoming emotions is fundamentally different from accepting them]]
+- [[teachings/the-resistance-to-asking-protects-an-unfelt-sadness|The resistance to asking protects an unfelt sadness]]
 
 ## Source
 

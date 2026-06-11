@@ -26,6 +26,10 @@ The essential thing that stops enjoyment isn't a bad circumstance — it's leavi
 - [[teachings/enjoyment-is-the-orientation-for-transformation|Enjoyment is the orientation for transformation]]
 - [[teachings/finish-line-illusion|The finish line illusion keeps you from present serenity]]
 - [[teachings/enjoyment-as-the-only-metric|Enjoyment as the only metric]]
+- [[teachings/enjoyment-restructures-thought|Prioritizing enjoyment restructures how you think and speak]]
+- [[teachings/enjoyment-dissolves-procrastination|Making enjoyment the priority dissolves procrastination]]
+- [[teachings/enjoyment-as-compass-for-surrender|Enjoyment is the compass for surrender to your deeper call]]
+- [[teachings/enjoyment-is-the-pace-keeper-for-feeling|Enjoyment is the pace-keeper for how deep to feel]]
 
 ## Source
 

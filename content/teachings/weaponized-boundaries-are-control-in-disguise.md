@@ -32,6 +32,8 @@ This is why movements built on empowerment (Gandhi, Martin Luther King) succeed,
 - [[teachings/facing-fear-builds-empowerment|Facing the feeling you're avoiding is how empowerment comes]]
 - [[teachings/boundaries-not-view-for-narcissists|Boundaries, not VIEW, are the tool for narcissists]]
 - [[teachings/anger-at-without-permission-is-manipulation|Expressing anger at someone without permission is a bid for control]]
+- [[teachings/a-boundary-with-a-return-prevents-abandonment|Draw a boundary that includes coming back so they don't feel abandoned]]
+- [[teachings/boundary-firmness-eliminates-fear-of-attack|Boundary firmness eliminates fear of attack]]
 
 ## Source
 

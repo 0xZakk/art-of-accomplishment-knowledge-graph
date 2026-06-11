@@ -27,6 +27,8 @@ This distinction is especially important in conflict. Fighting is about figuring
 - [[teachings/is-this-mine-question|Asking 'Is this mine?' clarifies emotional boundaries]]
 - [[teachings/being-together-in-emotions-not-caretaking|Being together in emotions is different from caretaking them]]
 - [[teachings/fights-as-healing-opportunities-in-relationship|Fights can become healing opportunities within relationships]]
+- [[teachings/stop-being-the-victim-to-love-the-angry-person|You can't love someone you see as your oppressor]]
+- [[teachings/emptiness-is-the-source-of-empathic-attunement|Emptiness is the source of empathic attunement]]
 
 ## Source
 

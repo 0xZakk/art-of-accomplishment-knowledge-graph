@@ -25,6 +25,7 @@ One of Joe's clients transformed their relationship and their business simply by
 - [[teachings/unconditional-listening-transforms-relationships|Listening with unconditional acceptance transforms relationships]]
 - [[teachings/listen-as-if-the-other-person-is-right|Listen as if the other person is right]]
 - [[teachings/deep-listening-requires-self-listening|Deep listening requires listening to yourself simultaneously]]
+- [[teachings/listening-to-yourself-transforms-communication|Listening to yourself transforms how others hear you]]
 
 ## Source
 

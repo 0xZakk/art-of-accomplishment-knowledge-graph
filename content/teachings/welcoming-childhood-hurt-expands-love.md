@@ -31,6 +31,9 @@ The participant had been "tired of feeling the hurt" — it hit them randomly, u
 - [[teachings/seeing-parents-terror-dissolves-resentment|Seeing parents' terror dissolves resentment]]
 - [[teachings/love-the-resistance-to-the-thing|If you can't love the thing, love the resistance to the thing]]
 - [[teachings/open-heart-with-strong-boundaries|Loving parents requires both open heart and strong boundaries]]
+- [[teachings/love-the-part-in-pain-the-way-you-wanted-to-be-loved|Love the part in pain the way you wanted your parents to love you]]
+- [[teachings/loving-yourself-makes-you-happy-in-the-moment|Loving the part in pain makes you happy in the moment]]
+- [[teachings/heartbreak-opens-when-fear-is-felt|Heartbreak opens when fear is finally felt]]
 
 ## Source
 

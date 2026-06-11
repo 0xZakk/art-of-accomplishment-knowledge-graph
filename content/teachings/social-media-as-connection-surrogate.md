@@ -24,6 +24,10 @@ Joe frames this as part of a broader societal pattern: more forms of avoidance, 
 
 - [[teachings/loneliness-epidemic-stems-from-bad-models|Loneliness epidemic stems from bad models]]
 - [[teachings/vulnerability-produces-love-not-rejection|Vulnerability produces love, not rejection]]
+- [[teachings/solitude-versus-loneliness|Solitude and loneliness are fundamentally different]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/chasing-connection-prevents-connection|Chasing a relationship to cure loneliness prevents real connection]]
+- [[teachings/loneliness-fully-felt-is-love|Loneliness fully felt reveals itself as love]]
 
 ## Source
 

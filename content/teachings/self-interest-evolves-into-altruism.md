@@ -28,6 +28,9 @@ Even altruism has selfishness in it — helping others feels genuinely good. The
 - [[teachings/wanting-is-aliveness|Wanting is aliveness]]
 - [[teachings/discovery-not-improvement|Discovery, not improvement]]
 - [[teachings/wants-are-evolutionary-strategies|Wants are strategies for essential human needs]]
+- [[teachings/selfishness-is-the-engine-of-unity|Selfishness is the engine of unity]]
+- [[teachings/love-yourself-how-you-wanted-to-be-loved|Love yourself the way you always wanted to be loved]]
+- [[teachings/wants-motivate-where-shoulds-stagnate|Wants motivate where shoulds stagnate]]
 
 ## Source
 

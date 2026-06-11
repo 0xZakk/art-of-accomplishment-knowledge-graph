@@ -28,6 +28,10 @@ This extends beyond addiction. Any time you protect someone from the consequence
 - [[teachings/comfort-can-prevent-transformation|Comfort can prevent transformation]]
 - [[teachings/chaos-is-necessary-for-growth|Chaos is necessary for growth]]
 - [[teachings/caretaking-as-strategy-to-feel-love|Caretaking is a strategy to feel love through managing others' happiness]]
+- [[teachings/encouragement-can-keep-someone-in-victimhood|Encouraging someone as a project can keep them in victimhood]]
+- [[teachings/weaponizing-non-caretaking-is-still-defense|Weaponizing non-caretaking is just another defense]]
+- [[teachings/grief-sustained-transforms-everything|Sustained grief transforms everything it touches]]
+- [[teachings/resentment-is-the-indicator-of-caretaking|Resentment is the indicator of caretaking]]
 
 ## Source
 

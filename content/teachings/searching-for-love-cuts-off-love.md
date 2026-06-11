@@ -27,6 +27,11 @@ The key distinction: "seeing the love that's there" is not the same as "looking 
 - [[teachings/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
 - [[teachings/craving-is-the-pushing-away|Craving is the pushing away]]
 - [[teachings/freedom-is-recognized-not-achieved|Freedom is recognized, not achieved]]
+- [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
+- [[teachings/obligation-as-love-strategy-backfires|Using obligation as a strategy to get love always backfires]]
+- [[teachings/draw-the-boundary-to-get-love-without-the-grit|Draw a boundary to get love without the thing it was married to]]
+- [[teachings/dissolution-of-self-is-what-love-requires|Dissolution of self is what love requires]]
+- [[teachings/we-find-love-when-we-stop-fearing-annihilation|We find love when we stop fearing annihilation]]
 
 ## Source
 

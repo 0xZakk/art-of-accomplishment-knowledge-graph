@@ -27,6 +27,7 @@ This same principle first emerged in parenting. Tara told her daughter Esme in a
 - [[teachings/you-must-know-you-can-leave-to-love|You must know you can leave to truly love]]
 - [[teachings/progression-from-anger-to-deeper-emotions|The progression from anger reveals grief and fear underneath]]
 - [[teachings/anger-backlog-must-clear|There is often a backlog of anger that must clear before you can settle]]
+- [[teachings/a-boundary-with-a-return-prevents-abandonment|Draw a boundary that includes coming back so they don't feel abandoned]]
 
 ## Source
 

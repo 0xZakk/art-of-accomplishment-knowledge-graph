@@ -27,6 +27,8 @@ The hack is absurdly simple: put your attention in your inner ear. That's it. Jo
 - [[teachings/self-abandonment-in-communication|Self-abandonment makes communication impossible]]
 - [[teachings/body-awareness-is-just-attention|Body awareness is just attention]]
 - [[teachings/deep-listening-requires-self-listening|Deep listening requires listening to yourself simultaneously]]
+- [[teachings/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]
+- [[teachings/chasing-understanding-creates-control|Chasing understanding feels like control to others]]
 
 ## Source
 

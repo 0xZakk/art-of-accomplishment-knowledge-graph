@@ -23,6 +23,11 @@ Joe then asked: if Ali actually spent time in deep gratitude for each person and
 - [[teachings/gratitude-arises-naturally-not-by-force|Gratitude arises naturally, not by force]]
 - [[teachings/felt-gratitude-not-performed-gratitude|Felt gratitude, not performed gratitude]]
 - [[teachings/foreboding-joy-blocks-gratitude|Foreboding joy blocks gratitude]]
+- [[teachings/ten-percent-more-connected-as-practice|Ten percent more connected as a practice]]
+- [[teachings/gratitude-makes-noticing-efficient|Gratitude for moments of presence makes change more efficient]]
+- [[teachings/connection-as-career-compass|Connection as a career compass]]
+- [[teachings/always-more-to-be-done-blocks-feeling|\"Always more to be done\" blocks feeling]]
+- [[teachings/love-and-sorrow-share-the-same-body|Love and sorrow share the same body]]
 
 ## Source
 

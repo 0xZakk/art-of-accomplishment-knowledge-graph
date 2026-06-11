@@ -21,6 +21,7 @@ Connected teams show up for each other, do things they wouldn't do for someone t
 
 - [[teachings/connection-enables-accomplishment|Connection enables accomplishment]]
 - [[teachings/organizations-must-remove-fear-to-innovate|Organizations must remove fear to innovate]]
+- [[teachings/unfelt-team-emotions-create-dysfunction|Unfelt emotions in a team create all the dysfunction]]
 
 ## Source
 

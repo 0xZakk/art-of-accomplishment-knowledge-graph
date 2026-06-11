@@ -22,6 +22,7 @@ This doesn't make stories useless — they're what make us human. After a period
 
 - [[teachings/holding-opposing-viewpoints-creates-freedom|Holding opposing viewpoints creates freedom]]
 - [[teachings/same-experience-different-interpretation|Same experience different interpretation]]
+- [[teachings/you-cannot-judge-the-value-of-your-own-input|You cannot judge the value of your own input]]
 
 ## Source
 

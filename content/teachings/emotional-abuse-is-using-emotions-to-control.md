@@ -29,6 +29,8 @@ The alternative in conflict is to see the other person, understand where they ar
 - [[teachings/anger-at-without-permission-is-manipulation|Expressing anger at someone without permission is a bid for control]]
 - [[teachings/express-anger-without-directing-it|You can express anger without directing it at anyone]]
 - [[teachings/managing-emotions-prolongs-suffering|Managing emotions prolongs suffering]]
+- [[teachings/a-boundary-with-a-return-prevents-abandonment|Draw a boundary that includes coming back so they don't feel abandoned]]
+- [[teachings/dominate-dont-convince|Dominate, don't convince]]
 
 ## Source
 

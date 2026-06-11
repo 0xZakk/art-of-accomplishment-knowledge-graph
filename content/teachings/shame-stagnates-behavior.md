@@ -44,6 +44,7 @@ At 28, Joe wrote down honest truths about his behavior. Months later, he checked
 - [[teachings/shame-addiction-keeps-you-stuck|Shame addiction keeps you stuck in the patterns you regret]]
 - [[teachings/shame-creates-the-behaviors-it-punishes|Shaming a behavior is the best way to guarantee it repeats]]
 - [[teachings/feel-whats-underneath-the-shame|Feel what's underneath the shame to break stagnation]]
+- [[teachings/feeling-through-a-pattern-ends-it|Fully feeling a pattern ends it without figuring anything out]]
 
 ## Source
 

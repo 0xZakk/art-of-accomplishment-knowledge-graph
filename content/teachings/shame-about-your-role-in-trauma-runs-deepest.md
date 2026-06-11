@@ -25,6 +25,11 @@ This connects owning the dark parts of yourself to healing. Hiding yourself is s
 - [[teachings/shame-dissolves-when-felt-not-fought|Shame dissolves when felt not fought]]
 - [[teachings/grief-is-necessary-for-transformation|Grief is necessary for transformation]]
 - [[teachings/grief-of-self-abandonment|Grief of self-abandonment]]
+- [[teachings/attachment-is-bigger-than-trauma-events|Attachment is bigger than traumatic events]]
+- [[teachings/trauma-addiction-is-choosing-the-familiar|Trauma addiction is choosing what's familiar, not what's safe]]
+- [[teachings/deep-healing-has-a-regression-phase|Deep healing includes a regression phase before breakthrough]]
+- [[teachings/feeling-the-held-back-emotion-ends-trauma-repetition|Feeling the held-back emotion ends trauma repetition]]
+- [[teachings/grief-sustained-transforms-everything|Sustained grief transforms everything it touches]]
 
 ## Source
 

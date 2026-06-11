@@ -32,6 +32,7 @@ The reason this works is that feeling seen is the actual need underneath the arg
 - [[teachings/fighting-without-shame-transforms-conflict|Fighting without shame transforms conflict]]
 - [[teachings/dropping-shame-is-prerequisite-for-seeing-your-partner|Dropping shame is the prerequisite for seeing your partner]]
 - [[teachings/listening-before-being-seen|Letting go of being seen allows you to be seen]]
+- [[teachings/every-fight-is-about-feeling-unseen|Every relationship fight is fundamentally about feeling unseen]]
 
 ## Source
 

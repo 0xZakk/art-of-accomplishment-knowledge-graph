@@ -25,6 +25,10 @@ This is the corkscrew: you peel away one layer of caretaking and find subtler on
 - [[teachings/thinking-they-cant-handle-it-means-youre-caretaking|Thinking they can't handle it means you're caretaking]]
 - [[teachings/self-abandonment-in-communication|Self-abandonment in communication]]
 - [[teachings/speaking-truth-requires-open-heart-not-management|Speaking truth requires open heart not management]]
+- [[teachings/weaponizing-non-caretaking-is-still-defense|Weaponizing non-caretaking is just another defense]]
+- [[teachings/caretaking-manages-others-to-avoid-your-feelings|Caretaking manages others' emotions to avoid your own]]
+- [[teachings/resentment-is-the-indicator-of-caretaking|Resentment is the indicator of caretaking]]
+- [[teachings/caring-softens-you-caretaking-makes-you-neurotic|Caring softens you over time; caretaking makes you neurotic]]
 
 ## Source
 

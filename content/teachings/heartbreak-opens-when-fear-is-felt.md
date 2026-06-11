@@ -29,6 +29,7 @@ Joe reframes "you can't do it" not as discouragement but as truth in a different
 - [[teachings/seeing-parents-terror-dissolves-resentment|Seeing parents' terror dissolves resentment]]
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 - [[teachings/fear-is-present-on-every-path|Fear is present on every path so face it directly]]
+- [[teachings/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
 
 ## Source
 

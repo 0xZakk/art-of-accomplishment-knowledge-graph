@@ -26,6 +26,8 @@ The false dichotomy is "is it my problem or their problem?" It's always about yo
 - [[teachings/boundaries-are-for-you-not-them|Boundaries are for you, not them]]
 - [[teachings/boundaries-increase-capacity-to-love|Boundaries increase capacity to love]]
 - [[teachings/closing-heart-from-confused-love|Confused love tells us when to close our hearts]]
+- [[teachings/the-closing-heart-is-a-boundary-signal|A closing heart is the body signaling a boundary]]
+- [[teachings/you-cannot-question-and-love-at-the-same-time|You have to stop loving to question a relationship]]
 
 ## Source
 

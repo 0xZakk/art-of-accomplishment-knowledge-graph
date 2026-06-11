@@ -34,6 +34,7 @@ She was so committed to proving she didn't have anger that she found a neuroscie
 - [[teachings/resistance-creates-the-feared-outcome|Resisting an emotion creates the very outcome you fear]]
 - [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
 - [[teachings/anger-release-ends-in-clarity-and-determination|Clean anger release ends in clarity and determination about yourself, not others]]
+- [[teachings/anger-backlog-must-clear|There is often a backlog of anger that must clear before you can settle]]
 
 ## Source
 

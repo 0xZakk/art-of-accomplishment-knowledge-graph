@@ -26,6 +26,9 @@ This creates a death spiral in relationships. Both people feel increasingly powe
 - [[teachings/truth-telling-revives-dead-relationships|Truth-telling revives dead relationships]]
 - [[teachings/hedging-your-truth-is-subtle-caretaking|Hedging your truth is subtle caretaking]]
 - [[teachings/withholding-truth-kills-intimacy|Withholding truth kills intimacy]]
+- [[teachings/truth-over-comfort-in-relationships|Prioritizing truth over comfort creates lasting relationships]]
+- [[teachings/speaking-truth-requires-open-heart-not-management|Speaking truth requires an open heart, not management of others' reactions]]
+- [[teachings/thinking-they-cant-handle-it-means-youre-caretaking|Thinking they can't handle it means you're caretaking]]
 
 ## Source
 

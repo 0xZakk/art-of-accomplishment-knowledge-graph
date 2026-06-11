@@ -25,6 +25,10 @@ For transparency, there's a clear feeling when hiding something — a "sneaky" s
 - [[teachings/define-principles-by-what-they-are-and-arent|Define principles by what they are and aren't]]
 - [[teachings/somatic-test-for-truth-vs-conditioning|Somatic test for truth vs conditioning]]
 - [[teachings/all-decisions-are-emotional|All decisions are emotional]]
+- [[teachings/thinking-youre-deciding-means-youre-in-fear|If you think you're making a decision, you're in fear]]
+- [[teachings/internal-principles-create-empowerment|Living by internal principles creates empowerment and dissolves drama]]
+- [[teachings/love-conditioning-is-somatic-not-just-intellectual|Love conditioning is somatic, not just intellectual]]
+- [[teachings/holding-opposing-viewpoints-creates-freedom|Holding opposing viewpoints simultaneously creates freedom]]
 
 ## Source
 

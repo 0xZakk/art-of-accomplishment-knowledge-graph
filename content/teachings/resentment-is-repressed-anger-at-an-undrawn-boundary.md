@@ -31,6 +31,7 @@ The reason the anger stays repressed is often that the resentful person would fe
 - [[teachings/resentment-saturates-every-fight|Resentment saturates every fight]]
 - [[teachings/anger-is-love-with-a-boundary|Unresisted anger is love expressing a clear boundary]]
 - [[teachings/walking-on-eggshells-guarantees-resentment|Walking on eggshells guarantees resentment]]
+- [[teachings/dont-do-emotions-at-people|Don't do emotions at people]]
 
 ## Source
 

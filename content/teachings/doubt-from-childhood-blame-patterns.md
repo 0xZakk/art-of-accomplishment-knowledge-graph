@@ -27,6 +27,9 @@ Doubt persists because you can never make everyone happy—so there's always fue
 - [[teachings/doubt-protects-from-unwanted-emotions|Doubt protects from unwanted emotions]]
 - [[teachings/rebellion-and-approval-seeking-are-same-coin|Rebellion and approval seeking are the same coin]]
 - [[teachings/anger-turned-inward-becomes-shame-and-shoulds|Anger turned inward becomes shame and shoulds]]
+- [[teachings/anger-at-you-is-not-evidence-you-did-wrong|Someone's anger at you is not evidence you did something wrong]]
+- [[teachings/welcome-doubt-instead-of-running|Welcoming doubt instead of running from it opens the heart]]
+- [[teachings/doubt-as-emotional-protection|Doubt as emotional protection]]
 
 ## Source
 

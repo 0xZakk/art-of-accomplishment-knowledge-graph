@@ -28,6 +28,9 @@ The impulse to watch someone coach and think "I want to be able to do that" dese
 - [[teachings/coaching-is-self-discovery-not-skill-acquisition|Coaching is self-discovery, not skill acquisition]]
 - [[teachings/wanting-to-control-perception-is-absurd|Wanting to control others' perception of you is absurd]]
 - [[teachings/everyone-already-knows-the-way-home|Everyone already knows the way home]]
+- [[teachings/you-are-a-terrible-boss-to-yourself|You are a terrible boss to yourself and that's why you're stuck]]
+- [[teachings/three-dangerous-motivations-for-coaching|Three dangerous motivations draw people to coaching]]
+- [[teachings/gentle-narcissism-in-the-call-to-coach|Gentle narcissism hides in the call to coach]]
 
 ## Source
 

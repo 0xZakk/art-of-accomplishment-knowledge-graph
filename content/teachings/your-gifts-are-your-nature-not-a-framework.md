@@ -26,6 +26,10 @@ Your gifts are what's already present when you stop performing. They don't need 
 - [[teachings/purpose-is-recognition-not-decision|Purpose is recognition not decision]]
 - [[teachings/being-yourself-designs-your-life|Being yourself designs your life]]
 - [[teachings/discovery-not-improvement|Discovery not improvement]]
+- [[teachings/coaching-is-self-discovery-not-skill-acquisition|Coaching is self-discovery, not skill acquisition]]
+- [[teachings/everyone-already-knows-the-way-home|Everyone already knows the way home]]
+- [[teachings/your-nature-knows-what-you-need-next|Your nature knows what you need next]]
+- [[teachings/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
 
 ## Source
 

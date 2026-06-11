@@ -26,6 +26,7 @@ The distinction: you protect yourself without being *defensive*. You're not defe
 - [[teachings/follow-your-calling-even-when-uncomfortable|Following your calling requires humility even when it's uncomfortable]]
 - [[teachings/humility-is-not-taking-life-personally|Humility is not taking life personally]]
 - [[teachings/hollowing-out-is-a-perpetual-process|The hollowing out process never ends]]
+- [[teachings/let-compliments-move-through-you|Letting compliments move all the way through you destroys ego]]
 
 ## Source
 

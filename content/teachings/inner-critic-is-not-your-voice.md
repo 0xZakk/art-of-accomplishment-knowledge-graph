@@ -30,6 +30,8 @@ He offers a practical exercise: narrate your thoughts aloud for five minutes, th
 - [[teachings/voice-in-head-talks-to-itself|The voice in the head talks to itself more than to you]]
 - [[teachings/respond-differently-to-the-inner-critic|Respond differently to the inner critic as a practice]]
 - [[teachings/ouch-as-inner-critic-practice|Saying 'ouch' to the inner critic creates distance from it]]
+- [[teachings/inner-critic-is-an-inherited-voice-not-you|The inner critic is an inherited voice, not you talking to yourself]]
+- [[teachings/the-inner-critic-is-a-program-from-childhood|The inner critic is a survival program installed in childhood]]
 
 ## Source
 

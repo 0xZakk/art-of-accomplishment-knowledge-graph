@@ -30,6 +30,7 @@ The exit is recognizing that the only person you can save is yourself. When Bret
 - [[teachings/managing-others-avoids-own-feelings|Managing others avoids own feelings]]
 - [[teachings/drama-triangle-maps-to-fight-flight-freeze|The drama triangle maps to fight, flight, and freeze responses]]
 - [[teachings/acknowledging-fear-dissolves-power-dynamics|Acknowledging fear without judgment dissolves power dynamics]]
+- [[teachings/feeling-helplessness-creates-empowerment|Going through helplessness is what creates empowerment]]
 
 ## Source
 

@@ -42,6 +42,8 @@ If you have a war with your wanting, it makes it much harder to achieve—or kee
 - [[teachings/owning-wants-means-being-okay-with-having-them|Owning your wants means being okay with having them]]
 - [[teachings/resisting-parts-creates-more-of-them|Resisting parts of yourself creates more of that behavior]]
 - [[teachings/craving-versus-wanting|The difference between craving and wanting]]
+- [[teachings/wanting-money-is-not-selfish|Wanting money is not selfish — it's wanting freedom and safety]]
+- [[teachings/inner-child-holds-money-permission|The inner child holds the permission around money decisions]]
 
 ## Source
 

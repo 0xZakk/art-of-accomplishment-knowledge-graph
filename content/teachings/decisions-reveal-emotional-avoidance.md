@@ -29,6 +29,7 @@ Clarity in decision-making comes when you can fully feel and welcome all emotion
 - [[teachings/indecision-means-unfelt-emotions|Indecision means unfelt emotions]]
 - [[teachings/thinking-youre-deciding-means-youre-in-fear|Thinking you're deciding means you're in fear]]
 - [[teachings/willingness-to-feel-improves-decisions|Willingness to feel any emotion is the key to clear decision-making]]
+- [[teachings/fear-of-consequences-is-fear-of-emotional-states|Fear of consequences is really fear of emotional states]]
 
 ## Source
 

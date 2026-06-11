@@ -27,6 +27,9 @@ The body also serves as a diagnostic: rigidity in the belly, shoulders, or jaw s
 - [[teachings/muscles-constrict-to-block-feeling|Muscles constrict to block feeling]]
 - [[teachings/body-awareness-is-just-attention|Body awareness is just attention]]
 - [[teachings/self-attunement-prevents-emotional-absorption|Self-attunement prevents emotional absorption]]
+- [[teachings/deep-listening-requires-self-listening|Deep listening requires listening to yourself simultaneously]]
+- [[teachings/embodied-listening-improves-signal-to-noise|Embodied listening improves signal to noise]]
+- [[teachings/listening-to-yourself-transforms-communication|Listening to yourself transforms how others hear you]]
 
 ## Source
 

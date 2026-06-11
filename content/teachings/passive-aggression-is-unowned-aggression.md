@@ -27,6 +27,9 @@ Joe argues passive aggression is harder to fix than direct aggression in relatio
 - [[teachings/resentment-is-stored-conflict|Resentment is stored conflict]]
 - [[teachings/dont-try-to-change-passive-aggression-in-others|Trying to change someone's passive aggression enters the same dynamic]]
 - [[teachings/passive-aggression-develops-when-anger-is-forbidden|Passive aggression develops when direct anger is forbidden]]
+- [[teachings/owning-your-wants-dissolves-passive-aggression|Owning your wants and asking directly dissolves passive aggression]]
+- [[teachings/withdrawal-of-love-is-passive-aggression|Withdrawal of love is a form of passive aggression]]
+- [[teachings/passive-aggression-invites-active-aggression|Passive aggression invites active aggression from others]]
 
 ## Source
 

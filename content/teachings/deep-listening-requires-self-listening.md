@@ -34,6 +34,7 @@ This principle also flips the common desire to be listened to. If you want other
 - [[teachings/embodied-listening-improves-signal-to-noise|Embodied listening improves signal to noise]]
 - [[teachings/unconditional-listening-transforms-relationships|Listening with unconditional acceptance transforms relationships]]
 - [[teachings/listening-is-receiving-not-doing|Listening is receiving, not doing]]
+- [[teachings/listen-to-yourself-with-unconditional-acceptance|Listening to yourself with unconditional acceptance is the fastest path to listening well]]
 
 ## Source
 

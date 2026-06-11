@@ -46,6 +46,7 @@ The world champion golfer doesn't just love winning—he loves practicing. That'
 - [[teachings/obligation-oppresses-every-domain|Obligation oppresses every domain it touches — money, work, relationships]]
 - [[teachings/seeking-power-is-an-expression-of-fear|Seeking power is always an expression of fear]]
 - [[teachings/war-with-your-wants-creates-self-sabotage|Being at war with your wants creates self-sabotage]]
+- [[teachings/wants-motivate-where-shoulds-stagnate|Wants motivate where shoulds stagnate]]
 
 ## Source
 

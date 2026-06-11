@@ -25,6 +25,11 @@ The antidote isn't becoming better at gaming — it's recognizing that the game 
 - [[teachings/cant-be-seen-if-not-being-yourself|Can't be seen if not being yourself]]
 - [[teachings/imposter-syndrome-means-not-being-yourself|Imposter syndrome means not being yourself]]
 - [[teachings/grief-of-self-abandonment|Grief of self-abandonment]]
+- [[teachings/welcoming-yourself-dissolves-the-need-to-reject|Welcoming yourself dissolves the need to reject]]
+- [[teachings/rejecting-yourself-first-prevents-rejection|Rejecting yourself first is a strategy to never get rejected]]
+- [[teachings/pressure-resist-cycle-avoids-sadness|The pressure-resist cycle is a game to avoid feeling sadness]]
+- [[teachings/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
+- [[teachings/avoiding-shame-creates-more-shame|Avoiding shame creates more shame through disconnection]]
 
 ## Source
 

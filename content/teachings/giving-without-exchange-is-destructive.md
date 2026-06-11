@@ -26,6 +26,8 @@ This applies to coaching, charity, parenting, and any form of support. Help offe
 - [[teachings/energetic-exchange-requires-felt-cost|Energetic exchange requires a felt cost to be transformative]]
 - [[teachings/money-wounds-trace-to-parent-wounds|Money wounds trace back to parent wounds]]
 - [[teachings/generosity-is-being-not-giving|True generosity is a way of being, not an act of giving]]
+- [[teachings/gratitude-for-abundance-removes-the-fear-of-losing-it|Gratitude for abundance removes the fear of losing it]]
+- [[teachings/money-beliefs-create-money-reality|Your beliefs about money create your financial reality]]
 
 ## Source
 

@@ -25,6 +25,11 @@ Over time, Joe's relationship to experiments evolved: first rebellious sovereign
 - [[teachings/the-mind-cannot-find-your-purpose|The mind cannot find your purpose]]
 - [[teachings/searching-for-purpose-avoids-it|Searching for purpose avoids it]]
 - [[teachings/purpose-is-lived-in-the-present-moment|Purpose is lived in the present moment]]
+- [[teachings/test-teachings-through-experiments|Test teachings through experiments rather than believing them]]
+- [[teachings/experiments-make-knowledge-embodied|Experiments create embodied knowledge, not book learning]]
+- [[teachings/stay-in-discomfort-iterate-on-shoulds|Stay when experiments get uncomfortable, iterate when they become shoulds]]
+- [[teachings/your-nature-knows-what-you-need-next|Your nature knows what you need next]]
+- [[teachings/passive-consumption-never-transforms|Passive consumption of wisdom never transforms you]]
 
 ## Source
 

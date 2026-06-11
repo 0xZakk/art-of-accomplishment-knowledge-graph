@@ -30,6 +30,7 @@ The solution is counterintuitive: fully embrace the avoided emotion rather than 
 - [[teachings/feeling-the-held-back-emotion-ends-trauma-repetition|Feeling the held-back emotion ends trauma repetition]]
 - [[teachings/engineering-heartbreak-to-avoid-heartbreak|We engineer heartbreak to avoid the heartbreak we haven't felt]]
 - [[teachings/resisting-emotion-invites-it-back|Resisting an emotion is exactly what invites it back]]
+- [[teachings/the-golden-algorithm|The golden algorithm: we invite back the emotion we avoid, in the way we avoid it]]
 
 ## Source
 

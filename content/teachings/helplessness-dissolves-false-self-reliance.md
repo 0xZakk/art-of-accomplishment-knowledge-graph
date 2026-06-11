@@ -30,6 +30,7 @@ The irony is stark: CEOs with 10,000 employees whose main concern is "are you ha
 - [[teachings/subtle-superiority-as-protection|Subtle superiority is a protection pattern that creates isolation]]
 - [[teachings/putting-yourself-above-others-is-protection|Putting yourself above others is a subtle form of protection]]
 - [[teachings/we-recreate-pain-to-finally-welcome-it|We recreate painful circumstances to finally welcome the avoided emotion]]
+- [[teachings/self-reliance-blocks-receiving-support|Self-reliance blocks the ability to receive support]]
 
 ## Source
 

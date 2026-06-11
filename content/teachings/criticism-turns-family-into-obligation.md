@@ -28,6 +28,9 @@ Joe's own story is striking: he told his father he wouldn't visit unless the cri
 - [[teachings/boundaries-declare-your-action-not-theirs|Boundaries declare your action not theirs]]
 - [[teachings/open-heart-with-strong-boundaries|Loving parents requires both open heart and strong boundaries]]
 - [[teachings/heartbreak-is-where-love-for-a-parent-lives|Heartbreak over the relationship you never had is where love for a parent lives]]
+- [[teachings/draw-the-boundary-to-get-love-without-the-grit|Draw a boundary to get love without the thing it was married to]]
+- [[teachings/three-ways-we-push-love-away-chase-avoid-fight|We push away love by chasing it, avoiding it, or fighting]]
+- [[teachings/seeing-parents-terror-dissolves-resentment|Seeing parents' terror dissolves resentment]]
 
 ## Source
 

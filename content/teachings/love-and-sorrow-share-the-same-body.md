@@ -25,6 +25,9 @@ Joe emphasized that breath and emotion are not separate phenomena. "Any emotion 
 - [[teachings/joy-requires-welcoming-all-emotions|Joy requires welcoming all emotions]]
 - [[teachings/longing-is-love-in-disguise|Longing and loneliness are love in disguise]]
 - [[teachings/chin-position-controls-emotional-access|Chin position controls emotional access]]
+- [[teachings/feeling-the-held-back-emotion-ends-trauma-repetition|Feeling the held-back emotion ends trauma repetition]]
+- [[teachings/loneliness-fully-felt-is-love|Loneliness fully felt reveals itself as love]]
+- [[teachings/self-pressure-suppresses-love-and-awareness|Self-pressure suppresses the love and awareness underneath]]
 
 ## Source
 

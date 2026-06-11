@@ -27,6 +27,10 @@ This is the core mechanism by which self-development becomes self-abuse: the mom
 - [[teachings/turning-insight-into-practice-can-backfire|Turning insight into practice can backfire]]
 - [[teachings/self-improvement-is-self-annihilation|Self-improvement is self-annihilation]]
 - [[teachings/you-cant-earn-being|You can't earn the right to just be]]
+- [[teachings/self-attack-after-epiphany-slows-transformation|Beating yourself up after an epiphany slows your transformation]]
+- [[teachings/the-recent-epiphany-is-also-a-rut|The most recent epiphany becomes the next rut you have to release]]
+- [[teachings/fixing-mindset-perpetuates-stuckness|The fixing mindset perpetuates the very stuckness it tries to solve]]
+- [[teachings/every-epiphany-is-a-rut-waiting-to-happen|Every epiphany is a rut waiting to happen]]
 
 ## Source
 
