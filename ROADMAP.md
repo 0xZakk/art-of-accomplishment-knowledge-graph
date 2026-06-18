@@ -26,3 +26,23 @@
 - Ongoing maintenance (process new videos as they come out)
 - Re-enable OG image generation before production
 - Semantic reference note linking per topic (embeddings-based, deferred)
+
+## Graph RAG / Conversational Interface
+Build a Graph RAG interface on top of the knowledge graph so users can query Joe Hudson's teachings in natural language.
+
+**What it does:**
+- User asks a question (e.g. "What does Joe say about anger and boundaries?")
+- System searches the graph for relevant teachings, literature notes, and reference notes
+- Returns a synthesized answer with source citations linking back to specific content
+
+**Why it matters:**
+- Mattia mentioned this as a potential lead magnet with email gate for AOA (2026-02-25 kickoff meeting)
+- Came up again in the 2026-02-20 knowledge graph exploration call with an AOA community member
+- The graph already has ~1,248 teachings mapped across 296 sources — the data is ready
+
+**TODO:**
+- [ ] Research Graph RAG architectures (Neo4j + vector embeddings vs. direct semantic search over existing content)
+- [ ] Prototype: build a simple query interface that searches the zettelkasten content and returns sourced answers
+- [ ] Design email-gated landing page for AOA to use as lead magnet
+- [ ] Draft one-pager describing the graph's contents and potential uses (for Mattia/Mark to evaluate)
+- [ ] Explore whether this could be a standalone product vs. embedded in the AOA site
